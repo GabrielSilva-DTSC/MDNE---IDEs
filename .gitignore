@@ -1,0 +1,14 @@
+.venv/
+.env_venv_backup/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dados gerados ou coletados (mantém a estrutura de pastas no Git)
+dados/brutos/*
+dados/intermediarios/*
+dados/processados/*
+!dados/brutos/.gitkeep
+!dados/intermediarios/.gitkeep
+!dados/processados/.gitkeep
