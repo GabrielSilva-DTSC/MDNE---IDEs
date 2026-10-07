@@ -1,0 +1,1 @@
+"""Análises estatísticas dos resultados."""

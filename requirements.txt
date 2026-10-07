@@ -1,1 +1,6 @@
-# Adicione aqui as dependências quando os módulos forem implementados.
+# A ingestão do YouTube usa apenas a biblioteca padrão do Python.
+# As dependências abaixo são destinadas ao pré-processamento e à modelagem.
+pandas==3.0.6
+emoji==2.16.0
+langdetect==1.0.9
+transformers==5.17.0
