@@ -1,0 +1,1396 @@
+{
+  "video": {
+    "id": "40QyA5f3Qo0",
+    "url": "https://www.youtube.com/watch?v=40QyA5f3Qo0",
+    "titulo": "7 Editores Incríveis para Programar  Online que Você Deveria Experimentar",
+    "canal": "Código Fonte TV",
+    "publicado_em": "2021-06-11T14:00:01Z",
+    "comentarios_informados_pela_api": 137
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-08T15:59:15.072484+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 3333,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-08T15:59:21.614059+00:00",
+    "total": 137,
+    "principais": 115,
+    "respostas": 22,
+    "requisicoes": 17
+  },
+  "comentarios": [
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwH6fQebPXEYQdubKh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Obrigado",
+      "curtidas": 0,
+      "publicado_em": "2026-01-11T19:03:29Z",
+      "atualizado_em": "2026-01-11T19:03:29Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxfvXRhzesvwjofg8x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Waleu mestres estou iniciando e o canal de voces tem ajudado muito na caminhada.",
+      "curtidas": 0,
+      "publicado_em": "2025-03-14T12:16:01Z",
+      "atualizado_em": "2025-03-14T12:16:01Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugxun9qd52VH-MR8_aZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A maioria dessas ide e editor de códigos é possível utilizar no smartphone realmente? Infelizmente meu notebook está chegando ao fim de sua vida e programar nele está sendo bem difícil",
+      "curtidas": 0,
+      "publicado_em": "2025-03-05T05:11:22Z",
+      "atualizado_em": "2025-03-05T05:11:22Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyazPfOdAHbLOFNxNx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Jsfiddle foi o mais legal",
+      "curtidas": 1,
+      "publicado_em": "2024-10-19T12:19:00Z",
+      "atualizado_em": "2024-10-19T12:19:00Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyazPfOdAHbLOFNxNx4AaABAg.A9m31vpWQVzARo-TipfLl1",
+      "comentario_pai_id": "UgyazPfOdAHbLOFNxNx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ele tem função de contêiner? Eu uso o CodePen e a maior desvantagem dele é não conseguir fazer um Script ou Style unificado para todos os arquivos HTML.",
+      "curtidas": 0,
+      "publicado_em": "2026-01-10T15:51:25Z",
+      "atualizado_em": "2026-01-10T15:51:25Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzX3ZrLh43qG0dmf414AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "É possível usar no tablet??",
+      "curtidas": 0,
+      "publicado_em": "2024-10-11T22:34:08Z",
+      "atualizado_em": "2024-10-11T22:34:08Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyC3dlhfsYIIOWXE394AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Olá... gosto muito de seu conteúdo... desculpa a ignorância...vcs tem algum vídeo que tenha como tema: programar pelo celular ou coisa parecida? Muito obrigado ☺️ sou fã de vcs.",
+      "curtidas": 1,
+      "publicado_em": "2024-05-09T16:38:09Z",
+      "atualizado_em": "2024-05-10T11:48:58Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugyk6R5Aul-LCj8eyo94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uma pergunta simples mas na dúvida. Quero adicionar imagens locais no projeto HTML, como faço pra acessar as pastas, os programas no chrome conseguem acessar ou só aceita imagens online?",
+      "curtidas": 1,
+      "publicado_em": "2024-04-10T00:03:25Z",
+      "atualizado_em": "2024-04-10T00:03:25Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugwi-67C1XtB-BEqd-d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O sorriso dela é fofo 😊",
+      "curtidas": 0,
+      "publicado_em": "2024-03-19T19:20:02Z",
+      "atualizado_em": "2024-03-19T19:20:02Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxfbcvuGkxz5sBd3Kl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "É possível utilizar bibliotecas python em algum deles?",
+      "curtidas": 0,
+      "publicado_em": "2024-03-07T18:15:49Z",
+      "atualizado_em": "2024-03-07T18:15:49Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwdQYkAFeC4pC3h-p94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente vídeo!",
+      "curtidas": 0,
+      "publicado_em": "2023-12-08T12:49:28Z",
+      "atualizado_em": "2023-12-08T12:49:28Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwllgtVCDbyAEVmxMR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faltou o \"Icecoder\" que é Opensource",
+      "curtidas": 0,
+      "publicado_em": "2023-11-26T14:45:38Z",
+      "atualizado_em": "2023-11-26T14:45:38Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgylIhrtdSZEMfZue2Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A NetScape já havia previsto o futuro da navegação na rede....",
+      "curtidas": 0,
+      "publicado_em": "2023-10-04T17:21:42Z",
+      "atualizado_em": "2023-10-04T17:21:42Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzYG6jfVB3rFNhxiM94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vídeo sensacional. Bom trabalho, amei as informações.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-29T17:00:36Z",
+      "atualizado_em": "2023-09-29T17:00:36Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyTaYs-6JR8nyT3qk54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns pelo canal!\nEstou ingressando nessa área de programação. Finalizei um curso HTML básico. Gostaria de saber se vocês indicam algum app que eu possa treinar na rua pelo telefone.",
+      "curtidas": 0,
+      "publicado_em": "2023-06-21T13:57:34Z",
+      "atualizado_em": "2023-06-21T13:57:34Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxLAhQENY8LZgHeBIl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A quem interessar a Code Any Where infelismente não está mais funcionando",
+      "curtidas": 0,
+      "publicado_em": "2023-06-14T14:08:10Z",
+      "atualizado_em": "2023-06-14T14:08:10Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyIRRYGmAi23fvB-l94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Po vlw, alguns desses tem ate pra smartphone, voces   são foda",
+      "curtidas": 0,
+      "publicado_em": "2023-06-13T14:51:51Z",
+      "atualizado_em": "2023-06-13T14:51:51Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugx-xNAcwG6eS5-B8Np4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Incrível",
+      "curtidas": 0,
+      "publicado_em": "2023-05-06T19:52:49Z",
+      "atualizado_em": "2023-05-06T19:52:49Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugy-de2rlnB5KSTIW-t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aaa me salvaram, meu computar de 32 bits não dava pra nada, não sabia que existia uma vesão web do Vscode 🤡",
+      "curtidas": 1,
+      "publicado_em": "2023-03-16T21:29:08Z",
+      "atualizado_em": "2023-03-16T21:29:08Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugz9UXvZrEALGmfog1l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "onde compro a camisa kkkk",
+      "curtidas": 0,
+      "publicado_em": "2023-02-02T15:19:22Z",
+      "atualizado_em": "2023-02-02T15:19:22Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxsGYj3QkqHrlDpC2J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "certo mas e na pratica? vocês utilizam web ou ainda só ficam mesmo no desktop?",
+      "curtidas": 1,
+      "publicado_em": "2023-01-25T12:41:12Z",
+      "atualizado_em": "2023-01-25T12:41:12Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzMfIAlENvmuNpun9l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Algum recomendado para celular? \nTentei eles mas pelo celular nenhum ficou \"adaptado\" de forma fácil",
+      "curtidas": 1,
+      "publicado_em": "2023-01-19T13:36:15Z",
+      "atualizado_em": "2023-01-19T13:36:15Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxpPRFMzcncLVZCdOx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "boa",
+      "curtidas": 0,
+      "publicado_em": "2023-01-01T20:04:27Z",
+      "atualizado_em": "2023-01-01T20:04:27Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugx1CrAOH0hegBla1tR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "e o replit, é muito bom o meu preferido",
+      "curtidas": 2,
+      "publicado_em": "2022-12-29T16:30:41Z",
+      "atualizado_em": "2022-12-29T16:30:41Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugx1CrAOH0hegBla1tR4AaABAg.9kE3BwaKMOUARo-DN7sO8U",
+      "comentario_pai_id": "Ugx1CrAOH0hegBla1tR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Começou bom e se tornou uma porcaria. O plano gratuito não tem serventia e o plano pago é caro pra сагаΙно.",
+      "curtidas": 0,
+      "publicado_em": "2026-01-10T15:49:11Z",
+      "atualizado_em": "2026-01-10T15:49:11Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzXQQz2vfe26QY1fU94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse Canal é fantástico, mais seria possível aprender a programar pelo celular ?🤔🤔🤔",
+      "curtidas": 3,
+      "publicado_em": "2022-12-11T09:09:26Z",
+      "atualizado_em": "2022-12-11T09:09:26Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugyhmc59NORXrDA1N3t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "indica um que da pra usar sql na internet",
+      "curtidas": 1,
+      "publicado_em": "2022-11-22T11:49:57Z",
+      "atualizado_em": "2022-11-22T11:49:57Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugy9dS4NoOW-VArXFad4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "existem IDEs para desenvolvimento mobile como o visual Studio que seja de forma online?",
+      "curtidas": 2,
+      "publicado_em": "2022-11-10T03:59:17Z",
+      "atualizado_em": "2022-11-10T03:59:17Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugz-KV9_wWVdv1ga_1d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns pelas dicas e vocês dois formam uma dupla inteligentíssima.",
+      "curtidas": 2,
+      "publicado_em": "2022-10-20T02:10:46Z",
+      "atualizado_em": "2022-10-20T02:10:46Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzSt-G5DvKJwAVqch54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Queria que alguém ensinasse como que se mexe em um editor de código, tem tanta informação, que pra quem ta começando não sabe nem o que é extensão e etc.",
+      "curtidas": 1,
+      "publicado_em": "2022-09-27T05:57:47Z",
+      "atualizado_em": "2022-09-27T05:57:47Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxORWveTGC9iyu5kJp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito boas, as dicas ! Vocês dois forma uma dupla alto astral !",
+      "curtidas": 1,
+      "publicado_em": "2022-09-14T20:32:34Z",
+      "atualizado_em": "2022-09-14T20:32:34Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugw_RhuckbjGyLrkXKZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Falando grego, misturado com aramaico, rs. Preciso de um programa tipo N-View. Eu ia baixar o Uptodown mas a última atualização foi em 2005555555555555555. Fiquei com medooooo. Autor desconhecido, tbm 🤥😬. Algum destes q indicou faz o que ele faz?? Só preciso editar (corrigor/alterar_) coisas já prontas.",
+      "curtidas": 0,
+      "publicado_em": "2022-09-12T12:30:34Z",
+      "atualizado_em": "2022-09-12T12:30:34Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyaI-Xs1_esi9-we6Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Adorei!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "curtidas": 1,
+      "publicado_em": "2022-09-01T22:33:00Z",
+      "atualizado_em": "2022-09-01T22:33:00Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugyoaq2DKGwPrU31PkJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom! Minha sugestão... um vídeo dedicado ao GitPod ; ) e Viva ser Nômade Digital 🙌",
+      "curtidas": 1,
+      "publicado_em": "2022-08-17T16:24:45Z",
+      "atualizado_em": "2022-08-17T16:24:45Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxsgOWAhsVtzFyOfOR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ate então usava apenas codificadores instalado no desktop, esse vídeo praticamente me ajudou 90% em questão de facilidade e aprendizagem. Obg!",
+      "curtidas": 4,
+      "publicado_em": "2022-08-08T02:52:53Z",
+      "atualizado_em": "2022-08-08T02:52:53Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzoRIPdj6D6dCBGEYN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Comprei um curso de java online e simplesmente não consigo estudar pq meu notebook não pega o eclipse. Vou tentar esses sites online.",
+      "curtidas": 1,
+      "publicado_em": "2022-07-22T18:18:33Z",
+      "atualizado_em": "2022-07-22T18:18:33Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzsU6IzuTdP-wrBFT94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Usei durante muito tempo o Cloud9, mas esse foi comprado pela AWS. Vou testar essas ferramentas, parecem muito boas dicas",
+      "curtidas": 2,
+      "publicado_em": "2022-06-23T16:12:32Z",
+      "atualizado_em": "2022-06-23T16:12:32Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyvQXc_CODKnKHpR_F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Puxa! cada um melhor do que o outro!\nE acho que são muito indicados também pra quem não tem um bom computador momentaneamente.\nEu não esperava que tantas tecnologias podiam ser manipuladas através do browser!",
+      "curtidas": 3,
+      "publicado_em": "2022-06-20T20:36:31Z",
+      "atualizado_em": "2022-06-20T20:36:31Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzi0FKqhaK9LWKKD-54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "*Gratidão por este vídeo !*",
+      "curtidas": 2,
+      "publicado_em": "2022-05-29T20:39:35Z",
+      "atualizado_em": "2022-05-29T20:39:35Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyuWN-3u0Kd_GKPeYp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "*Pretendo fazer curso de programação web , pois estou ressuscitando esse meu desejo que eu havia desistido anos atrás, só por causa desse vídeo co parei o meu curdo de iniciante em programação web !*",
+      "curtidas": 2,
+      "publicado_em": "2022-05-29T20:36:33Z",
+      "atualizado_em": "2022-05-29T20:36:33Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxQFKFahiI1WdIu5SN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "*Vi um outro vídeo num outro canal  que mostrou um editor online de html php javzsctipt e etc só tanto versão machine como na versão online ! Aqui neste vidro aprendi mais 8 editores programação online web !*",
+      "curtidas": 2,
+      "publicado_em": "2022-05-29T20:34:20Z",
+      "atualizado_em": "2022-05-29T20:35:02Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxD9LgflZv8djhOERV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "*Nossa !* *Eu não sou programador , mas fiquei encanto com as dicas desse vídeo !*",
+      "curtidas": 2,
+      "publicado_em": "2022-05-29T20:32:34Z",
+      "atualizado_em": "2022-05-29T20:32:34Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyzzwMAJV8ltI_HabB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Galera do código fonte...a qualidade da imagem de vcs está simplesmente Surreal!!!! parabens!",
+      "curtidas": 3,
+      "publicado_em": "2022-05-10T12:34:14Z",
+      "atualizado_em": "2022-05-10T12:34:14Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzw0nFw00qredbaDet4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Só conteúdo top das galáxias! Parabéns 👏👏👏",
+      "curtidas": 2,
+      "publicado_em": "2022-03-05T02:56:40Z",
+      "atualizado_em": "2022-03-05T02:56:40Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwGlQzdeN6kJQ1KZ5Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Top, vcs são o melhor casal de programadores do Brasil 👏👏👏",
+      "curtidas": 3,
+      "publicado_em": "2022-02-18T13:41:16Z",
+      "atualizado_em": "2022-02-18T13:41:16Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxWrmohDye22buLsFN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Facam um video  sobre  google colab , Márcio Oliveira de Santana de Parnaiba São Paulo",
+      "curtidas": 0,
+      "publicado_em": "2022-02-15T00:13:01Z",
+      "atualizado_em": "2022-02-15T00:13:28Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzMDgOrpCMy_vpiTUt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sensacional 👏👏👏... Vou fazer uns testes usando meu Xbox One, se der tudo certo, voltarei aos estudos.  Estou sem PC.",
+      "curtidas": 4,
+      "publicado_em": "2021-10-12T11:56:43Z",
+      "atualizado_em": "2021-10-12T11:56:43Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwIu_Tdh7cNuftAJcl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vocês são sensacionais! Muito obrigada pelo vídeo e pelas informações! <3",
+      "curtidas": 2,
+      "publicado_em": "2021-09-11T00:26:41Z",
+      "atualizado_em": "2021-09-11T00:26:41Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwWhwSQctGjxXfq9AJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Um casal desses na área de tecnologia, com carisma e muito inteligência, \"tem quem 'guente'? tem quem 'guente'?! Pelo amor de Deus\".",
+      "curtidas": 11,
+      "publicado_em": "2021-07-30T11:33:36Z",
+      "atualizado_em": "2021-07-30T11:33:36Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxMiTN54pFXiLo74n54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "video maravilhoso",
+      "curtidas": 2,
+      "publicado_em": "2021-07-13T13:22:47Z",
+      "atualizado_em": "2021-07-13T13:22:47Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwfdmrB78hfYu2s5Ch4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Até hoje não encontrei um ambiente melhor do que Code Server + VPS\n\nJá usei um tempo cloud9 mas não achava legal.\n\nUso muito o codepen e o jsfiddle.\n\nDêem uma olhada no Code Server.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-22T05:21:55Z",
+      "atualizado_em": "2021-06-22T05:21:55Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwGN4gEv4oFmJkZx1J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Deixando um Mega Like",
+      "curtidas": 2,
+      "publicado_em": "2021-06-21T00:54:22Z",
+      "atualizado_em": "2021-06-21T00:54:22Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyIrOW82PRwodhHqW54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Incrível ver todas as possibilidades para codar pelo navegador. Adorei, eu uso o VScode no meu notebook 💻 e gosto muito dele. Espero que algum dia vcs possam fazer um vídeo falando um pouco sobre as IDEs da Jetbrains tanto das versões de comunidades quanto das versões premium.",
+      "curtidas": 8,
+      "publicado_em": "2021-06-20T17:07:46Z",
+      "atualizado_em": "2021-06-20T17:07:46Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxRXvxm_mMmJKyr_cN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faltou o code9 da AWS",
+      "curtidas": 2,
+      "publicado_em": "2021-06-20T11:52:57Z",
+      "atualizado_em": "2021-06-20T11:52:57Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyH3rGgoQx8-M81gax4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Meu Deus, vocês são o melhor casal do YouTube quando o assunto é programação. Estão sempre surpreendendo a gente. Mas eu acho que o áudio dos vídeos do canal estão um pouco baixos ultimamente(não que não dê para escutar). Porém, se ficasse um pouco mais alto, creio eu que ficaria perfeito. Agradeço pela atenção, adoro vocêsss!!!😍",
+      "curtidas": 4,
+      "publicado_em": "2021-06-16T16:06:01Z",
+      "atualizado_em": "2021-06-16T16:06:01Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwBj-aB0oN3OpTb-6t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pessoal, nós que temos pcs fracos, deveríamos nos unir pra  criar um projeto juntos, oq vcs acham? Vamos criar um grp",
+      "curtidas": 3,
+      "publicado_em": "2021-06-16T15:45:40Z",
+      "atualizado_em": "2021-06-16T15:45:40Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzRVUt2eL7Fs7dNt7h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "🌚👌🏿",
+      "curtidas": 0,
+      "publicado_em": "2021-06-15T00:46:42Z",
+      "atualizado_em": "2021-06-15T00:46:42Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzEjLi_o0viYdihaW14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Curti demais as dicas... 🤩😍",
+      "curtidas": 2,
+      "publicado_em": "2021-06-14T17:02:48Z",
+      "atualizado_em": "2021-06-14T17:03:06Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzyr1XbivO_5Go4LDF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já usei o codepen... Fiquei interessado em alguns desses aí, mas ainda estou estudando e sem confiança pra me aventurar. 😁",
+      "curtidas": 3,
+      "publicado_em": "2021-06-14T12:26:42Z",
+      "atualizado_em": "2021-06-14T12:26:42Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzyr1XbivO_5Go4LDF4AaABAg.9OZwjJ9Blcy9bcVy9ArcES",
+      "comentario_pai_id": "Ugzyr1XbivO_5Go4LDF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu também estou pensando em adquirir um curso de desenvolvimento web para  iniciantes , depois eu irei adquirindo cursos mais avançados na área de desenvolvimento web ! Só por caisa desse vídeo agirá estou com vontade de programar em HTML PHP JavaScript e etc ! Eu havia desistido a alguns anos atrás em desenvolver sites em web por ser muito difícil , mas agora , pretendo realizar este antigo sonho de programar em web e colocar um site no ar !*",
+      "curtidas": 1,
+      "publicado_em": "2022-05-29T21:00:32Z",
+      "atualizado_em": "2022-05-29T21:00:32Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzyr1XbivO_5Go4LDF4AaABAg.9OZwjJ9Blcy9bcW0nPvRPZ",
+      "comentario_pai_id": "Ugzyr1XbivO_5Go4LDF4AaABAg",
+      "tipo": "resposta",
+      "texto": "*Porque você está com tanto medo assim ?*",
+      "curtidas": 1,
+      "publicado_em": "2022-05-29T21:01:02Z",
+      "atualizado_em": "2022-05-29T21:01:02Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzyr1XbivO_5Go4LDF4AaABAg.9OZwjJ9Blcy9bcWGjEeutb",
+      "comentario_pai_id": "Ugzyr1XbivO_5Go4LDF4AaABAg",
+      "tipo": "resposta",
+      "texto": "*Nada de medo cara ! Coloca uma coisa rm sua cabeça : os outros conseguem programar , eu também consigo programar !*",
+      "curtidas": 1,
+      "publicado_em": "2022-05-29T21:03:13Z",
+      "atualizado_em": "2022-05-29T21:03:13Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugx-lvyOIxMnPErCjKx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Top Top",
+      "curtidas": 0,
+      "publicado_em": "2021-06-14T06:26:24Z",
+      "atualizado_em": "2021-06-14T06:26:24Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxX0LOXtAbrPAzK7G94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A galera de Data ai se derrama de amores pelo Colab. Com toda razão! <3",
+      "curtidas": 2,
+      "publicado_em": "2021-06-14T03:20:54Z",
+      "atualizado_em": "2021-06-14T03:20:54Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugz80j11hJgefFA2sTt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Conheço um cara que diz ser mega programador PHP que ainda usa Dreamweaver e PHP 5.4 😅🤙",
+      "curtidas": 3,
+      "publicado_em": "2021-06-14T02:27:39Z",
+      "atualizado_em": "2021-06-14T02:27:39Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugz80j11hJgefFA2sTt4AaABAg.9OYsAgXj6FZ9PevzwVoksl",
+      "comentario_pai_id": "Ugz80j11hJgefFA2sTt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu uso VIM e PHP 8 =D",
+      "curtidas": 0,
+      "publicado_em": "2021-07-11T16:47:04Z",
+      "atualizado_em": "2021-07-11T16:47:04Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugx5SwyYZKXX69pyK6l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show as dicas! :)",
+      "curtidas": 1,
+      "publicado_em": "2021-06-13T23:31:53Z",
+      "atualizado_em": "2021-06-13T23:31:53Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzzYgDzhF8YCYqce6x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vídeo top, como sempre o Código fonte me mostrando e explicando tudo sobre tecnologia.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-13T20:50:47Z",
+      "atualizado_em": "2021-06-13T20:51:00Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzoZAeJ-WkEyfH-lFN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Demais! Obrigado por compartilhar!! Vou certamente testar!",
+      "curtidas": 2,
+      "publicado_em": "2021-06-13T16:23:50Z",
+      "atualizado_em": "2021-06-13T16:23:50Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgydOUpj13XKlgSycWN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Serio que vocês nunca ouviram falar do repl.it? Todo  mundo da minha faculdade usa pelo menos desde 2017",
+      "curtidas": 2,
+      "publicado_em": "2021-06-13T11:52:20Z",
+      "atualizado_em": "2021-06-13T11:52:29Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgydOUpj13XKlgSycWN4AaABAg.9OXJ-h9bnfh9OhZLGiUlDN",
+      "comentario_pai_id": "UgydOUpj13XKlgSycWN4AaABAg",
+      "tipo": "resposta",
+      "texto": "me ensina conectar php no banco de dados com ele",
+      "curtidas": 0,
+      "publicado_em": "2021-06-17T20:46:44Z",
+      "atualizado_em": "2021-06-17T20:46:44Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzwxqALKUeq7QwkYdl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Oii meu nome e ricardo sou novo no mundo da programação gostaria de saber qual desses e melhor para iniciantes no java e aproveitando a atenção  de vcs  qual posso utilizar para substituir o Android studio",
+      "curtidas": 2,
+      "publicado_em": "2021-06-13T02:15:55Z",
+      "atualizado_em": "2021-06-13T02:15:55Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwnyxHarMrKa3fSrCx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Melhor que o threbedit não insiste",
+      "curtidas": 2,
+      "publicado_em": "2021-06-12T22:31:41Z",
+      "atualizado_em": "2021-06-12T22:31:41Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxQyjlSeGrsHOlkxqZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faz um vídeo sobre editores em dispositivos móbile",
+      "curtidas": 8,
+      "publicado_em": "2021-06-12T21:17:02Z",
+      "atualizado_em": "2021-06-12T21:17:02Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxQyjlSeGrsHOlkxqZ4AaABAg.9OVjpo5fHno9Xxc6RMX4ce",
+      "comentario_pai_id": "UgxQyjlSeGrsHOlkxqZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "up",
+      "curtidas": 0,
+      "publicado_em": "2022-02-02T19:10:03Z",
+      "atualizado_em": "2022-02-02T19:10:03Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugx5AcLqZ9FXeS1tyEB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Legal! As vezes uso o Cloud9 da AWS. Quebra um galhão.  👍",
+      "curtidas": 4,
+      "publicado_em": "2021-06-12T20:19:23Z",
+      "atualizado_em": "2021-06-12T20:19:23Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwjIa5YxDT0IL-CwEx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O fato de deixar os ambientes das grandes de fora é ...👏👏👏👏👏 Afinal elas já tem muita divulgação.",
+      "curtidas": 2,
+      "publicado_em": "2021-06-12T18:22:23Z",
+      "atualizado_em": "2021-06-12T18:22:23Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwUrfzgpZBNQjGT3Bx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O https://theia-ide.org/ merecia pelo menos uma citação honrosa por ser Opensource. E outros open source.",
+      "curtidas": 2,
+      "publicado_em": "2021-06-12T18:20:10Z",
+      "atualizado_em": "2021-06-12T18:20:10Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugyn8pLiy-RrjcmBBwZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fantástico! Já usei umas algumas dessa ferramenta e vejo que tem umas mais parrudas que não tinha usado kkkkk",
+      "curtidas": 1,
+      "publicado_em": "2021-06-12T16:20:08Z",
+      "atualizado_em": "2021-06-12T16:20:08Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzuN_ge90LAXxs0_w54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu gosto de usar o repl.it",
+      "curtidas": 0,
+      "publicado_em": "2021-06-12T14:06:24Z",
+      "atualizado_em": "2021-06-12T14:06:24Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwGkYY5TWDRQ5xwetZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tem uma Ide muito parecida com o VsCode para android o nome dele é  Scpk Editor",
+      "curtidas": 2,
+      "publicado_em": "2021-06-12T12:52:59Z",
+      "atualizado_em": "2021-06-12T12:53:12Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgylGUyXDcvanISB_P14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show se bola!",
+      "curtidas": 1,
+      "publicado_em": "2021-06-12T12:13:54Z",
+      "atualizado_em": "2021-06-12T12:13:54Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzs2kPC6XWL6Xkq3lt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Caraca cada dia que passa me surpreendo com o canal \nE com a evolução da tecnologia \nFantástico",
+      "curtidas": 6,
+      "publicado_em": "2021-06-12T06:14:27Z",
+      "atualizado_em": "2021-06-12T06:14:27Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugzs2kPC6XWL6Xkq3lt4AaABAg.9OU7Y3MyXJO9OU_EScUNCY",
+      "comentario_pai_id": "Ugzs2kPC6XWL6Xkq3lt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigado pelo seu carinho conosco e por nos acompanhar. 🤓",
+      "curtidas": 0,
+      "publicado_em": "2021-06-12T10:25:10Z",
+      "atualizado_em": "2021-06-12T10:25:10Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwfR5ACif_HTePJdIR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esqueceram do c9.io",
+      "curtidas": 1,
+      "publicado_em": "2021-06-12T02:35:00Z",
+      "atualizado_em": "2021-06-12T02:35:00Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzFVjJo1y5Q6e9oW7h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Olá! comecei a pesquisar sobre programação nos últimos dias e tenho muito interesse em aprender. Porém não tenho nenhuma noção por onde começar, quais as dicas vocês poderiam me apresentar para que eu possa ter uma direção para iniciar os estudos?",
+      "curtidas": 3,
+      "publicado_em": "2021-06-12T02:22:48Z",
+      "atualizado_em": "2021-06-12T02:22:48Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzFVjJo1y5Q6e9oW7h4AaABAg.9OTi1TFpsz19OY7Iuy74PZ",
+      "comentario_pai_id": "UgzFVjJo1y5Q6e9oW7h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu recomendo a você começar a aprender python pelo canal \"Curso em vídeo\", o professor é muito bom",
+      "curtidas": 1,
+      "publicado_em": "2021-06-13T19:29:20Z",
+      "atualizado_em": "2021-06-13T19:29:20Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzFVjJo1y5Q6e9oW7h4AaABAg.9OTi1TFpsz19OpzGI7xUpx",
+      "comentario_pai_id": "UgzFVjJo1y5Q6e9oW7h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Josimar, eu recomendo que você procure aprender HTML+CSS. É um início muito bacana, pq vc vai se acostumando com a quantidade de linhas de código. E vc não vai gastar muito raciocinio pra desenvolver. Quando pensar em partir para uma linguagem de programação, procure aprender primeiro sobre lógica de programação e também sobre algoritmos.\nDepois que souber lógica, ai sim vc pode escolher qualquer linguagem e se aprofundar nela.\nOs melhores canais do youtube pra vc maratonar e aprender é o CFB Cursos e o Curso em Video.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-21T03:15:54Z",
+      "atualizado_em": "2021-06-21T03:15:54Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzfGRva94VglfANaod4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu usei muito o cloud9 agora a Amazon incorporou na aws e nunca mais vi como ficou.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-12T00:20:07Z",
+      "atualizado_em": "2021-06-12T00:20:07Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugw9_XZKU6a3hUW9J3Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "muito bom",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T23:19:32Z",
+      "atualizado_em": "2021-06-11T23:19:32Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxaY3ExW2kSq6PqEgd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu sempre pensando que precisava de um pc para programar kkkkk",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T23:12:22Z",
+      "atualizado_em": "2021-06-11T23:12:22Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzJd9tGPbwJFmX_SuJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Isto é tudo novo pra mim",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T23:11:49Z",
+      "atualizado_em": "2021-06-11T23:11:49Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgymI8qp1wVo6xNCvvh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "topzera! Obrigado",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T21:52:39Z",
+      "atualizado_em": "2021-06-11T21:52:39Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgynPiY_wkJyWRCghnR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nesses tempos de crise para hardware e dólar alto esse conteúdo é extremamente importante obrigado!",
+      "curtidas": 4,
+      "publicado_em": "2021-06-11T20:42:25Z",
+      "atualizado_em": "2021-06-11T20:42:25Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyqyO8Jow-JVrsUZuR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "nossssa!!!",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T17:42:06Z",
+      "atualizado_em": "2021-06-11T17:42:06Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzmR5teuH-PW2n41aJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito legal\nSenti falta do editor Theia, ainda mais que ele é gratuito e o GitPod foi feito tendo como base o projeto do Theia",
+      "curtidas": 15,
+      "publicado_em": "2021-06-11T17:31:45Z",
+      "atualizado_em": "2021-06-11T17:33:34Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugx52f4adFF5OuG1W5t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Da pra usar no celular?",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T17:05:00Z",
+      "atualizado_em": "2021-06-11T17:05:00Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwIXkm6PmQd88c4KIh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu programo no gitpod faz 1 ano, como eu tô sem meu PC, sempre q eu entro em algum PC emprestado eu consigo continuar o projeto. Realmente quebra um galho",
+      "curtidas": 8,
+      "publicado_em": "2021-06-11T16:35:08Z",
+      "atualizado_em": "2021-06-11T16:35:08Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugy-BQDdScjGTnZ_o254AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Conheci o canal tem pouco tempo e já estou amando, estou maratonando alguns vídeos, queria ter aulas de programação com vcs, vcs explicam tão bem, desejo muito sucesso pra vcs 🤩❤️",
+      "curtidas": 8,
+      "publicado_em": "2021-06-11T16:32:41Z",
+      "atualizado_em": "2021-06-11T16:32:41Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwGOlj0WYAQ_1p_iAB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu não conhecia nenhum..  kkk",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T16:29:11Z",
+      "atualizado_em": "2021-06-11T16:29:11Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxW2trKLwcZlJLDUVx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Curti muito bom pode. Falar mais de Extencão para estes caras ?",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T16:24:15Z",
+      "atualizado_em": "2021-06-11T16:24:15Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyTuKR7SmVuqxi1uKl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esqueceram do Google colab",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T15:43:00Z",
+      "atualizado_em": "2021-06-11T15:43:00Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgywErYjnTqhHYsuQFp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faltou só comentar que algumas opções são pagas.",
+      "curtidas": 3,
+      "publicado_em": "2021-06-11T15:32:44Z",
+      "atualizado_em": "2021-06-11T15:32:44Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgywErYjnTqhHYsuQFp4AaABAg.9OSYdH7dGNk9qOJDcPtcEL",
+      "comentario_pai_id": "UgywErYjnTqhHYsuQFp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pois é né, difícil de acreditar que alguém faz alguma coisa por dinheiro kkk",
+      "curtidas": 0,
+      "publicado_em": "2023-05-31T19:11:30Z",
+      "atualizado_em": "2023-05-31T19:11:30Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzlaOBMVMNGqpq5RpR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Seria legal uma review sobre o intellij ultimate.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T15:32:14Z",
+      "atualizado_em": "2021-06-11T15:32:14Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyVFBWya6aNGfDEJCp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "muito bacana!",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T15:28:41Z",
+      "atualizado_em": "2021-06-11T15:28:41Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzV5IuKJkj3IyjFtXt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E eu achando que iam falar do colab kkk",
+      "curtidas": 3,
+      "publicado_em": "2021-06-11T15:26:33Z",
+      "atualizado_em": "2021-06-11T15:26:33Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxdF9nD-dOHDEHAlPR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente vídeo! Já utilizo alguns desta lista.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T15:24:47Z",
+      "atualizado_em": "2021-06-11T15:24:47Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzNDItdT9vaARMMGmF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faltou o repl.it",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T15:22:35Z",
+      "atualizado_em": "2021-06-11T15:22:35Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugz6tkH1tBVL8MOBrsF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bacana CDF´s! \nEu não costumo usar editores online, mas tem um que eu usei um pouco só pra ver como funcionava. é o ide.goorm.io (Goorm IDE). \nÉ um serviço coreano, e precisa de aprovação para começar a usar.\nNão sei dizer se é melhor que esses que vocês apresentaram, mas fica a dica caso queiram dar uma olhada.",
+      "curtidas": 5,
+      "publicado_em": "2021-06-11T15:13:54Z",
+      "atualizado_em": "2021-06-11T15:13:54Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyUSKR32r14EJWV2up4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tem algum para aprender banco de dados?",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T15:12:04Z",
+      "atualizado_em": "2021-06-11T15:12:04Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyUSKR32r14EJWV2up4AaABAg.9OSWGp031vf9OSXOYJSc7T",
+      "comentario_pai_id": "UgyUSKR32r14EJWV2up4AaABAg",
+      "tipo": "resposta",
+      "texto": "Oracle live, se eu n me engano",
+      "curtidas": 2,
+      "publicado_em": "2021-06-11T15:21:51Z",
+      "atualizado_em": "2021-06-11T15:21:51Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugyj0EdG-kZ3vgPiCQB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Amei o video meu pc é muito limitado para aprender desenvolvimento mobolie esse último me deixou bem curioso a tentar 😂",
+      "curtidas": 3,
+      "publicado_em": "2021-06-11T15:06:54Z",
+      "atualizado_em": "2021-06-11T15:06:54Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugyj0EdG-kZ3vgPiCQB4AaABAg.9OSVfxzLyIE9OTTjGPgqDR",
+      "comentario_pai_id": "Ugyj0EdG-kZ3vgPiCQB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu to sofrendo com o Android Studio no meu notebook de 3gb de RAM 😣",
+      "curtidas": 1,
+      "publicado_em": "2021-06-12T00:09:06Z",
+      "atualizado_em": "2021-06-12T00:09:06Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugyj0EdG-kZ3vgPiCQB4AaABAg.9OSVfxzLyIE9aANRSvlgFH",
+      "comentario_pai_id": "Ugyj0EdG-kZ3vgPiCQB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Não sei em qual stack vc faz teus projetos, mas eu uso bastante o snack expo, pra desenvolver algumas coisas usando React Native. O editor não é muito bom, mas é melhor do que nada pelo menos para mim",
+      "curtidas": 0,
+      "publicado_em": "2022-04-23T16:56:40Z",
+      "atualizado_em": "2022-04-23T16:56:40Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxbkV3sfZE5m3x6jLJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "n sabia q estava assim n. caramba..rs\nconhecia o gitpod de ouvir falar e codepen e visto tb o jsfiddle, mas me surpreendi.\nparabens. vlw",
+      "curtidas": 3,
+      "publicado_em": "2021-06-11T15:03:54Z",
+      "atualizado_em": "2021-06-11T15:24:46Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxIVy5Uuws8L_Zu-rB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo conteúdo.",
+      "curtidas": 2,
+      "publicado_em": "2021-06-11T14:53:34Z",
+      "atualizado_em": "2021-06-11T14:53:34Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyMVts-f9YstfunDul4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito top!👏👏👏👏",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T14:43:57Z",
+      "atualizado_em": "2021-06-11T14:43:57Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzpCPh2Mq5vpX_rVRd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bom vídeo. \nVou dar uma olhada em alguma dessas opções. No ano passado, quando as aulas presenciais foram suspensas, eu precisei procurar um ambiente de desenvolvimento remoto que permitisse os meus alunos do ensino médio desenvolver em Java e WEB (HTML, CSS, JS) e permitindo usar repositórios privados do Github. Na época o que melhor se encaixou nisso foi o Replit, principalmente por ele ter integração com o Github Classroom.\nOutra opção que achei interessante é o Github Codespaces, eu tenho acesso a ele, mas está em beta fechado. Eu espero que o Github dê acesso gratuito ao Codespaces para fins educacionais quando ele for lançado.",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T14:42:06Z",
+      "atualizado_em": "2021-06-11T14:42:06Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxFj7ATDZaC-EZKq354AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito interessante esse Code Anywhere, achei que não iria aparecer o gitpod, tadinho do repl.it",
+      "curtidas": 3,
+      "publicado_em": "2021-06-11T14:36:27Z",
+      "atualizado_em": "2021-06-11T14:36:27Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyEau59UC6U-EzrFnZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sensacional.",
+      "curtidas": 0,
+      "publicado_em": "2021-06-11T14:33:42Z",
+      "atualizado_em": "2021-06-11T14:33:42Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzEjx33VVKWq5PeXll4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E eu que na reunião online da empresa, comecei a rir do patrão por ele ainda usar quadro de lousa como kanban em pleno século 21; ele não gostou não mas foi engraçado. Agora ele está usando ferramentas online gratuitas.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T14:31:20Z",
+      "atualizado_em": "2021-06-11T14:31:20Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzIs4rsxZQlYFQgb9R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faltou o REPL.IT, uso ele bastante pra python ou javascript, tem suporte a diversas linguagens, mas acho que fica atrás do Gitpod e Code Anywhere, o combo REPL.IT e CodePen tem funcionado bem pra mim, mas já estou pensou em mudar o backend por Gitpod.",
+      "curtidas": 6,
+      "publicado_em": "2021-06-11T14:27:04Z",
+      "atualizado_em": "2021-06-11T14:27:04Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzIs4rsxZQlYFQgb9R4AaABAg.9OSR7G33f2FAAWYXrcHREz",
+      "comentario_pai_id": "UgzIs4rsxZQlYFQgb9R4AaABAg",
+      "tipo": "resposta",
+      "texto": "Replit agora ta cobrando",
+      "curtidas": 0,
+      "publicado_em": "2024-11-06T22:58:33Z",
+      "atualizado_em": "2024-11-06T22:58:33Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxtWnJ8Ev68rA2I_1R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poxa galera esse foi um dos vídeos mais interessantes pra mim, pois é a solução que precisava para ensinar meus alunos, que não tem recursos computacionais para rodar um framework. Muito obrigado!!",
+      "curtidas": 70,
+      "publicado_em": "2021-06-11T14:24:42Z",
+      "atualizado_em": "2021-06-11T15:20:26Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxtWnJ8Ev68rA2I_1R4AaABAg.9OSQqxVfq369OSoR9u0vmc",
+      "comentario_pai_id": "UgxtWnJ8Ev68rA2I_1R4AaABAg",
+      "tipo": "resposta",
+      "texto": "Tem o scrath q é mto bom tmbm p demonstrações, usei para demonstrar como a programação funciona uma vez em uma sala de aula.",
+      "curtidas": 2,
+      "publicado_em": "2021-06-11T17:59:30Z",
+      "atualizado_em": "2021-06-11T17:59:30Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxtWnJ8Ev68rA2I_1R4AaABAg.9OSQqxVfq369OSudKcwgIh",
+      "comentario_pai_id": "UgxtWnJ8Ev68rA2I_1R4AaABAg",
+      "tipo": "resposta",
+      "texto": "@emanuelmartins9508 para meu propósito o stackbliz se encaixou melhor",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T18:53:43Z",
+      "atualizado_em": "2021-06-11T18:53:43Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgxtWnJ8Ev68rA2I_1R4AaABAg.9OSQqxVfq369bcTiZnSQUO",
+      "comentario_pai_id": "UgxtWnJ8Ev68rA2I_1R4AaABAg",
+      "tipo": "resposta",
+      "texto": "*O senhor é professor ? Como faço pata criar conta no Git e acessar o CodePen ?*",
+      "curtidas": 0,
+      "publicado_em": "2022-05-29T20:40:56Z",
+      "atualizado_em": "2022-05-29T20:40:56Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgzE3lyj4JoRpt3rB614AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Maravilha!Agradeço!",
+      "curtidas": 1,
+      "publicado_em": "2021-06-11T14:19:37Z",
+      "atualizado_em": "2021-06-11T14:19:37Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugz7Rl5f54mozZK_jz54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fiquei curioso e vou testar um.",
+      "curtidas": 7,
+      "publicado_em": "2021-06-11T14:17:57Z",
+      "atualizado_em": "2021-06-11T14:17:57Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgwBNIjwsw90HFxMdXd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Caraca vocês são demais👏👏👏👏🚀",
+      "curtidas": 2,
+      "publicado_em": "2021-06-11T14:14:45Z",
+      "atualizado_em": "2021-06-11T14:14:45Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyWSYq7PI8hN354LU54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu estudo em outra cidade e acabo passando muito tempo em uma van. Por muito tempo, não tinha um notebook então usava o celular para adiantar as listas kk",
+      "curtidas": 5,
+      "publicado_em": "2021-06-11T14:06:15Z",
+      "atualizado_em": "2021-06-11T14:06:15Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyeKZo4lM4Eu7Fztkt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Só eu que fico tentando programar na mente msm?",
+      "curtidas": 38,
+      "publicado_em": "2021-06-11T14:04:09Z",
+      "atualizado_em": "2021-06-11T14:04:09Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyeKZo4lM4Eu7Fztkt4AaABAg.9OSOVNikdV19OSPZLaZCTl",
+      "comentario_pai_id": "UgyeKZo4lM4Eu7Fztkt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Quando estou fazendo Levantamentos e especificações fico até parecendo a Nazaré fazendo cálculos, IF's e por ai vai huahuahuahuahu. Acho que esse é um mal que persegue todos nós uhauhhuahua",
+      "curtidas": 6,
+      "publicado_em": "2021-06-11T14:13:25Z",
+      "atualizado_em": "2021-06-11T14:13:25Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyeKZo4lM4Eu7Fztkt4AaABAg.9OSOVNikdV19oyZp7XLHuT",
+      "comentario_pai_id": "UgyeKZo4lM4Eu7Fztkt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu programo até no papel\nHigiênico pra não esquecer... A edéia",
+      "curtidas": 5,
+      "publicado_em": "2023-04-26T13:25:40Z",
+      "atualizado_em": "2023-04-26T13:25:40Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "UgyeKZo4lM4Eu7Fztkt4AaABAg.9OSOVNikdV1A23u7e2-9U2",
+      "comentario_pai_id": "UgyeKZo4lM4Eu7Fztkt4AaABAg",
+      "tipo": "resposta",
+      "texto": "eu",
+      "curtidas": 0,
+      "publicado_em": "2024-04-10T23:46:49Z",
+      "atualizado_em": "2024-04-10T23:46:49Z"
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "comentario_id": "Ugz3PF2ZovOP0f321zZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estava pesquisando esse assunto. Valeu.",
+      "curtidas": 3,
+      "publicado_em": "2021-06-11T14:02:40Z",
+      "atualizado_em": "2021-06-11T14:02:40Z"
+    }
+  ]
+}

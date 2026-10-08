@@ -1,0 +1,1826 @@
+{
+  "video": {
+    "id": "Sd_PpMlPmWY",
+    "url": "https://www.youtube.com/watch?v=Sd_PpMlPmWY",
+    "titulo": "Quais IDEs os engenheiros de software adoram e por quê?",
+    "canal": "Lucas Montano",
+    "publicado_em": "2025-01-10T15:00:41Z",
+    "comentarios_informados_pela_api": 180
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-08T15:59:21.635223+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 3333,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-08T15:59:31.098364+00:00",
+    "total": 180,
+    "principais": 127,
+    "respostas": 53,
+    "requisicoes": 25
+  },
+  "comentarios": [
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxYiVb2mDjCcT3X2Bx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "To usando o Opencode pq vem com as IA grátis e da pra integrar o ollama com IA em cloud e local. E Android studio tbm. Não sou programador",
+      "curtidas": 0,
+      "publicado_em": "2026-02-26T15:04:07Z",
+      "atualizado_em": "2026-02-26T15:04:07Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyvjEgMMlHIU5Oggd54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Antigravity é top na bala, se tu vacilar ele apaga até deu disco rígido, só uso ele agora é pura emoção, adrenalina pura.",
+      "curtidas": 0,
+      "publicado_em": "2025-12-04T20:45:59Z",
+      "atualizado_em": "2025-12-04T20:46:17Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwFQLrC5RCioqm2Bnd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCODE COPILOT + IntelliJ com IA, concordo plenamente o que vc disse sobre Ide que a gente se sente mais segura.",
+      "curtidas": 0,
+      "publicado_em": "2025-08-13T04:10:57Z",
+      "atualizado_em": "2025-08-13T04:10:57Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwGifUEDT4m2MMrLEx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Acostumei com Zed e sai do vscode kkkkkk ja tem tudo que preciso acho que não volto mais não",
+      "curtidas": 0,
+      "publicado_em": "2025-06-10T23:52:25Z",
+      "atualizado_em": "2025-06-10T23:52:25Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugy5F3Iv9Yzc34Nbo594AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "uso o windsurf e te falar que pra mim esta sendo a melhor ide, integrado com roo-code fica um auto complete perfeito",
+      "curtidas": 0,
+      "publicado_em": "2025-04-05T04:36:04Z",
+      "atualizado_em": "2025-04-05T04:36:04Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwPoG0DUaYtC5cFXp54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Codeanyware é na web.",
+      "curtidas": 0,
+      "publicado_em": "2025-03-14T00:28:22Z",
+      "atualizado_em": "2025-03-14T00:28:22Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyLZ3rrGONq2fZr2aZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu gosto do vs code... descobri o copilot a pouco tempo, e assim ela gilizar bastante a vida viu. Se vc fizer uma boa descrição da sua solução ele te economiza um bom tempo de debug. Acho que o segredo é buscar modularizar o problema, quebrando em partes menores pq assim desperdiça menos tempo. Acho util (y)",
+      "curtidas": 0,
+      "publicado_em": "2025-03-04T13:59:12Z",
+      "atualizado_em": "2025-03-04T13:59:12Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugwr1zx0XlVEAi3iRM54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou usando o Cursor e é absurdo a quantidade de coisas que ele ajuda e facilita, vc tem sim que tomar cuidados extras com o que ele gera e com o resultado final, mas de modo geral ajuda muito na produtividade!\n\nEu vejo que no futuro as empresas vão inclusive incentivar e pagar para que seus funcionários utilizem ferramentas como essas, por que no fim do dia se torna um diferencial competitivo.",
+      "curtidas": 1,
+      "publicado_em": "2025-02-22T14:46:57Z",
+      "atualizado_em": "2025-02-22T14:46:57Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxUXSrdYtfywD2hjNZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu gosto mesmo é de NetBeans pai. Rejeite a modernidade, abrace a tradição!",
+      "curtidas": 0,
+      "publicado_em": "2025-02-04T15:51:50Z",
+      "atualizado_em": "2025-02-04T15:51:50Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyvOImd4JIkh0Ggbf14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Experimentei o windsurf.. UAU",
+      "curtidas": 0,
+      "publicado_em": "2025-02-01T17:56:46Z",
+      "atualizado_em": "2025-02-01T17:56:46Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxMaxSqB7x48WeFCut4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "To usa do o zed, mt bom, DANE-SE a questao do rust, ele eh limpo e leve. Case closed",
+      "curtidas": 2,
+      "publicado_em": "2025-02-01T04:50:47Z",
+      "atualizado_em": "2025-02-01T04:50:47Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwXFomoGXGBFFwxbdl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nem sabia que existia outras além de inteligay, eclipiiiisss, vs code e visual studio",
+      "curtidas": 0,
+      "publicado_em": "2025-01-31T19:48:03Z",
+      "atualizado_em": "2025-01-31T19:48:03Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugzp7J_c1w_Tjl4qFGx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu só uso o neovim e o gpt no navegador mesmo",
+      "curtidas": 0,
+      "publicado_em": "2025-01-31T19:35:24Z",
+      "atualizado_em": "2025-01-31T19:35:24Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugyd_h0t1SfX7F8UKM94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Usava a Geany, recentemente estou experimentando (e gostando) da Kate. 🤷‍♂",
+      "curtidas": 1,
+      "publicado_em": "2025-01-31T15:53:30Z",
+      "atualizado_em": "2025-01-31T15:53:30Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwMOMTFR-_9DK2ZYBB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "- Zed falta muita coisa ainda e eles não tem capacidade alocada para avançar num ritmo razoável. Por exemplo, falta diff, coisa básica.\n- Qualquer fork de vscode é ruim pq vai sempre depender do vscode e nunca vai ter as mesma features. Dentre forks e o vscode prefiro o vscode com extensões. Tipo vscode com roocline ao invés de cursor.\n- Jetbrains é mt lento bloated, difícil de configurar, pago, etc.\n- Amo neovim, mas n˜åo tenho tempo para ficar corrigindo o ide. Quando me vi configurando o nvim pelo vscode caiu uma ficha haha\n\nÉ foda... eu uso vscode, mas queria usar uma coisa livre das Mag7... Espero que tenham coisas novas por aí, non-forked, e boas.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-29T22:18:50Z",
+      "atualizado_em": "2025-01-29T22:18:50Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyrRbVu9EY174Bi9o94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Utilizo Gemini para uso pessoal. Motivos: 1º Preço fixo em reais. 2º É uma das mais baratas. 3º Assinatura mensal sem amarras.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-27T20:44:00Z",
+      "atualizado_em": "2025-01-27T20:44:33Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugzff88kwubP-qRzwEN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o VSCode pois a minha primeira linha de código foi feita nele, acostumei desde então, tentei trocar pro webStorm mas não deu kkkkkkkk e uso o Copilot no vscode",
+      "curtidas": 0,
+      "publicado_em": "2025-01-27T00:29:28Z",
+      "atualizado_em": "2025-01-27T00:29:28Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugz4ydMw3tcQarHy7Kp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vscode copilot é cursor não tem como excelentes",
+      "curtidas": 0,
+      "publicado_em": "2025-01-24T04:45:37Z",
+      "atualizado_em": "2025-01-24T04:45:37Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgymVUysbcTZIIIF5HV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tentei usar a Cursor mas não consegui acostumar... VScode melhor pra min.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-22T13:19:55Z",
+      "atualizado_em": "2025-01-22T13:19:55Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzCfnvDfe6beSJBeYN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCode só é uma opção viável instalando as extensões do Vim e NeoVim. O mesmo posso dizer sobre o IntelliJ. Qualquer IDE que não suporte a troca do editor pelo Vim está fora do jogo",
+      "curtidas": 0,
+      "publicado_em": "2025-01-21T20:37:05Z",
+      "atualizado_em": "2025-01-21T20:37:05Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugy87AJXr86-q1ZQZ0Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "intellij pra programar em java é simplesmente absurdo",
+      "curtidas": 0,
+      "publicado_em": "2025-01-20T00:31:48Z",
+      "atualizado_em": "2025-01-20T00:31:48Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxJ_gNksKHqXxV9AYp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cadê o TurboC da Borland??",
+      "curtidas": 1,
+      "publicado_em": "2025-01-19T22:17:04Z",
+      "atualizado_em": "2025-01-19T22:17:04Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxoaoCSdkWofk86Tch4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não me vejo saindo do VSCode, e também estou avaliando desabilitar o auto complete às vezes atrapalha",
+      "curtidas": 1,
+      "publicado_em": "2025-01-18T17:10:04Z",
+      "atualizado_em": "2025-01-18T17:10:04Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugwi9qNkoX1sXR0ou7J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Minha opinião está fora do contexto aqui, mas prefiro POSITRON com fittencode para data science. É animal!",
+      "curtidas": 0,
+      "publicado_em": "2025-01-16T16:35:19Z",
+      "atualizado_em": "2025-01-16T16:35:19Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwoOewRiqYFUhMgOIB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu não sei nem fazer um CRUD direito ainda e já peri horas customizando o Neovim 😂",
+      "curtidas": 0,
+      "publicado_em": "2025-01-16T16:02:50Z",
+      "atualizado_em": "2025-01-16T16:02:50Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzIlS7DbhtQPMiYbLR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso a IDE do VBA que vem no Excel 😅",
+      "curtidas": 0,
+      "publicado_em": "2025-01-15T22:02:26Z",
+      "atualizado_em": "2025-01-15T22:02:26Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwplI8WR36YzD1KCsx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o Visual Studio no trabalho e é muito bom. Em casa uso o VS e o VS Code para estudar algo",
+      "curtidas": 0,
+      "publicado_em": "2025-01-15T12:37:20Z",
+      "atualizado_em": "2025-01-15T12:37:20Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugw9e0GaM6vUNtCWJR14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "\"Só faltava o NetBeans aqui...\"\n\nEu na hora: 🤢🤢🤢",
+      "curtidas": 0,
+      "publicado_em": "2025-01-14T15:14:47Z",
+      "atualizado_em": "2025-01-14T15:14:47Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzeAJq006CkHUNbmcp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Boas. Podes falar sobre programar por Hobby? Abraço aqui de Portugal",
+      "curtidas": 0,
+      "publicado_em": "2025-01-14T06:06:28Z",
+      "atualizado_em": "2025-01-14T06:06:28Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwW7RmOKGWFy2Ka5ud4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Para GameDev eu uso o Rider, agora pra web o VSCode mesmo kkkk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-14T00:17:05Z",
+      "atualizado_em": "2025-01-14T00:17:05Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugxu2ugvcu1xShiAVqB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "\"Não gosto de code review de humano vou lá trabalhar pra IA\" - mano eu rachei o bico kkkkkkk muito ~ban~ bom mano.\n\nIntellij Idea para Java, VSOCDE pro resto. Infelizmente ou felizmente ambos me atendem super bem e não tenho do que reclamar... Aliás eu pesco modelos de IA da Hugging Face e rodo no Jan... (Não é muito prático, mas consigo resultados melhores de vários lugares sem estresse e sem demora)... :D",
+      "curtidas": 0,
+      "publicado_em": "2025-01-13T21:22:34Z",
+      "atualizado_em": "2025-01-13T21:27:43Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzNz5CekEwMhp6aYdt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse ano comecei usando vim, usei doom emacs por bastante tempo e vscode, mas acho que 2025 é o ano do vim, aí escolhi usar lazyvim e adicionei copilot nele, porém pelo que percebi o copilot é mais um autocompletar do que escrever funções e classes",
+      "curtidas": 1,
+      "publicado_em": "2025-01-13T19:31:12Z",
+      "atualizado_em": "2025-01-13T19:31:12Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzgU-t0bPS836SaP1Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vscode e uso com o auto completar, ia fora por navegador gpt plano básico porque o 1o é mt bom mas infelizmente ta o olho da cara",
+      "curtidas": 0,
+      "publicado_em": "2025-01-13T11:14:33Z",
+      "atualizado_em": "2025-01-13T11:14:33Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugwj2l0gwvoUrPvDzT54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Dae Lucas, difícil eu comentar pq não tenho muitas esperanças de que vc vai ler 😂 mas queria te dizer que tenho me obrigado a usar copilot chat no vscode e tenho me impressionado como isso tem aumtendado minha produtividade. Sou dev a 15 anos e como eu falei, me obriguei a usar IA no meu workflow. É possível adicionar arquivos em um contexto e ter esta funcionalidade de chat. Recomendo que você dê uma chance a usar essas funcionalidades  para poder aumentar sua perspectiva sobre AI nas IDEs.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-13T11:05:05Z",
+      "atualizado_em": "2025-01-13T11:05:05Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx0aP7nhpoH9Ik3N-F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O que é moc?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-13T11:02:38Z",
+      "atualizado_em": "2025-01-13T11:02:38Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyEEoHMWqYMRjBn0XN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Lucas, perfeito este tipo análise, na correria sem tempo para ler um POST desse, um vídeo igual o seu com crítica , analise ajuda demais, parabéns 2 x",
+      "curtidas": 3,
+      "publicado_em": "2025-01-13T00:29:25Z",
+      "atualizado_em": "2025-01-13T00:29:56Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx1McadWrVDl2DX2vZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "WebMatrix😅",
+      "curtidas": 1,
+      "publicado_em": "2025-01-12T23:58:36Z",
+      "atualizado_em": "2025-01-12T23:58:36Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxhJk7FqDZ2mOLBfHl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso o WindSurf, é uma ótima IDE, deviam experimentar🤞.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T23:44:34Z",
+      "atualizado_em": "2025-01-12T23:44:34Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzGEiNHavhgWCMfuTt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "vscode é uma bosta pra Python",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T18:33:06Z",
+      "atualizado_em": "2025-01-12T18:33:06Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwXG9IM-oWc0whLYvl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cade o eclipse?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T15:18:41Z",
+      "atualizado_em": "2025-01-12T15:18:41Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugzm87F9ryZyMEXRFfx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "\"IAs dentro da IDE quebram meu flow..\"  FICANDO VELHO, Montano. kkkkkkk zueira",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T14:49:11Z",
+      "atualizado_em": "2025-01-12T14:49:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyMCbIwReQXwGi6u6F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "cara eu aualmente uso o windsurf e cursor eu tenho gostado muito, eu assinava o cursor e assinei o windsurf para poder comparar, e fica dificil decidir qual deixar de assinar hehehehe, os dois sao muito bons.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T12:42:49Z",
+      "atualizado_em": "2025-01-12T12:42:49Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwbDyfT0IhGbsSkY9d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Engraçado que no meu primeiro semestre do curso, uma professora enfiou goela abaixo o vi. A batucada de teclado quando o pessoal entra em um modo que não conhecia era insano kkk hoje eu uso o novo vi melhorado vulgo neovim. Mas independente da ide a forma de editar no vim é muito boa. Além do que a melhor parte é perder horas do dia, configurando ele kkk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T12:12:10Z",
+      "atualizado_em": "2025-01-12T12:12:10Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx8tNqX0zWVtd1WSuF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não aguento mais clicar nos vídeos do Lucas Montano do canal Lucas Montano achando que vai ser sobre um assunto x apenas mas é sobre assunto x + IA kkkkkkkkkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T04:10:53Z",
+      "atualizado_em": "2025-01-12T04:10:53Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyKeXC9JRh1ij32Wj94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Decepcionado que o Visualg com Copilot não está na lista...",
+      "curtidas": 5,
+      "publicado_em": "2025-01-11T23:08:52Z",
+      "atualizado_em": "2025-01-11T23:08:52Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwbbjuLq-E3JAjJ0Kx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Em fim, VS Code",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T22:28:41Z",
+      "atualizado_em": "2025-01-11T22:28:41Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugy3bq8D-pjmNNoTgeh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parece o Jimmy Neutron, valeu pelo video Lucas Montano do canal Lucas Montano",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T21:47:02Z",
+      "atualizado_em": "2025-01-11T21:47:02Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxyYVSM0c-MbPEuSr94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sério que vc pegou o conteúdo de outro lugar e simplesmente leu todo o trabalho de pesquisa e análise de dados no seu canal (fazendo dinheiro em cima do trabalho de outros) e sequer postou o link do trabalho original?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T19:09:13Z",
+      "atualizado_em": "2025-01-11T19:09:13Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxyYVSM0c-MbPEuSr94AaABAg.ADA4l-Bb34tADVXsrOcgkA",
+      "comentario_pai_id": "UgxyYVSM0c-MbPEuSr94AaABAg",
+      "tipo": "resposta",
+      "texto": "Kkkkkkk tá descobrindo que existe vídeo react só agora?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-20T03:07:45Z",
+      "atualizado_em": "2025-01-20T03:07:45Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugw6li1q2R4tQIV_Slp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sempre usei VSCODE mas estou usando hoje o Cursor por conta de IA.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T18:51:38Z",
+      "atualizado_em": "2025-01-11T18:51:38Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugyjk3pwB0RuDxZOYyl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Minha pasta com blocos de códigos pré formatados é coisa do passado.😂😂😂",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T18:05:15Z",
+      "atualizado_em": "2025-01-11T18:05:15Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzyaVJwZJc-xJwLloh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Frescura, eu uso vim até hoje sem nada disso",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T15:59:11Z",
+      "atualizado_em": "2025-01-11T15:59:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyIbCcCUzjCIBFIKiF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o VS Code, gosto muito, acho que ele ainda tem muito a melhorar e não uso IA, eu sou a IA. SQN",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T14:53:53Z",
+      "atualizado_em": "2025-01-11T14:53:53Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugxbm_OL3c3lK1A41lF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vscode copilot e GPT-4o",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T14:39:49Z",
+      "atualizado_em": "2025-01-11T14:39:49Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwfZ46bQwZLsJJ1fdV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não acredito, fiz uma baita pesquisa sobre isso esta manhã!\nUm tempo atrás eu tava pesquisando sobre Andoird/iPhone e vc lançou um vídeo e falou exatamente do tema interferindo na minha decisão.\n\nE agora tô aqui preparando meu ambiente IDE/AI e vem este. \nEstranho.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-11T14:07:32Z",
+      "atualizado_em": "2025-01-11T14:07:32Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwfZ46bQwZLsJJ1fdV4AaABAg.AD9YEQL_z8WAD9Zlm2VI_k",
+      "comentario_pai_id": "UgwfZ46bQwZLsJJ1fdV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Isso de IDE/AI foi só hoje, uso apenas os editores simples, e agora migrando para NVIM",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T14:20:58Z",
+      "atualizado_em": "2025-01-11T14:20:58Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugww-YS1DeDbs2YONoV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A onde eu trabalho agente usava o o VSCODE e mudados para o Cursos, eu dou um 8/10 porém toda equipe reclama que ele é muito inconvenientes as vezes e ele tem TODOS os Bugs que o VsCode tem e pessoalmente eu uso o Iintellij ultimate que dispensa qualquer comentário 10/10",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T13:55:51Z",
+      "atualizado_em": "2025-01-11T14:13:09Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugzylm9L-9Myp314MQV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou muito satisfeito com meu NVIM",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T13:24:32Z",
+      "atualizado_em": "2025-01-11T13:24:32Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugxoqb1cygwfCHhKjjd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Xcode",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T12:05:59Z",
+      "atualizado_em": "2025-01-11T12:05:59Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwauySACwSsY1OeoFl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Se nem eu sei oque eu coloquei no projeto imagina deixar uma i.a intrusiva colocar qualquer coisa lá, prefiro pegar minha duvida ir no gpt e copiar a solução dele, autocomplete atrapalha muito meu fluxo",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T11:18:57Z",
+      "atualizado_em": "2025-01-11T11:19:18Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzwKPz8OWhcksKOv2N4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu sou um noia que estou agora arrebentando o Ghostty",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T10:43:55Z",
+      "atualizado_em": "2025-01-11T10:43:55Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxV_qwb0GONGq80lvV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso joe",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T03:51:51Z",
+      "atualizado_em": "2025-01-11T03:51:51Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgydBAZe9d1o18OOJ1J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "uso arch linux com neo vim",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T02:50:41Z",
+      "atualizado_em": "2025-01-11T02:50:41Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyKumpBDPdwX8c97ut4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara.. Eu podia ouvir o Lucas montano, o Fábio Akita e o mano Deivin o dia inteiro....kkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T01:23:15Z",
+      "atualizado_em": "2025-01-11T01:23:15Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxB605Coa3NSFe9pn54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ano passado saí do VSCode para o nvim. Valeu muiito a pena!!!!",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T01:07:15Z",
+      "atualizado_em": "2025-01-11T01:07:15Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxIIsJD3MzexhKytqh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A qualidade do trabalho depende mais do desenvolvedor do que da ferramenta.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T01:04:11Z",
+      "atualizado_em": "2025-01-11T01:04:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwtUUsrQCYlIP4bYAF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vscode se destaca porque abraçou várias stacks muito bem numa tacada só. Vs code com copilot ou o cursor matam a pau.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T00:58:21Z",
+      "atualizado_em": "2025-01-11T00:58:21Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzWTERmiiZ4g8bPdHB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sei não, minha experiência na área é pequena ainda, mas se não for por uma coisa muito específica, eu prefiro ter o máximo de controle no que eu estou desenvolvendo.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T00:44:33Z",
+      "atualizado_em": "2025-01-11T00:44:33Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwU6snBMCV6FT0dFeR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não troco jetbrains por nada nesse mundo. Bom demais!",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T00:22:54Z",
+      "atualizado_em": "2025-01-11T00:22:54Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwVer6aoYdyzhLTVUx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "turma do neovim 👇",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T00:02:39Z",
+      "atualizado_em": "2025-01-11T00:04:17Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx6ENN1RztfKQ_V3SN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quais as IDEs que as grandes empresas usam? Empresas como TOTVS, Microsoft; Oracle, SAP, Adobe, Autodesk, Siemens, Aple, Google e outros desse porte para desenvolver seus aplicativos?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T23:26:56Z",
+      "atualizado_em": "2025-01-10T23:26:56Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx6ENN1RztfKQ_V3SN4AaABAg.AD7ySdsfBILAD8BY4vVicg",
+      "comentario_pai_id": "Ugx6ENN1RztfKQ_V3SN4AaABAg",
+      "tipo": "resposta",
+      "texto": "A que o DEV quiser, dentro das permitidas pela equipe de segurança",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T01:30:00Z",
+      "atualizado_em": "2025-01-11T01:30:00Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzX2-kJl14o8QEV5Z14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou sofrendo tendo que compilar a cada update no Zed, mas tenho que falar que a performance dele está fantastica",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T22:50:32Z",
+      "atualizado_em": "2025-01-10T22:51:34Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxWKP31wpWBOrDkAjJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso VScode mas desativo tudo sobre IA. Gosto de quebrar a cabeça pensando na logica, nome para funcoes e variaveis e outras etapas do desenvolvimento. Só uso IA para aprender mesmo, nada de colar problema, copiar e pronto. Se tem erro eu começo perguntando \"o que é, onde surgiu, pra que serve\", depois peço exemplos, estudo, e tento resolver o problema, se eu nao resolver ai sim vou para o que 99% dos devs fazem hoje \"como..., meu app ta com esse err, etc\". Meu desenvolvimento nao é rapido, a equipe aqui mesmo fala, porém... é o melhor, NUNCA travou em testes, quase nunca volta para correcao, e por focar em estudar sou o mais novo da equipe porem o responsavel por tirar duvida de TODA equipe. Parece que a galera la, travou, ninguem se atualiza, ta tenso essas IAs.",
+      "curtidas": 2,
+      "publicado_em": "2025-01-10T22:33:56Z",
+      "atualizado_em": "2025-01-10T22:33:56Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx8FMA-iO1hfxv7Gth4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Windsurf é muito bom!!",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T22:08:36Z",
+      "atualizado_em": "2025-01-10T22:08:36Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwJRuJl51wKku6gT5t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim é viciante.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T22:06:08Z",
+      "atualizado_em": "2025-01-10T22:06:08Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxgqZyCMvBAn1Xivgl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sinto falta do Emacs.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T21:59:30Z",
+      "atualizado_em": "2025-01-10T21:59:30Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxJiVI22VWq6Zw3TK14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não  adianta falar para rapaziada que digitar com 10 dedos é melhor que catar milho , o mesmo se aplica IDE , brasileiro  gosta de gambiarra  , faz parte da cultura e também  da criatividade e alguns casos da falta de qualidade de trabalho  q fazemos",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T21:49:28Z",
+      "atualizado_em": "2025-01-10T21:49:28Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxJiVI22VWq6Zw3TK14AaABAg.AD7nIrXcDMKAD85aj8gFA8",
+      "comentario_pai_id": "UgxJiVI22VWq6Zw3TK14AaABAg",
+      "tipo": "resposta",
+      "texto": "O que seria um ide gambiarra?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T00:38:04Z",
+      "atualizado_em": "2025-01-11T00:38:04Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzrIuOQzQY7poFF36l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim ... gosto de customização  dos atalhos do teclado e o complete do neovim me ajudou muito a melhorar meu conhecimento  da linguagem e a minha produtividade",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T21:34:35Z",
+      "atualizado_em": "2025-01-10T21:34:35Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxbwSwTiaETv6LOwrR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "man vc precisa tirar uns  dias e dormir  bem....  suas pupilas e está  demonstrando isso.... mas sobre ta  top",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T21:14:05Z",
+      "atualizado_em": "2025-01-10T21:14:05Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgznK-KqwPQfnKPTyWB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "No Windows eu uso o bloco de notas.\nNo Linux eu uso o vi.\n\nIronia😂😂😂.\n\nEu uso o Qt creator para C e C++ e o visual Studio Community para dotnet.\nVScode para python.\nToad for Oracle para PL/SQL.\nNotepad++ para pequenas modificações.\n...",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T20:44:29Z",
+      "atualizado_em": "2025-01-10T20:44:29Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzNM-YfKCS9lbz35Il4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "minha IA é o chat gpt da web mesmo minha ide ta só o pó kkkkkkkk",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T20:26:27Z",
+      "atualizado_em": "2025-01-10T20:26:27Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzOsetvOuucyITJlqN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu consegui substituir o VSCode pelo Zed e tá sendo um trade off muito bom. Eles melhoraram e continuam melhorando muito o editor!",
+      "curtidas": 3,
+      "publicado_em": "2025-01-10T20:25:30Z",
+      "atualizado_em": "2025-01-10T20:25:30Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzOsetvOuucyITJlqN4AaABAg.AD7dgq8W5MeADEaGVtc8AM",
+      "comentario_pai_id": "UgzOsetvOuucyITJlqN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Zed parece mt bom, mas ainda não saiu para Windows e não quero ficar compilando toda hora que sair update",
+      "curtidas": 0,
+      "publicado_em": "2025-01-13T13:10:14Z",
+      "atualizado_em": "2025-01-13T13:10:14Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzMC-mXmHf7qmWfEH54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vi, não precisa nem mandar um apt-get, não tem frescura, os shortcuts são um tesão. Não é questão de ser underground ou geek, é questão de praticidade mesmo.\nMas se for fazer um app do zero, eu uso o vscode. Se for java, uso o elipse.\n\nps: obrigado por não ter citado o nano.",
+      "curtidas": 3,
+      "publicado_em": "2025-01-10T20:00:21Z",
+      "atualizado_em": "2025-01-10T20:00:21Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzMC-mXmHf7qmWfEH54AaABAg.AD7aodAcD15AD7n_eVJfQI",
+      "comentario_pai_id": "UgzMC-mXmHf7qmWfEH54AaABAg",
+      "tipo": "resposta",
+      "texto": "nano é muito mais prático pra alterações rápidas pelo terminal",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T21:51:54Z",
+      "atualizado_em": "2025-01-10T21:51:54Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzMC-mXmHf7qmWfEH54AaABAg.AD7aodAcD15AD7oj3uWDxH",
+      "comentario_pai_id": "UgzMC-mXmHf7qmWfEH54AaABAg",
+      "tipo": "resposta",
+      "texto": "@guim55 NUNCA! Dica de ninja: Faz uma colinha dos shotcuts do vi e cola do lado do monitor. Quando vc se habituar, vai até embrulhar o seu estômago quando ver alguém digitando nano no terminal. E não é por frescura, é por eficiência mesmo.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T22:01:55Z",
+      "atualizado_em": "2025-01-10T22:01:55Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzMC-mXmHf7qmWfEH54AaABAg.AD7aodAcD15AD8AzzbNyj3",
+      "comentario_pai_id": "UgzMC-mXmHf7qmWfEH54AaABAg",
+      "tipo": "resposta",
+      "texto": "@qualeaarte889 eu fico exatamente assim quando vejo alguem usando nano kkkkk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T01:25:13Z",
+      "atualizado_em": "2025-01-11T01:25:13Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxfJYQLApIHKK0jOP94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tentei usar outras, tentei o Vscode, mas a JetBrains faz um excelente tabalho..",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T19:57:53Z",
+      "atualizado_em": "2025-01-10T19:57:53Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx7wnZhoF4a3yqRFEt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "windsurf e ótimo!! \nestou usando ele",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T19:55:06Z",
+      "atualizado_em": "2025-01-10T19:55:06Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugz5UbZCjzeC9QAFyIp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso neovim pq é rapido e o vim motions ajudam demais. Mas tem muito dev foda onde trabalho que usa vscode, teclado de membrana e entrega mais que eu. Nao é a ferramenta, é o dev.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T19:50:18Z",
+      "atualizado_em": "2025-01-10T19:57:03Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgztyW9wyS1RkgRF_nl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Lucas Montano",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T19:17:02Z",
+      "atualizado_em": "2025-01-10T19:17:02Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgypmMbQvvkEunCo5-p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aqui no banco que trabalho é vscode puro... nem extensões podemos instalar... que dirá um copilot  =(",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T19:16:08Z",
+      "atualizado_em": "2025-01-10T19:16:08Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzLLkQJL4_MtDfcCPF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Totalmente errado o Sublime Text não estar nessa lista.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T18:43:11Z",
+      "atualizado_em": "2025-01-10T18:43:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzLLkQJL4_MtDfcCPF4AaABAg.AD7SzUY4LWEAD86cPNSmuj",
+      "comentario_pai_id": "UgzLLkQJL4_MtDfcCPF4AaABAg",
+      "tipo": "resposta",
+      "texto": "meuamigo, sublime morreu há uns 7 anos e só eu e você não aceitamos aspokpasokaspk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T00:47:02Z",
+      "atualizado_em": "2025-01-11T00:47:02Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzA2hK9Y7aRDDQlBkB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "meu intelijj ❤‍🔥",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T18:39:25Z",
+      "atualizado_em": "2025-01-10T18:39:25Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgywKkdDZDZ7S3o2DoV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "aprendi a programar no pluma, toda vez que vou abrir o vscode agradeço po n ter que digitar toda a head do HTML na mão",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T18:36:14Z",
+      "atualizado_em": "2025-01-10T18:36:34Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwfFAH-N8PXkaU8yfR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "cursor pro 100% não olho mais pra vscode com copilot",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T18:30:08Z",
+      "atualizado_em": "2025-01-10T18:30:08Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx1Aq3hSVMrb_8Ouyx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Atom foi esquecida pelos devs, usava muito em 2017 kkkkk",
+      "curtidas": 2,
+      "publicado_em": "2025-01-10T18:28:21Z",
+      "atualizado_em": "2025-01-10T18:28:21Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx1Aq3hSVMrb_8Ouyx4AaABAg.AD7RHmTVeYHADBiYo8TqWd",
+      "comentario_pai_id": "Ugx1Aq3hSVMrb_8Ouyx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ele não foi esquecido foi descontinuado pelo Microsoft quando ela comprou o Github, para favorece o vscode, mas pode usar o Zed que do mesmo criador",
+      "curtidas": 2,
+      "publicado_em": "2025-01-12T10:24:55Z",
+      "atualizado_em": "2025-01-12T10:24:55Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx1eIABisAv5eH8vHV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bora de VS Code !\nSou iniciante e vou começar um curso técnico na área de informática. \nTenho praticado algoritmos usando sempre o Visual Studio Code como IDE junto com o Copilot para gerar os exercícios pra mim. Estou aprendendo um pouco de Python embora eu ainda acredite que no meu curso eles utilizarão a linguagem Java. No entanto, pelo menos a parte de lógica de programação estará mais aprimorada até o início do curso, eu espero ! \nCreio que aprender Python também pode ser útil de qualquer forma !",
+      "curtidas": 5,
+      "publicado_em": "2025-01-10T18:25:05Z",
+      "atualizado_em": "2025-01-10T18:25:52Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyK3kwXl04R2uNeuLN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O cara do Tabnine criou o supermaven (o que uso atualmente) e é o que achei mais eficiente, pois ele aprende como eu quero que ele autocomplete.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T18:08:53Z",
+      "atualizado_em": "2025-01-10T18:08:53Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwVFzfRsLlMU-StT1p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Recente sai do VSCode e migrei para o Goland da JetBrains, achei mas completo para Go",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T18:02:00Z",
+      "atualizado_em": "2025-01-10T18:02:00Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwVFzfRsLlMU-StT1p4AaABAg.AD7OGqgYF_tAD7ag4T6slJ",
+      "comentario_pai_id": "UgwVFzfRsLlMU-StT1p4AaABAg",
+      "tipo": "resposta",
+      "texto": "A JetBrains é muito compotente mesmo. Já usei PyCharm, Rider e são muito bons tb. Pessoal do php elogia muito o PhpStorm. \nEntretanto, eu acabo passando mais tempo no VS Code (na verdade o Cursor AI atualmente) por ser mais agnóstico.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T19:59:11Z",
+      "atualizado_em": "2025-01-10T19:59:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwgpEB390lWnUsmayV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cursor  + Goland + IntellIj",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T17:41:33Z",
+      "atualizado_em": "2025-01-10T17:41:33Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxCQP69ibTJR7_DPEl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Windsurf pra mim é muito melhor que cursor",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T17:31:44Z",
+      "atualizado_em": "2025-01-10T17:31:44Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzqO_pE4CuEK-frZ054AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Atualmente eu uso NVIM, eu comecei a usar a um tempo por conta da ergonomia (desculpa para comprar um teclado split), outro motivo é que eu gosto bastante de terminal, só isso mesmo",
+      "curtidas": 21,
+      "publicado_em": "2025-01-10T17:20:45Z",
+      "atualizado_em": "2025-01-10T17:20:45Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzqO_pE4CuEK-frZ054AaABAg.AD7JYdjSoQRAD_UPP2YK_h",
+      "comentario_pai_id": "UgzqO_pE4CuEK-frZ054AaABAg",
+      "tipo": "resposta",
+      "texto": "tu geralmente usa o nvim para quais fins? uso corporativo, pessoal, alguma linguagem em específico...?",
+      "curtidas": 1,
+      "publicado_em": "2025-01-22T01:13:35Z",
+      "atualizado_em": "2025-01-22T01:13:35Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzqO_pE4CuEK-frZ054AaABAg.AD7JYdjSoQRADaK1r8Evq-",
+      "comentario_pai_id": "UgzqO_pE4CuEK-frZ054AaABAg",
+      "tipo": "resposta",
+      "texto": "@lorenzopandolfo5358  é minha ide, uso pra desenvolver código",
+      "curtidas": 0,
+      "publicado_em": "2025-01-22T09:02:13Z",
+      "atualizado_em": "2025-01-22T09:02:13Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzqO_pE4CuEK-frZ054AaABAg.AD7JYdjSoQRAE8I10PLGCI",
+      "comentario_pai_id": "UgzqO_pE4CuEK-frZ054AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu amo vim, mas configurar é uma merda.",
+      "curtidas": 1,
+      "publicado_em": "2025-02-04T22:58:03Z",
+      "atualizado_em": "2025-02-04T22:58:03Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzqO_pE4CuEK-frZ054AaABAg.AD7JYdjSoQRAEA8WWFqLmt",
+      "comentario_pai_id": "UgzqO_pE4CuEK-frZ054AaABAg",
+      "tipo": "resposta",
+      "texto": "@jeff-erson eu sinto que o vim é mais usado em linguagens como C, Go e em casos de uso mais pessoal, projetos próprios...\n\neu não me vejo trabalhando com Java e usando o vim, pra mim é impossível.\n\nEntão quando as pessoas falam que vim dá um ganho de produtividade, acho que depende muito do caso de uso, linguagem e sem falar que tem uma grande curva de aprendizado.\n\ntambém sinto que as pessoas que usam vim sentem a necessidade de exibir isso para os outros, como se ele fosse superior a uma IDE. Beleza, tu usa vim, mas o que tu programa de fato?\n\nagora editar arquivos de configurações pelo terminal, por exemplo, o vim pra mim é ótimo!",
+      "curtidas": 1,
+      "publicado_em": "2025-02-05T16:13:27Z",
+      "atualizado_em": "2025-02-05T16:13:27Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyDf_iC-ni6Fnop4uJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Java eclipse",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T17:14:11Z",
+      "atualizado_em": "2025-01-10T17:14:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxTFmfI616X0thOoJ94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "é supérfulo afiar o machado antes de cortar a árvore? 🤷‍♂",
+      "curtidas": 2,
+      "publicado_em": "2025-01-10T17:11:16Z",
+      "atualizado_em": "2025-01-10T17:11:16Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxTFmfI616X0thOoJ94AaABAg.AD7ITCRYpdOAD8Tcmae9FH",
+      "comentario_pai_id": "UgxTFmfI616X0thOoJ94AaABAg",
+      "tipo": "resposta",
+      "texto": "supérfluo*",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T04:08:04Z",
+      "atualizado_em": "2025-01-11T04:08:04Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugzo7ZROoq8Um6jW5jR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "2:32 eu me lembro bem que ouvi falar dele (Tabnine) pelo Deschamps lá nas idas de 2019 se não me engano. E eu cheguei a utilizar no meu finado vscode.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T16:48:00Z",
+      "atualizado_em": "2025-01-10T16:48:29Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxM5fXRqNmZzvMxfG54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cadê o Frontpage 98 com copilot?",
+      "curtidas": 9,
+      "publicado_em": "2025-01-10T16:42:21Z",
+      "atualizado_em": "2025-01-10T16:42:21Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxM5fXRqNmZzvMxfG54AaABAg.AD7F9W0-7ZDAD7uKJj6NQd",
+      "comentario_pai_id": "UgxM5fXRqNmZzvMxfG54AaABAg",
+      "tipo": "resposta",
+      "texto": "Só boomer entendeu",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T22:50:50Z",
+      "atualizado_em": "2025-01-10T22:50:50Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwHgf_Qd_mXbzTC98R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu tenho usado o Windsurf. O agent realmente é bom, mas já estou olhando pra trás e com vontade de voltar a assinar o Cursor.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T16:24:14Z",
+      "atualizado_em": "2025-01-10T16:24:14Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwHgf_Qd_mXbzTC98R4AaABAg.AD7D4kYOQ-XAD7Gm6T2vtt",
+      "comentario_pai_id": "UgwHgf_Qd_mXbzTC98R4AaABAg",
+      "tipo": "resposta",
+      "texto": "Qual seria a razão de querer voltar pro Cursor?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T16:56:30Z",
+      "atualizado_em": "2025-01-10T16:56:30Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx-nX7O0luEdw6P2cF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara, tô trabalhando tem 30 dias como dev, e estou esquecendo de beber água. Beba água",
+      "curtidas": 3,
+      "publicado_em": "2025-01-10T16:22:33Z",
+      "atualizado_em": "2025-01-10T16:22:33Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx_FDOA-6_i4FBNI2h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu usando emacs kkkkkkkk",
+      "curtidas": 2,
+      "publicado_em": "2025-01-10T16:21:37Z",
+      "atualizado_em": "2025-01-10T16:21:37Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugw7AQIxbjeH3ncmrHV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu estou usando o windsurf, e é bem gostozinho de usar",
+      "curtidas": 3,
+      "publicado_em": "2025-01-10T16:14:48Z",
+      "atualizado_em": "2025-01-10T16:14:48Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxZABAdABd5oNRjcHd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "i use neovim btw",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T16:14:31Z",
+      "atualizado_em": "2025-01-10T16:14:31Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxGm_AgNRIunKWdHOd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "lembrando que jetbrains tem a licença free pra galera da faculdade",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T16:07:38Z",
+      "atualizado_em": "2025-01-10T16:07:38Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzJNc54UPMJ32JymDB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Lucas, se você tá sabendo de algo, fala da taxa que o Trump vai cobrar para estrangeiros latinos que enviam dinheiro para seu país de origem. Segundo andei lendo, as remetesse tax podem variar de 30% até 50% de pessoas que estão nos EUA enviando dinheiro para qualquer país latino americano, e esse dinheiro da taxa os EUA vão usar para construir o wall border dos EUA... Aí fico pensando, quem faz remoto para empresa gringa, vai pagar essa taxa?\nE quem é bostileiro e ganha no youtuber, será que vai ser taxado?\nCaraleo, 50% é mto imposto!!!!",
+      "curtidas": 4,
+      "publicado_em": "2025-01-10T16:04:32Z",
+      "atualizado_em": "2025-01-10T16:04:32Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzJNc54UPMJ32JymDB4AaABAg.AD7ApRZ04usAD7B_EvZDY_",
+      "comentario_pai_id": "UgzJNc54UPMJ32JymDB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sério isso?\nEu vi isso na cnn mas não tinha entendido.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T16:11:03Z",
+      "atualizado_em": "2025-01-10T16:11:03Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzJNc54UPMJ32JymDB4AaABAg.AD7ApRZ04usAD7Iu3-SpzL",
+      "comentario_pai_id": "UgzJNc54UPMJ32JymDB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Isso só reforça como eles odeiam latino. Maaas, o que eu vi de notícia é que seria 10% a nível federal e alguns estados mais conservadores entrando na onda com 30-40%. O que reforça que o wall border é só uma desculpa esfarrapada, assim como de que a maioria do dinheiro é pra pagar coiotes. Mais de 80% dos imigrantes latinos estão legalmente no pais legalmente, e muito dos que entraram ilegalmente entraram legalmente.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T17:15:04Z",
+      "atualizado_em": "2025-01-10T17:15:04Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzJNc54UPMJ32JymDB4AaABAg.AD7ApRZ04usAD7LKsFkh3y",
+      "comentario_pai_id": "UgzJNc54UPMJ32JymDB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Isso é o que eu entendi:\n\nEssa taxa é pra imigrante que mora nos EUA e envia dinheiro para a America Latina. Então se você estiver morando nos EUA, recebe teu dinheiro nos EUA e manda dinheiro para uma conta no Brasil, teria que pagar a taxa, mas se você mora no Brasil e recebe o dinheiro na sua conta aqui, não paga.\n\nBasicamente se o dinheiro sair de uma empresa nos EUA e for pra tua conta PJ no Brasil, ta tudo certo. Se sair de uma conta \"PF\" nos EUA e for pra uma conta \"PF\" no Brasil, paga. Se ele taxar essa transferecia de PF pra PF vai ficar quase impossivel qualquer empresa na America Latina vender pros EUA.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T17:36:20Z",
+      "atualizado_em": "2025-01-10T17:36:20Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzJNc54UPMJ32JymDB4AaABAg.AD7ApRZ04usAD7qNCwUkoe",
+      "comentario_pai_id": "UgzJNc54UPMJ32JymDB4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ghuller Também entendi mais ou menos isso, mas achei que ficou mal explicado o negócio de ser remoto. Em outro artigo, dizia que se essa taxa fosse aprovada, acabaria com serviços de remessas em dólar pro Brasil, como, Transferwise, paypal etc, Aí pensei tb em como isso iria afetar não só quem trampa lá sendo imigrante, mas em quase todos os setores, incluindo o yutube... Bizarro mano, 30%-50%?",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T22:16:17Z",
+      "atualizado_em": "2025-01-10T22:16:17Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugzvf0k1oMZnb1Clzi54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faltou o Devin. Devin tá 500 leleu.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:57:01Z",
+      "atualizado_em": "2025-01-10T15:57:01Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxG3eT4uZ1DES3h2qJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "pra mim, quanto menos IA melhor, hoje uso Jetbrains sem nada de IA (inclusive a janela de autocomplete só sendo invocada quando eu preciono ctrl+space) , quebra muito toda  a linha de pensamento pra ficar fazendo mini reviews conforme vai desenvolvendo\nentendo quem gosta, sei que pode ser muito benefica, mas depois de tanto tempo sem isso é dificil fazer funcionar pra mim",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:56:54Z",
+      "atualizado_em": "2025-01-10T15:56:54Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyBXnVceKbOC1XCejB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sobre o último comentário do vídeo, no meio de tanta nova ferramenta de IA, eu tentei testar, mas depois de uma semana voltei pro meu sublime, e não olho pra trás",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:52:14Z",
+      "atualizado_em": "2025-01-10T15:52:14Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyBXnVceKbOC1XCejB4AaABAg.AD79QNCpMR0AD86Wjit5hh",
+      "comentario_pai_id": "UgyBXnVceKbOC1XCejB4AaABAg",
+      "tipo": "resposta",
+      "texto": "achei ele... o doido do sublime apsokapsokaspokas tmj meu bom",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T00:46:08Z",
+      "atualizado_em": "2025-01-11T00:46:08Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwiLyyTDjfJZPfX64h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "2:28 a jetbrains já tem sua ia própria",
+      "curtidas": 5,
+      "publicado_em": "2025-01-10T15:49:01Z",
+      "atualizado_em": "2025-01-10T15:49:01Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwiLyyTDjfJZPfX64h4AaABAg.AD792ojdyrhADHmf4Rncj3",
+      "comentario_pai_id": "UgwiLyyTDjfJZPfX64h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Não é própria, e sim do ChatGPT integrada; inclusive, é uma preocupação recente deles em usar o ChatGPT, pois ficaram reféns deles nesse quesito.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-14T18:56:18Z",
+      "atualizado_em": "2025-01-14T18:56:18Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Notepad++ não tá na lista?",
+      "curtidas": 113,
+      "publicado_em": "2025-01-10T15:47:53Z",
+      "atualizado_em": "2025-01-10T15:47:53Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD7LAUpNwjD",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vscode + Notepad++ winmerge + Postman + chatgpt + Git  e minha ferramentaria no meu caso docker so para uso pessoal",
+      "curtidas": 6,
+      "publicado_em": "2025-01-10T17:34:56Z",
+      "atualizado_em": "2025-01-10T17:35:59Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD7LPcwXE4W",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Notepad++ tem IA? A lista é com IA",
+      "curtidas": 5,
+      "publicado_em": "2025-01-10T17:36:59Z",
+      "atualizado_em": "2025-01-10T17:36:59Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD7LmQRh749",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ Só Inteligência Humana",
+      "curtidas": 9,
+      "publicado_em": "2025-01-10T17:40:14Z",
+      "atualizado_em": "2025-01-10T17:40:14Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD7R48jyyP9",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "notepad++ é aquele programa que substitui o bloco de notas e ajuda a dar uma olhada rápida no código fonte de algum arquivo kkkkkkk",
+      "curtidas": 7,
+      "publicado_em": "2025-01-10T18:26:29Z",
+      "atualizado_em": "2025-01-10T18:26:29Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD7Y7fc0aKV",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "@thomashelwys1474 ele e um canivete suíço usando os plugins da pra fazer varias coisas comparar fontes automatizar alterações em arquivos json e xml  NFE  trabalhar com arquivos CNAB eu ja fiz programa em python inteiros nele e de muita ajuda. e claro que fui zuera o cara citar o Notepad++ mas tem o seu valor",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T19:28:08Z",
+      "atualizado_em": "2025-01-10T19:28:08Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD7YmyF3dQo",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ericksonfpv tem o plug-in /nppopenai   ele também ja ta no hype da IA kkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T19:33:55Z",
+      "atualizado_em": "2025-01-10T19:33:55Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD7g8HyqKoT",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Faltou o vi do Linux.😂😂😂😂😂😂😂😂😂",
+      "curtidas": 3,
+      "publicado_em": "2025-01-10T20:46:52Z",
+      "atualizado_em": "2025-01-10T20:46:52Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD92oBNV4LL",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "@thomashelwys1474 eu tbm uso só pra leituras e estudos rápidos de códigos. Agora pra codar projetos a sério, vou vscode e intellij idea",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T09:32:56Z",
+      "atualizado_em": "2025-01-11T09:32:56Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD975gxxfBu",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Adorei essa! KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+      "curtidas": 1,
+      "publicado_em": "2025-01-11T10:10:25Z",
+      "atualizado_em": "2025-01-11T10:10:25Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiAD9B6JI4Un1",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pow sdd quando eu deixava 60 mil comandos salvos",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T10:45:27Z",
+      "atualizado_em": "2025-01-11T10:45:27Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiADF1zRYZBkk",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sublime e neovim",
+      "curtidas": 0,
+      "publicado_em": "2025-01-13T17:21:11Z",
+      "atualizado_em": "2025-01-13T17:21:25Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzEk9EgjBSSJQnTk0x4AaABAg.AD78vYDJeOiADFd3sC9wWV",
+      "comentario_pai_id": "UgzEk9EgjBSSJQnTk0x4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@candidomribeiro pse ngm falando do nano ai",
+      "curtidas": 0,
+      "publicado_em": "2025-01-13T22:53:58Z",
+      "atualizado_em": "2025-01-13T22:53:58Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx_uineqtpLtcR2hOh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não sei pra que inventar moda, vscode já tem quase tudo, só falta uma bind pra subir ou descer pra outra função",
+      "curtidas": 5,
+      "publicado_em": "2025-01-10T15:47:18Z",
+      "atualizado_em": "2025-01-10T15:47:18Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugx_uineqtpLtcR2hOh4AaABAg.AD78rHsL81uADAH1Xc6cEV",
+      "comentario_pai_id": "Ugx_uineqtpLtcR2hOh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu uso o vs code. Seria bom eles melhorarem a view do projeto no menu esquerdo. As vezes fica dificil visualizar a estrutura de diretórios  quando tem mtos niveis",
+      "curtidas": 0,
+      "publicado_em": "2025-01-11T20:56:28Z",
+      "atualizado_em": "2025-01-11T20:56:28Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugw3_TjOiPTEd5d2wx94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Você é o Lucas Montano mesmo?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:43:44Z",
+      "atualizado_em": "2025-01-10T15:43:44Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugw1vJrRa8oaGN3_Vzd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso bloco de notas e terminal existe como usar outra coisa\n\n\n\n\n\n\nBrincadeiras a parte uso itelij e Android Studio",
+      "curtidas": 9,
+      "publicado_em": "2025-01-10T15:42:11Z",
+      "atualizado_em": "2025-01-10T15:42:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyHDvzIZSFH27u3wBd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Será que sou o único que gosta do visual studio, sem ser o vscode? Uso o Visual Studio IDE com github copilot.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:40:47Z",
+      "atualizado_em": "2025-01-10T15:40:47Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugz_qO3UzjdnZDOr-J94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O negócio é virar soldador\nPq existia ferro antes de Jesus e existe até hoje",
+      "curtidas": 17,
+      "publicado_em": "2025-01-10T15:39:42Z",
+      "atualizado_em": "2025-01-10T15:39:42Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugz_qO3UzjdnZDOr-J94AaABAg.AD77z_JY2twAD7BDqL3oZj",
+      "comentario_pai_id": "Ugz_qO3UzjdnZDOr-J94AaABAg",
+      "tipo": "resposta",
+      "texto": "Qualquer trabalho braçal vai ser escasso no futuro",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T16:08:00Z",
+      "atualizado_em": "2025-01-10T16:08:00Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugz_qO3UzjdnZDOr-J94AaABAg.AD77z_JY2twAD7RR6MUWQy",
+      "comentario_pai_id": "Ugz_qO3UzjdnZDOr-J94AaABAg",
+      "tipo": "resposta",
+      "texto": "@Mettha600 cara, foi uma piada..",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T18:29:37Z",
+      "atualizado_em": "2025-01-10T18:29:37Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugz_qO3UzjdnZDOr-J94AaABAg.AD77z_JY2twAD7f2_iWtkT",
+      "comentario_pai_id": "Ugz_qO3UzjdnZDOr-J94AaABAg",
+      "tipo": "resposta",
+      "texto": "​@shikanoko666o pior é que não foi.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T20:37:21Z",
+      "atualizado_em": "2025-01-10T20:37:21Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgwnjEISqxATwN_8Dy14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso o windsurf e cursor",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:29:58Z",
+      "atualizado_em": "2025-01-10T15:29:58Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugxa4VnokxddnumVDOh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu pago 20$ pelo Cursor, ja testei varios e para mim é o melhor, vale a pena o dinheiro e poupa-me horas de trabalho",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:21:23Z",
+      "atualizado_em": "2025-01-10T15:21:23Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugxa4VnokxddnumVDOh4AaABAg.AD75tVDyh0AAD7cSIOUUGQ",
+      "comentario_pai_id": "Ugxa4VnokxddnumVDOh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Demais, cara! Eu consegui adiantar tantas tarefas em poucos dias",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T20:14:38Z",
+      "atualizado_em": "2025-01-10T20:14:38Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgxanzkxZ-eIE2zchg94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "sou engenheiro de dados e trabalho na globo mais especificamente na Globo play na parte de pipelines e também faço manutenção no modelo de IA pra obtenção de metadados em tempo real pra alimentar os bancos de dados que o modelo de recomendação usa pra alterar as recomendações em tempo real na tela do cliente. terça feira tava falando com uns amigos que moram perto de casa e que conheço há muitos anos, aí do nada a gente começou um assunto bem específico sobre eles estarem cansados da parte matemática na faculdade de CC. \n\neu me formei em estatística, então me acostumei mas cara, me surpreendo como que a galera programadora atualmente não tem nenhum domínio matemático em nenhuma área. você pergunta pra os caras coisas super básicas tipo o que é uma distribuição de poisson, o que é um teste de normalidade, uma variável não paramétrica, ou coisas assim bem básicas mesmo e os caras não sabem... e daí já vi bastante relato de pessoas tentarem entrar na área de ciência de dados/nteligência artificial e se frustrarem porque descobrem que nessa área o mais essencial não é saber código e sim o domínio matemático e a fundamentação teórica dessas coisas. \n\nestudem galera, quanto mais especializados vocês forem, maior o leque de possibilidades pra buscar vagas vocês tem.talvez seja essa a diferença maior entre programadores mais antigos e os mais novos, os mais antigos não aprendiam apenas o necessário, mas sim aprendiam tudo de forma mais profunda. é por isso que tem uma montanha de programador ganhando 2 3 mil reais por mês quando se tivesse se especializado um pouco mais, poderia estar ganhando mais",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:21:15Z",
+      "atualizado_em": "2025-01-10T15:21:15Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyXdvjrQpYxikuO4cN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual a real opinião de vocês sobre o Cursor?",
+      "curtidas": 2,
+      "publicado_em": "2025-01-10T15:18:19Z",
+      "atualizado_em": "2025-01-10T15:18:19Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyXdvjrQpYxikuO4cN4AaABAg.AD75XoZb4v1AD79AaGKVim",
+      "comentario_pai_id": "UgyXdvjrQpYxikuO4cN4AaABAg",
+      "tipo": "resposta",
+      "texto": "VScode c tem uma IA embutida.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T15:50:05Z",
+      "atualizado_em": "2025-01-10T15:50:05Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyXdvjrQpYxikuO4cN4AaABAg.AD75XoZb4v1AD7EbsHjnU9",
+      "comentario_pai_id": "UgyXdvjrQpYxikuO4cN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu gosto do cursor do mouse",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T16:37:38Z",
+      "atualizado_em": "2025-01-10T16:37:38Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyXdvjrQpYxikuO4cN4AaABAg.AD75XoZb4v1AD7FFenOvzl",
+      "comentario_pai_id": "UgyXdvjrQpYxikuO4cN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Bom, mas eu prefiro a solução da Codeium: Windsurf. Quem usa Cursor pode dar uma conferida que eu achei melhor",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T16:43:12Z",
+      "atualizado_em": "2025-01-10T16:43:12Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgyXdvjrQpYxikuO4cN4AaABAg.AD75XoZb4v1ADD9BtObP6z",
+      "comentario_pai_id": "UgyXdvjrQpYxikuO4cN4AaABAg",
+      "tipo": "resposta",
+      "texto": "@moimsk8Também achei melhor o WindSurf em relação ao Cursor.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T23:45:42Z",
+      "atualizado_em": "2025-01-12T23:45:42Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugy0-YS3ykFBwyeyIhp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu tenho muitas, mas \"intelijeeeeei\" e \"viéssicode\" são minhas favoritas.",
+      "curtidas": 36,
+      "publicado_em": "2025-01-10T15:13:10Z",
+      "atualizado_em": "2025-01-10T15:13:10Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qualquer IDE do Jetbrains, não consigo usar VSCode",
+      "curtidas": 24,
+      "publicado_em": "2025-01-10T15:12:32Z",
+      "atualizado_em": "2025-01-10T15:12:32Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKAD794afEpPT",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "Jetbrains é vida !!",
+      "curtidas": 6,
+      "publicado_em": "2025-01-10T15:49:16Z",
+      "atualizado_em": "2025-01-10T15:49:16Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKAD7FM6dz2Z4",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu não uso vs code 💅💅",
+      "curtidas": 8,
+      "publicado_em": "2025-01-10T16:44:05Z",
+      "atualizado_em": "2025-01-10T16:44:05Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKAD85Y0-dRBV",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "não é nem q vscode é bom, mas as IDE da Jetbrains é maravilhoso, dps q comecei a trabalhar nela, nunca mais voltei pro vscode",
+      "curtidas": 2,
+      "publicado_em": "2025-01-11T00:37:34Z",
+      "atualizado_em": "2025-01-11T00:37:34Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKADC_OfLRuPK",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "Quem usa VSCode é lélé da cuca",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T18:24:08Z",
+      "atualizado_em": "2025-01-12T18:24:08Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKADCb_PfiilO",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "@danielneto6619  é só IDE parceiro kkk, lelé é quem se acha melhor por usar vim",
+      "curtidas": 1,
+      "publicado_em": "2025-01-12T18:43:13Z",
+      "atualizado_em": "2025-01-12T18:43:13Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKADCd_shDicg",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "@ quem usa vim é mais lélé ainda",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T19:00:45Z",
+      "atualizado_em": "2025-01-12T19:00:45Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKADCeZI30-dh",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "@danielneto6619  KAKAKAKAKA",
+      "curtidas": 0,
+      "publicado_em": "2025-01-12T19:09:16Z",
+      "atualizado_em": "2025-01-12T19:09:16Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzsAhZo9NDFq4oUyh54AaABAg.AD74scJ6rOKADMM9w53SSm",
+      "comentario_pai_id": "UgzsAhZo9NDFq4oUyh54AaABAg",
+      "tipo": "resposta",
+      "texto": "WebStorm simplesmente funciona.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-16T13:32:11Z",
+      "atualizado_em": "2025-01-16T13:32:11Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzJMvv25ZCqZQpTFfZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "acabei de instalar zed",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:09:22Z",
+      "atualizado_em": "2025-01-10T15:09:22Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "UgzDdNn4pSZrLOBrba14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Before i using vscode, actually utility Cursor, nothing for alternative.",
+      "curtidas": 1,
+      "publicado_em": "2025-01-10T15:03:53Z",
+      "atualizado_em": "2025-01-10T15:03:53Z"
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "comentario_id": "Ugy422Ds3QxGILKgF8F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "58 segundo eh insano",
+      "curtidas": 0,
+      "publicado_em": "2025-01-10T15:01:49Z",
+      "atualizado_em": "2025-01-10T15:01:49Z"
+    }
+  ]
+}

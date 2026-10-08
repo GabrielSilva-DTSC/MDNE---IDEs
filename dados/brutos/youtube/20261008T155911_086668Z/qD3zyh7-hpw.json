@@ -1,0 +1,586 @@
+{
+  "video": {
+    "id": "qD3zyh7-hpw",
+    "url": "https://www.youtube.com/watch?v=qD3zyh7-hpw",
+    "titulo": "Qual a Melhor IDE para Python? PyCharm, VSCode, Jupyter, Colab",
+    "canal": "Hashtag Programação",
+    "publicado_em": "2024-02-27T20:00:30Z",
+    "comentarios_informados_pela_api": 56
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-08T15:59:11.089662+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 3334,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-08T15:59:15.051785+00:00",
+    "total": 56,
+    "principais": 35,
+    "respostas": 21,
+    "requisicoes": 10
+  },
+  "comentarios": [
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwV1qMEHRqOYp675mV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fala galera!\r\nGostou do vídeo? Deixa a sua curtida e se inscreve no canal!\r\n\r\n► Para baixar o Minicurso de Python, acesse: https://pages.hashtagtreinamentos.com/inscricao-minicurso-python-automacao-org?origemurl=hashtag_yt_org_minipython_qD3zyh7-hpw\r\n\r\n► Para instalar o Jupyter, acesse: https://www.youtube.com/watch?v=_eK0z5QbpKA \r\n\r\n► Blog: https://bit.ly/2MRUZs0\r\n► YouTube: http://bit.ly/3c0LJQi\r\n► Instagram: https://bit.ly/3o6dw42\r\n► Facebook: http://bit.ly/3qGtaF2",
+      "curtidas": 13,
+      "publicado_em": "2024-02-27T20:26:07Z",
+      "atualizado_em": "2024-02-27T20:26:07Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugw3GUWYn6EdinTqHsR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o colab, tô gostando dele, pra quem tá aprendendo é ótimo",
+      "curtidas": 0,
+      "publicado_em": "2026-08-16T04:54:12Z",
+      "atualizado_em": "2026-08-16T04:54:12Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugw42BiZQoNQEku21Yt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sim, porem, no Pycharm também tem à extensão Jupyter.",
+      "curtidas": 0,
+      "publicado_em": "2026-06-17T16:57:02Z",
+      "atualizado_em": "2026-06-17T16:59:34Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugxl7S9OA1z07xJT_654AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Lyra!! Meu PC é muito fraco!!! Dual core com 4GB de RAM, e 1TB de HD. Dá pra estudar e praticar Análise de dados com o Colab????? Ou serei obrigado a investir em hardware? Qual seria sua escolha?",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T14:36:01Z",
+      "atualizado_em": "2026-02-05T14:36:01Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwmaJr9_momz8m_0y94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim aqui para procurar alternativas ao VSCODE\n\nVSCODE é um lixo,\n\nConfigurar ambiente virtual é um saco.\n\nE sempre dá problema com a conexão WSL",
+      "curtidas": 0,
+      "publicado_em": "2026-01-22T16:25:19Z",
+      "atualizado_em": "2026-01-22T16:26:09Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzcBABW8aLT7P4TXRZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente explicação",
+      "curtidas": 0,
+      "publicado_em": "2025-12-25T04:28:21Z",
+      "atualizado_em": "2025-12-25T04:28:21Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwFajFmIm5Gpd6sqZJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A pergunta agora é, qual a melhor IDE para usar junto com IA?. Precisamos deste tópico.",
+      "curtidas": 0,
+      "publicado_em": "2025-11-24T23:47:48Z",
+      "atualizado_em": "2025-11-24T23:47:48Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgxGUkgXijm1cvW_Ndd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "jupter é o mesmo que google colab?",
+      "curtidas": 0,
+      "publicado_em": "2025-10-12T13:42:35Z",
+      "atualizado_em": "2025-10-12T13:42:35Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgxiOe8JWEvAPvb1R0V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O vscode é leve e funcional, mas a integração com o Conda é muito bugada. Se for utilizar o tensorflow em GPU,  prepare para ter um ambiente instável(no reconhecimento da GPU) que vai requerer configurações manuais para o terminal\n o pycharm é bruto, integrado com Conda sem frescura.",
+      "curtidas": 2,
+      "publicado_em": "2025-07-15T11:40:46Z",
+      "atualizado_em": "2025-07-15T11:43:41Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgxIaqWDVacXG8uskWZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou estudando Ciência de Dados e fico muito de bobeira com seus videos, suas linhas de raciocínio a praticidade nas explicações, muito top mesmo, parabéns 👍",
+      "curtidas": 13,
+      "publicado_em": "2025-05-11T21:45:05Z",
+      "atualizado_em": "2025-05-11T21:45:05Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgxsuIv6s3IJzIoyBe54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo",
+      "curtidas": 0,
+      "publicado_em": "2025-04-23T14:27:01Z",
+      "atualizado_em": "2025-04-23T14:27:01Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgyVNivsgAd7zDHakFR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já existe o Jupyter Lite online também!",
+      "curtidas": 5,
+      "publicado_em": "2025-01-25T23:36:48Z",
+      "atualizado_em": "2025-01-25T23:36:48Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgyoRn2XoYLliLRIG9l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso a Geany e acho maravilhoso",
+      "curtidas": 0,
+      "publicado_em": "2024-12-07T22:48:13Z",
+      "atualizado_em": "2024-12-07T22:48:13Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgxhmBHROgoRJVkuigZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Braboo!",
+      "curtidas": 0,
+      "publicado_em": "2024-12-01T20:32:34Z",
+      "atualizado_em": "2024-12-01T20:32:34Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzP0JAU0V0ResxuXxV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Usei a bastante tempo o Pycharm. O abandonei pois drena muito a memória ram",
+      "curtidas": 3,
+      "publicado_em": "2024-11-16T16:08:20Z",
+      "atualizado_em": "2024-11-16T16:08:20Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzP0JAU0V0ResxuXxV4AaABAg.AAuZY800WHZAU8ME20rHeZ",
+      "comentario_pai_id": "UgzP0JAU0V0ResxuXxV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ola! e agora tá usando qual?",
+      "curtidas": 0,
+      "publicado_em": "2026-03-09T15:57:05Z",
+      "atualizado_em": "2026-03-09T15:57:05Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzRJH0XeahCVgmpI4p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parece que algumas bibliotecas não funcionam mais no PyCharm Comunnity, e aí vc precisa usar o professional, que é pago...",
+      "curtidas": 0,
+      "publicado_em": "2024-10-25T03:39:06Z",
+      "atualizado_em": "2024-10-25T03:39:06Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgxU86ATbB4Ylyv_3vx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Melhor editor é o Notepad, aí roda em qualquer máquina...kkkkkkk",
+      "curtidas": 2,
+      "publicado_em": "2024-10-05T01:33:38Z",
+      "atualizado_em": "2024-10-05T01:33:38Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzRIZbEy0dXyv0270x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu gosto do vscode, mas pra usar o debug eu não curti achei bem estranho, o pycharm community se sai bem melhor para debugar. Talvez seja eu que precise aprender como usar o debug do vscode para Python mas o pycharm já vem bem mais apresentável e fácil de usar",
+      "curtidas": 1,
+      "publicado_em": "2024-09-22T20:02:08Z",
+      "atualizado_em": "2024-09-22T20:02:08Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgznwUyBcRDhDyRV0kJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Acho que a melhor IDE depende do que vc vai fazer.... e do próprio Programador",
+      "curtidas": 1,
+      "publicado_em": "2024-09-04T20:56:47Z",
+      "atualizado_em": "2024-09-04T20:56:47Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgxoQ10TAY5KuRm2Nq94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "vídeo incrível. estou engatinhando em programação em python e tenho usado o vscode. estou achando incrível e mais ainda, as possibilidades que podem ser alcançadas com python. \nObrigado pelo vídeo.",
+      "curtidas": 3,
+      "publicado_em": "2024-08-31T21:15:29Z",
+      "atualizado_em": "2024-08-31T21:15:29Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugzfu38A3V8k0duBnk54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom!",
+      "curtidas": 0,
+      "publicado_em": "2024-07-30T13:38:17Z",
+      "atualizado_em": "2024-07-30T13:38:17Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugx6KLrwOU0AQp0_OYx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom o vídeo, parabéns. Tirou várias dúvidas minhas 🫡",
+      "curtidas": 0,
+      "publicado_em": "2024-07-22T20:01:40Z",
+      "atualizado_em": "2024-07-22T20:01:40Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwTWHFnh4IidfJtXnJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faltou lembrar que o VS Code é gratuito e o pyCharm é pago. Muito bom o vídeo.",
+      "curtidas": 15,
+      "publicado_em": "2024-07-03T13:49:40Z",
+      "atualizado_em": "2024-07-03T13:49:40Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwTWHFnh4IidfJtXnJ4AaABAg.A5R7ZYLlw3iA5psDYPtqG5",
+      "comentario_pai_id": "UgwTWHFnh4IidfJtXnJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "tem a versão community",
+      "curtidas": 12,
+      "publicado_em": "2024-07-13T13:47:07Z",
+      "atualizado_em": "2024-07-13T13:47:07Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzY-PIGZN3LuiWPYk94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gostei dos esclarecimentos, grato!  Se eu quiser fazer um app via web ou mobile qual o ide vc indicaria?",
+      "curtidas": 1,
+      "publicado_em": "2024-06-16T23:35:13Z",
+      "atualizado_em": "2024-06-16T23:35:13Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgyxibLyZxLXBhbZqLh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimas explicações!",
+      "curtidas": 1,
+      "publicado_em": "2024-06-05T23:18:59Z",
+      "atualizado_em": "2024-06-05T23:18:59Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwWsk5IldTMWslJQZ94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual desses ide e melhor pra notebook fraco,porque tô testando o pycharm e ele tá matando meu notebook",
+      "curtidas": 4,
+      "publicado_em": "2024-05-07T17:59:13Z",
+      "atualizado_em": "2024-05-07T17:59:51Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwWsk5IldTMWslJQZ94AaABAg.A38noRQydOKA59cSuDIC_C",
+      "comentario_pai_id": "UgwWsk5IldTMWslJQZ94AaABAg",
+      "tipo": "resposta",
+      "texto": "Visual Studio Code",
+      "curtidas": 3,
+      "publicado_em": "2024-06-26T18:42:03Z",
+      "atualizado_em": "2024-06-26T18:42:03Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwWsk5IldTMWslJQZ94AaABAg.A38noRQydOKA6gY2ouvKuL",
+      "comentario_pai_id": "UgwWsk5IldTMWslJQZ94AaABAg",
+      "tipo": "resposta",
+      "texto": "Colab",
+      "curtidas": 1,
+      "publicado_em": "2024-08-03T19:20:22Z",
+      "atualizado_em": "2024-08-03T19:20:22Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwWsk5IldTMWslJQZ94AaABAg.A38noRQydOKA8eN7cKnxga",
+      "comentario_pai_id": "UgwWsk5IldTMWslJQZ94AaABAg",
+      "tipo": "resposta",
+      "texto": "Ele explode kkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2024-09-21T16:09:13Z",
+      "atualizado_em": "2024-09-21T16:09:13Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwWsk5IldTMWslJQZ94AaABAg.A38noRQydOKAPnc0mh9KPn",
+      "comentario_pai_id": "UgwWsk5IldTMWslJQZ94AaABAg",
+      "tipo": "resposta",
+      "texto": "Amigo ele respondeu isso no vídeo",
+      "curtidas": 0,
+      "publicado_em": "2025-11-21T19:14:57Z",
+      "atualizado_em": "2025-11-21T19:14:57Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwOMfrHmZF_AOcsOB94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso VScode e PyCharm",
+      "curtidas": 1,
+      "publicado_em": "2024-04-17T14:45:56Z",
+      "atualizado_em": "2024-04-17T14:45:56Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwOMfrHmZF_AOcsOB94AaABAg.A2KxnHsbHV6A2zWz1vPm74",
+      "comentario_pai_id": "UgwOMfrHmZF_AOcsOB94AaABAg",
+      "tipo": "resposta",
+      "texto": "estou com um BO com o vscode, todas as alterações que eu faço, eu preciso fechar e reabrir vscode para ele entender a modificação",
+      "curtidas": 0,
+      "publicado_em": "2024-05-03T18:10:59Z",
+      "atualizado_em": "2024-05-03T18:10:59Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwOMfrHmZF_AOcsOB94AaABAg.A2KxnHsbHV6A315T3Nblel",
+      "comentario_pai_id": "UgwOMfrHmZF_AOcsOB94AaABAg",
+      "tipo": "resposta",
+      "texto": "@marcosbarquet rapaz, nunca tive esse problema, ele roda minhas alterações de forma tranquila",
+      "curtidas": 1,
+      "publicado_em": "2024-05-04T18:08:16Z",
+      "atualizado_em": "2024-05-04T18:08:16Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwOMfrHmZF_AOcsOB94AaABAg.A2KxnHsbHV6A59cXksv9V8",
+      "comentario_pai_id": "UgwOMfrHmZF_AOcsOB94AaABAg",
+      "tipo": "resposta",
+      "texto": "@marcosbarquet estou com mesmo BO",
+      "curtidas": 0,
+      "publicado_em": "2024-06-26T18:42:43Z",
+      "atualizado_em": "2024-06-26T18:42:43Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugx-O4EkoHBGYanfY3V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pra galera da Engenharia Mec/Eletrica que mexe muito com gráficos, análise estruturais,  ambiente semelhante ao matlab para simulações etc, quais IDEs vc recomendaria?",
+      "curtidas": 11,
+      "publicado_em": "2024-03-13T05:13:21Z",
+      "atualizado_em": "2024-03-13T05:15:12Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugx-O4EkoHBGYanfY3V4AaABAg.A0uoRxmqLbyA551E8e2aAI",
+      "comentario_pai_id": "Ugx-O4EkoHBGYanfY3V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu uso pycharm",
+      "curtidas": 1,
+      "publicado_em": "2024-06-24T23:51:02Z",
+      "atualizado_em": "2024-06-24T23:51:02Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugx-O4EkoHBGYanfY3V4AaABAg.A0uoRxmqLbyA7A-MrDYOIU",
+      "comentario_pai_id": "Ugx-O4EkoHBGYanfY3V4AaABAg",
+      "tipo": "resposta",
+      "texto": "pycharm",
+      "curtidas": 0,
+      "publicado_em": "2024-08-15T15:13:44Z",
+      "atualizado_em": "2024-08-15T15:13:44Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugx-O4EkoHBGYanfY3V4AaABAg.A0uoRxmqLbyAAl-WS6BKlT",
+      "comentario_pai_id": "Ugx-O4EkoHBGYanfY3V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Utilize o spyder, que vem no pacote anaconda. Ele é semelhante ao matlab, scilab, octave.",
+      "curtidas": 5,
+      "publicado_em": "2024-11-12T23:00:22Z",
+      "atualizado_em": "2024-11-12T23:00:22Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugx-O4EkoHBGYanfY3V4AaABAg.A0uoRxmqLbyAB4OAfMQlQb",
+      "comentario_pai_id": "Ugx-O4EkoHBGYanfY3V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vscode mano",
+      "curtidas": 1,
+      "publicado_em": "2024-11-20T21:00:40Z",
+      "atualizado_em": "2024-11-20T21:00:40Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzG4dct4DzpPjRMrgR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vixi ,usar sistema 32bits hoje em dia ,vou testar Editor Atom for python",
+      "curtidas": 2,
+      "publicado_em": "2024-03-11T07:26:59Z",
+      "atualizado_em": "2024-03-11T07:26:59Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwoBszcIl2304dUTkF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não consigo colocar o vscode para funcionar nem com reza",
+      "curtidas": 4,
+      "publicado_em": "2024-03-05T17:42:15Z",
+      "atualizado_em": "2024-03-05T17:42:15Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwoBszcIl2304dUTkF4AaABAg.A0bYmyegX9TA17MMIUyh2u",
+      "comentario_pai_id": "UgwoBszcIl2304dUTkF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Conseguiu resolver?",
+      "curtidas": 0,
+      "publicado_em": "2024-03-18T11:28:33Z",
+      "atualizado_em": "2024-03-18T11:28:33Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwoBszcIl2304dUTkF4AaABAg.A0bYmyegX9TA5fRQTwk4NX",
+      "comentario_pai_id": "UgwoBszcIl2304dUTkF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu tava com problema com o tkinter. Resolvi baixando direto do site ao invés de usar o app  que fazia parte da \"loja de app\"...",
+      "curtidas": 0,
+      "publicado_em": "2024-07-09T12:31:48Z",
+      "atualizado_em": "2024-07-09T12:31:48Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzoK_zsaSbT8_JkTL94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "uso o vscode. no entanto, acho um pouco complicada a troca entre ambientes virtuais nele",
+      "curtidas": 10,
+      "publicado_em": "2024-02-29T08:37:46Z",
+      "atualizado_em": "2024-02-29T08:37:46Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzGUHGdiFx2wlieBq54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Videos sempre muito bons, vlw Brian O'conner da programação!",
+      "curtidas": 17,
+      "publicado_em": "2024-02-29T04:32:34Z",
+      "atualizado_em": "2024-02-29T04:32:34Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgzgQrPTNSCl8G3kt6d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "muto bom",
+      "curtidas": 1,
+      "publicado_em": "2024-02-28T03:09:05Z",
+      "atualizado_em": "2024-02-28T03:09:05Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwDOgo2-hUJmSbbDHl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Microsoft Word >>>>>>",
+      "curtidas": 10,
+      "publicado_em": "2024-02-27T20:48:20Z",
+      "atualizado_em": "2024-02-27T20:48:20Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwDOgo2-hUJmSbbDHl4AaABAg.A0KrWonQkiMA1zLRA7-e4i",
+      "comentario_pai_id": "UgwDOgo2-hUJmSbbDHl4AaABAg",
+      "tipo": "resposta",
+      "texto": "KKKKKKK",
+      "curtidas": 0,
+      "publicado_em": "2024-04-08T19:58:42Z",
+      "atualizado_em": "2024-04-08T19:58:42Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwDOgo2-hUJmSbbDHl4AaABAg.A0KrWonQkiMA2rjpXWSBGy",
+      "comentario_pai_id": "UgwDOgo2-hUJmSbbDHl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Credo 😂",
+      "curtidas": 0,
+      "publicado_em": "2024-04-30T17:38:05Z",
+      "atualizado_em": "2024-04-30T17:38:05Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwDOgo2-hUJmSbbDHl4AaABAg.A0KrWonQkiMA3n7hcSsJ0k",
+      "comentario_pai_id": "UgwDOgo2-hUJmSbbDHl4AaABAg",
+      "tipo": "resposta",
+      "texto": "powershell>>>",
+      "curtidas": 2,
+      "publicado_em": "2024-05-23T19:10:39Z",
+      "atualizado_em": "2024-05-23T19:10:39Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwDOgo2-hUJmSbbDHl4AaABAg.A0KrWonQkiMA4Z9cvcfwIN",
+      "comentario_pai_id": "UgwDOgo2-hUJmSbbDHl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Kkkkkkkkkkk😅kkkkk😂",
+      "curtidas": 0,
+      "publicado_em": "2024-06-11T20:10:17Z",
+      "atualizado_em": "2024-06-11T20:10:17Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "UgwDOgo2-hUJmSbbDHl4AaABAg.A0KrWonQkiMA5dhuhwxyVY",
+      "comentario_pai_id": "UgwDOgo2-hUJmSbbDHl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Bloco de notas ------>",
+      "curtidas": 1,
+      "publicado_em": "2024-07-08T20:26:08Z",
+      "atualizado_em": "2024-07-08T20:26:08Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugyijx2yeALTWWhuUyZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fixa, primeiro a comentar. \n\nDepende muito, no meu caso como eu tenho um bom notebook eu prefiro o Pycharm, mas tbm uso o Vscode, já testei todos esses.❤",
+      "curtidas": 1,
+      "publicado_em": "2024-02-27T20:16:43Z",
+      "atualizado_em": "2024-02-27T20:20:57Z"
+    },
+    {
+      "video_id": "qD3zyh7-hpw",
+      "comentario_id": "Ugyijx2yeALTWWhuUyZ4AaABAg.A0KnuBmiEUrA0L0aLSvyoF",
+      "comentario_pai_id": "Ugyijx2yeALTWWhuUyZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Poderia falar o processador?",
+      "curtidas": 0,
+      "publicado_em": "2024-02-27T22:16:20Z",
+      "atualizado_em": "2024-02-27T22:16:20Z"
+    }
+  ]
+}

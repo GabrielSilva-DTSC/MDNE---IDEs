@@ -1,0 +1,37 @@
+{
+  "iniciada_em": "2026-10-08T15:59:11.089427+00:00",
+  "resultados": [
+    {
+      "video_id": "qD3zyh7-hpw",
+      "status": "concluido",
+      "total": 56,
+      "json": "qD3zyh7-hpw.json",
+      "csv": "qD3zyh7-hpw.csv",
+      "requisicoes": 10
+    },
+    {
+      "video_id": "40QyA5f3Qo0",
+      "status": "concluido",
+      "total": 137,
+      "json": "40QyA5f3Qo0.json",
+      "csv": "40QyA5f3Qo0.csv",
+      "requisicoes": 17
+    },
+    {
+      "video_id": "Sd_PpMlPmWY",
+      "status": "concluido",
+      "total": 180,
+      "json": "Sd_PpMlPmWY.json",
+      "csv": "Sd_PpMlPmWY.csv",
+      "requisicoes": 25
+    }
+  ],
+  "requisicoes": 52,
+  "orcamento_total": 10000,
+  "orcamentos_por_video": {
+    "qD3zyh7-hpw": 3334,
+    "40QyA5f3Qo0": 3333,
+    "Sd_PpMlPmWY": 3333
+  },
+  "finalizada_em": "2026-10-08T15:59:31.104978+00:00"
+}

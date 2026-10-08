@@ -1,9 +1,11 @@
 entidade,tipo,frequencia
-Engenharia de Software,LOC,1
-Scrum,LOC,1
-Amei,PER,1
-Microsoft,ORG,1
-Google,ORG,1
-GitHub Copilot,MISC,1
-Brasil,LOC,1
-Python,MISC,1
+EUA,LOC,9
+HTML,MISC,6
+Brasil,LOC,6
+Jetbrains,LOC,6
+Vscode,LOC,5
+repl.it,ORG,4
+Python,MISC,4
+VS Code,MISC,4
+Lucas,MISC,4
+Lucas Montano,PER,4
