@@ -10,4 +10,4 @@ __pycache__/
 .idea/
 
 # Resultados das coletas; mantém o código e a estrutura de pastas versionáveis.
-dados/brutos/youtube/
+

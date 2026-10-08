@@ -25,6 +25,7 @@ COTA_PADRAO = 10_000
 VIDEOS_PADRAO = [
     "https://www.youtube.com/watch?v=qD3zyh7-hpw",
     "https://www.youtube.com/watch?v=40QyA5f3Qo0",
+    "https://www.youtube.com/watch?v=Sd_PpMlPmWY",
 ]
 COLUNAS_CSV = [
     "video_id", "comentario_id", "comentario_pai_id", "tipo", "texto",
@@ -317,7 +318,7 @@ def salvar_coleta(resultado, pasta):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--videos", nargs="+", default=VIDEOS_PADRAO,
-                        help="URLs ou IDs dos vídeos. Por padrão, usa os dois vídeos do projeto.")
+                        help="URLs ou IDs dos vídeos. Por padrão, usa os três vídeos do projeto.")
     parser.add_argument("--limite", type=int, default=500,
                         help="Total por vídeo, incluindo respostas. 0 = todos disponíveis.")
     parser.add_argument("--sem-respostas", action="store_true",
