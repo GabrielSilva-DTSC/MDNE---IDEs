@@ -1,0 +1,8 @@
+pandas
+spacy
+pysentimiento
+langdetect
+emoji
+matplotlib
+seaborn
+wordcloud

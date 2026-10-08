@@ -1,0 +1,132 @@
+{
+  "video": {
+    "id": "SIMULADO0001",
+    "titulo": "Vídeo simulado A"
+  },
+  "coleta": {
+    "status": "concluido",
+    "simulado": true
+  },
+  "comentarios": [
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c0",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Explicação muito clara, parabéns! Ajudou demais 👏",
+      "curtidas": 0,
+      "publicado_em": "2026-10-01T10:00:00Z",
+      "atualizado_em": "2026-10-01T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c1",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo kkkkk mas o áudio estava baixo",
+      "curtidas": 7,
+      "publicado_em": "2026-10-02T10:00:00Z",
+      "atualizado_em": "2026-10-02T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c2",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aos 12:34 ele erra o exemplo, ficou confuso",
+      "curtidas": 3,
+      "publicado_em": "2026-10-03T10:00:00Z",
+      "atualizado_em": "2026-10-03T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c3",
+      "comentario_pai_id": "SIMULADO0001_c2",
+      "tipo": "resposta",
+      "texto": "Péssimo, conteúdo enganoso e muito chato 😡",
+      "curtidas": 10,
+      "publicado_em": "2026-10-04T10:00:00Z",
+      "atualizado_em": "2026-10-04T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c4",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "@fulano concordo, melhor aula sobre testes de software",
+      "curtidas": 6,
+      "publicado_em": "2026-10-05T10:00:00Z",
+      "atualizado_em": "2026-10-05T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c5",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Great video, thanks for the explanation and examples!",
+      "curtidas": 2,
+      "publicado_em": "2026-10-06T10:00:00Z",
+      "atualizado_em": "2026-10-06T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c6",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "https://exemplo.com/material",
+      "curtidas": 9,
+      "publicado_em": "2026-10-01T10:00:00Z",
+      "atualizado_em": "2026-10-01T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c7",
+      "comentario_pai_id": "SIMULADO0001_c6",
+      "tipo": "resposta",
+      "texto": "Gostei da parte de Engenharia de Software e do Scrum",
+      "curtidas": 5,
+      "publicado_em": "2026-10-02T10:00:00Z",
+      "atualizado_em": "2026-10-02T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c8",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "kkkkkkk",
+      "curtidas": 1,
+      "publicado_em": "2026-10-03T10:00:00Z",
+      "atualizado_em": "2026-10-03T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c9",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não entendi nada, muuuito rápido",
+      "curtidas": 8,
+      "publicado_em": "2026-10-04T10:00:00Z",
+      "atualizado_em": "2026-10-04T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c10",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Amei o canal, conteúdo top 😂😂",
+      "curtidas": 4,
+      "publicado_em": "2026-10-05T10:00:00Z",
+      "atualizado_em": "2026-10-05T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0001",
+      "comentario_id": "SIMULADO0001_c11",
+      "comentario_pai_id": "SIMULADO0001_c10",
+      "tipo": "resposta",
+      "texto": "Mais ou menos, esperava mais exemplos",
+      "curtidas": 0,
+      "publicado_em": "2026-10-06T10:00:00Z",
+      "atualizado_em": "2026-10-06T10:00:00Z"
+    }
+  ]
+}

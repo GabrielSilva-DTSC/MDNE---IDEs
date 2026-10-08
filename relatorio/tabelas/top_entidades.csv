@@ -1,0 +1,9 @@
+entidade,tipo,frequencia
+Engenharia de Software,LOC,1
+Scrum,LOC,1
+Amei,PER,1
+Microsoft,ORG,1
+Google,ORG,1
+GitHub Copilot,MISC,1
+Brasil,LOC,1
+Python,MISC,1
