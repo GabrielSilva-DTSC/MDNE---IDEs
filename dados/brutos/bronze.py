@@ -21,14 +21,15 @@ from urllib.request import Request, urlopen
 # Calculamos os caminhos a partir deste arquivo, sem depender do diretório atual.
 RAIZ_PROJETO = Path(__file__).resolve().parents[2]
 # Estes três endpoints de leitura custam 1 unidade por requisição.
+# Estes três endpoints de leitura custam 1 unidade por requisição.
 COTA_PADRAO = 10_000
 VIDEOS_PADRAO = [
     "https://www.youtube.com/watch?v=qD3zyh7-hpw",
     "https://www.youtube.com/watch?v=40QyA5f3Qo0",
+    "https://www.youtube.com/watch?v=Sd_PpMlPmWY",
 ]
 COLUNAS_CSV = [
     "video_id", "comentario_id", "comentario_pai_id", "tipo", "texto",
-    "curtidas", "publicado_em", "atualizado_em",
 ]
 
 
