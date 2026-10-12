@@ -10,7 +10,7 @@ ORDEM = ["positivo", "neutro", "negativo"]
 
 
 def intervalo_wilson(k: int, n: int, z: float = 1.96):
-    """IC de 95% para uma proporção. Com poucos comentários o intervalo é largo — mostre isso."""
+    """IC de 95% para uma proporção. Com poucos comentários, o intervalo é largo."""
     if n == 0:
         return (0.0, 0.0)
     p = k / n
