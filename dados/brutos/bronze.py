@@ -91,6 +91,15 @@ def extrair_id_video(url_ou_id):
     return identificador
 
 
+def ler_links_csv(caminho):
+    """Lê a coluna link_video de um CSV (ex.: dados/brutos/videos.csv), ignorando linhas vazias."""
+    with Path(caminho).open(encoding="utf-8-sig", newline="") as arquivo:
+        leitor = csv.DictReader(arquivo)
+        if "link_video" not in (leitor.fieldnames or []):
+            raise ValueError(f"{Path(caminho).name} precisa ter a coluna link_video.")
+        return [linha["link_video"].strip() for linha in leitor if linha["link_video"].strip()]
+
+
 class ClienteYouTube:
     """Faz requisições GET à API oficial e conta as tentativas realizadas."""
 
@@ -319,6 +328,8 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--videos", nargs="+", default=VIDEOS_PADRAO,
                         help="URLs ou IDs dos vídeos. Por padrão, usa os três vídeos do projeto.")
+    parser.add_argument("--arquivo-videos", type=Path,
+                        help="CSV com a coluna link_video (ex.: dados/brutos/videos.csv). Substitui --videos.")
     parser.add_argument("--limite", type=int, default=500,
                         help="Total por vídeo, incluindo respostas. 0 = todos disponíveis.")
     parser.add_argument("--sem-respostas", action="store_true",
@@ -336,7 +347,13 @@ def main(argv=None):
         parser.error("--orcamento deve estar entre 1 e 10000 unidades.")
     try:
         # Valida antes de gastar cota e elimina URLs repetidas do mesmo vídeo.
-        video_ids = list(dict.fromkeys(extrair_id_video(v) for v in args.videos))
+        fontes = ler_links_csv(args.arquivo_videos) if args.arquivo_videos else args.videos
+        todos_ids = [extrair_id_video(v) for v in fontes]
+        video_ids = list(dict.fromkeys(todos_ids))
+        repetidos = sorted({i for i in todos_ids if todos_ids.count(i) > 1})
+        if repetidos:
+            print(f"Aviso: links repetidos (coletados uma vez só): {', '.join(repetidos)}. "
+                  "Se eram vídeos diferentes, corrija o link.", file=sys.stderr)
         if args.orcamento < len(video_ids):
             raise ValueError("O orçamento deve permitir ao menos uma requisição por vídeo.")
         chave = carregar_chave()

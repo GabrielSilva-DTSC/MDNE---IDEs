@@ -1,0 +1,736 @@
+{
+  "video": {
+    "id": "rMuHty2zn_4",
+    "url": "https://www.youtube.com/watch?v=rMuHty2zn_4",
+    "titulo": "Principais IDEs para Java e Spring",
+    "canal": "DevSuperior",
+    "publicado_em": "2023-04-26T11:48:23Z",
+    "comentarios_informados_pela_api": 71
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:47:24.038994+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:47:26.359516+00:00",
+    "total": 71,
+    "principais": 63,
+    "respostas": 8,
+    "requisicoes": 6
+  },
+  "comentarios": [
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyiHvNobGd6XAZmb7t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Garanta sua vaga no treinamento gratuito: \nhttps://devsuperior.com.br",
+      "curtidas": 8,
+      "publicado_em": "2023-04-26T11:59:12Z",
+      "atualizado_em": "2023-04-26T11:59:12Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugy5tuC8oJFe_Krzvs54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Seu seu aluno na Udemy e sua didática é incrível. Bem que poderia fechar com chave de ouro fazendo um curso Android com Java. Seria ótimo.",
+      "curtidas": 0,
+      "publicado_em": "2026-03-01T03:49:18Z",
+      "atualizado_em": "2026-03-01T03:49:18Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgygUuZIyn3FxQpabIV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cheguei atrasado, mas só hj estou tomando conhecimento dessa ferramenta, pois comecei estudar java pouco tempo.",
+      "curtidas": 0,
+      "publicado_em": "2025-03-26T00:51:59Z",
+      "atualizado_em": "2025-03-26T00:51:59Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxH_yc16Ni_nZ8JmkN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente conteudo. Muito obrigado.",
+      "curtidas": 0,
+      "publicado_em": "2025-01-19T08:35:57Z",
+      "atualizado_em": "2025-01-19T08:35:57Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwN5b410xDUxeVlXTp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cade os video novos desse canal ?",
+      "curtidas": 1,
+      "publicado_em": "2024-09-19T14:54:41Z",
+      "atualizado_em": "2024-09-19T14:54:41Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzJqwQx4txLVaIbNB94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "pô mano, o Nélio é muito foda como professor, tenho vontade de adquirir o curso de java spring pra backend da devSuperior, porem trabalho o dia todo e faço facul, com um ano de acesso não seria efetivo para mim, mas pra quem tem um tempinho, recomendo muito!!",
+      "curtidas": 2,
+      "publicado_em": "2024-06-12T12:53:15Z",
+      "atualizado_em": "2024-06-12T12:53:15Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxtOKJ1ki2d6CkbMzh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "olá professor estou fazendo o seu curso de java e estou com um problema no exercício de composições no exemplo você usa o metodo income() com o a classe Calendar, mas eu estou usando o LocalDate só que o valor retornado é apenas o salario base e não o salario base + o valor do contrato me ajuda pfv!!! esse é o meu método public double income(int year, int month) {\r\n\t    double sum = baseSalary;\r\n\t    for (HourContract c : contracts) {\r\n\t        LocalDate date = c.getDate();\r\n\t        int c_year = date.getYear();\r\n\t        int c_month = date.getMonthValue();\r\n\t        if (year == c_year && month == c_month) {\r\n\t            sum += c.totalValue();\r\n\t        }\r\n\t    }\r\n\t    return sum;\r\n\t}",
+      "curtidas": 1,
+      "publicado_em": "2024-05-29T02:30:26Z",
+      "atualizado_em": "2024-05-29T02:30:26Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzEQQ4PQLyqdVa_rD14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parou de fazer videos ?",
+      "curtidas": 1,
+      "publicado_em": "2024-04-24T19:15:05Z",
+      "atualizado_em": "2024-04-24T19:15:05Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyHhS0D4C0Y_uTmLnh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "rapaz, vou compartilhar meu uso, ultilizo eclipse e as vezes o vscode, 5 anos com java e kotlin e nunca tive intellij.",
+      "curtidas": 1,
+      "publicado_em": "2024-04-20T18:46:55Z",
+      "atualizado_em": "2024-04-20T18:46:55Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzDzYTUyhLcDFbebpJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faz muito sentido Nelio \nObrigado",
+      "curtidas": 1,
+      "publicado_em": "2024-02-23T17:39:26Z",
+      "atualizado_em": "2024-02-23T17:39:26Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgztmLiScTbyl24B1jV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sensacional",
+      "curtidas": 1,
+      "publicado_em": "2024-02-23T17:38:01Z",
+      "atualizado_em": "2024-02-23T17:38:01Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwLOkkB1lqhvykdDWN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Que Deus abençoe e ilumine sempre vc e sua família! Que Deus abençoe e ilumine sempre quem estiver lendo esse comentário e suas famílias tbm!",
+      "curtidas": 2,
+      "publicado_em": "2024-01-05T20:35:29Z",
+      "atualizado_em": "2024-01-05T20:35:29Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxtmT2-xOjsynzRXwp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Olá Nélio, como vai? Facilite meu entendimento gravando um vídeo explicando o que é e para que serve a extração de um método (Extract Method). Descobri que todas as IDEs possui este recurso. Obrigado",
+      "curtidas": 1,
+      "publicado_em": "2023-12-06T11:34:56Z",
+      "atualizado_em": "2023-12-06T11:34:56Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzEcdivF_fB7z_sArN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns, Profº Nélio ! Muito bem explicado.",
+      "curtidas": 2,
+      "publicado_em": "2023-11-12T20:32:59Z",
+      "atualizado_em": "2023-11-12T20:32:59Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxQpqn5_UjAbxCTGGx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu estou bem confuso akkkkk",
+      "curtidas": 1,
+      "publicado_em": "2023-11-12T14:21:37Z",
+      "atualizado_em": "2023-11-12T14:21:37Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyknzrxvBo9iqWAMXd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aluno do curso Java Completo desde 2019 na Udemy. Trabalhando hoje com Java graças aos seus ensinamentos. Sempre muito didático!!!",
+      "curtidas": 38,
+      "publicado_em": "2023-11-08T23:38:57Z",
+      "atualizado_em": "2023-11-08T23:38:57Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzliJvP64wcPQ7lvYJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excente!!!!",
+      "curtidas": 1,
+      "publicado_em": "2023-10-19T15:27:18Z",
+      "atualizado_em": "2023-10-19T15:27:18Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzYeqCfBF6H6dLIsiN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "caramba que trampo kkkk eu mal acostumado com javascript...",
+      "curtidas": 1,
+      "publicado_em": "2023-07-24T05:21:41Z",
+      "atualizado_em": "2023-07-24T05:21:41Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugw8VRW9qz_SkzMzQ1x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "o meu falou que a porta 8080 já estava em uso, tentei por conta dar uma olhada mas nao achei onde eu troco a porta",
+      "curtidas": 1,
+      "publicado_em": "2023-07-20T20:07:11Z",
+      "atualizado_em": "2023-07-20T20:07:11Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwleANYx-yt4jDKIr94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tem diferença de spring e spring boot?",
+      "curtidas": 1,
+      "publicado_em": "2023-07-20T16:09:37Z",
+      "atualizado_em": "2023-07-20T16:09:37Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwKIRevte3Drcr7GE54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente vídeo, parabéns professor pela didática",
+      "curtidas": 1,
+      "publicado_em": "2023-07-13T20:54:11Z",
+      "atualizado_em": "2023-07-13T20:54:11Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxUEiVfBM7KP_GvrFN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "o meu joia vc sempre vai ter, pq o seu assunto é o melhor da internet",
+      "curtidas": 1,
+      "publicado_em": "2023-07-11T03:14:06Z",
+      "atualizado_em": "2023-07-11T03:14:06Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgypPbi4L2QscczdZwZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "olha vc esta com o Windows 11",
+      "curtidas": 1,
+      "publicado_em": "2023-07-11T02:42:37Z",
+      "atualizado_em": "2023-07-11T02:42:37Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugwcy0VYc8AnEpeu2Hd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O mais brabo Nélio parabéns e muito obrigado  por disseminar essa astronômica bagagem e ajudar milhares....",
+      "curtidas": 2,
+      "publicado_em": "2023-07-11T02:28:48Z",
+      "atualizado_em": "2023-07-11T02:28:48Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyXUvTtcL3uGSHt6sp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pessoal quem for usar o STS no linux e for usar o Eclipse, recomendo que baixem a 4.19.0 - Linux x86_64, a ARM_64 não abriu no meu ubuntu.",
+      "curtidas": 1,
+      "publicado_em": "2023-07-10T23:36:03Z",
+      "atualizado_em": "2023-07-10T23:36:03Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxeaWkiFQQGBZKtYhx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito legal... parabens... indo td bem até agr.",
+      "curtidas": 1,
+      "publicado_em": "2023-07-09T13:44:55Z",
+      "atualizado_em": "2023-07-09T13:44:55Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugx1WrzaT1J1t99wilR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "ótimo video!!!!!",
+      "curtidas": 1,
+      "publicado_em": "2023-05-18T21:52:52Z",
+      "atualizado_em": "2023-05-18T21:52:52Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzMF4aM2GoflR2A9Vx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Top professor! Parabéns por trazer conteúdo com tanta qualidade.",
+      "curtidas": 3,
+      "publicado_em": "2023-05-09T16:57:15Z",
+      "atualizado_em": "2023-05-09T16:57:15Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyN1PBH_C4d_dnmdDh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ainda há quem não lhe veja como professor hehe\nVocê e o Guanabara realmente não são professores, são duas mães 💞\nObrigado por compartilhar conosco seu conhecimento.",
+      "curtidas": 1,
+      "publicado_em": "2023-05-07T15:40:38Z",
+      "atualizado_em": "2023-05-07T15:40:38Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwJwn2uyZh6xD23s7N4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou começando agora, estou no primeiro estágio da Oracle Next Generation, então não sei nada de backend. Não entendi algumas coisas que disse, mas tudo bem kkkk, obrigado mesmo pelo vídeo, me sinto até mais preparado. A, e tbm estou acompanhando o treinamento gratuito do DevSuperior. Obrigado.",
+      "curtidas": 1,
+      "publicado_em": "2023-05-05T22:31:23Z",
+      "atualizado_em": "2023-05-05T22:31:23Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugx6S55X519TaY67Zel4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fiz o curso de linguagem Java com ele pela Udemy, a forma dele de ensino é excelente, ansioso pelos proximos videos🤝😃",
+      "curtidas": 2,
+      "publicado_em": "2023-05-05T20:53:17Z",
+      "atualizado_em": "2023-05-05T20:53:17Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwGYijaGh-_pIXQHYl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sensacional!",
+      "curtidas": 1,
+      "publicado_em": "2023-05-04T23:04:25Z",
+      "atualizado_em": "2023-05-04T23:04:25Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgytJVfHooYmijJxLmF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poxa professor vc é foda, vou mentir não, eu tava desempregado, peguei um curso seu de um amigo meu, gostei tanto de sua forma de dar aula e seu jeito de ensinar que apos arruma emprego na area fazendo seus cursos da Udemy, eu fui la e comprei eles oficialmente e to estudando eles, gosto muito do seu trabalho, parabens amigo. Obrigado por me ajudar tanto e nem me conhecer. tmj",
+      "curtidas": 1,
+      "publicado_em": "2023-05-01T17:46:50Z",
+      "atualizado_em": "2023-05-01T17:46:50Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugz7gj8mLHLA4jx47HJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poxa professor vc é foda, vou mentir não, eu tava desempregado, peguei um curso seu de um amigo meu, gostei tanto de sua forma de dar aula e seu jeito de ensinar que apos arruma emprego na area fazendo seus cursos da Udemy, eu fui la e comprei eles oficialmente e to estudando eles, gosto muito do seu trabalho, parabens amigo. Obrigado por me ajudar tanto e nem me conhecer. tmj",
+      "curtidas": 32,
+      "publicado_em": "2023-05-01T17:46:43Z",
+      "atualizado_em": "2023-05-01T17:46:43Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxfIyfpaTRxdL53uVN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "EU adoro o VSCode para qualquer projeto web, mas quando penso em Java não tem como não usar o IntelliJ, é incrível o ganho de produtividade com essa ferramenta, mesmo na versão community. Pra quem faz faculdade de TI existe a possibilidade de vc aplicar para a licença de Student da Jetbrains e ter acesso a versão Ultimate e mais uma série de benefícios totalmente gratuitos.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-29T16:17:38Z",
+      "atualizado_em": "2023-04-29T16:17:38Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgxwFVwtrJF40d7LPE14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "show",
+      "curtidas": 0,
+      "publicado_em": "2023-04-29T14:23:50Z",
+      "atualizado_em": "2023-04-29T14:23:50Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzRQL-yQilhyDi77xh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom! Foi tranquilo demais fazer no VSCode",
+      "curtidas": 0,
+      "publicado_em": "2023-04-28T15:14:22Z",
+      "atualizado_em": "2023-04-28T15:14:22Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugz2KWMcHDpL885I8gB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O professor dos professores, grande mestre!",
+      "curtidas": 0,
+      "publicado_em": "2023-04-28T14:01:29Z",
+      "atualizado_em": "2023-04-28T14:01:29Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugx_vMDkJb125Zaamh94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sempre com conteúdo de milhões! Parabéns!",
+      "curtidas": 0,
+      "publicado_em": "2023-04-28T13:39:48Z",
+      "atualizado_em": "2023-04-28T13:39:48Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyQhDdQCbPz_WpFyU94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aguardando ansioso o projeto.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-28T01:36:52Z",
+      "atualizado_em": "2023-04-28T01:36:52Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwV3BOxtqke67HBa2x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já que o Intellij é o usado no mercado, porque não fazer os vídeos nele?",
+      "curtidas": 0,
+      "publicado_em": "2023-04-27T19:57:36Z",
+      "atualizado_em": "2023-04-27T19:57:36Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwV3BOxtqke67HBa2x4AaABAg.9p0qTQTfj5R9p1BZ6ZZvuK",
+      "comentario_pai_id": "UgwV3BOxtqke67HBa2x4AaABAg",
+      "tipo": "resposta",
+      "texto": "As outras também são usadas no mercado. Mas o motivo de usar o STS em boa parte dos vídeos é porque já vem com JDK embutido, o que minimiza problemas de setup da galera durante os eventos gratuitos.",
+      "curtidas": 3,
+      "publicado_em": "2023-04-27T23:10:36Z",
+      "atualizado_em": "2023-04-27T23:10:36Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugze7UiV3rFoXLurKdl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bom dia. Para mim qualquer IDE serve. Altero sempre os shortcuts para ficar semelhante ao visual studio porque tbm programo web apis em C#.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-27T07:55:25Z",
+      "atualizado_em": "2023-04-27T07:55:25Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwabmGsyPvsvTSDCgt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já garanti a minha vaga..",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T19:28:58Z",
+      "atualizado_em": "2023-04-26T19:28:58Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwsOVvhnb4m4lU9c154AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom!!!\nSerá que poderia fazer também um com o NetBeans??",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T19:25:46Z",
+      "atualizado_em": "2023-04-26T19:25:46Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyMiRD52vq7jWjQm294AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns pelo vídeo mestre, creio que com este conteúdo poderei avançar cada vez mais nesta tecnologia e não vejo a hora de participar deste grande evento. Sou seu aluno da Udemy.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T18:58:46Z",
+      "atualizado_em": "2023-04-26T18:58:46Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugxh_DAlDno11sJB0JF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Melhor instrutor/professor de longe em Java.\nExiste outros, porem o Nélio tem a capacidade de passar os assuntos com coesão e de fácil entendimento. \nParabéns pelo conteúdo, volta e meia sempre passou nos aulão para dar aquela refrescada na matéria!",
+      "curtidas": 5,
+      "publicado_em": "2023-04-26T17:19:33Z",
+      "atualizado_em": "2023-04-26T17:19:33Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyOzIaVMKTzhEcSa8B4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sou seu aluno de java na Udemy..obrigado pela didática...excelente..prof de facul né...melhor de todos...sucesso!",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T16:51:01Z",
+      "atualizado_em": "2023-04-26T16:51:01Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugz_fV5oMZ1A6JDYT1F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "muito legal pra quem nao entende muito desse mundo Java Spring",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T16:26:25Z",
+      "atualizado_em": "2023-04-26T16:26:25Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgwsNoN0tmj7Q5J4UKd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Todos sabemos que intellij é muito superior a todas",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T16:04:06Z",
+      "atualizado_em": "2023-04-26T16:04:06Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyO8jeuYI2Vl-iQoTp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pra mim VSCode é excelente. Pouca gente usa ou sabe usar no VSCode mas e bem simples. Inclusive a IDE tem spring initalizr imbutido e vc pode adicionar novos pacotes sem ficar mexendo no pom.xml. a propria ide faz pra vc.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T14:31:31Z",
+      "atualizado_em": "2023-04-26T14:31:31Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyqRe-d1nyFZ3JSa8F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sou seu aluno na Udemy, tive os primeiros contatos com as linguagens em um dos seus cursos que me passou uma ótima base lógica e agora estou trilhando java, parabéns pela excelente didática!!! sou muito grato por todo conhecimento que estou adquirindo 🙏☕",
+      "curtidas": 1,
+      "publicado_em": "2023-04-26T14:17:48Z",
+      "atualizado_em": "2023-04-26T14:18:39Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugztg_RiQl-lR_U7KqJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nélio...tem algum conteúdo seu criando app Android em spring?",
+      "curtidas": 1,
+      "publicado_em": "2023-04-26T14:06:21Z",
+      "atualizado_em": "2023-04-26T14:06:21Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyZeesyBLMXBYKBn7R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Professor sou seu aluno na Udemy e sua didática é excelente, obrigado por nos passar tantos ensinamentos.",
+      "curtidas": 1,
+      "publicado_em": "2023-04-26T13:58:49Z",
+      "atualizado_em": "2023-04-26T13:58:49Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Este professor Nélio é simplesmente top!",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T13:51:33Z",
+      "atualizado_em": "2023-04-26T13:51:33Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pMZf-zyCCg",
+      "comentario_pai_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg",
+      "tipo": "resposta",
+      "texto": ".\n2:🍃🌊😅😊 vai  v vv\n  😊. Iv nonoiovnc nnnonnnon v. V i v. Vn v v.    .😅  vai. Vv n vcv v\n \n V vc vem. Vai vbv vc vvvvvv a vc vai vc.  Vc. \n Vvv\nVai vc. N.   VV vc.vc \n  \nV \n Nv o. V 3:49  v nvc.  . Lc. L\nNonnooonnnoo😊",
+      "curtidas": 0,
+      "publicado_em": "2023-05-06T06:25:18Z",
+      "atualizado_em": "2023-05-06T06:25:18Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pMZhpE7Jyb",
+      "comentario_pai_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg",
+      "tipo": "resposta",
+      "texto": "😊",
+      "curtidas": 0,
+      "publicado_em": "2023-05-06T06:25:41Z",
+      "atualizado_em": "2023-05-06T06:25:41Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pM_5NNuK7Y",
+      "comentario_pai_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg",
+      "tipo": "resposta",
+      "texto": "😊😊 7:44",
+      "curtidas": 0,
+      "publicado_em": "2023-05-06T06:29:03Z",
+      "atualizado_em": "2023-05-06T06:29:03Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pM_DAJnsu1",
+      "comentario_pai_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vn ivvn. Vem i. 😅😊😊😊",
+      "curtidas": 0,
+      "publicado_em": "2023-05-06T06:30:06Z",
+      "atualizado_em": "2023-05-06T06:30:06Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pM_JOS-GiG",
+      "comentario_pai_id": "UgyKgJ3xKG7LhOSCvBh4AaABAg",
+      "tipo": "resposta",
+      "texto": "😊",
+      "curtidas": 0,
+      "publicado_em": "2023-05-06T06:30:57Z",
+      "atualizado_em": "2023-05-06T06:30:57Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzqgUn76aYs5ncmlKh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Professor o sr. é muito didático, obrigado.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T13:50:24Z",
+      "atualizado_em": "2023-04-26T13:50:24Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugw9UPJEZtlrx7clBVx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Seria bacana um curso seu de Java EE/Jakarta🙏 instrutor muito top🔥🔥🔥",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T13:48:21Z",
+      "atualizado_em": "2023-04-26T13:48:21Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugx_e6s3Z2eHse1Ge5V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T13:43:27Z",
+      "atualizado_em": "2023-04-26T13:43:27Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgzvVgRbqxoS9bfRjGp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou lhe acompanhando desde o ano passado, suas aulas são excelentes.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T13:05:29Z",
+      "atualizado_em": "2023-04-26T13:05:29Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgymCBMGT3xYWEyXU1Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poderia fazer um vídeo de como montar um setup para dev de Java + Spring em windows? Com tudo a que tem direito (tipo docker, etc)",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T12:41:14Z",
+      "atualizado_em": "2023-04-26T12:41:14Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyDjZqCpV79cczMmGF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T12:37:12Z",
+      "atualizado_em": "2023-04-26T12:37:12Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugy5mc6ExC2fjEyUG1V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sou um de seus alunos no Udemy. Obrigado pelo conteúdo. Ainda estou engatinhando e não sou da área. Espero ter consistência nos estudos.",
+      "curtidas": 16,
+      "publicado_em": "2023-04-26T12:22:26Z",
+      "atualizado_em": "2023-04-26T12:22:26Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugy5mc6ExC2fjEyUG1V4AaABAg.9oyS_qLukyT9oyXD1wVBQX",
+      "comentario_pai_id": "Ugy5mc6ExC2fjEyUG1V4AaABAg",
+      "tipo": "resposta",
+      "texto": "",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T13:02:52Z",
+      "atualizado_em": "2023-04-26T13:02:52Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyvtxBpaSJU0ld-WMV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tenho dificuldades em usar o NetBeans, em projetos SpringBoot sempre dá algum erro ao tentar rodar, sem falar que não para de baixar repositórios, no caso de projetos utilizando JavaFX é complicado usar em versões que ele não venha embutido no jdk. Alguma dica?",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T12:14:47Z",
+      "atualizado_em": "2023-04-26T12:14:47Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "UgyvtxBpaSJU0ld-WMV4AaABAg.9oyRht4qhAl9oyYRpMPcpM",
+      "comentario_pai_id": "UgyvtxBpaSJU0ld-WMV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito tempo que não uso Adroaldo, mas se tiver enroscando demais no NetBeans, eu consideraria trocar de IDE.",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T13:13:37Z",
+      "atualizado_em": "2023-04-26T13:13:37Z"
+    },
+    {
+      "video_id": "rMuHty2zn_4",
+      "comentario_id": "Ugx2kNSy0mSrtoFHq-N4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente conteúdo!\nÓtima didática!\nVai direto ao ponto, sem enrolação, parabéns!",
+      "curtidas": 0,
+      "publicado_em": "2023-04-26T11:59:24Z",
+      "atualizado_em": "2023-04-26T11:59:24Z"
+    }
+  ]
+}

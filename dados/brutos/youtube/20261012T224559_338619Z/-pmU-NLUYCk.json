@@ -1,0 +1,296 @@
+{
+  "video": {
+    "id": "-pmU-NLUYCk",
+    "url": "https://www.youtube.com/watch?v=-pmU-NLUYCk",
+    "titulo": "Os melhores IDEs e editores para aumentar sua produtividade em programação",
+    "canal": "Programador Aventureiro",
+    "publicado_em": "2023-08-17T22:32:00Z",
+    "comentarios_informados_pela_api": 27
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:47:50.208221+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:47:54.711431+00:00",
+    "total": 27,
+    "principais": 11,
+    "respostas": 16,
+    "requisicoes": 12
+  },
+  "comentarios": [
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugy-424nLS7BRNbJ9pp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "😮",
+      "curtidas": 0,
+      "publicado_em": "2025-03-14T02:23:48Z",
+      "atualizado_em": "2025-03-14T02:23:48Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugy-424nLS7BRNbJ9pp4AaABAg.AFcvzORe6N1AFk9sKP9rd1",
+      "comentario_pai_id": "Ugy-424nLS7BRNbJ9pp4AaABAg",
+      "tipo": "resposta",
+      "texto": "😁",
+      "curtidas": 0,
+      "publicado_em": "2025-03-16T21:48:36Z",
+      "atualizado_em": "2025-03-16T21:48:36Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugx0hIZyrGO75qxYO3B4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tbm tem netbeans se voces gosta de back para java",
+      "curtidas": 1,
+      "publicado_em": "2024-12-03T14:09:30Z",
+      "atualizado_em": "2024-12-03T14:09:30Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugx0hIZyrGO75qxYO3B4AaABAg.ABa7Shbs90_ABalGSp2Kdr",
+      "comentario_pai_id": "Ugx0hIZyrGO75qxYO3B4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim, o NetBeans é muito utilizado para quem desenvolve em Java. Valeu pela dica!",
+      "curtidas": 1,
+      "publicado_em": "2024-12-03T20:06:06Z",
+      "atualizado_em": "2024-12-03T20:06:06Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgzMaOvDJls_SGYZnW14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E possível criar um sistema de vendas com o flet e integrar ele com iFood?",
+      "curtidas": 1,
+      "publicado_em": "2024-07-16T18:59:40Z",
+      "atualizado_em": "2024-07-16T18:59:40Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgzMaOvDJls_SGYZnW14AaABAg.A5y9NMNENY_A5yWoWtPcK-",
+      "comentario_pai_id": "UgzMaOvDJls_SGYZnW14AaABAg",
+      "tipo": "resposta",
+      "texto": "É possível criar o sistema de vendas sim, quanto a integração, se o iFood tiver uma API então é possível integrar também",
+      "curtidas": 0,
+      "publicado_em": "2024-07-16T22:24:29Z",
+      "atualizado_em": "2024-07-16T22:24:29Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgzMaOvDJls_SGYZnW14AaABAg.A5y9NMNENY_A5ycoDhZ1Td",
+      "comentario_pai_id": "UgzMaOvDJls_SGYZnW14AaABAg",
+      "tipo": "resposta",
+      "texto": "@ProgramadorAventureiro achei seu curso na Udemy , lá você ensina a fazer integração ou é mais design",
+      "curtidas": 1,
+      "publicado_em": "2024-07-16T23:25:37Z",
+      "atualizado_em": "2024-07-16T23:25:37Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgzMaOvDJls_SGYZnW14AaABAg.A5y9NMNENY_A5yfc1iUWt8",
+      "comentario_pai_id": "UgzMaOvDJls_SGYZnW14AaABAg",
+      "tipo": "resposta",
+      "texto": "@WlordGamer na Udemy tenho 3 cursos sobre Flet, o Flet Essencial é o curso iniciante onde aprenderemos todos os conceitos iniciais e principais componentes do framework. O Flet PRO é o curso avançado, pra aqueles que já concluíram o Flet Essencial e já estão familiarizados com a construção de aplicativos com ele, sendo assim damos foco nos componentes avançados e integrações com diferentes ferramentas, incluindo o FastAPI, Matplotlib, Plotly, Google, GitHub, criptografia de dados entre outros. Por fim temos o Flet na Prática que é o curso focado em construção de projetos de diversos níveis. Além desses na Udemy tem o Flet 360 que é meu curso completo, do básico até o avançado e conta com mais de 70h de aula e mais de 40 projetos, esse só está disponível na plataforma do Programador Aventureiro.",
+      "curtidas": 0,
+      "publicado_em": "2024-07-16T23:50:10Z",
+      "atualizado_em": "2024-07-16T23:50:10Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugz7ujh0hvCuR97x5x14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Boa garoto.",
+      "curtidas": 1,
+      "publicado_em": "2024-05-03T20:44:00Z",
+      "atualizado_em": "2024-05-03T20:44:00Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugz7ujh0hvCuR97x5x14AaABAg.A2znUn3aQTXA30eMPo68b8",
+      "comentario_pai_id": "Ugz7ujh0hvCuR97x5x14AaABAg",
+      "tipo": "resposta",
+      "texto": "👍",
+      "curtidas": 0,
+      "publicado_em": "2024-05-04T14:02:41Z",
+      "atualizado_em": "2024-05-04T14:02:41Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyRsQb8tXKm0i-UMzR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso o Jupyter, e o vscode",
+      "curtidas": 1,
+      "publicado_em": "2024-04-17T04:49:28Z",
+      "atualizado_em": "2024-04-17T04:49:28Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyRsQb8tXKm0i-UMzR4AaABAg.A2JtXcRsSxHA2KLov3tbsc",
+      "comentario_pai_id": "UgyRsQb8tXKm0i-UMzR4AaABAg",
+      "tipo": "resposta",
+      "texto": "É uma boa dupla, eu também gosto bastante desses dois",
+      "curtidas": 0,
+      "publicado_em": "2024-04-17T09:05:22Z",
+      "atualizado_em": "2024-04-17T09:05:22Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyRsQb8tXKm0i-UMzR4AaABAg.A2JtXcRsSxHA2KsJnS5H5N",
+      "comentario_pai_id": "UgyRsQb8tXKm0i-UMzR4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ProgramadorAventureiro  Costumava usar o PyCharm também, mas meu computador travava muito, ele consome muita memória, então migrei para o VsCode, ao saber que ele era mais leve. O PyCharm é sem dúvida mais robusto, e completo que o VsCode, pretendo usa-lo novamente quando tiver um pc melhor.",
+      "curtidas": 1,
+      "publicado_em": "2024-04-17T13:58:05Z",
+      "atualizado_em": "2024-04-17T13:59:20Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyRsQb8tXKm0i-UMzR4AaABAg.A2JtXcRsSxHA333hyb3syS",
+      "comentario_pai_id": "UgyRsQb8tXKm0i-UMzR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim, o PyCharm utiliza mais recursos então acaba se tornando mais pesado para o sistema executar, porém em muitos casos usar o VSCode em combinação com alguma extensão já trás tudo o que você precisa para rodar qualquer projeto.",
+      "curtidas": 1,
+      "publicado_em": "2024-05-05T12:31:27Z",
+      "atualizado_em": "2024-05-05T12:31:27Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgwLvcgFr_VkfHc1ZlJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara, VsCode pro resto da vida...",
+      "curtidas": 2,
+      "publicado_em": "2024-03-18T20:44:36Z",
+      "atualizado_em": "2024-03-18T20:44:36Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgwLvcgFr_VkfHc1ZlJ4AaABAg.A18LzxtIvvWA18OPeg1HoS",
+      "comentario_pai_id": "UgwLvcgFr_VkfHc1ZlJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Boa, eu tbm sou do time do VS, já tenho tanta extensão instalada pra ajudar nos projetos que já não vivo sem mais",
+      "curtidas": 0,
+      "publicado_em": "2024-03-18T21:05:43Z",
+      "atualizado_em": "2024-03-18T21:05:43Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugzh2vvpdJ94S61bgD14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS Code Não é uma IDE, é simplesmente um Editor de Código. Com seu ecosistema de plugins, pode chegar a se assemelhar a uma em termos de recursos, mas Não é uma IDE.",
+      "curtidas": 1,
+      "publicado_em": "2024-01-15T11:22:50Z",
+      "atualizado_em": "2024-01-15T11:22:50Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgxN-x9p114yamF1ddB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Para python eu prefiro o PyChram, mas uso as vezes o VS Code. Mas acho o IDE da jetbrains mais fluida.",
+      "curtidas": 3,
+      "publicado_em": "2023-10-12T14:19:29Z",
+      "atualizado_em": "2023-10-12T14:19:29Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgxN-x9p114yamF1ddB4AaABAg.9vlpK-uFBgc9vlpvwyCNBm",
+      "comentario_pai_id": "UgxN-x9p114yamF1ddB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Legal, muita gente tem usado o PyCharm mesmo, só tem mesmo que se atentar as configurações do kernel para garantir que tá sempre rodando na versão certa para cada projeto! Já o VSCode acaba atraindo muito as pessoas por conta da grande variedade de extensões e plugins, o que facilitam bastante o dia a dia do desenvolvimento, mas é como você disse, no final do dia o que importa mesmo é a experiência do usuário e preferência pessoal por cada uma. Que bom que temos muitas opções 😁",
+      "curtidas": 1,
+      "publicado_em": "2023-10-12T14:24:48Z",
+      "atualizado_em": "2023-10-12T14:24:48Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgxN-x9p114yamF1ddB4AaABAg.9vlpK-uFBgc9vlrofBMZkg",
+      "comentario_pai_id": "UgxN-x9p114yamF1ddB4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ProgramadorAventureiro como ainda faço alguns projetos em Java, Html/CSS isso me faz ter uma preferência pelo ecossistema da jetbrains",
+      "curtidas": 1,
+      "publicado_em": "2023-10-12T14:41:17Z",
+      "atualizado_em": "2024-06-18T03:43:20Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgxN-x9p114yamF1ddB4AaABAg.9vlpK-uFBgc9vlve0H3Bg5",
+      "comentario_pai_id": "UgxN-x9p114yamF1ddB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Legal, realmente, falando em Java o IntelliJ Idea é a melhor IDE que tem, eu quando programava mais em PHP só usava o PhpStorm deles tbm",
+      "curtidas": 0,
+      "publicado_em": "2023-10-12T15:14:46Z",
+      "atualizado_em": "2023-10-12T15:14:46Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyBv4Ygk4O7RQRVZD94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom",
+      "curtidas": 2,
+      "publicado_em": "2023-08-21T05:53:08Z",
+      "atualizado_em": "2023-08-21T05:53:08Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyBv4Ygk4O7RQRVZD94AaABAg.9tf11xnGyEa9tgxQcjEm2B",
+      "comentario_pai_id": "UgyBv4Ygk4O7RQRVZD94AaABAg",
+      "tipo": "resposta",
+      "texto": "Valeu 😁",
+      "curtidas": 0,
+      "publicado_em": "2023-08-21T23:51:17Z",
+      "atualizado_em": "2023-08-21T23:51:17Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugxevz6QBMBULf7vs5x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara como ultilizo só python o Spider gostei muito no Linux.. bem simples rápido etc.. mas como ultilizo dual boot. Uso Spyder no Linux e VC code no Windows.. mas entre ambos sou mais o Spyder.",
+      "curtidas": 1,
+      "publicado_em": "2023-08-17T23:10:50Z",
+      "atualizado_em": "2023-08-17T23:10:50Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "Ugxevz6QBMBULf7vs5x4AaABAg.9tX_boCO1qY9tax1u0w9D6",
+      "comentario_pai_id": "Ugxevz6QBMBULf7vs5x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Legal, eu confesso que de primeira achei um pouco confuso mas nada que depois de uma semana trabalhando com ele já não tivesse me acostumado, gostava bastante da janela de depuração dele",
+      "curtidas": 1,
+      "publicado_em": "2023-08-19T15:52:28Z",
+      "atualizado_em": "2023-08-19T15:52:28Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyV3_x11hG7L1D70u54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aula top.",
+      "curtidas": 3,
+      "publicado_em": "2023-08-17T22:38:59Z",
+      "atualizado_em": "2023-08-17T22:38:59Z"
+    },
+    {
+      "video_id": "-pmU-NLUYCk",
+      "comentario_id": "UgyV3_x11hG7L1D70u54AaABAg.9tXWySGqumV9tawuHS8U3G",
+      "comentario_pai_id": "UgyV3_x11hG7L1D70u54AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigado ☺️",
+      "curtidas": 0,
+      "publicado_em": "2023-08-19T15:51:17Z",
+      "atualizado_em": "2023-08-19T15:51:17Z"
+    }
+  ]
+}

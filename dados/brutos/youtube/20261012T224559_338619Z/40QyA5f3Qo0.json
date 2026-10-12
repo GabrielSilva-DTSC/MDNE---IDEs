@@ -5,19 +5,19 @@
     "titulo": "7 Editores Incríveis para Programar  Online que Você Deveria Experimentar",
     "canal": "Código Fonte TV",
     "publicado_em": "2021-06-11T14:00:01Z",
-    "comentarios_informados_pela_api": 137
+    "comentarios_informados_pela_api": 136
   },
   "coleta": {
-    "iniciada_em": "2026-10-08T15:59:15.072484+00:00",
+    "iniciada_em": "2026-10-12T22:46:03.510253+00:00",
     "limite": 0,
     "incluir_respostas": true,
     "ordem": "time",
-    "orcamento_requisicoes": 3333,
+    "orcamento_requisicoes": 477,
     "status": "concluido",
     "encerramento": "api_esgotada",
-    "finalizada_em": "2026-10-08T15:59:21.614059+00:00",
-    "total": 137,
-    "principais": 115,
+    "finalizada_em": "2026-10-12T22:46:11.354062+00:00",
+    "total": 136,
+    "principais": 114,
     "respostas": 22,
     "requisicoes": 17
   },
@@ -1231,16 +1231,6 @@
       "curtidas": 0,
       "publicado_em": "2021-06-11T14:33:42Z",
       "atualizado_em": "2021-06-11T14:33:42Z"
-    },
-    {
-      "video_id": "40QyA5f3Qo0",
-      "comentario_id": "UgzEjx33VVKWq5PeXll4AaABAg",
-      "comentario_pai_id": null,
-      "tipo": "principal",
-      "texto": "E eu que na reunião online da empresa, comecei a rir do patrão por ele ainda usar quadro de lousa como kanban em pleno século 21; ele não gostou não mas foi engraçado. Agora ele está usando ferramentas online gratuitas.",
-      "curtidas": 1,
-      "publicado_em": "2021-06-11T14:31:20Z",
-      "atualizado_em": "2021-06-11T14:31:20Z"
     },
     {
       "video_id": "40QyA5f3Qo0",

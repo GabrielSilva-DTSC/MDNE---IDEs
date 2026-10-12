@@ -1,0 +1,1036 @@
+{
+  "video": {
+    "id": "80dsWdiatrQ",
+    "url": "https://www.youtube.com/watch?v=80dsWdiatrQ",
+    "titulo": "Rankeando as melhores IDEs para PROGRAMAR (minha experiência)",
+    "canal": "Pedroca",
+    "publicado_em": "2026-03-20T19:57:00Z",
+    "comentarios_informados_pela_api": 101
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:46:35.786234+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:46:49.890667+00:00",
+    "total": 101,
+    "principais": 41,
+    "respostas": 60,
+    "requisicoes": 34
+  },
+  "comentarios": [
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzmRf4jcWGXIC57lc14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Rapaz quem usa Notepad hoje é nível god, Notepad e Borland turbo",
+      "curtidas": 0,
+      "publicado_em": "2026-10-09T09:25:09Z",
+      "atualizado_em": "2026-10-09T09:25:09Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugxe7COxg4yTUmWG6DF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Meu mano, você colocou o vim mas não colocou o Neovim. Triste cara 😢",
+      "curtidas": 0,
+      "publicado_em": "2026-08-19T23:01:45Z",
+      "atualizado_em": "2026-08-19T23:03:02Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugz3bdCACytzDmt2jYV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sublime eu uso, eu não entendia nada dessas coisa, queria entrar e programar, dava pra fazer isso, nota 10 👍",
+      "curtidas": 0,
+      "publicado_em": "2026-08-11T19:34:44Z",
+      "atualizado_em": "2026-08-11T19:34:44Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwpy-U9GQc_cvf9uPF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso vscode \nMas ele é uma bosta \nTudo da bug nessa bosta \n\nAlém de hylight nunca funcionar pra nenhuma linguagem além do padrão \n\nTipo assembly, não tem identação pra nada, tem que abrir o manual pra ver o nome dos registradores",
+      "curtidas": 1,
+      "publicado_em": "2026-03-31T11:16:07Z",
+      "atualizado_em": "2026-03-31T11:16:07Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwpy-U9GQc_cvf9uPF4AaABAg.AV0VZSgXO-0AV0uBZnFUCP",
+      "comentario_pai_id": "Ugwpy-U9GQc_cvf9uPF4AaABAg",
+      "tipo": "resposta",
+      "texto": "kkkkkkkkkkkkkkkkkkkkkkkkk slc assembly é foda paizão, ai n tem como usar ele mesmo kkkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2026-03-31T15:00:03Z",
+      "atualizado_em": "2026-03-31T15:00:03Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxyBJKBghYnLrz_yFR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Botar VSCODE como GOAT literalmente a maior coisa de newba kkkkkkkkk",
+      "curtidas": 1,
+      "publicado_em": "2026-03-30T19:56:40Z",
+      "atualizado_em": "2026-03-30T19:56:40Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxyBJKBghYnLrz_yFR4AaABAg.AUzrLC7qYRlAUzrdnaJ8om",
+      "comentario_pai_id": "UgxyBJKBghYnLrz_yFR4AaABAg",
+      "tipo": "resposta",
+      "texto": "LKKKKKKKKKKK",
+      "curtidas": 0,
+      "publicado_em": "2026-03-30T19:59:21Z",
+      "atualizado_em": "2026-03-30T19:59:21Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxyBJKBghYnLrz_yFR4AaABAg.AUzrLC7qYRlAUzsYY8-czm",
+      "comentario_pai_id": "UgxyBJKBghYnLrz_yFR4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocaSem ofensas, eu sempre recomendo vscode pra todo mundo que tá começando também kkkk",
+      "curtidas": 0,
+      "publicado_em": "2026-03-30T20:07:14Z",
+      "atualizado_em": "2026-03-30T20:07:14Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugxnl8P3ICC9P3wM4b14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O Neovim bem configurado dá um banho em todos. Produtividade inigualável.",
+      "curtidas": 0,
+      "publicado_em": "2026-03-26T22:52:00Z",
+      "atualizado_em": "2026-03-26T22:52:00Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwWjjq1U_PY1nw38gt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "notepad em questionavel é brincadeira",
+      "curtidas": 1,
+      "publicado_em": "2026-03-23T23:23:48Z",
+      "atualizado_em": "2026-03-23T23:23:48Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwWjjq1U_PY1nw38gt4AaABAg.AUiCUAYj0OxAUigVFYXdqT",
+      "comentario_pai_id": "UgwWjjq1U_PY1nw38gt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Como isso não é questionável? Bagulho da era medieval KKKKKK",
+      "curtidas": 0,
+      "publicado_em": "2026-03-24T03:54:50Z",
+      "atualizado_em": "2026-03-24T03:54:50Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwWjjq1U_PY1nw38gt4AaABAg.AUiCUAYj0OxAUjhX_0Gz9G",
+      "comentario_pai_id": "UgwWjjq1U_PY1nw38gt4AaABAg",
+      "tipo": "resposta",
+      "texto": "@devpedroca simplesmente o GOAT de 2010 k",
+      "curtidas": 0,
+      "publicado_em": "2026-03-24T13:23:08Z",
+      "atualizado_em": "2026-03-24T13:23:08Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwWjjq1U_PY1nw38gt4AaABAg.AUiCUAYj0OxAUjm_3FIHMr",
+      "comentario_pai_id": "UgwWjjq1U_PY1nw38gt4AaABAg",
+      "tipo": "resposta",
+      "texto": "@HankzPRIME eu nem programava em 2010 kaksksddasksdk mas tlgd que ele era usado dms, meu ex chefe usava dms no trampo, mas quase n usei ele",
+      "curtidas": 0,
+      "publicado_em": "2026-03-24T14:07:10Z",
+      "atualizado_em": "2026-03-24T14:07:10Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxCCUoIZuPW-f0upW94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "vim é bom cara",
+      "curtidas": 2,
+      "publicado_em": "2026-03-23T19:44:39Z",
+      "atualizado_em": "2026-03-23T19:44:39Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxCCUoIZuPW-f0upW94AaABAg.AUhoOzWT7XYAUhp5bydoaq",
+      "comentario_pai_id": "UgxCCUoIZuPW-f0upW94AaABAg",
+      "tipo": "resposta",
+      "texto": "Vcs estão me convertendo na lábia, rlx que sai vídeo sobre ele",
+      "curtidas": 1,
+      "publicado_em": "2026-03-23T19:50:44Z",
+      "atualizado_em": "2026-03-23T19:50:44Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugypg0VvwwyTYJgfI0x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim é gostoso demais. Tu não tem noção do quão produtivo tu consegue ser usando terminal pra tudo.",
+      "curtidas": 3,
+      "publicado_em": "2026-03-23T17:26:32Z",
+      "atualizado_em": "2026-03-23T17:26:32Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugw738Lu_RilXA-jEeJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o neovim que é basicsmente o vim com algumas coisas melhoradas e depois de configurado é nível vs code, na minha opinião até superior",
+      "curtidas": 2,
+      "publicado_em": "2026-03-23T13:49:53Z",
+      "atualizado_em": "2026-03-23T13:49:53Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwl4ZeGlgJvwllB7LF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Kkkk eclipse melhor que IntelliJ kkkkk",
+      "curtidas": 3,
+      "publicado_em": "2026-03-23T12:43:54Z",
+      "atualizado_em": "2026-03-23T12:43:54Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwl4ZeGlgJvwllB7LF4AaABAg.AUh3FNoMlexAUh4J28P1m_",
+      "comentario_pai_id": "Ugwl4ZeGlgJvwllB7LF4AaABAg",
+      "tipo": "resposta",
+      "texto": "chora não",
+      "curtidas": 2,
+      "publicado_em": "2026-03-23T12:53:08Z",
+      "atualizado_em": "2026-03-23T12:53:08Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxxhP2_ll5uVjdfZ7B4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "não rolou nem uma opinião sobre o ZED? 😢",
+      "curtidas": 1,
+      "publicado_em": "2026-03-23T11:20:35Z",
+      "atualizado_em": "2026-03-23T11:20:35Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxxhP2_ll5uVjdfZ7B4AaABAg.AUgui7AyJuJAUh4GuVX1kh",
+      "comentario_pai_id": "UgxxhP2_ll5uVjdfZ7B4AaABAg",
+      "tipo": "resposta",
+      "texto": "mano, talvez eu lance uma parte 2, pq dps que fiz esse video fui estudar outras que nunca tinha ouvido falar, eu juro que nem sabia da existencia do ZED ksdksdksdksdk até falei errado no video, achei que era ZOD",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T12:52:51Z",
+      "atualizado_em": "2026-03-23T12:52:51Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxS5FnTQdDifhqK9YN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vídeo legalzinho, discordo da maioria das opiniões, mas é a sua experiência, o complicado é comparar editor de texto com IDE mesmo, vsCode, Sublime, Notepad++ e nVim são editores de texto, são um bloco de notas que você consegue deixar mais parrudo.\nSobre o Android Studio, eu trabalho com mobile, e o ferramental que vem nele é gigante, imagine todo o ferramental do intellij community para código e debug+ ferramental do f12 do navegador, como controle de network  + adb para conexão, query search em bancos no celular, o próprio emulador, pouca coisa não é, obviamente vai ser pesado.",
+      "curtidas": 3,
+      "publicado_em": "2026-03-23T03:19:04Z",
+      "atualizado_em": "2026-03-23T03:19:04Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxS5FnTQdDifhqK9YN4AaABAg.AUg2bPKtZ-3AUg4N5cYW8t",
+      "comentario_pai_id": "UgxS5FnTQdDifhqK9YN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Valeu pelo comentário mano, eu percebi mesmo isso de comparar editor de texto com IDE, mas quando procurei uma tier list pra fazer o vídeo, tinha tudo isso e mais um pouco, mas faz parte, aprendi nessa kkkkkkkkk",
+      "curtidas": 1,
+      "publicado_em": "2026-03-23T03:34:27Z",
+      "atualizado_em": "2026-03-23T03:34:27Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwiRCas7-1zSacCY_d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "\"me diga que usa KDE sem dizer que usa KDE.\"\no ponteiro crescendo kkkkkkkkkkkk",
+      "curtidas": 9,
+      "publicado_em": "2026-03-23T02:05:12Z",
+      "atualizado_em": "2026-03-23T02:05:12Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwiRCas7-1zSacCY_d4AaABAg.AUfv9QeyxnGAUg-1Se5fAz",
+      "comentario_pai_id": "UgwiRCas7-1zSacCY_d4AaABAg",
+      "tipo": "resposta",
+      "texto": "LDKAKDKKSKDKS disgraça",
+      "curtidas": 1,
+      "publicado_em": "2026-03-23T02:47:49Z",
+      "atualizado_em": "2026-03-23T02:47:49Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxaWPT4wBFCzLCm8d94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aprendendo os modos de controle do Vim e depois gastar um tempo pra configurar ele, pode sim virar ate a melhor das melhores IDes",
+      "curtidas": 5,
+      "publicado_em": "2026-03-23T00:34:58Z",
+      "atualizado_em": "2026-03-23T00:34:58Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxaWPT4wBFCzLCm8d94AaABAg.AUfkpUobngTAUfoov9HA14",
+      "comentario_pai_id": "UgxaWPT4wBFCzLCm8d94AaABAg",
+      "tipo": "resposta",
+      "texto": "show dms, acompanhando os comentários aqui, vou tirar um tempo e até gravar um video sobre ele, talvez eu mude de opinião",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T01:09:50Z",
+      "atualizado_em": "2026-03-23T01:09:50Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugy6F8y5Kza__kf3Q9x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "2:27 como mostrar q vc é beta sem dizer q vc é beta",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T23:24:01Z",
+      "atualizado_em": "2026-03-22T23:24:01Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugy6F8y5Kza__kf3Q9x4AaABAg.AUfchmwLw1pAUfmiAqdtgE",
+      "comentario_pai_id": "Ugy6F8y5Kza__kf3Q9x4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sobrou nada",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T00:51:27Z",
+      "atualizado_em": "2026-03-23T00:51:27Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwnXud365Ad2epoQj14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "olha, na minha época de conhecer a programação e tudo que dá pra fazer, eu simplesmente programava pelo bloco de notas do Windows 7",
+      "curtidas": 2,
+      "publicado_em": "2026-03-22T22:16:12Z",
+      "atualizado_em": "2026-03-22T22:16:12Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwnXud365Ad2epoQj14AaABAg.AUfVx3Oha_UAUfojNAvgl7",
+      "comentario_pai_id": "UgwnXud365Ad2epoQj14AaABAg",
+      "tipo": "resposta",
+      "texto": "mas eai? vc usa o bloco de notas ainda?",
+      "curtidas": 1,
+      "publicado_em": "2026-03-23T01:09:05Z",
+      "atualizado_em": "2026-03-23T01:09:05Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwabtwaOBLi_bGcBLB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eita bixo sabido. To aprendendo Java com IJ, to achando bem intuitivo e limpo.",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T17:40:25Z",
+      "atualizado_em": "2026-03-22T17:40:55Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwabtwaOBLi_bGcBLB4AaABAg.AUf0ODaHnF2AUf10ezBxxN",
+      "comentario_pai_id": "UgwabtwaOBLi_bGcBLB4AaABAg",
+      "tipo": "resposta",
+      "texto": "IJ deve ser bom dms mesmo mano, se eu tivesse mais xp colocaria ele no GOAT facilmente",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T17:45:56Z",
+      "atualizado_em": "2026-03-22T17:45:56Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwPpJGYLoIaIh61DK94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tenta usar NVIM, que tem uns plugins legais, uma boa comunidade, tem mantenabilidade e usa uma linguagem de programação boa por debaixo que é o lua em conjunto com o vimscript. Ele é bom pra não tirar suas mãos do teclado, tanto é que algumas IDEs tem o vim mode, além de tirar da zona de conforto, pois você é basicamente forçado à aprender certas coisas, eu mesmo ando sofrendo muito, ainda sim acredito que lá na frente vai se pagar kkkkkk",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T14:58:48Z",
+      "atualizado_em": "2026-03-22T14:58:48Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwPpJGYLoIaIh61DK94AaABAg.AUeitWI-S-2AUeo_AXvCAM",
+      "comentario_pai_id": "UgwPpJGYLoIaIh61DK94AaABAg",
+      "tipo": "resposta",
+      "texto": "Legal mano, vou fazer um vídeo configurando ele pra ver como é",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T15:48:27Z",
+      "atualizado_em": "2026-03-22T15:48:27Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwPpJGYLoIaIh61DK94AaABAg.AUeitWI-S-2AUfdLEawikC",
+      "comentario_pai_id": "UgwPpJGYLoIaIh61DK94AaABAg",
+      "tipo": "resposta",
+      "texto": "com ctz se paga mano, mas não pelo vim/neovim puro, mas sim pelas vim motions. Eu uso vscode com vim motions e alguns plugins q ja vem na extensão (extensão do vim msm, a do neovim era mto instavel e as vezes nao funcionava direito com os plugins do seu setup do neovim).\nIsso aumenta muuuuuito minha velocidade na codebase, entao recomendo fortemente vc dominar as vim motions",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T23:29:32Z",
+      "atualizado_em": "2026-03-22T23:29:32Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwPpJGYLoIaIh61DK94AaABAg.AUeitWI-S-2AUfoybxPeQH",
+      "comentario_pai_id": "UgwPpJGYLoIaIh61DK94AaABAg",
+      "tipo": "resposta",
+      "texto": "dahora em mano, vou dar uma olhada nisso",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T01:11:10Z",
+      "atualizado_em": "2026-03-23T01:11:10Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzqTOufO_mCkwq058J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse vim é bom pra editar texto (principalmente arquivos de config) pelo terminal do Linux via terminal, seja SSH ou fisicamente em um PC sem interface gráfica, qualquer coisa fora disso é aniquilação social",
+      "curtidas": 3,
+      "publicado_em": "2026-03-22T14:49:36Z",
+      "atualizado_em": "2026-03-22T14:49:36Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzqTOufO_mCkwq058J4AaABAg.AUehq3wb9aeAUeoVIs2EfS",
+      "comentario_pai_id": "UgzqTOufO_mCkwq058J4AaABAg",
+      "tipo": "resposta",
+      "texto": "Costumo usar o nano aqui pra fazer edições no terminal, acho bem mais rápido",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T15:47:47Z",
+      "atualizado_em": "2026-03-22T15:47:47Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzqTOufO_mCkwq058J4AaABAg.AUehq3wb9aeAUfmlWpxVG-",
+      "comentario_pai_id": "UgzqTOufO_mCkwq058J4AaABAg",
+      "tipo": "resposta",
+      "texto": "o vim tem o seu próprio jeito de edição de texto/código, de início vai parecer maluco, mas se tu aprende, tu nunca mais vai querer trocar, pelo menos foi assim comigo e com algumas pessoas que eu conheço",
+      "curtidas": 1,
+      "publicado_em": "2026-03-23T00:51:54Z",
+      "atualizado_em": "2026-03-23T00:51:54Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzqTOufO_mCkwq058J4AaABAg.AUehq3wb9aeAUh6VRdMZlG",
+      "comentario_pai_id": "UgzqTOufO_mCkwq058J4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocausa o micro é mais foda, aniquilação social é usa o vim/nvim",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T13:12:19Z",
+      "atualizado_em": "2026-03-23T13:12:19Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxjC3uhKBIWdomliRN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso vs code com fonte do Minecraft e tema do the end, mto zika",
+      "curtidas": 3,
+      "publicado_em": "2026-03-22T10:53:20Z",
+      "atualizado_em": "2026-03-22T10:53:20Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxjC3uhKBIWdomliRN4AaABAg.AUeHncaVGCFAUeoaQF51JZ",
+      "comentario_pai_id": "UgxjC3uhKBIWdomliRN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Kdksks Kdkskdkskdksksk q dahora",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T15:48:37Z",
+      "atualizado_em": "2026-03-22T15:48:37Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzsilGpnD-a1s9fgyV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mano migrei para o Omarchy e to testando o LazyVim tem duas semanas e to me adaptando bem eu diria e o que eu acho o  diferencial dele é \"imersão\", tipo eu nem uso mouse para nada nele tudo no teclado acaba que na minha impressão a produtividade é diferente, mas ainda uso Vscode para algumas coisas ele é o mais completo e mais simples que eu já usei então tem certas coisas que recorro a ele mesmo kkkkkk.",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T03:18:53Z",
+      "atualizado_em": "2026-03-22T03:18:53Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzOaGb0S13tR2joFxp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "pycharm mt pesado slk",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T00:55:45Z",
+      "atualizado_em": "2026-03-22T00:55:45Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzOaGb0S13tR2joFxp4AaABAg.AUdDPpB_GYzAUdRS4VDjaO",
+      "comentario_pai_id": "UgzOaGb0S13tR2joFxp4AaABAg",
+      "tipo": "resposta",
+      "texto": "É mano",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T02:58:23Z",
+      "atualizado_em": "2026-03-22T02:58:23Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzXnIOXLzHxWGJHChx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Oi vc e programador a quanto tempo, quero ser dev python tbm",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T23:52:16Z",
+      "atualizado_em": "2026-03-21T23:52:16Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzXnIOXLzHxWGJHChx4AaABAg.AUd68s0H7ZEAUdRUw62P0Y",
+      "comentario_pai_id": "UgzXnIOXLzHxWGJHChx4AaABAg",
+      "tipo": "resposta",
+      "texto": "5 anos mano, trabalho na área a 3 anos",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T02:58:47Z",
+      "atualizado_em": "2026-03-22T02:58:47Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzXnIOXLzHxWGJHChx4AaABAg.AUd68s0H7ZEAUdXDMemvsD",
+      "comentario_pai_id": "UgzXnIOXLzHxWGJHChx4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocacaraça que da hora, como VC conseguiu seu primeiro emprego? Tenho 17 anos comecei estudar mais sério esse ano, quero ser dev back end",
+      "curtidas": 1,
+      "publicado_em": "2026-03-22T03:48:49Z",
+      "atualizado_em": "2026-03-22T03:48:49Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzXnIOXLzHxWGJHChx4AaABAg.AUd68s0H7ZEAUdYtKf31Ws",
+      "comentario_pai_id": "UgzXnIOXLzHxWGJHChx4AaABAg",
+      "tipo": "resposta",
+      "texto": "@GustavoH634 eu fiz alguns projetos e busquei mt vaga de estágio pra começar, foi bem difícil no começo",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T04:03:25Z",
+      "atualizado_em": "2026-03-22T04:03:25Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzXnIOXLzHxWGJHChx4AaABAg.AUd68s0H7ZEAUeWfF9ytns",
+      "comentario_pai_id": "UgzXnIOXLzHxWGJHChx4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocalegal, me inscrevi no canal vou ver seus videos",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T13:03:15Z",
+      "atualizado_em": "2026-03-22T13:03:15Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzdpK1h2h5PHDZZFwd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "burro",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T23:24:27Z",
+      "atualizado_em": "2026-03-21T23:24:27Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgysFFq8On0XOyRuSpZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quem usa outra coisa alem do VSC e o tipo de pessoa que não usa Git e GitHub e jura que tem soluções melhores...",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T23:20:41Z",
+      "atualizado_em": "2026-03-21T23:20:41Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugx8R2Qx2S5xjL2fuwV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cadê o Codex, Cursor, Antigravity e Claude Code? 🤤",
+      "curtidas": 2,
+      "publicado_em": "2026-03-21T21:27:39Z",
+      "atualizado_em": "2026-03-21T21:28:52Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugx8R2Qx2S5xjL2fuwV4AaABAg.AUcqacHTHYdAUctW8RY2xX",
+      "comentario_pai_id": "Ugx8R2Qx2S5xjL2fuwV4AaABAg",
+      "tipo": "resposta",
+      "texto": "0 xp, até mencionei no vídeo que n tinha conhecimento, quando usar eu faço outro vídeo",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T21:53:07Z",
+      "atualizado_em": "2026-03-21T21:53:07Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwX8LINhIXevBt0V2p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCode seria goat se ele não fosse um navegador transvertido de IDE, e consumisse mais RAM que o Chrome kkk\nSó usei uma vez, achei pesado, lento e poluído, e migrei pro Sublime Text e Notepad++ — simples e funcional; perfeitos!\n\nAliás, acha muito engraçado você explicando que o Sublime não é IDE sendo que desses aí, só 4 são IDE, e o VSCode não é uma deles KKKKKKKK",
+      "curtidas": 6,
+      "publicado_em": "2026-03-21T20:17:25Z",
+      "atualizado_em": "2026-03-21T20:23:18Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwX8LINhIXevBt0V2p4AaABAg.AUciZELL0YnAUcta4FQx6S",
+      "comentario_pai_id": "UgwX8LINhIXevBt0V2p4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ué, até onde eu sei ele é considerado uma IDE kdkskdkskdks",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T21:53:47Z",
+      "atualizado_em": "2026-03-21T21:53:47Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwX8LINhIXevBt0V2p4AaABAg.AUciZELL0YnAUctjJhNiM2",
+      "comentario_pai_id": "UgwX8LINhIXevBt0V2p4AaABAg",
+      "tipo": "resposta",
+      "texto": "Mas realmente não é jrkwjckakfkakdkaks mas na tier list que tinha aqui ele estava entre as IDEs, então considerei",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T21:55:03Z",
+      "atualizado_em": "2026-03-21T21:55:03Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgwX8LINhIXevBt0V2p4AaABAg.AUciZELL0YnAUctwOi33mn",
+      "comentario_pai_id": "UgwX8LINhIXevBt0V2p4AaABAg",
+      "tipo": "resposta",
+      "texto": "Reconsidere oq falei, vlw dms pelo comentário, na minha cabeça ele era uma IDE mesmo",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T21:56:50Z",
+      "atualizado_em": "2026-03-21T21:56:50Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxoHacL1o8y3Bu-rlt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eclipse goat foi de fuder",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T19:43:21Z",
+      "atualizado_em": "2026-03-21T19:43:21Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxoHacL1o8y3Bu-rlt4AaABAg.AUceeiYutp9AUcfZ6YMnSC",
+      "comentario_pai_id": "UgxoHacL1o8y3Bu-rlt4AaABAg",
+      "tipo": "resposta",
+      "texto": "kkkkkkkkkkkkkkkk na minha experiência ele era mt goat 😔😔😔",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T19:51:11Z",
+      "atualizado_em": "2026-03-21T19:51:11Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxoHacL1o8y3Bu-rlt4AaABAg.AUceeiYutp9AUcfv6aTAEn",
+      "comentario_pai_id": "UgxoHacL1o8y3Bu-rlt4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocakkkkkkk mano eu tive péssima experiência com ele infelizmente 😂",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T19:54:19Z",
+      "atualizado_em": "2026-03-21T19:54:19Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxoHacL1o8y3Bu-rlt4AaABAg.AUceeiYutp9AUcgQs1KQD6",
+      "comentario_pai_id": "UgxoHacL1o8y3Bu-rlt4AaABAg",
+      "tipo": "resposta",
+      "texto": "@n3tr0idn oloco mano, tudo que eu aprendi sobre lógica, conceitos mais avançados foi estudando Java nele",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T19:58:48Z",
+      "atualizado_em": "2026-03-21T19:58:48Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugy9DW8syQ7i4IK1gjZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim é um lixo, não existe outra coisa. Dev's usam por modismo mesmo \"ai, como sou oldschool, olha pra mim!\".",
+      "curtidas": 3,
+      "publicado_em": "2026-03-21T17:46:18Z",
+      "atualizado_em": "2026-03-21T17:46:18Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugy9DW8syQ7i4IK1gjZ4AaABAg.AUcSGTuHQtbAUcZyM9U01l",
+      "comentario_pai_id": "Ugy9DW8syQ7i4IK1gjZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "sinto que é exatamente isso, tipo, vc usa o Vim pq vc só escreve mais? qual a vantagem disso?",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T18:53:36Z",
+      "atualizado_em": "2026-03-21T18:53:36Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugy9DW8syQ7i4IK1gjZ4AaABAg.AUcSGTuHQtbAUcfr7B7ase",
+      "comentario_pai_id": "Ugy9DW8syQ7i4IK1gjZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "@devpedroca Eu já testei, não tem ferramenta alguma. E vai vir dev do raio do mundo que vai inventar que existe alguma vantagem kkkkkk.",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T19:53:47Z",
+      "atualizado_em": "2026-03-21T19:53:47Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugy9DW8syQ7i4IK1gjZ4AaABAg.AUcSGTuHQtbAUd2gBqjMxw",
+      "comentario_pai_id": "Ugy9DW8syQ7i4IK1gjZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "o vim é um editor de texto tradicional, que segue os mesmos habitos e costumes dos programadores dos anos 80. ele funciona 100% no teclado e tem gente que prefere ele pq depois que vc aprende os (milhoes) de comandos com o teclado vc descobre que praticamente tudo que vc faz com mts passos é bem mais rapido de fazer lá\n\né gosto e nada mais do que isso, mas eu vejo ele sendo muito mais usado na gringa entre engenheiros da computação, já que as faculdades de computação do primeiro mundo são bem mais aprofundadas nesse tipo de detalhe, muitos professores meus usavam vim pra tudo e os mais respeitaveis da area que eu ja vi (eng da computacao de vdd, projetistas de hardware, pessoas de renome) usam neovim E vs code simultaneamente, em partes pela necessidade de ter um bom suporte pra tipos de projetos que só extensões do vs code poderiam trazer e em partes pq dps que vc se familiariza com o (neo)vim vc realmente percebe o pq ele é o preferido, é tudo 100% customizavel exatamente como vc pretende que seja, vc está programando o seu editor de texto pra programar basicamente, esse poder que vc ganha é realmente atrativo pra quem valoriza workflow e otimiza tudo que pode e etc",
+      "curtidas": 3,
+      "publicado_em": "2026-03-21T23:22:00Z",
+      "atualizado_em": "2026-03-21T23:22:00Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxeZaExnHIfiKBbYUp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "sei lá eu prefiro mais o kdevelop,eu acho o design interessante",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T17:41:43Z",
+      "atualizado_em": "2026-03-21T17:41:43Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxeZaExnHIfiKBbYUp4AaABAg.AUcRjqtzB_UAUcZ_7JGSwv",
+      "comentario_pai_id": "UgxeZaExnHIfiKBbYUp4AaABAg",
+      "tipo": "resposta",
+      "texto": "mano, nunca ouvi falar dele kkkkkkk parece o layout do Eclipse",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T18:50:09Z",
+      "atualizado_em": "2026-03-21T18:50:09Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugym5qL3ywICMkGpU7h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "tinha que ter um rank abaixo das interrogações só pro Android studio, na faculdade a gente usava uma versão antigassa e era TODA HORA travando o Pc, intankavel",
+      "curtidas": 14,
+      "publicado_em": "2026-03-21T16:08:16Z",
+      "atualizado_em": "2026-03-21T16:08:16Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugym5qL3ywICMkGpU7h4AaABAg.AUcH2SWNz7VAUcHz-zPWcA",
+      "comentario_pai_id": "Ugym5qL3ywICMkGpU7h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Intankavel essa bosta, não sei pq insistem nisso",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T16:16:24Z",
+      "atualizado_em": "2026-03-21T16:16:24Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugym5qL3ywICMkGpU7h4AaABAg.AUcH2SWNz7VAUfe3xdmOud",
+      "comentario_pai_id": "Ugym5qL3ywICMkGpU7h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Versão antiga e ruim",
+      "curtidas": 0,
+      "publicado_em": "2026-03-22T23:35:55Z",
+      "atualizado_em": "2026-03-22T23:35:55Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwf1JEI4w7bPopL0PJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu ultimamente estou usando neovim, eu recomendo por ser bem leve, é guase a mesma coisa que o Sublime, você configura ele e ele vira uma IDE pra programar, você usa 80% mais o teclado😅",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T16:05:48Z",
+      "atualizado_em": "2026-03-21T16:05:48Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwf1JEI4w7bPopL0PJ4AaABAg.AUcGlPDoCvoAUcHBwe0m3K",
+      "comentario_pai_id": "Ugwf1JEI4w7bPopL0PJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Entendi mano, parece ser simples mesmo como o Sublime, mas qual a vantagem técnica nisso? No dia a dia trabalhando, vc sente que é mais produtivo?",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T16:09:34Z",
+      "atualizado_em": "2026-03-21T16:09:34Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwf1JEI4w7bPopL0PJ4AaABAg.AUcGlPDoCvoAUcHHPNwlYS",
+      "comentario_pai_id": "Ugwf1JEI4w7bPopL0PJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "É um baita hot take, mas prefiro programar em neo vim do que no vscode, não sei o pq kkk",
+      "curtidas": 2,
+      "publicado_em": "2026-03-21T16:10:19Z",
+      "atualizado_em": "2026-03-21T16:10:19Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "Ugwf1JEI4w7bPopL0PJ4AaABAg.AUcGlPDoCvoAUcixeUUZ-J",
+      "comentario_pai_id": "Ugwf1JEI4w7bPopL0PJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocacara, produtividade vai depender de pessoa pra pessoa, alguns sentem em outras IDE, mas a vantagem pra mim é a facilidade de gerenciar meu código, tudo por binds fica bem mais rápido de abrir arquivo, deploy e busca e etc.",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T20:20:53Z",
+      "atualizado_em": "2026-03-21T20:20:53Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyD4CVFPHE90TJ2b594AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "rage bait",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T15:33:29Z",
+      "atualizado_em": "2026-03-21T15:33:29Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyD4CVFPHE90TJ2b594AaABAg.AUcD3ff4A0MAUcF-yS58Ew",
+      "comentario_pai_id": "UgyD4CVFPHE90TJ2b594AaABAg",
+      "tipo": "resposta",
+      "texto": "Skkskdkskdksks",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T15:50:27Z",
+      "atualizado_em": "2026-03-21T15:50:27Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Visual studio é o mais robusto e completo que existe aí.",
+      "curtidas": 5,
+      "publicado_em": "2026-03-21T11:00:42Z",
+      "atualizado_em": "2026-03-21T11:00:42Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg.AUbiqlCX2I9AUc1ni71xXu",
+      "comentario_pai_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Concordo mano",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T13:55:03Z",
+      "atualizado_em": "2026-03-21T13:55:03Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg.AUbiqlCX2I9AUcIpGHGv4y",
+      "comentario_pai_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Bloated*",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T16:23:49Z",
+      "atualizado_em": "2026-03-21T16:23:49Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg.AUbiqlCX2I9AUcSmB1ci-2",
+      "comentario_pai_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "trabalho com isso faz uns 4 anos, e é um inferno, tem muitas features, 90% delas, não são usadas e fazem que o app tenha um consumo extremo de recursos da maquina",
+      "curtidas": 2,
+      "publicado_em": "2026-03-21T17:50:46Z",
+      "atualizado_em": "2026-03-21T17:50:46Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg.AUbiqlCX2I9AUcZr_dm4fk",
+      "comentario_pai_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "@mauricio3766 não trabalho a 4 anos como dev, vou fazer 3 anos de XP agora e acredito que da pra extrair mt coisa do vscode, tipo o Dev Container",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T18:52:40Z",
+      "atualizado_em": "2026-03-21T18:52:40Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg.AUbiqlCX2I9AUcw2FCXtUd",
+      "comentario_pai_id": "UgxtD3_jR-lr4xsQlzJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocadificilmente vai precisar de algo que não tem no vs code, se criar perfis com cada linguagem e colocar só as extensões para a linguagem em específico ele fica bem leve",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T22:15:15Z",
+      "atualizado_em": "2026-03-21T22:15:15Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyJ7JIQg4JcjbV1fhh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "como assim você não usa sla sla oque code?",
+      "curtidas": 2,
+      "publicado_em": "2026-03-21T03:06:33Z",
+      "atualizado_em": "2026-03-21T03:06:33Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyJ7JIQg4JcjbV1fhh4AaABAg.AUas_wTt2wRAUavBinK6cF",
+      "comentario_pai_id": "UgyJ7JIQg4JcjbV1fhh4AaABAg",
+      "tipo": "resposta",
+      "texto": "desculpa, vou melhorar",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T03:29:19Z",
+      "atualizado_em": "2026-03-21T03:29:19Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgydAXWDsNSefRn_jDN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O Vim é rage bait?",
+      "curtidas": 2,
+      "publicado_em": "2026-03-20T22:38:45Z",
+      "atualizado_em": "2026-03-20T22:38:45Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgydAXWDsNSefRn_jDN4AaABAg.AUaOwVfVADAAUaQC_6gaVO",
+      "comentario_pai_id": "UgydAXWDsNSefRn_jDN4AaABAg",
+      "tipo": "resposta",
+      "texto": "kkkkkkkkkkkk pior que tive um contato mt mediocre, eu não boto mt fé que ele é tão foda assim como a galera fala, tenho que tomar vergonha na cara e ver melhor",
+      "curtidas": 1,
+      "publicado_em": "2026-03-20T22:49:49Z",
+      "atualizado_em": "2026-03-20T22:49:49Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgydAXWDsNSefRn_jDN4AaABAg.AUaOwVfVADAAUbcP4IADTX",
+      "comentario_pai_id": "UgydAXWDsNSefRn_jDN4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocafaz um vídeo \"aprendendo vim / nvim\" aí você configura ele",
+      "curtidas": 1,
+      "publicado_em": "2026-03-21T10:04:22Z",
+      "atualizado_em": "2026-03-21T10:04:22Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgydAXWDsNSefRn_jDN4AaABAg.AUaOwVfVADAAUc1lOpXfvH",
+      "comentario_pai_id": "UgydAXWDsNSefRn_jDN4AaABAg",
+      "tipo": "resposta",
+      "texto": "@th3Hzrpapo, vou fazer, deve ficar legal Akkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2026-03-21T13:54:44Z",
+      "atualizado_em": "2026-03-21T13:54:44Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzeS93dqmStGrpJSZR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sou novo no canal e não sei se tem, vejo que muitos programadores condenam o windows sendo que eu acho suave \n\nTrás um vídeo ranqueando distro do Linux pra programação",
+      "curtidas": 2,
+      "publicado_em": "2026-03-20T21:32:32Z",
+      "atualizado_em": "2026-03-20T21:32:32Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgzeS93dqmStGrpJSZR4AaABAg.AUaHMXdHoiVAUaM09SyseZ",
+      "comentario_pai_id": "UgzeS93dqmStGrpJSZR4AaABAg",
+      "tipo": "resposta",
+      "texto": "cara, acho que existem diversos fatores, mas o fato é que o ambiente do windows é mt ruim, quando comecei a mexer com orquestração de containers que percebi isso, n gosto muito do WSL como solução",
+      "curtidas": 0,
+      "publicado_em": "2026-03-20T22:13:10Z",
+      "atualizado_em": "2026-03-20T22:13:10Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgymQjveLY5OgU8JkmF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu to estudando Java usando o NetBeans, me sinto homem das cavernas",
+      "curtidas": 2,
+      "publicado_em": "2026-03-20T21:29:23Z",
+      "atualizado_em": "2026-03-20T21:29:23Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgymQjveLY5OgU8JkmF4AaABAg.AUaH-VY7TFJAUaLlGwYmoV",
+      "comentario_pai_id": "UgymQjveLY5OgU8JkmF4AaABAg",
+      "tipo": "resposta",
+      "texto": "mano, n conheci esse netbeans nao, eu sempre usei Eclipse mesmo haha",
+      "curtidas": 0,
+      "publicado_em": "2026-03-20T22:11:00Z",
+      "atualizado_em": "2026-03-20T22:11:00Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgymQjveLY5OgU8JkmF4AaABAg.AUaH-VY7TFJAUg2n4Ki9My",
+      "comentario_pai_id": "UgymQjveLY5OgU8JkmF4AaABAg",
+      "tipo": "resposta",
+      "texto": "netbeans + low code com swing kkkk, isso sim é uma experiência.",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T03:20:40Z",
+      "atualizado_em": "2026-03-23T03:20:40Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgymQjveLY5OgU8JkmF4AaABAg.AUaH-VY7TFJAUhJSS6YcnG",
+      "comentario_pai_id": "UgymQjveLY5OgU8JkmF4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devpedrocaNetBeans foi a primeira IDE criada para Java no início, a Sun desenvolveu juntamente com o Java, depois a Oracle comprou tudo junto e disponibiliza\n\n Eclipse e Intelijj estão bem mais fortes do que o NetBeans",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T15:05:30Z",
+      "atualizado_em": "2026-03-23T15:05:30Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgymQjveLY5OgU8JkmF4AaABAg.AUaH-VY7TFJAUhJZuabyHe",
+      "comentario_pai_id": "UgymQjveLY5OgU8JkmF4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@Condeduhswing mata qualquer um, não pretendo fazer front com Java, mas eu preferi bem mais o JavaFX com Scene Builder kkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2026-03-23T15:06:31Z",
+      "atualizado_em": "2026-03-23T15:06:31Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyTisZgpqNeS0L-XM94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mano, teu vídeo ficou muito bom! 👏\nFaz um comparando as diferenças entre o VS Code e o Visual Studio? Acho que ia ficar top demais.",
+      "curtidas": 1,
+      "publicado_em": "2026-03-20T21:10:53Z",
+      "atualizado_em": "2026-03-20T21:10:53Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyTisZgpqNeS0L-XM94AaABAg.AUaEt-cyRHMAUaGC_U7fDY",
+      "comentario_pai_id": "UgyTisZgpqNeS0L-XM94AaABAg",
+      "tipo": "resposta",
+      "texto": "Vou fazer mano hahaha Tmjj",
+      "curtidas": 0,
+      "publicado_em": "2026-03-20T21:22:26Z",
+      "atualizado_em": "2026-03-20T21:22:26Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyUf4aRJoK36k3uBiR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O pycharm é pesado, por isso uso o vscode",
+      "curtidas": 1,
+      "publicado_em": "2026-03-20T20:38:03Z",
+      "atualizado_em": "2026-03-20T20:38:03Z"
+    },
+    {
+      "video_id": "80dsWdiatrQ",
+      "comentario_id": "UgyUf4aRJoK36k3uBiR4AaABAg.AUaB7_QsB9UAUaLmB1cLpM",
+      "comentario_pai_id": "UgyUf4aRJoK36k3uBiR4AaABAg",
+      "tipo": "resposta",
+      "texto": "po, pesado dms!!",
+      "curtidas": 0,
+      "publicado_em": "2026-03-20T22:11:07Z",
+      "atualizado_em": "2026-03-20T22:11:07Z"
+    }
+  ]
+}

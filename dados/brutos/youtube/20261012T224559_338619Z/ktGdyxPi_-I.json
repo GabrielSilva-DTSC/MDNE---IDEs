@@ -1,0 +1,736 @@
+{
+  "video": {
+    "id": "ktGdyxPi_-I",
+    "url": "https://www.youtube.com/watch?v=ktGdyxPi_-I",
+    "titulo": "Como escolher a MELHOR IDE para Java | [AS 3 MELHORES] | Getting Started #17",
+    "canal": "DIO",
+    "publicado_em": "2022-05-02T15:00:16Z",
+    "comentarios_informados_pela_api": 71
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:49:07.622281+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:49:16.013674+00:00",
+    "total": 71,
+    "principais": 48,
+    "respostas": 23,
+    "requisicoes": 21
+  },
+  "comentarios": [
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxet-0vbLRv955SJyB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E aí Dev. Fala pra gente! Você acha que é possível programar sem uma boa IDE?",
+      "curtidas": 12,
+      "publicado_em": "2022-04-30T13:19:57Z",
+      "atualizado_em": "2022-04-30T13:19:57Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxet-0vbLRv955SJyB4AaABAg.9aS0CFsthui9aXPW45yZxh",
+      "comentario_pai_id": "Ugxet-0vbLRv955SJyB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Oi estou tendo dificuldade para o app, tem vídeos tutoriais?",
+      "curtidas": 0,
+      "publicado_em": "2022-05-02T15:37:18Z",
+      "atualizado_em": "2022-05-02T15:37:18Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxet-0vbLRv955SJyB4AaABAg.9aS0CFsthui9a_SetHVVU6",
+      "comentario_pai_id": "Ugxet-0vbLRv955SJyB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Possível sempre é, porém, muito mais trabalhoso e demorado, sendo uma boa opção pra quem quer aprender fixando na mente as sintax's pra aprender uma determinada linguagem, agora pra quem está na hype da produtividade, da produção dos códigos, na busca dos resultados finais, as IDE's vão ser cruciais pra se perder menos tempo e até mesmo ajudar tambem na qualidade da escrita dos códigos por conta das sugestões que as IDE's fazem, claro, tudo tem suas escessões !!!",
+      "curtidas": 2,
+      "publicado_em": "2022-05-03T20:02:35Z",
+      "atualizado_em": "2022-05-03T20:02:35Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxet-0vbLRv955SJyB4AaABAg.9aS0CFsthui9agOpRH529r",
+      "comentario_pai_id": "Ugxet-0vbLRv955SJyB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Não, não é possível programar sem uma boa IDE, especialmente em Java. E olha que eu sou javeiro ;)",
+      "curtidas": 0,
+      "publicado_em": "2022-05-06T12:43:45Z",
+      "atualizado_em": "2022-05-06T12:43:45Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxet-0vbLRv955SJyB4AaABAg.9aS0CFsthui9diHdEjxmT3",
+      "comentario_pai_id": "Ugxet-0vbLRv955SJyB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Brigado pela atenção Deus abençoe sempre vc",
+      "curtidas": 0,
+      "publicado_em": "2022-07-20T19:53:35Z",
+      "atualizado_em": "2022-07-20T19:53:35Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyVG4xeXJFmlHP-ZZB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente análise!",
+      "curtidas": 1,
+      "publicado_em": "2025-09-07T23:20:59Z",
+      "atualizado_em": "2025-09-07T23:20:59Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyVG4xeXJFmlHP-ZZB4AaABAg.AMmwZBtVPT0AN86A-r0ed_",
+      "comentario_pai_id": "UgyVG4xeXJFmlHP-ZZB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigado!!",
+      "curtidas": 1,
+      "publicado_em": "2025-09-16T13:56:58Z",
+      "atualizado_em": "2025-09-16T13:56:58Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwUDuSpoZmTFWpeRZ14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "F para o Netbeans 🥲",
+      "curtidas": 0,
+      "publicado_em": "2024-03-21T23:43:17Z",
+      "atualizado_em": "2024-03-21T23:43:17Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwJDla3A_D4ndtTfRF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "É possível programar até em NotePad, quem é do tempo do Clipper e do Cobol sabe.\nMas claro que as IDEs (e frameworks) modernas aumentam demais a produtividade.\nComo eu sou do tempo do Borland Sidekick e do Clipper Sumer 87, certamente fizemos muita coisa antes que viesse o Borland Turbo Pascal 3 e sua IDE (ainda em ambiente não-gráfico DOS).  Não haviam IDEs, mas haviam scripts pra automatizar processos, muitas décadas antes que o Jenkins viesse a existir.",
+      "curtidas": 1,
+      "publicado_em": "2024-03-20T14:54:52Z",
+      "atualizado_em": "2024-03-20T14:54:52Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugy5eLU4hHo7JRZpwNx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo! Estou aprendendo Java na faculdade, utilizando o IDE Eclipse🌒. \nNão possuo conhecimento prévio na área de T.I... Comecei do zero e ainda estou aprendendo algo desconhecido, mas se Deus quiser, em algum momento, alcançarei bons resultados rs 🤍",
+      "curtidas": 3,
+      "publicado_em": "2024-01-18T16:17:25Z",
+      "atualizado_em": "2024-01-18T16:17:25Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyMpXNBfNoJQ3f4SCh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Saudades Camila, parabéns pela didática! SHOWWW.",
+      "curtidas": 1,
+      "publicado_em": "2024-01-17T14:43:04Z",
+      "atualizado_em": "2024-01-17T14:43:04Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugz4k_i6OIvN49TvvcF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Intellij pode ser mais parrudo, mas o Eclipse sempre vai ter um lugar no meu coração ❤. Nunca vou esquecer os primeiros meses de faculdade em que conheci o Java e passava horas na frente do computador estudando. E o Eclipse ali, sempre parceiro me ajudando a evoluir dia após dia.",
+      "curtidas": 5,
+      "publicado_em": "2023-09-17T17:05:29Z",
+      "atualizado_em": "2023-09-17T17:05:29Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzuU3_sA6g2YK23gll4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Posso aprender java com Intellij community?",
+      "curtidas": 1,
+      "publicado_em": "2023-08-11T16:43:56Z",
+      "atualizado_em": "2023-08-11T16:43:56Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzwcqEyftNTAkHD9up4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "obrigado",
+      "curtidas": 1,
+      "publicado_em": "2023-07-13T19:11:00Z",
+      "atualizado_em": "2023-07-13T19:11:00Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgweGTB5dvXIctVozyp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quais testes foram feitos para medir o desempenho? Achei estranho o VSCode ficar em último sendo que na prática ele é um editor de códigos e não uma ide o que o torna bem mais leve e performático.",
+      "curtidas": 2,
+      "publicado_em": "2022-10-18T02:18:43Z",
+      "atualizado_em": "2022-10-18T02:18:43Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgweGTB5dvXIctVozyp4AaABAg.9hJ8Sy81Wd39nDGKHLJGCk",
+      "comentario_pai_id": "UgweGTB5dvXIctVozyp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Também não concordo com o que foi falado em relação aos atalhos  do uma vez qe podemos configurar os atalhos do VSCode para ficarem semelhantes ao NetBeans, IntelliJ, Eclipse e até o Delphi.",
+      "curtidas": 1,
+      "publicado_em": "2023-03-13T22:40:22Z",
+      "atualizado_em": "2023-03-13T22:40:56Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgxR6MOaNlAK_65z9ax4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não estou conseguindo acessar a plataforma, já entrei em contato mas ainda não obtive retorno!",
+      "curtidas": 1,
+      "publicado_em": "2022-10-09T17:43:32Z",
+      "atualizado_em": "2022-10-09T17:43:32Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzAfU2uAVFyoo5rhq94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim só por sua casa. Tem o Dom de ensino parabéns",
+      "curtidas": 2,
+      "publicado_em": "2022-09-15T15:33:12Z",
+      "atualizado_em": "2022-09-15T15:33:12Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugwagmdr4-xHDbDWGJl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "adoro as aulas da camila, tu arrasa demais cami!!!!!!",
+      "curtidas": 1,
+      "publicado_em": "2022-07-28T14:58:46Z",
+      "atualizado_em": "2022-07-28T14:58:46Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugz2g-iBApZenZZroCx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "BRIGADO pela atenção Deus abençoe sempre vc",
+      "curtidas": 1,
+      "publicado_em": "2022-07-20T19:52:55Z",
+      "atualizado_em": "2022-07-20T19:52:55Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwXGh3lawiQe_Po7MR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Camila, descobri no seu curso de IDEs que a IntelliJ é a melhor na minha opinião, tem plugins bem legais. :D",
+      "curtidas": 1,
+      "publicado_em": "2022-06-06T20:04:25Z",
+      "atualizado_em": "2022-06-06T20:04:47Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyiX5khtlviUneQnvN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já utilizei o NetBeans e o Eclipse, porem como uso o vscode para outras linguagens  acabei utilizando ele para fazer o bootcamp da GFT .  Achei super de boa  se você ta acostumado com ele eu particularmente acho ele mais leve que que as outras duas citadas, além do visual mais clean oque me agrada mais. NetBeans e Eclipse acabam ti jogando um monte de informações na tela , oque para meu uso no momento não é necessário.  minha opinião  se você vai fazer um bootcamp e vai estudar  ja tem o vscode instalado vai de boa que da certo.",
+      "curtidas": 11,
+      "publicado_em": "2022-05-17T13:48:06Z",
+      "atualizado_em": "2022-05-17T13:48:06Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyiX5khtlviUneQnvN4AaABAg.9b7pwLHr3Vj9b8XSuDSxEc",
+      "comentario_pai_id": "UgyiX5khtlviUneQnvN4AaABAg",
+      "tipo": "resposta",
+      "texto": "valeu amigo, era isso que queria saber, agora é só estudar e depois fazer a dinâmica e o teste, fé que vai dar certo",
+      "curtidas": 2,
+      "publicado_em": "2022-05-17T20:17:09Z",
+      "atualizado_em": "2022-05-17T20:17:09Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgxHiiYgR0tZkcqnJMd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sempre linda! Eu uso o IntelliJ",
+      "curtidas": 1,
+      "publicado_em": "2022-05-14T23:34:36Z",
+      "atualizado_em": "2022-05-14T23:35:46Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwsGDH-by7ha18H3CV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Prima chamada Paloma ela é minha prima papai a paz do senhor minha prima e apagamos tá cansada e irmã tá tá aqui ataque manda Viviane",
+      "curtidas": 1,
+      "publicado_em": "2022-05-12T22:33:09Z",
+      "atualizado_em": "2022-05-12T22:33:09Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgxKptGCbORbT7nNxLJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Desde de 2016 eu só uso IntelliJ Idea. Nunca mais conseguir usar outra IDE rsrs. Claro que o melhor IntelliJ é Ultimate, pois tem muitos mais recursos.",
+      "curtidas": 3,
+      "publicado_em": "2022-05-08T18:58:50Z",
+      "atualizado_em": "2022-05-08T18:58:50Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxz9cc8n9MNArK2zOh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótima análise! A suas aulas são ótimas e muito didáticas! Parabéns e continue voando assim Camila, minha conterrânea Pernambucana!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-06T12:21:54Z",
+      "atualizado_em": "2022-05-06T12:21:54Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugzw7VP4BEuian9cTP14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Legal!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-06T12:05:57Z",
+      "atualizado_em": "2022-05-06T12:05:57Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugzw7VP4BEuian9cTP14AaABAg.9agKVXRlrVg9cuYCVXAhT5",
+      "comentario_pai_id": "Ugzw7VP4BEuian9cTP14AaABAg",
+      "tipo": "resposta",
+      "texto": "🚀🚀",
+      "curtidas": 1,
+      "publicado_em": "2022-06-30T17:37:50Z",
+      "atualizado_em": "2022-06-30T17:37:50Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugz-YiUt7HE3joVD_Fd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Se tu fala que o VS Code é o mais simples de instalar, como coloca ele em teceiro lugar no quesito instalação?",
+      "curtidas": 6,
+      "publicado_em": "2022-05-04T16:30:38Z",
+      "atualizado_em": "2022-05-04T16:30:38Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugz-YiUt7HE3joVD_Fd4AaABAg.9abeCOHa8YoA26FnMIjQ_o",
+      "comentario_pai_id": "Ugz-YiUt7HE3joVD_Fd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Porque não é uma IDE, para configura-lo para o uso em java necessita de alguns passos quem em IDE nao seriam necessario o que dificulta e muito pra quem ta começando",
+      "curtidas": 0,
+      "publicado_em": "2024-04-11T21:43:22Z",
+      "atualizado_em": "2024-04-11T21:43:22Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyxhRyBFT-QGj4nfPp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Predileta VSCode",
+      "curtidas": 0,
+      "publicado_em": "2022-05-04T10:40:35Z",
+      "atualizado_em": "2022-05-04T10:40:35Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugyk1nTev28cjEHQNLN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gosto muito dessa professora! Além disso, também uso o Intellij, usava o Netbeans, mas notei a diferença positiva que foi usar o Intellij.",
+      "curtidas": 1,
+      "publicado_em": "2022-05-04T01:27:23Z",
+      "atualizado_em": "2022-05-04T01:27:23Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwBMnaZEtCOMEZB-Yx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Só não entendi pq o NetBeans não esta nessa lista?!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-04T00:01:14Z",
+      "atualizado_em": "2022-05-04T00:01:14Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwBMnaZEtCOMEZB-Yx4AaABAg.9a_sypEsULb9eRxzKaVVdQ",
+      "comentario_pai_id": "UgwBMnaZEtCOMEZB-Yx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Tambem nao😳",
+      "curtidas": 0,
+      "publicado_em": "2022-08-07T22:57:24Z",
+      "atualizado_em": "2022-08-07T22:57:24Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwdjamohLjKiNtDSl54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pq java é muito utilizado ainda? Sistema legados? Linguagem madura? Alto custo de migração de Linguagem?",
+      "curtidas": 2,
+      "publicado_em": "2022-05-03T14:17:14Z",
+      "atualizado_em": "2022-05-03T14:17:14Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwdjamohLjKiNtDSl54AaABAg.9aZq8UneEQ_9a_E0LmN53S",
+      "comentario_pai_id": "UgwdjamohLjKiNtDSl54AaABAg",
+      "tipo": "resposta",
+      "texto": "O Java é muito utilizado ainda Mikael, não só em sistemas legados mas também em projetos novos! Algo importante a se destacar também é o mercado de trabalho, não falta vagas para devs JAVA!",
+      "curtidas": 3,
+      "publicado_em": "2022-05-03T17:54:34Z",
+      "atualizado_em": "2022-05-03T17:54:34Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyXcxAqKLIp-FUUydV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Intelijj pra sempre <3 ... Eu uso licença universitária, mas quando eu sair da faculdade eu vou continuar usando hahahaha muito bom Camila o/",
+      "curtidas": 4,
+      "publicado_em": "2022-05-03T13:41:24Z",
+      "atualizado_em": "2022-05-03T13:41:24Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyXcxAqKLIp-FUUydV4AaABAg.9aZm25XjmdE9a_DE_ja8ni",
+      "comentario_pai_id": "UgyXcxAqKLIp-FUUydV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito bom Ramon. É com certeza uma das preferidas dos Javeiros de carteirinha não é?",
+      "curtidas": 1,
+      "publicado_em": "2022-05-03T17:47:47Z",
+      "atualizado_em": "2022-05-03T17:47:47Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgygTMHbb-DILoswI6V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Acredito que é possível sim, desde que tenha conhecimento. A IDE é uma ferramenta para produtividade. Ajuda bastante. Antigamente era 1 semana só para configurar um projeto Java EE. Comecei no bloco de notas (exercícios de lógica), depois Eclipse, STS e hoje IntelliJ.",
+      "curtidas": 5,
+      "publicado_em": "2022-05-03T13:10:57Z",
+      "atualizado_em": "2022-05-03T13:10:57Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgygTMHbb-DILoswI6V4AaABAg.9aZiYzNPP7K9a_DdSB4Uta",
+      "comentario_pai_id": "UgygTMHbb-DILoswI6V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Verdade Alisson... só quem viveu nos tempos sombrios sem IDEs boas como essa sabe como é!",
+      "curtidas": 2,
+      "publicado_em": "2022-05-03T17:51:19Z",
+      "atualizado_em": "2022-05-03T17:51:19Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugzuzl7s1j3X9yjHDA14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "não consigo largar vscode de jeito nenhum hahaha",
+      "curtidas": 2,
+      "publicado_em": "2022-05-03T13:04:43Z",
+      "atualizado_em": "2022-05-03T13:04:43Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugy1n-oeHk620tj0tM54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Até o momento, prefiro a InteliJ porque é igual ao Android Studio e, como gosto de programar também em android, facilita muito os atalhos.",
+      "curtidas": 2,
+      "publicado_em": "2022-05-03T04:58:25Z",
+      "atualizado_em": "2022-05-03T04:58:25Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugy1n-oeHk620tj0tM54AaABAg.9aYqBapQdrJ9a_DqBhy_UH",
+      "comentario_pai_id": "Ugy1n-oeHk620tj0tM54AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito bom Gabriel! É isso mesmo, temos que escolher a IDE que melhor nos atende no dia a dia!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-03T17:53:03Z",
+      "atualizado_em": "2022-05-03T17:53:03Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxshk0xHC9NVqzlO9V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Camila é top !!! uma das pessoas mais didáticas do meu circuito de estudos !",
+      "curtidas": 1,
+      "publicado_em": "2022-05-03T01:27:15Z",
+      "atualizado_em": "2022-05-03T01:27:15Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugxshk0xHC9NVqzlO9V4AaABAg.9aYT1-ChiZ69a_DltV9FP7",
+      "comentario_pai_id": "Ugxshk0xHC9NVqzlO9V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que bom que os vídeos da Camila tem ajudado Felipe!",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T17:52:28Z",
+      "atualizado_em": "2022-05-03T17:52:28Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugzz4VCMhna-1R3qyCx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Obrigado Cami, parabéns .",
+      "curtidas": 2,
+      "publicado_em": "2022-05-02T23:05:25Z",
+      "atualizado_em": "2022-05-02T23:05:25Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzoxzgmYNDiaWg8GW54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "intellij te amo <3",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T22:11:26Z",
+      "atualizado_em": "2022-05-02T22:11:26Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugzmrfflp7I5H3T6iad4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Salvei o video",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T21:46:09Z",
+      "atualizado_em": "2022-05-02T21:46:09Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugzmrfflp7I5H3T6iad4AaABAg.9aY3iX6gZmX9a_E4Rg5wID",
+      "comentario_pai_id": "Ugzmrfflp7I5H3T6iad4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que ótimo que o vídeo ajudou Lucy!",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T17:55:07Z",
+      "atualizado_em": "2022-05-03T17:55:07Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugyiy_cR1wHMJVUd4xJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns viu👏🏽❤️",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T21:45:55Z",
+      "atualizado_em": "2022-05-02T21:45:55Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwpuQ9EQHt7X1g3N2h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Valeu pelo vídeo, me ajudou muito",
+      "curtidas": 2,
+      "publicado_em": "2022-05-02T21:01:38Z",
+      "atualizado_em": "2022-05-02T21:01:38Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwpuQ9EQHt7X1g3N2h4AaABAg.9aXzcXrFfLm9a_DtSsMnGH",
+      "comentario_pai_id": "UgwpuQ9EQHt7X1g3N2h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que ótimo que o vídeo te ajudou Erik!",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T17:53:30Z",
+      "atualizado_em": "2022-05-03T17:53:30Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyWEZw3W5aY-wHbEyt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom!! Parabéns!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T19:19:33Z",
+      "atualizado_em": "2022-05-02T19:19:33Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugw-3MgiQUpJ870D46B4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "e o Netbeans?",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T17:04:25Z",
+      "atualizado_em": "2022-05-02T17:04:25Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugw-3MgiQUpJ870D46B4AaABAg.9aXZU96ICxi9aXwxUQTtLp",
+      "comentario_pai_id": "Ugw-3MgiQUpJ870D46B4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ele já é legado, muito pouco utilizado em ambiente de produção.",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T20:38:17Z",
+      "atualizado_em": "2022-05-02T20:38:17Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugw-3MgiQUpJ870D46B4AaABAg.9aXZU96ICxi9bNpoOR8od4",
+      "comentario_pai_id": "Ugw-3MgiQUpJ870D46B4AaABAg",
+      "tipo": "resposta",
+      "texto": "@igorguilherme599 Legado? O Netbeans está em constante atualização a cada trimestre, atualmente na versão 13 e a v 14 esta chegando e sempre com muitas melhorias",
+      "curtidas": 0,
+      "publicado_em": "2022-05-23T18:54:51Z",
+      "atualizado_em": "2022-05-23T18:55:16Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzWstoN281VZ6oUOG94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já tive oportunidade de utilizar as três mencionadas no vídeo mais o NetBeans, e de fato a mais tranquila foi o IntelliJ",
+      "curtidas": 2,
+      "publicado_em": "2022-05-02T16:21:40Z",
+      "atualizado_em": "2022-05-02T16:21:40Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzWstoN281VZ6oUOG94AaABAg.9aXU_wFjcTs9a_Di1AKpE3",
+      "comentario_pai_id": "UgzWstoN281VZ6oUOG94AaABAg",
+      "tipo": "resposta",
+      "texto": "Que legal Igor! O importante é escolher a que nos atende da melhor forma não é mesmo?",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T17:51:56Z",
+      "atualizado_em": "2022-05-03T17:51:56Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugy0vlIjYrSa9ZaMAKB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O IDE é um Ambiente de Desenvolvimento Integrado",
+      "curtidas": 4,
+      "publicado_em": "2022-05-02T16:17:18Z",
+      "atualizado_em": "2022-05-02T16:17:18Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugyiyldb51eWZah3FhF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Perfeito !!!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T15:43:03Z",
+      "atualizado_em": "2022-05-02T15:43:03Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwwA98xzmo5dAolLG14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Camila é maravilhosa! Obrigada pelas dicas.",
+      "curtidas": 3,
+      "publicado_em": "2022-05-02T15:31:17Z",
+      "atualizado_em": "2022-05-02T15:31:17Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwwA98xzmo5dAolLG14AaABAg.9aXOp1kgaNH9a_DRo_frBN",
+      "comentario_pai_id": "UgwwA98xzmo5dAolLG14AaABAg",
+      "tipo": "resposta",
+      "texto": "Camila é TOP+! Que bom que o vídeo te ajudou Luana.",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T17:49:35Z",
+      "atualizado_em": "2022-05-03T17:49:35Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzCvKnM4nSnbkSIJVZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Para o Java scripts gosto muito do Vs Code e no Java o Intelig é ótimo",
+      "curtidas": 5,
+      "publicado_em": "2022-05-02T15:16:12Z",
+      "atualizado_em": "2022-05-02T15:16:12Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "Ugys53CJSXMzxQXSMk94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "IntelliJ 🤙",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T15:11:13Z",
+      "atualizado_em": "2022-05-02T15:11:13Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgyKVIh9yUCk9hStPsh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eclipse",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T15:07:49Z",
+      "atualizado_em": "2022-05-02T15:07:49Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgwbRSW2f3zVBl2PZMl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Team eclipse",
+      "curtidas": 4,
+      "publicado_em": "2022-05-02T15:02:27Z",
+      "atualizado_em": "2022-05-02T15:02:27Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgxDMzKLSf-HyshDI614AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Acredito que sim, porém as IDES estão para nos favorecer no desenvolvimento mais rápido e melhor,  tempo é tudo em dia.",
+      "curtidas": 3,
+      "publicado_em": "2022-05-01T23:47:27Z",
+      "atualizado_em": "2022-05-01T23:47:27Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgxDMzKLSf-HyshDI614AaABAg.9aVho8nHgTG9a_DPSEZV8T",
+      "comentario_pai_id": "UgxDMzKLSf-HyshDI614AaABAg",
+      "tipo": "resposta",
+      "texto": "Com certeza Pedro. Por esse motivo é importante escolher a melhor para cada cenário, não é mesmo?",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T17:49:16Z",
+      "atualizado_em": "2022-05-03T17:49:16Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzSsbTlNtP3yjwDmmV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "hoje em dia é impossível pois a cada dia o programador tem que ter que produzir mais em pouco tempo, neste caso uma boa IDE que ajude-nos, faz a diferença",
+      "curtidas": 4,
+      "publicado_em": "2022-05-01T01:37:02Z",
+      "atualizado_em": "2022-05-01T01:37:02Z"
+    },
+    {
+      "video_id": "ktGdyxPi_-I",
+      "comentario_id": "UgzSsbTlNtP3yjwDmmV4AaABAg.9aTKYog4l9k9a_DLCWeJzU",
+      "comentario_pai_id": "UgzSsbTlNtP3yjwDmmV4AaABAg",
+      "tipo": "resposta",
+      "texto": "É bem por ai mesmo Klebes.",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T17:48:41Z",
+      "atualizado_em": "2022-05-03T17:48:41Z"
+    }
+  ]
+}

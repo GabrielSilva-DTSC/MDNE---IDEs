@@ -1,0 +1,32 @@
+ide,sentimento,curtidas,score,escopo_texto,nome_video,texto_mencao
+VS Code,positivo,123,0.9196667326614261,trecho,POR ISSO VOCÊ NÃO DEVE USAR O VS CODE PARA ESTUDAR JAVA,intelijj e vscode. eu gostei do vscode.
+VS Code,positivo,70,0.5080504864454269,comentario,Qual é o melhor editor de código? #HipstersPontoTube,VS Code até surgir outro melhor que ele.
+VS Code,negativo,7,-0.9087121691554785,comentario,IDE favorita dos programadores,Desde qnd Vs Code é IDE??
+VS Code,negativo,6,-0.7707645371556282,trecho,Rankeando as melhores IDEs para PROGRAMAR (minha experiência),VSCode seria goat se ele não fosse um navegador transvertido de IDE e o VSCode não é uma deles KK
+Vim/Neovim,positivo,5,0.8703131256625056,comentario,Rankeando as melhores IDEs para PROGRAMAR (minha experiência),"Aprendendo os modos de controle do Vim e depois gastar um tempo pra configurar ele, pode sim virar ate a melhor das melhores IDes"
+Vim/Neovim,positivo,4,0.6715402230620384,comentario,Qual é o melhor editor de código? #HipstersPontoTube,"Vim é vida irmão. No início sofri muito pra aprender, mas hoje eu nn troco ele mais por nada."
+Vim/Neovim,negativo,6,-0.9358128271996975,trecho,Qual o melhor editor de código? #shorts,a curva de configuração do Sublime chega a ser tão desconfortável quanto um VIM
+Vim/Neovim,negativo,3,-0.9678688710555434,comentario,Rankeando as melhores IDEs para PROGRAMAR (minha experiência),"Vim é um lixo, não existe outra coisa. Dev's usam por modismo mesmo ""ai, como sou oldschool, olha pra mim!""."
+IntelliJ IDEA,positivo,19,0.6335524767637253,trecho,EM QUAL FERRAMENTA PROGRAMAR JAVA?,Acredito que o IntelliJ é a melhor para programar com Java eu comprei a IntelliJ Ultimate e cara
+IntelliJ IDEA,positivo,10,0.936060699634254,frase,Como escolher a MELHOR IDE para Java: 5 PONTOS que você PRECISA levar em conta para ESCOLHER CERTO,"ainda quero conhecer IntelliJ, que dizem ser ótima."
+IntelliJ IDEA,negativo,3,-0.6486226692795753,comentario,EM QUAL FERRAMENTA PROGRAMAR JAVA?,Sim intellij se for o pago então aí nem tem o que dizer.
+IntelliJ IDEA,negativo,1,-0.853006249293685,comentario,EM QUAL FERRAMENTA PROGRAMAR JAVA?,Hehe mas aja paciencia mano rsrs Para java não faz muito sentido por causa do Intellij Community Edition rsrs.
+Eclipse,positivo,9,0.5775870997458696,comentario,EM QUAL FERRAMENTA PROGRAMAR JAVA?,"Salve Samuca!! Vídeo top, até o momento só utilizei o eclipse pra programar em Java, tô começando a entrar no mundo do Java pra web agora e tô apanhando um pouco pra configurar o eclipse pra conectar com o tomcat dentro do container. Tô ansioso pelos próximos vídeos vlw!"
+Eclipse,positivo,6,0.9362818049266934,trecho,POR ISSO VOCÊ NÃO DEVE USAR O VS CODE PARA ESTUDAR JAVA,é super d boas - e é muito mais leve q o intellij ou eclipse
+Eclipse,negativo,19,-0.9080895157530904,trecho,EM QUAL FERRAMENTA PROGRAMAR JAVA?,a integração é fora do normal e deixa o Eclipse pra trás. No meu trabalho eu necessito utilizar o Eclipse e na boa....
+Eclipse,negativo,4,-0.8030815422534943,trecho,POR ISSO VOCÊ NÃO DEVE USAR O VS CODE PARA ESTUDAR JAVA,O meu Linux não roda eclipse direito
+NetBeans,positivo,3,0.986916740424931,trecho,Qual o melhor editor de código? #shorts,tô curtindo bastante o NetBeans haha
+NetBeans,positivo,1,0.6070443689823151,comentario,EM QUAL FERRAMENTA PROGRAMAR JAVA?,"Os dois são muito bons, o que não da para usar é o NetBeans"
+NetBeans,negativo,8,-0.813756100833416,comentario,IDE favorita dos programadores,meu professor na universidade pedindo pra gente usar o NETBEANS pra programar em Java. Vontade de explodir que dá kk
+NetBeans,negativo,3,-0.6384051227942109,frase,EM QUAL FERRAMENTA PROGRAMAR JAVA?,Parece que o Netbeans faz tudo sozinho kk...
+Visual Studio,positivo,15,0.9489776827394962,comentario,OS MELHORES EDITORES DE CÓDIGO (NA PRÁTICA),Visual Studio + drácula + beauty + bookmarker = perfeição
+Visual Studio,positivo,10,0.9427436292171478,frase,Como escolher a MELHOR IDE para Java: 5 PONTOS que você PRECISA levar em conta para ESCOLHER CERTO,"Normalmente uso Visual Studio pra C# e consigo enxergar várias das vantagens mencionadas, é realmente uma ótima IDE, os pontos citados são muito relevantes mesmo."
+Visual Studio,negativo,2,-0.9807549836114049,comentario,"4 IDEs para programar em C# no Windows, Mac ou Linux",Eu não consigo gostar do Visual Studio e depois que eu entendi como fazer as coisas com a dotnet cli eu tive menos vontade ainda de tentar gostar dele...
+Visual Studio,negativo,1,-0.9710501972585917,frase,"4 IDEs para programar em C# no Windows, Mac ou Linux",Esse defeito é gravíssimo do Visual Studio.
+PyCharm,positivo,2,0.9881056766025722,frase,"4 IDEs para programar em C# no Windows, Mac ou Linux","Adoro as IDEs da Jet, principalmente o Pycharm ..."
+PyCharm,positivo,2,0.9738217424601316,comentario,IDE // Dicionário do Programador,"Pycharm, jetbrains em geral são as melhores"
+PyCharm,negativo,4,-0.5866604000329971,comentario,"Qual a Melhor IDE para Python? PyCharm, VSCode, Jupyter, Colab","Qual desses ide e melhor pra notebook fraco,porque tô testando o pycharm e ele tá matando meu notebook"
+PyCharm,negativo,3,-0.6214434299618006,comentario,"Qual a Melhor IDE para Python? PyCharm, VSCode, Jupyter, Colab",Usei a bastante tempo o Pycharm. O abandonei pois drena muito a memória ram
+Notepad++,positivo,9,0.9067033124156296,comentario,As melhores IDEs pra cada linguagem de programação,Notepad++ pra tudo😎
+Notepad++,positivo,3,0.5745090451091528,frase,Qual é o melhor editor de código? #HipstersPontoTube,Sempre gostei do Notepad++.
+Notepad++,negativo,0,-0.6429794412106276,comentario,IDE favorita dos programadores,Notepad++ nem ide é

@@ -8,14 +8,14 @@
     "comentarios_informados_pela_api": 56
   },
   "coleta": {
-    "iniciada_em": "2026-10-08T15:59:11.089662+00:00",
+    "iniciada_em": "2026-10-12T22:45:59.339986+00:00",
     "limite": 0,
     "incluir_respostas": true,
     "ordem": "time",
-    "orcamento_requisicoes": 3334,
+    "orcamento_requisicoes": 477,
     "status": "concluido",
     "encerramento": "api_esgotada",
-    "finalizada_em": "2026-10-08T15:59:15.051785+00:00",
+    "finalizada_em": "2026-10-12T22:46:03.503226+00:00",
     "total": 56,
     "principais": 35,
     "respostas": 21,

@@ -1,0 +1,102 @@
+﻿video_id,comentario_id,comentario_pai_id,tipo,texto,curtidas,publicado_em,atualizado_em
+rMuHty2zn_4,UgyiHvNobGd6XAZmb7t4AaABAg,,principal,"Garanta sua vaga no treinamento gratuito: 
+https://devsuperior.com.br",8,2023-04-26T11:59:12Z,2023-04-26T11:59:12Z
+rMuHty2zn_4,Ugy5tuC8oJFe_Krzvs54AaABAg,,principal,Seu seu aluno na Udemy e sua didática é incrível. Bem que poderia fechar com chave de ouro fazendo um curso Android com Java. Seria ótimo.,0,2026-03-01T03:49:18Z,2026-03-01T03:49:18Z
+rMuHty2zn_4,UgygUuZIyn3FxQpabIV4AaABAg,,principal,"Cheguei atrasado, mas só hj estou tomando conhecimento dessa ferramenta, pois comecei estudar java pouco tempo.",0,2025-03-26T00:51:59Z,2025-03-26T00:51:59Z
+rMuHty2zn_4,UgxH_yc16Ni_nZ8JmkN4AaABAg,,principal,Excelente conteudo. Muito obrigado.,0,2025-01-19T08:35:57Z,2025-01-19T08:35:57Z
+rMuHty2zn_4,UgwN5b410xDUxeVlXTp4AaABAg,,principal,Cade os video novos desse canal ?,1,2024-09-19T14:54:41Z,2024-09-19T14:54:41Z
+rMuHty2zn_4,UgzJqwQx4txLVaIbNB94AaABAg,,principal,"pô mano, o Nélio é muito foda como professor, tenho vontade de adquirir o curso de java spring pra backend da devSuperior, porem trabalho o dia todo e faço facul, com um ano de acesso não seria efetivo para mim, mas pra quem tem um tempinho, recomendo muito!!",2,2024-06-12T12:53:15Z,2024-06-12T12:53:15Z
+rMuHty2zn_4,UgxtOKJ1ki2d6CkbMzh4AaABAg,,principal,"olá professor estou fazendo o seu curso de java e estou com um problema no exercício de composições no exemplo você usa o metodo income() com o a classe Calendar, mas eu estou usando o LocalDate só que o valor retornado é apenas o salario base e não o salario base + o valor do contrato me ajuda pfv!!! esse é o meu método public double income(int year, int month) {
+	    double sum = baseSalary;
+	    for (HourContract c : contracts) {
+	        LocalDate date = c.getDate();
+	        int c_year = date.getYear();
+	        int c_month = date.getMonthValue();
+	        if (year == c_year && month == c_month) {
+	            sum += c.totalValue();
+	        }
+	    }
+	    return sum;
+	}",1,2024-05-29T02:30:26Z,2024-05-29T02:30:26Z
+rMuHty2zn_4,UgzEQQ4PQLyqdVa_rD14AaABAg,,principal,Parou de fazer videos ?,1,2024-04-24T19:15:05Z,2024-04-24T19:15:05Z
+rMuHty2zn_4,UgyHhS0D4C0Y_uTmLnh4AaABAg,,principal,"rapaz, vou compartilhar meu uso, ultilizo eclipse e as vezes o vscode, 5 anos com java e kotlin e nunca tive intellij.",1,2024-04-20T18:46:55Z,2024-04-20T18:46:55Z
+rMuHty2zn_4,UgzDzYTUyhLcDFbebpJ4AaABAg,,principal,"Faz muito sentido Nelio 
+Obrigado",1,2024-02-23T17:39:26Z,2024-02-23T17:39:26Z
+rMuHty2zn_4,UgztmLiScTbyl24B1jV4AaABAg,,principal,Sensacional,1,2024-02-23T17:38:01Z,2024-02-23T17:38:01Z
+rMuHty2zn_4,UgwLOkkB1lqhvykdDWN4AaABAg,,principal,Que Deus abençoe e ilumine sempre vc e sua família! Que Deus abençoe e ilumine sempre quem estiver lendo esse comentário e suas famílias tbm!,2,2024-01-05T20:35:29Z,2024-01-05T20:35:29Z
+rMuHty2zn_4,UgxtmT2-xOjsynzRXwp4AaABAg,,principal,"Olá Nélio, como vai? Facilite meu entendimento gravando um vídeo explicando o que é e para que serve a extração de um método (Extract Method). Descobri que todas as IDEs possui este recurso. Obrigado",1,2023-12-06T11:34:56Z,2023-12-06T11:34:56Z
+rMuHty2zn_4,UgzEcdivF_fB7z_sArN4AaABAg,,principal,"Parabéns, Profº Nélio ! Muito bem explicado.",2,2023-11-12T20:32:59Z,2023-11-12T20:32:59Z
+rMuHty2zn_4,UgxQpqn5_UjAbxCTGGx4AaABAg,,principal,eu estou bem confuso akkkkk,1,2023-11-12T14:21:37Z,2023-11-12T14:21:37Z
+rMuHty2zn_4,UgyknzrxvBo9iqWAMXd4AaABAg,,principal,Aluno do curso Java Completo desde 2019 na Udemy. Trabalhando hoje com Java graças aos seus ensinamentos. Sempre muito didático!!!,38,2023-11-08T23:38:57Z,2023-11-08T23:38:57Z
+rMuHty2zn_4,UgzliJvP64wcPQ7lvYJ4AaABAg,,principal,Excente!!!!,1,2023-10-19T15:27:18Z,2023-10-19T15:27:18Z
+rMuHty2zn_4,UgzYeqCfBF6H6dLIsiN4AaABAg,,principal,caramba que trampo kkkk eu mal acostumado com javascript...,1,2023-07-24T05:21:41Z,2023-07-24T05:21:41Z
+rMuHty2zn_4,Ugw8VRW9qz_SkzMzQ1x4AaABAg,,principal,"o meu falou que a porta 8080 já estava em uso, tentei por conta dar uma olhada mas nao achei onde eu troco a porta",1,2023-07-20T20:07:11Z,2023-07-20T20:07:11Z
+rMuHty2zn_4,UgwleANYx-yt4jDKIr94AaABAg,,principal,Tem diferença de spring e spring boot?,1,2023-07-20T16:09:37Z,2023-07-20T16:09:37Z
+rMuHty2zn_4,UgwKIRevte3Drcr7GE54AaABAg,,principal,"Excelente vídeo, parabéns professor pela didática",1,2023-07-13T20:54:11Z,2023-07-13T20:54:11Z
+rMuHty2zn_4,UgxUEiVfBM7KP_GvrFN4AaABAg,,principal,"o meu joia vc sempre vai ter, pq o seu assunto é o melhor da internet",1,2023-07-11T03:14:06Z,2023-07-11T03:14:06Z
+rMuHty2zn_4,UgypPbi4L2QscczdZwZ4AaABAg,,principal,olha vc esta com o Windows 11,1,2023-07-11T02:42:37Z,2023-07-11T02:42:37Z
+rMuHty2zn_4,Ugwcy0VYc8AnEpeu2Hd4AaABAg,,principal,O mais brabo Nélio parabéns e muito obrigado  por disseminar essa astronômica bagagem e ajudar milhares....,2,2023-07-11T02:28:48Z,2023-07-11T02:28:48Z
+rMuHty2zn_4,UgyXUvTtcL3uGSHt6sp4AaABAg,,principal,"Pessoal quem for usar o STS no linux e for usar o Eclipse, recomendo que baixem a 4.19.0 - Linux x86_64, a ARM_64 não abriu no meu ubuntu.",1,2023-07-10T23:36:03Z,2023-07-10T23:36:03Z
+rMuHty2zn_4,UgxeaWkiFQQGBZKtYhx4AaABAg,,principal,Muito legal... parabens... indo td bem até agr.,1,2023-07-09T13:44:55Z,2023-07-09T13:44:55Z
+rMuHty2zn_4,Ugx1WrzaT1J1t99wilR4AaABAg,,principal,ótimo video!!!!!,1,2023-05-18T21:52:52Z,2023-05-18T21:52:52Z
+rMuHty2zn_4,UgzMF4aM2GoflR2A9Vx4AaABAg,,principal,Top professor! Parabéns por trazer conteúdo com tanta qualidade.,3,2023-05-09T16:57:15Z,2023-05-09T16:57:15Z
+rMuHty2zn_4,UgyN1PBH_C4d_dnmdDh4AaABAg,,principal,"Ainda há quem não lhe veja como professor hehe
+Você e o Guanabara realmente não são professores, são duas mães 💞
+Obrigado por compartilhar conosco seu conhecimento.",1,2023-05-07T15:40:38Z,2023-05-07T15:40:38Z
+rMuHty2zn_4,UgwJwn2uyZh6xD23s7N4AaABAg,,principal,"Estou começando agora, estou no primeiro estágio da Oracle Next Generation, então não sei nada de backend. Não entendi algumas coisas que disse, mas tudo bem kkkk, obrigado mesmo pelo vídeo, me sinto até mais preparado. A, e tbm estou acompanhando o treinamento gratuito do DevSuperior. Obrigado.",1,2023-05-05T22:31:23Z,2023-05-05T22:31:23Z
+rMuHty2zn_4,Ugx6S55X519TaY67Zel4AaABAg,,principal,"Fiz o curso de linguagem Java com ele pela Udemy, a forma dele de ensino é excelente, ansioso pelos proximos videos🤝😃",2,2023-05-05T20:53:17Z,2023-05-05T20:53:17Z
+rMuHty2zn_4,UgwGYijaGh-_pIXQHYl4AaABAg,,principal,Sensacional!,1,2023-05-04T23:04:25Z,2023-05-04T23:04:25Z
+rMuHty2zn_4,UgytJVfHooYmijJxLmF4AaABAg,,principal,"Poxa professor vc é foda, vou mentir não, eu tava desempregado, peguei um curso seu de um amigo meu, gostei tanto de sua forma de dar aula e seu jeito de ensinar que apos arruma emprego na area fazendo seus cursos da Udemy, eu fui la e comprei eles oficialmente e to estudando eles, gosto muito do seu trabalho, parabens amigo. Obrigado por me ajudar tanto e nem me conhecer. tmj",1,2023-05-01T17:46:50Z,2023-05-01T17:46:50Z
+rMuHty2zn_4,Ugz7gj8mLHLA4jx47HJ4AaABAg,,principal,"Poxa professor vc é foda, vou mentir não, eu tava desempregado, peguei um curso seu de um amigo meu, gostei tanto de sua forma de dar aula e seu jeito de ensinar que apos arruma emprego na area fazendo seus cursos da Udemy, eu fui la e comprei eles oficialmente e to estudando eles, gosto muito do seu trabalho, parabens amigo. Obrigado por me ajudar tanto e nem me conhecer. tmj",32,2023-05-01T17:46:43Z,2023-05-01T17:46:43Z
+rMuHty2zn_4,UgxfIyfpaTRxdL53uVN4AaABAg,,principal,"EU adoro o VSCode para qualquer projeto web, mas quando penso em Java não tem como não usar o IntelliJ, é incrível o ganho de produtividade com essa ferramenta, mesmo na versão community. Pra quem faz faculdade de TI existe a possibilidade de vc aplicar para a licença de Student da Jetbrains e ter acesso a versão Ultimate e mais uma série de benefícios totalmente gratuitos.",0,2023-04-29T16:17:38Z,2023-04-29T16:17:38Z
+rMuHty2zn_4,UgxwFVwtrJF40d7LPE14AaABAg,,principal,show,0,2023-04-29T14:23:50Z,2023-04-29T14:23:50Z
+rMuHty2zn_4,UgzRQL-yQilhyDi77xh4AaABAg,,principal,Muito bom! Foi tranquilo demais fazer no VSCode,0,2023-04-28T15:14:22Z,2023-04-28T15:14:22Z
+rMuHty2zn_4,Ugz2KWMcHDpL885I8gB4AaABAg,,principal,"O professor dos professores, grande mestre!",0,2023-04-28T14:01:29Z,2023-04-28T14:01:29Z
+rMuHty2zn_4,Ugx_vMDkJb125Zaamh94AaABAg,,principal,Sempre com conteúdo de milhões! Parabéns!,0,2023-04-28T13:39:48Z,2023-04-28T13:39:48Z
+rMuHty2zn_4,UgyQhDdQCbPz_WpFyU94AaABAg,,principal,Aguardando ansioso o projeto.,0,2023-04-28T01:36:52Z,2023-04-28T01:36:52Z
+rMuHty2zn_4,UgwV3BOxtqke67HBa2x4AaABAg,,principal,"Já que o Intellij é o usado no mercado, porque não fazer os vídeos nele?",0,2023-04-27T19:57:36Z,2023-04-27T19:57:36Z
+rMuHty2zn_4,UgwV3BOxtqke67HBa2x4AaABAg.9p0qTQTfj5R9p1BZ6ZZvuK,UgwV3BOxtqke67HBa2x4AaABAg,resposta,"As outras também são usadas no mercado. Mas o motivo de usar o STS em boa parte dos vídeos é porque já vem com JDK embutido, o que minimiza problemas de setup da galera durante os eventos gratuitos.",3,2023-04-27T23:10:36Z,2023-04-27T23:10:36Z
+rMuHty2zn_4,Ugze7UiV3rFoXLurKdl4AaABAg,,principal,Bom dia. Para mim qualquer IDE serve. Altero sempre os shortcuts para ficar semelhante ao visual studio porque tbm programo web apis em C#.,0,2023-04-27T07:55:25Z,2023-04-27T07:55:25Z
+rMuHty2zn_4,UgwabmGsyPvsvTSDCgt4AaABAg,,principal,Já garanti a minha vaga..,0,2023-04-26T19:28:58Z,2023-04-26T19:28:58Z
+rMuHty2zn_4,UgwsOVvhnb4m4lU9c154AaABAg,,principal,"Muito bom!!!
+Será que poderia fazer também um com o NetBeans??",0,2023-04-26T19:25:46Z,2023-04-26T19:25:46Z
+rMuHty2zn_4,UgyMiRD52vq7jWjQm294AaABAg,,principal,"Parabéns pelo vídeo mestre, creio que com este conteúdo poderei avançar cada vez mais nesta tecnologia e não vejo a hora de participar deste grande evento. Sou seu aluno da Udemy.",0,2023-04-26T18:58:46Z,2023-04-26T18:58:46Z
+rMuHty2zn_4,Ugxh_DAlDno11sJB0JF4AaABAg,,principal,"Melhor instrutor/professor de longe em Java.
+Existe outros, porem o Nélio tem a capacidade de passar os assuntos com coesão e de fácil entendimento. 
+Parabéns pelo conteúdo, volta e meia sempre passou nos aulão para dar aquela refrescada na matéria!",5,2023-04-26T17:19:33Z,2023-04-26T17:19:33Z
+rMuHty2zn_4,UgyOzIaVMKTzhEcSa8B4AaABAg,,principal,Sou seu aluno de java na Udemy..obrigado pela didática...excelente..prof de facul né...melhor de todos...sucesso!,0,2023-04-26T16:51:01Z,2023-04-26T16:51:01Z
+rMuHty2zn_4,Ugz_fV5oMZ1A6JDYT1F4AaABAg,,principal,muito legal pra quem nao entende muito desse mundo Java Spring,0,2023-04-26T16:26:25Z,2023-04-26T16:26:25Z
+rMuHty2zn_4,UgwsNoN0tmj7Q5J4UKd4AaABAg,,principal,Todos sabemos que intellij é muito superior a todas,0,2023-04-26T16:04:06Z,2023-04-26T16:04:06Z
+rMuHty2zn_4,UgyO8jeuYI2Vl-iQoTp4AaABAg,,principal,Pra mim VSCode é excelente. Pouca gente usa ou sabe usar no VSCode mas e bem simples. Inclusive a IDE tem spring initalizr imbutido e vc pode adicionar novos pacotes sem ficar mexendo no pom.xml. a propria ide faz pra vc.,0,2023-04-26T14:31:31Z,2023-04-26T14:31:31Z
+rMuHty2zn_4,UgyqRe-d1nyFZ3JSa8F4AaABAg,,principal,"Sou seu aluno na Udemy, tive os primeiros contatos com as linguagens em um dos seus cursos que me passou uma ótima base lógica e agora estou trilhando java, parabéns pela excelente didática!!! sou muito grato por todo conhecimento que estou adquirindo 🙏☕",1,2023-04-26T14:17:48Z,2023-04-26T14:18:39Z
+rMuHty2zn_4,Ugztg_RiQl-lR_U7KqJ4AaABAg,,principal,Nélio...tem algum conteúdo seu criando app Android em spring?,1,2023-04-26T14:06:21Z,2023-04-26T14:06:21Z
+rMuHty2zn_4,UgyZeesyBLMXBYKBn7R4AaABAg,,principal,"Professor sou seu aluno na Udemy e sua didática é excelente, obrigado por nos passar tantos ensinamentos.",1,2023-04-26T13:58:49Z,2023-04-26T13:58:49Z
+rMuHty2zn_4,UgyKgJ3xKG7LhOSCvBh4AaABAg,,principal,Este professor Nélio é simplesmente top!,0,2023-04-26T13:51:33Z,2023-04-26T13:51:33Z
+rMuHty2zn_4,UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pMZf-zyCCg,UgyKgJ3xKG7LhOSCvBh4AaABAg,resposta,".
+2:🍃🌊😅😊 vai  v vv
+  😊. Iv nonoiovnc nnnonnnon v. V i v. Vn v v.    .😅  vai. Vv n vcv v
+ 
+ V vc vem. Vai vbv vc vvvvvv a vc vai vc.  Vc. 
+ Vvv
+Vai vc. N.   VV vc.vc 
+  
+V 
+ Nv o. V 3:49  v nvc.  . Lc. L
+Nonnooonnnoo😊",0,2023-05-06T06:25:18Z,2023-05-06T06:25:18Z
+rMuHty2zn_4,UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pMZhpE7Jyb,UgyKgJ3xKG7LhOSCvBh4AaABAg,resposta,😊,0,2023-05-06T06:25:41Z,2023-05-06T06:25:41Z
+rMuHty2zn_4,UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pM_5NNuK7Y,UgyKgJ3xKG7LhOSCvBh4AaABAg,resposta,😊😊 7:44,0,2023-05-06T06:29:03Z,2023-05-06T06:29:03Z
+rMuHty2zn_4,UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pM_DAJnsu1,UgyKgJ3xKG7LhOSCvBh4AaABAg,resposta,Vn ivvn. Vem i. 😅😊😊😊,0,2023-05-06T06:30:06Z,2023-05-06T06:30:06Z
+rMuHty2zn_4,UgyKgJ3xKG7LhOSCvBh4AaABAg.9oybmWcHuXl9pM_JOS-GiG,UgyKgJ3xKG7LhOSCvBh4AaABAg,resposta,😊,0,2023-05-06T06:30:57Z,2023-05-06T06:30:57Z
+rMuHty2zn_4,UgzqgUn76aYs5ncmlKh4AaABAg,,principal,"Professor o sr. é muito didático, obrigado.",0,2023-04-26T13:50:24Z,2023-04-26T13:50:24Z
+rMuHty2zn_4,Ugw9UPJEZtlrx7clBVx4AaABAg,,principal,Seria bacana um curso seu de Java EE/Jakarta🙏 instrutor muito top🔥🔥🔥,0,2023-04-26T13:48:21Z,2023-04-26T13:48:21Z
+rMuHty2zn_4,Ugx_e6s3Z2eHse1Ge5V4AaABAg,,principal,Muito bom,0,2023-04-26T13:43:27Z,2023-04-26T13:43:27Z
+rMuHty2zn_4,UgzvVgRbqxoS9bfRjGp4AaABAg,,principal,"Estou lhe acompanhando desde o ano passado, suas aulas são excelentes.",0,2023-04-26T13:05:29Z,2023-04-26T13:05:29Z
+rMuHty2zn_4,UgymCBMGT3xYWEyXU1Z4AaABAg,,principal,"Poderia fazer um vídeo de como montar um setup para dev de Java + Spring em windows? Com tudo a que tem direito (tipo docker, etc)",0,2023-04-26T12:41:14Z,2023-04-26T12:41:14Z
+rMuHty2zn_4,UgyDjZqCpV79cczMmGF4AaABAg,,principal,Excelente,0,2023-04-26T12:37:12Z,2023-04-26T12:37:12Z
+rMuHty2zn_4,Ugy5mc6ExC2fjEyUG1V4AaABAg,,principal,Sou um de seus alunos no Udemy. Obrigado pelo conteúdo. Ainda estou engatinhando e não sou da área. Espero ter consistência nos estudos.,16,2023-04-26T12:22:26Z,2023-04-26T12:22:26Z
+rMuHty2zn_4,Ugy5mc6ExC2fjEyUG1V4AaABAg.9oyS_qLukyT9oyXD1wVBQX,Ugy5mc6ExC2fjEyUG1V4AaABAg,resposta,,0,2023-04-26T13:02:52Z,2023-04-26T13:02:52Z
+rMuHty2zn_4,UgyvtxBpaSJU0ld-WMV4AaABAg,,principal,"Tenho dificuldades em usar o NetBeans, em projetos SpringBoot sempre dá algum erro ao tentar rodar, sem falar que não para de baixar repositórios, no caso de projetos utilizando JavaFX é complicado usar em versões que ele não venha embutido no jdk. Alguma dica?",0,2023-04-26T12:14:47Z,2023-04-26T12:14:47Z
+rMuHty2zn_4,UgyvtxBpaSJU0ld-WMV4AaABAg.9oyRht4qhAl9oyYRpMPcpM,UgyvtxBpaSJU0ld-WMV4AaABAg,resposta,"Muito tempo que não uso Adroaldo, mas se tiver enroscando demais no NetBeans, eu consideraria trocar de IDE.",0,2023-04-26T13:13:37Z,2023-04-26T13:13:37Z
+rMuHty2zn_4,Ugx2kNSy0mSrtoFHq-N4AaABAg,,principal,"Excelente conteúdo!
+Ótima didática!
+Vai direto ao ponto, sem enrolação, parabéns!",0,2023-04-26T11:59:24Z,2023-04-26T11:59:24Z

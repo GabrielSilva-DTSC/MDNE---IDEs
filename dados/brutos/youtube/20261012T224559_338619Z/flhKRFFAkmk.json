@@ -1,0 +1,266 @@
+{
+  "video": {
+    "id": "flhKRFFAkmk",
+    "url": "https://www.youtube.com/watch?v=flhKRFFAkmk",
+    "titulo": "O QUE É UMA IDE? | A FERRAMENTA MAIS IMPORTANTE DE UM PROGRAMADOR!",
+    "canal": "Primata Hub",
+    "publicado_em": "2026-02-04T10:01:00Z",
+    "comentarios_informados_pela_api": 24
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:47:59.174423+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:48:01.160567+00:00",
+    "total": 24,
+    "principais": 14,
+    "respostas": 10,
+    "requisicoes": 5
+  },
+  "comentarios": [
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgxjUpvae_Du7q2k7114AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Top!",
+      "curtidas": 0,
+      "publicado_em": "2026-06-04T10:20:13Z",
+      "atualizado_em": "2026-06-04T10:20:13Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwvWro5AbFV4G4u9eB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mais um ótimo vídeo do canal! 😎 Minha IDE favorita: VSCode. Mas o IntelliJ cai bem para Java...",
+      "curtidas": 2,
+      "publicado_em": "2026-03-06T13:38:06Z",
+      "atualizado_em": "2026-03-06T13:38:06Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "Ugzd6OT-WGEln-3AQkt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Intellij, Eclipse e NetBeans. Windev para RAD",
+      "curtidas": 0,
+      "publicado_em": "2026-02-21T00:21:01Z",
+      "atualizado_em": "2026-02-21T00:21:01Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "Ugyf4dgcoi_22uzyj2F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Que trabalho incrível!",
+      "curtidas": 0,
+      "publicado_em": "2026-02-09T15:31:05Z",
+      "atualizado_em": "2026-02-09T15:31:05Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "Ugw8MNvmeezKrBLq7jd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "qual a melhor IDE pra baixar no meu microsoft store pois meu windows batata não é dos mais incríveis?",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T23:39:28Z",
+      "atualizado_em": "2026-02-05T23:39:28Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgxvVY9vPyP5uNZ_sEd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Como sempre, vídeo bacana.",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T09:46:46Z",
+      "atualizado_em": "2026-02-05T09:46:46Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgxvVY9vPyP5uNZ_sEd4AaABAg.ASqIPnR80KmAXclvnEN4V4",
+      "comentario_pai_id": "UgxvVY9vPyP5uNZ_sEd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ou em macaquês: vídeo banana!",
+      "curtidas": 0,
+      "publicado_em": "2026-06-04T10:21:02Z",
+      "atualizado_em": "2026-06-04T10:21:02Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgyAtM1MQNpOCu56AgN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Na maioria dos projetos, eu uso o neovim, quando não é o neovim é o vscode",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T01:52:19Z",
+      "atualizado_em": "2026-02-05T01:52:19Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgzoaVQyJvUPgwC_Fgp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VsCodezinho né",
+      "curtidas": 1,
+      "publicado_em": "2026-02-04T15:36:11Z",
+      "atualizado_em": "2026-02-04T15:36:11Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgxvBz2ZKE2ECZamS0V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "👏🏼👏🏼",
+      "curtidas": 1,
+      "publicado_em": "2026-02-04T14:05:58Z",
+      "atualizado_em": "2026-02-04T14:05:58Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "Ugx2kzGRFqvTxzXhQ_54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vs code e IJ.",
+      "curtidas": 0,
+      "publicado_em": "2026-02-04T13:55:50Z",
+      "atualizado_em": "2026-02-04T13:55:50Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwbjiTkfItGmWFLNnl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "jetbrains é a melhor, quem discorda usa vscode e é front",
+      "curtidas": 1,
+      "publicado_em": "2026-02-04T13:01:01Z",
+      "atualizado_em": "2026-02-04T13:01:01Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwbjiTkfItGmWFLNnl4AaABAg.ASo3qbMhDSnASoifK0NzI9",
+      "comentario_pai_id": "UgwbjiTkfItGmWFLNnl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Intelijei humilha",
+      "curtidas": 2,
+      "publicado_em": "2026-02-04T19:06:29Z",
+      "atualizado_em": "2026-02-04T19:06:29Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "Ugx4azPMsHUD8Mc7nMt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Interessante.",
+      "curtidas": 0,
+      "publicado_em": "2026-02-04T11:29:17Z",
+      "atualizado_em": "2026-02-04T11:29:17Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Olha que coincidência. Ontem eu desativei o autocomplete. Justamente pra ficar mais ativo. Tava muito preguiçoso.",
+      "curtidas": 2,
+      "publicado_em": "2026-02-04T10:54:01Z",
+      "atualizado_em": "2026-02-04T10:54:01Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUASpQ8VmxpZB",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "Mas a msg do vídeo é o oposto",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T01:35:05Z",
+      "atualizado_em": "2026-02-05T01:35:05Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUASpRjHNA15X",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "Fica ativo, porém menos produtivo",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T01:48:58Z",
+      "atualizado_em": "2026-02-05T01:48:58Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUASpSA4c9536",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@inetixti.animesa frase anterior eu falei que desativei. Para EU ficar mais ativo. EU estava muito preguiçoso.",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T01:52:46Z",
+      "atualizado_em": "2026-02-05T01:52:46Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUASpSHcN7TjA",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@mendes9221a frase anterior eu falei que desativei. Para EU ficar mais ativo. EU estava muito preguiçoso.",
+      "curtidas": 1,
+      "publicado_em": "2026-02-05T01:53:48Z",
+      "atualizado_em": "2026-02-05T01:53:48Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUASppMCXTQB2",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@ailsonsjrMas usar auto complete não deixa você mais preguiçoso, apenas economiza seu tempo... Não entendi muito bem a lógica ksks",
+      "curtidas": 1,
+      "publicado_em": "2026-02-05T05:24:08Z",
+      "atualizado_em": "2026-02-05T05:24:08Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUASrmmtcqu5Z",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "@inetixti.animes vai ver pode ter viciado no autocomplete dai ele quis dar uma pausa",
+      "curtidas": 0,
+      "publicado_em": "2026-02-05T23:40:11Z",
+      "atualizado_em": "2026-02-05T23:40:11Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUATL_tZLjTH1",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "@inetixti.animes se for um projeto pessoal dele e ele não tiver prazo pra entregar a ninguém então pra que produtividade gigante?",
+      "curtidas": 0,
+      "publicado_em": "2026-02-17T22:43:57Z",
+      "atualizado_em": "2026-02-17T22:43:57Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "UgwdWySIhmB9pRvJI6J4AaABAg.ASnqJQTUkOUATNHG_hehhe",
+      "comentario_pai_id": "UgwdWySIhmB9pRvJI6J4AaABAg",
+      "tipo": "resposta",
+      "texto": "O problema do auto complete para quem está estudando ou iniciando na carreira é o não saber para que serve, o que faz, ou se é aquilo realmente que precisa, se mudar a regra de negócio não vai saber o que fazer ou onde mexer.",
+      "curtidas": 0,
+      "publicado_em": "2026-02-18T14:30:57Z",
+      "atualizado_em": "2026-02-18T14:30:57Z"
+    },
+    {
+      "video_id": "flhKRFFAkmk",
+      "comentario_id": "Ugy80n31DT29iLCSKNJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns pelo trabalho!",
+      "curtidas": 2,
+      "publicado_em": "2026-02-04T10:05:02Z",
+      "atualizado_em": "2026-02-04T10:05:02Z"
+    }
+  ]
+}

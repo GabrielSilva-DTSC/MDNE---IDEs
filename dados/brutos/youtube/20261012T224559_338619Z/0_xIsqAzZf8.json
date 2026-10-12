@@ -1,0 +1,1496 @@
+{
+  "video": {
+    "id": "0_xIsqAzZf8",
+    "url": "https://www.youtube.com/watch?v=0_xIsqAzZf8",
+    "titulo": "EM QUAL FERRAMENTA PROGRAMAR JAVA?",
+    "canal": "Curso De Tecnologia",
+    "publicado_em": "2022-01-18T19:29:48Z",
+    "comentarios_informados_pela_api": 147
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:47:26.410483+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:47:46.573364+00:00",
+    "total": 147,
+    "principais": 73,
+    "respostas": 74,
+    "requisicoes": 51
+  },
+  "comentarios": [
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxrYmK5XJA_aZCOzDh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aos 46 anos iniciando no mundo da programação e começando pela linguagem Java.",
+      "curtidas": 1,
+      "publicado_em": "2026-04-23T16:31:01Z",
+      "atualizado_em": "2026-04-23T16:31:01Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyVJlGm0-NCOQ8A5xl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "tô começando no Java e vou fazer o curso do Nélio Alves , ele usa o eclipse e eu gosto do intelij será que é ruim assistir o curso usando o intelij ? eu gostei mais dele e agora tem verdão gratuita pra estudante",
+      "curtidas": 0,
+      "publicado_em": "2025-10-03T20:14:19Z",
+      "atualizado_em": "2025-10-03T20:14:19Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyVJlGm0-NCOQ8A5xl4AaABAg.ANpYrgm63r9AOImhS3VFHp",
+      "comentario_pai_id": "UgyVJlGm0-NCOQ8A5xl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Voce vai sofrer um pouco mudando a IDE.",
+      "curtidas": 0,
+      "publicado_em": "2025-10-15T14:01:12Z",
+      "atualizado_em": "2025-10-15T14:01:12Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx1ORiXliKyNYj-2WR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Valeu demais samucao, comecei com a IDE do NetBeans da Oracle, mais meu Notebook com processador Celeron 4020 e 4gb de ram, e o Debian 13 como SO não tankou, vou de Eclipse e espero que rode mais tranquilo kkk, satisfação samuca 👊🏽",
+      "curtidas": 3,
+      "publicado_em": "2025-09-26T06:37:39Z",
+      "atualizado_em": "2025-09-26T06:37:39Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxzS8w4tRULyHUptkJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "pode ensinar de como configurar IDE eclipse",
+      "curtidas": 1,
+      "publicado_em": "2025-06-18T12:55:14Z",
+      "atualizado_em": "2025-06-18T12:55:14Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzlFaht3iHHYWeCfAR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tutorial de como como falar por oito minutos e não dizer nada de concreto",
+      "curtidas": 0,
+      "publicado_em": "2024-10-21T01:08:42Z",
+      "atualizado_em": "2024-10-21T01:08:42Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzlFaht3iHHYWeCfAR4AaABAg.A9q-vHXO1dyA9rUkMxaxiM",
+      "comentario_pai_id": "UgzlFaht3iHHYWeCfAR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Você não deixa de estar certo, o vídeo serviu para você entender que existem conteúdos melhores de pessoas mais legais, faz parte, nem deus agradou a todo mundo e mesmo eu tentando ser detalhista nem sempre eu consigo passar a mensagem.",
+      "curtidas": 0,
+      "publicado_em": "2024-10-21T14:57:20Z",
+      "atualizado_em": "2024-10-21T14:57:20Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxMehTp5MUZFUeZxwZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parei de usa Eclise depois que vi alguns bugs de erro no meu código, eu passava horas tentando descobrir, até perceber que foi o próprio eclipse",
+      "curtidas": 0,
+      "publicado_em": "2024-10-01T09:10:17Z",
+      "atualizado_em": "2024-10-01T09:10:17Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx-wwIega3z43AuYwV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "",
+      "curtidas": 1,
+      "publicado_em": "2024-06-18T20:26:09Z",
+      "atualizado_em": "2024-06-18T20:26:09Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxVlDsiqvma8xhGqnV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara, me arrepiei vendo o Kawasaki Superbike Challenge, o primeiro jogo que joguei na minha vida, quando tinha meus 5 anos, passando ali na TV de tubo. Uma relíquia esse jogo, a música do menu também é fantástica. Tem um documentário bem legal no YouTube da empresa que desenvolveu esse jogo, contando a história de como ele foi desenvolvido, a forma que os programadores quebraram a cabeça mudando algoritmos para ter melhorias de performance e FPS no game, principalmente pelos desafios que era desenvolver um jogo com as limitações daquela época, inclusive evitando cálculos de divisão no código do jogo porque o hardware era mais lento para fazer essas operações.",
+      "curtidas": 2,
+      "publicado_em": "2024-06-01T22:11:00Z",
+      "atualizado_em": "2024-06-01T22:11:00Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugxy_wCt3_md3mxb-hN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "#2",
+      "curtidas": 2,
+      "publicado_em": "2024-03-15T04:51:27Z",
+      "atualizado_em": "2024-03-15T04:51:27Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzd9LQm_UoMo_PUusx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "👏🏿🤝🤛🏿",
+      "curtidas": 2,
+      "publicado_em": "2024-03-05T12:17:28Z",
+      "atualizado_em": "2024-03-05T12:17:28Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwZ-KUBIgmZ4YOMW-N4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aprendi a programar em java no eclipse, não consigo ser produtivo com outra IDE.",
+      "curtidas": 3,
+      "publicado_em": "2024-02-09T20:03:22Z",
+      "atualizado_em": "2024-02-09T20:03:22Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwZ-KUBIgmZ4YOMW-N4AaABAg.A-bR3lSTnhcA6Y1tFg2Onb",
+      "comentario_pai_id": "UgwZ-KUBIgmZ4YOMW-N4AaABAg",
+      "tipo": "resposta",
+      "texto": "Comigo é a mesma coisa",
+      "curtidas": 0,
+      "publicado_em": "2024-07-31T02:46:09Z",
+      "atualizado_em": "2024-07-31T02:46:09Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw9v_Qvw1Zp846VjnB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O eclipse achei tão bugado!",
+      "curtidas": 3,
+      "publicado_em": "2024-01-24T19:45:02Z",
+      "atualizado_em": "2024-01-24T19:45:02Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxVz99Gm_OBCj7ajpF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu tinha esse Kawasaki que tá rodando na tela. O maior erro da minha vida foi ter vendido o snes. 😢\nEnfim depois vou relembrá-lo no retroarch.",
+      "curtidas": 2,
+      "publicado_em": "2023-11-18T11:22:37Z",
+      "atualizado_em": "2023-11-18T11:22:37Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxVz99Gm_OBCj7ajpF4AaABAg.9xFmV10o9xx9yCU9AYlGWk",
+      "comentario_pai_id": "UgxVz99Gm_OBCj7ajpF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Rsrs snes é tudo de bom!",
+      "curtidas": 0,
+      "publicado_em": "2023-12-12T01:07:17Z",
+      "atualizado_em": "2023-12-12T01:07:17Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzWk1fhuH0t5HPQrAN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim > Everything else",
+      "curtidas": 2,
+      "publicado_em": "2023-10-14T17:47:57Z",
+      "atualizado_em": "2023-10-14T17:47:57Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwLqxfL7fjy3uwveyh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "",
+      "curtidas": 2,
+      "publicado_em": "2023-10-11T22:35:38Z",
+      "atualizado_em": "2023-10-11T22:35:38Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyO2bLDoaaGZPdlB6h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "'Coitado' do Netbeans. Ninguém curte.",
+      "curtidas": 1,
+      "publicado_em": "2023-10-06T22:49:53Z",
+      "atualizado_em": "2023-10-06T22:49:53Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgymBXDnxRJzG0A2y9d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Braboo demais!",
+      "curtidas": 2,
+      "publicado_em": "2023-10-01T18:46:33Z",
+      "atualizado_em": "2023-10-01T18:46:33Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwjdHXcreNOSnsde0p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Top demais Samuca",
+      "curtidas": 4,
+      "publicado_em": "2023-10-01T18:29:38Z",
+      "atualizado_em": "2023-10-01T18:29:38Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzr0W2_Oh-vKC6SfBx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não ficou muito claro!... Então a gente deve evitar usar a IDE que as empresas não usam, mas para fins didáticos se a pessoa esta aprendendo não serve? Quando eu comecei a estudar eu salvava tudo no bloco de notas e precisava compilar só para depois ver se o código estava funcionando, mas com a IDE o meu tempo de estudo ficou mais produtivo.",
+      "curtidas": 5,
+      "publicado_em": "2023-09-22T17:29:52Z",
+      "atualizado_em": "2023-09-22T17:29:52Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwUBenwOWjqD3JnAR54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Samuca você já chegou a testar uma nova IDE chamada Theia? Parece ser um mix do VSCode + Eclipse, feita pelo pessoal do Eclipse",
+      "curtidas": 1,
+      "publicado_em": "2023-08-14T20:35:18Z",
+      "atualizado_em": "2023-08-14T20:35:18Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzPLn-3RvOJNcuRlNl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "intelliJ com o email da faculdade te da a versao ultimate gratis por 1 ano, depois so solicita novamente.",
+      "curtidas": 5,
+      "publicado_em": "2023-07-28T05:16:11Z",
+      "atualizado_em": "2023-07-28T05:16:11Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwl7YlRk3NbtWYrUAF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Comecei a programar tem mais ou menos 1 mês. Estou estudando JavaScript e vou começar com Java, pois tenho muito interesse. Em dezembro volto pra dar relatos",
+      "curtidas": 4,
+      "publicado_em": "2023-07-25T22:22:40Z",
+      "atualizado_em": "2023-07-25T22:22:40Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwl7YlRk3NbtWYrUAF4AaABAg.9sbGoqnAL0S9vN9OrVO9g-",
+      "comentario_pai_id": "Ugwl7YlRk3NbtWYrUAF4AaABAg",
+      "tipo": "resposta",
+      "texto": "👍",
+      "curtidas": 1,
+      "publicado_em": "2023-10-02T15:03:23Z",
+      "atualizado_em": "2023-10-02T15:03:23Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwl7YlRk3NbtWYrUAF4AaABAg.9sbGoqnAL0SA6XpFBrQyZc",
+      "comentario_pai_id": "Ugwl7YlRk3NbtWYrUAF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eai, como ta indo?",
+      "curtidas": 1,
+      "publicado_em": "2024-07-31T00:46:57Z",
+      "atualizado_em": "2024-07-31T00:46:57Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxPj-T_dUaS7l5DsXJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o intellij gratuito e gosto bastante, acostumei nele já",
+      "curtidas": 5,
+      "publicado_em": "2023-07-21T01:12:54Z",
+      "atualizado_em": "2023-07-21T01:12:54Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxPj-T_dUaS7l5DsXJ4AaABAg.9sPhKHF51WlAB4JHYQPM5g",
+      "comentario_pai_id": "UgxPj-T_dUaS7l5DsXJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Por favor, pode me explicar como usar o gratuito? Procurei e procurei e nada.",
+      "curtidas": 0,
+      "publicado_em": "2024-11-20T20:17:54Z",
+      "atualizado_em": "2024-11-20T20:17:54Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxHBXNRJjhqCHF-sX54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "",
+      "curtidas": 3,
+      "publicado_em": "2023-07-04T02:07:12Z",
+      "atualizado_em": "2023-07-04T02:07:12Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx5t4QJTbK1kpY7QRx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Há programei em Basic, Cobol, Pascal, Clipper, Delphi e agora em php. Vamos ver como é em Java?",
+      "curtidas": 1,
+      "publicado_em": "2023-06-21T01:11:50Z",
+      "atualizado_em": "2023-06-21T01:11:50Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx5t4QJTbK1kpY7QRx4AaABAg.9rCSMI0pz6S9rDeYqozpsX",
+      "comentario_pai_id": "Ugx5t4QJTbK1kpY7QRx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Cuidado você pode se apaixonar!",
+      "curtidas": 0,
+      "publicado_em": "2023-06-21T12:26:23Z",
+      "atualizado_em": "2023-06-21T12:26:23Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugy6bUAv0VSNkHHoJ6d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "UOUUU",
+      "curtidas": 1,
+      "publicado_em": "2023-06-18T15:57:01Z",
+      "atualizado_em": "2023-06-18T15:57:01Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwtWNFIQTtjeAv6T7l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Só loucura",
+      "curtidas": 2,
+      "publicado_em": "2023-06-16T18:08:37Z",
+      "atualizado_em": "2023-06-16T18:08:37Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyQN41_HDsTQwbS_fh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "vc é tao querido",
+      "curtidas": 2,
+      "publicado_em": "2023-06-10T00:03:43Z",
+      "atualizado_em": "2023-06-10T00:03:43Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyQN41_HDsTQwbS_fh4AaABAg.9ql-oimsRnk9qlWGLoKQT5",
+      "comentario_pai_id": "UgyQN41_HDsTQwbS_fh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado meu querido",
+      "curtidas": 0,
+      "publicado_em": "2023-06-10T04:47:14Z",
+      "atualizado_em": "2023-06-10T04:47:14Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugyk4N_0YAQdmXmnhih4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso vs code, tem muitos plugins que da para deixar ele quase uma ide.",
+      "curtidas": 2,
+      "publicado_em": "2023-04-13T20:13:44Z",
+      "atualizado_em": "2023-04-13T20:14:21Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugyk4N_0YAQdmXmnhih4AaABAg.9oSpBSpjoX89oSrVhZGn5H",
+      "comentario_pai_id": "Ugyk4N_0YAQdmXmnhih4AaABAg",
+      "tipo": "resposta",
+      "texto": "Hehe mas aja paciencia mano rsrs Para java não faz muito sentido por causa do Intellij Community Edition rsrs.",
+      "curtidas": 1,
+      "publicado_em": "2023-04-13T20:33:58Z",
+      "atualizado_em": "2023-04-13T20:33:58Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw5mAYJh3nwteDBGIV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Salve samuca, uma dúvida o eclipse possui interface gráfica? Tenho pouco conhecimento nessas IDE",
+      "curtidas": 2,
+      "publicado_em": "2023-03-17T02:56:32Z",
+      "atualizado_em": "2023-03-17T02:56:32Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw5mAYJh3nwteDBGIV4AaABAg.9nLS15LH-rz9nLXZMiEoIZ",
+      "comentario_pai_id": "Ugw5mAYJh3nwteDBGIV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Você não usa Java para criar parte gráfica de sistemas irmão, ele é Backend, você pode usar Java swing mas isso é coisa do passado e não deve ser usada.",
+      "curtidas": 2,
+      "publicado_em": "2023-03-17T03:44:54Z",
+      "atualizado_em": "2023-03-17T03:44:54Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw5mAYJh3nwteDBGIV4AaABAg.9nLS15LH-rz9nLaSItv9lL",
+      "comentario_pai_id": "Ugw5mAYJh3nwteDBGIV4AaABAg",
+      "tipo": "resposta",
+      "texto": "@cursodetecnologia entendi samuca, no caso em umas aulas, o professor fala pra usar o netbeans pq ele tem suporte gráfico, eu sem entender nada instalei ele kkkkkk, mas tô seguindo seus vídeos acredito que o intellij é melhor",
+      "curtidas": 1,
+      "publicado_em": "2023-03-17T04:18:53Z",
+      "atualizado_em": "2024-06-18T03:42:19Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw5mAYJh3nwteDBGIV4AaABAg.9nLS15LH-rzA-iyMJW1Q2_",
+      "comentario_pai_id": "Ugw5mAYJh3nwteDBGIV4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@cursodetecnologiaMas pq o javaswing não deve ser usado? Tem vídeo falando sobre?",
+      "curtidas": 0,
+      "publicado_em": "2024-02-12T18:17:41Z",
+      "atualizado_em": "2024-06-18T03:42:19Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzMa7CKnhQMwHKxXAB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Info útil: e-mail de universidade pública libera o IntelliJ ultimate de graça",
+      "curtidas": 4,
+      "publicado_em": "2023-03-09T13:46:36Z",
+      "atualizado_em": "2023-03-09T13:46:36Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzMa7CKnhQMwHKxXAB4AaABAg.9n203JhZYrK9nNcCQOjmzr",
+      "comentario_pai_id": "UgzMa7CKnhQMwHKxXAB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Top mano",
+      "curtidas": 1,
+      "publicado_em": "2023-03-17T23:12:40Z",
+      "atualizado_em": "2023-03-17T23:12:40Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugy910Ry0DOBeFK8KsN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Trabalho com Java desde a versão 1.1.8, usei o Eclipse por mais de 10 anos, e tem uns bugs mesmo que as vezes só recriando o projeto ou workspace. Tenho usado o Intellij há uns 2 anos, mais estável e sem problemas com projetos mais recentes de springboot, etc. Já precisei usar o Eclipse pra alguns legados WebSphere, Ejb que elesaia melhor.",
+      "curtidas": 4,
+      "publicado_em": "2023-03-01T01:37:17Z",
+      "atualizado_em": "2023-03-01T01:37:17Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugy910Ry0DOBeFK8KsN4AaABAg.9mh6EfaT_Vm9mlEGMU8p-v",
+      "comentario_pai_id": "Ugy910Ry0DOBeFK8KsN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eclipse veio de guerra só não pode usar NetBeans rsrs",
+      "curtidas": 2,
+      "publicado_em": "2023-03-02T16:04:22Z",
+      "atualizado_em": "2023-03-02T16:04:22Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgziSytr0duRrYoTx8V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo !",
+      "curtidas": 2,
+      "publicado_em": "2023-02-27T13:27:04Z",
+      "atualizado_em": "2023-02-27T13:27:04Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgziSytr0duRrYoTx8V4AaABAg.9mdDsYt0CDY9mdF2p04ZT2",
+      "comentario_pai_id": "UgziSytr0duRrYoTx8V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado irmão!",
+      "curtidas": 0,
+      "publicado_em": "2023-02-27T13:37:20Z",
+      "atualizado_em": "2023-02-27T13:37:20Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugz32XaUhVQVTIH4nal4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Geralmente nos meus estudos e exercícios, uso de preferência o Eclipse tanto para projetos web ou interface gráfica, acho mais prático. IntelliJ é bom, já experimentei e tem coisas interessantes. E Netbeans acho ruim mesmo desde a época da universidade. Muito bom o vídeo",
+      "curtidas": 1,
+      "publicado_em": "2023-02-13T09:10:57Z",
+      "atualizado_em": "2023-02-13T09:10:57Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwhkoTDuudxzsyBApp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "#passeiAqui2023",
+      "curtidas": 2,
+      "publicado_em": "2023-01-21T17:33:28Z",
+      "atualizado_em": "2023-01-21T17:33:28Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwhkoTDuudxzsyBApp4AaABAg.9l9OeovAh3P9lGzMibaCKs",
+      "comentario_pai_id": "UgwhkoTDuudxzsyBApp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado irmão",
+      "curtidas": 0,
+      "publicado_em": "2023-01-24T16:17:35Z",
+      "atualizado_em": "2023-01-24T16:17:35Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxDwxAU7pnCoPwvFc54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aos 29 anos iniciando em programação e em Java ...  parabéns pelo conteúdo",
+      "curtidas": 4,
+      "publicado_em": "2023-01-18T22:21:12Z",
+      "atualizado_em": "2023-01-18T22:21:12Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxDwxAU7pnCoPwvFc54AaABAg.9l2BCfM-EF39lGzx-AFaCI",
+      "comentario_pai_id": "UgxDwxAU7pnCoPwvFc54AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado irmão",
+      "curtidas": 2,
+      "publicado_em": "2023-01-24T16:22:40Z",
+      "atualizado_em": "2023-01-24T16:22:40Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxDwxAU7pnCoPwvFc54AaABAg.9l2BCfM-EF39nLPxqYWFRS",
+      "comentario_pai_id": "UgxDwxAU7pnCoPwvFc54AaABAg",
+      "tipo": "resposta",
+      "texto": "Tô na mesma mano, 29 anos jaja 30 kkkkkkk",
+      "curtidas": 3,
+      "publicado_em": "2023-03-17T02:38:28Z",
+      "atualizado_em": "2023-03-17T02:38:28Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyUextENzsMbRF55dt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Samuka, muito legal seu conteúdo! \nQual tua opinião sobre usar o VScode para codar Java? \ngrato desde já!",
+      "curtidas": 3,
+      "publicado_em": "2022-12-19T14:11:38Z",
+      "atualizado_em": "2022-12-19T14:11:38Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyUextENzsMbRF55dt4AaABAg.9jp3KfgyobB9k-8et03gIQ",
+      "comentario_pai_id": "UgyUextENzsMbRF55dt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ainda não consigo opinar por não usar ele no Java mano",
+      "curtidas": 3,
+      "publicado_em": "2022-12-23T21:29:51Z",
+      "atualizado_em": "2022-12-23T21:29:51Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx5RHIgQPMSVZESGtl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fato nas faculdades vários professores de Java usavam Netbeans kkk ao poucos alguns usavam Eclipse. Eu mesmo gostei bem mais do eclipse devido os atalhos das teclas e funções, porém de 2016 eu uso IntelliJ IDEA e não largo mais por nada desse mundo, pelo menos até agora rsrs.  Hoje pra mim programador Java profissional usa IntelliJ o mercado adotou massivamente essa ide. Recomendo o uso do IntelliJ desde do projeto básico até o profissional.",
+      "curtidas": 5,
+      "publicado_em": "2022-11-16T04:11:08Z",
+      "atualizado_em": "2024-02-12T18:32:01Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx5RHIgQPMSVZESGtl4AaABAg.9iU0NhdSEho9ibehTOH-JJ",
+      "comentario_pai_id": "Ugx5RHIgQPMSVZESGtl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Exatamente meu amigo, precisamos nos modernizar.",
+      "curtidas": 1,
+      "publicado_em": "2022-11-19T12:46:10Z",
+      "atualizado_em": "2022-11-19T12:46:10Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx5RHIgQPMSVZESGtl4AaABAg.9iU0NhdSEho9nA-3kTXEXZ",
+      "comentario_pai_id": "Ugx5RHIgQPMSVZESGtl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Entre IntelliJ e VS Code pra JAVA qual você recomenda?",
+      "curtidas": 1,
+      "publicado_em": "2023-03-12T16:11:50Z",
+      "atualizado_em": "2023-03-12T16:11:50Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx5RHIgQPMSVZESGtl4AaABAg.9iU0NhdSEho9nA-Rf6QggO",
+      "comentario_pai_id": "Ugx5RHIgQPMSVZESGtl4AaABAg",
+      "tipo": "resposta",
+      "texto": "@gustavomonte3365 IntelliJ com certeza.",
+      "curtidas": 0,
+      "publicado_em": "2023-03-12T16:15:06Z",
+      "atualizado_em": "2023-03-12T16:15:06Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx5RHIgQPMSVZESGtl4AaABAg.9iU0NhdSEhoA-ixe2vzVzA",
+      "comentario_pai_id": "Ugx5RHIgQPMSVZESGtl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu sempre usei netbeans, será que isso é mesmo relevante? Quando eu chegar na empresa já vai estar tido configurado também não é?",
+      "curtidas": 0,
+      "publicado_em": "2024-02-12T18:11:30Z",
+      "atualizado_em": "2024-02-12T18:11:30Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwp9Ej6YExfJR3VMq54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "No curso presencial, me mandaram usar o NEtB rsrs, porém curti bastante o Eclipse. Parece que o Netbeans faz tudo sozinho kkkk... Enfim é issooo",
+      "curtidas": 3,
+      "publicado_em": "2022-11-01T20:07:40Z",
+      "atualizado_em": "2022-11-01T20:07:40Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwp9Ej6YExfJR3VMq54AaABAg.9hu5vMimDb_9hvEWhASe-h",
+      "comentario_pai_id": "Ugwp9Ej6YExfJR3VMq54AaABAg",
+      "tipo": "resposta",
+      "texto": "Fuja do netbeans rsrs",
+      "curtidas": 0,
+      "publicado_em": "2022-11-02T06:42:02Z",
+      "atualizado_em": "2022-11-02T06:42:02Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwp9Ej6YExfJR3VMq54AaABAg.9hu5vMimDb_A-ixJaYoIKH",
+      "comentario_pai_id": "Ugwp9Ej6YExfJR3VMq54AaABAg",
+      "tipo": "resposta",
+      "texto": "😮 só uso netbeans",
+      "curtidas": 0,
+      "publicado_em": "2024-02-12T18:08:35Z",
+      "atualizado_em": "2024-02-12T18:08:35Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw42Z1hMEvXtw5AuMJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Valeu !!!",
+      "curtidas": 3,
+      "publicado_em": "2022-09-30T21:20:51Z",
+      "atualizado_em": "2022-09-30T21:20:51Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxiA57oCEEwmHYn8oN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Yeah!!",
+      "curtidas": 2,
+      "publicado_em": "2022-08-25T16:55:25Z",
+      "atualizado_em": "2022-08-25T16:55:25Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxiA57oCEEwmHYn8oN4AaABAg.9f9errDydat9f9v99Qe30Y",
+      "comentario_pai_id": "UgxiA57oCEEwmHYn8oN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Yerrr Brabo",
+      "curtidas": 0,
+      "publicado_em": "2022-08-25T19:17:44Z",
+      "atualizado_em": "2022-08-25T19:17:44Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzCLwrkoi-AmNtoabB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito Bom!",
+      "curtidas": 2,
+      "publicado_em": "2022-08-25T05:02:16Z",
+      "atualizado_em": "2022-08-25T05:02:16Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzCLwrkoi-AmNtoabB4AaABAg.9f8OF_xWb_h9fAL-H_tzM9",
+      "comentario_pai_id": "UgzCLwrkoi-AmNtoabB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigado",
+      "curtidas": 0,
+      "publicado_em": "2022-08-25T23:12:19Z",
+      "atualizado_em": "2022-08-25T23:12:19Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzfm-dKhAMdZFCElJF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nesse ce ta mais animadim\n🤣",
+      "curtidas": 1,
+      "publicado_em": "2022-08-10T22:38:48Z",
+      "atualizado_em": "2022-08-10T22:38:48Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzfm-dKhAMdZFCElJF4AaABAg.9eZeEjdc3Ss9eZeO3DZ5lG",
+      "comentario_pai_id": "Ugzfm-dKhAMdZFCElJF4AaABAg",
+      "tipo": "resposta",
+      "texto": "bora empreender e ficar ricos juntos samuca?!",
+      "curtidas": 1,
+      "publicado_em": "2022-08-10T22:40:05Z",
+      "atualizado_em": "2022-08-10T22:40:05Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzfm-dKhAMdZFCElJF4AaABAg.9eZeEjdc3Ss9f-HaBJWAcj",
+      "comentario_pai_id": "Ugzfm-dKhAMdZFCElJF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sempre mas antes de ficar rico, aprender a ser feliz.",
+      "curtidas": 0,
+      "publicado_em": "2022-08-21T16:10:53Z",
+      "atualizado_em": "2022-08-21T16:10:53Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw5OMy1iLCJGBsPHV94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Salve Samuca. Muito massa seu conteúdo, eu gosto muito do android studio para desenvolvimento de apps usando java, mais muita gente diz que não vale a pena tendo em vista o react-native e o flutter o que você acha?",
+      "curtidas": 2,
+      "publicado_em": "2022-08-09T18:58:33Z",
+      "atualizado_em": "2022-08-09T18:58:33Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw5OMy1iLCJGBsPHV94AaABAg.9eWgEcZoyoB9f-Hp8IfjkQ",
+      "comentario_pai_id": "Ugw5OMy1iLCJGBsPHV94AaABAg",
+      "tipo": "resposta",
+      "texto": "Essas tecnologias estão em alta, se você puder aprenda também Swift pois é muito procurado.",
+      "curtidas": 0,
+      "publicado_em": "2022-08-21T16:12:56Z",
+      "atualizado_em": "2022-08-21T16:12:56Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwgXJ0yt-hSQrX_t0J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito Legal seu conteúdo, Algo mais Humano e menos Engessado que um \"Profissional do YouTube\".\nParece mais um amigo em uma conversa casual.",
+      "curtidas": 2,
+      "publicado_em": "2022-07-12T23:34:07Z",
+      "atualizado_em": "2022-07-12T23:34:07Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwgXJ0yt-hSQrX_t0J4AaABAg.9dP4WQZYj8Z9dQnSBlOHqQ",
+      "comentario_pai_id": "UgwgXJ0yt-hSQrX_t0J4AaABAg",
+      "tipo": "resposta",
+      "texto": "É algo feito com carinho e para ser um diferencial, que bom que gostou",
+      "curtidas": 1,
+      "publicado_em": "2022-07-13T15:34:43Z",
+      "atualizado_em": "2022-07-13T15:34:43Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw0H8juRNtG3Ada_VJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quando começa  o curso?",
+      "curtidas": 1,
+      "publicado_em": "2022-07-12T21:11:10Z",
+      "atualizado_em": "2022-07-12T21:11:10Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw0H8juRNtG3Ada_VJ4AaABAg.9dOp9S9IMhx9dQnY7d8bW8",
+      "comentario_pai_id": "Ugw0H8juRNtG3Ada_VJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Quando bater 1000 seguidores irmao",
+      "curtidas": 0,
+      "publicado_em": "2022-07-13T15:35:32Z",
+      "atualizado_em": "2022-07-13T15:35:32Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzv0dK9TXRMhM11paB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu consegui fazer um catavento digital com Java!",
+      "curtidas": 2,
+      "publicado_em": "2022-06-23T00:50:55Z",
+      "atualizado_em": "2022-06-23T00:50:55Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzv0dK9TXRMhM11paB4AaABAg.9caiPTwti-O9cwitCgknTm",
+      "comentario_pai_id": "Ugzv0dK9TXRMhM11paB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Se fosse em python não teria helices",
+      "curtidas": 1,
+      "publicado_em": "2022-07-01T13:58:24Z",
+      "atualizado_em": "2022-07-01T13:58:24Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugzv0dK9TXRMhM11paB4AaABAg.9caiPTwti-O9cwjevmzF7r",
+      "comentario_pai_id": "Ugzv0dK9TXRMhM11paB4AaABAg",
+      "tipo": "resposta",
+      "texto": "@cursodetecnologia kkkkkkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2022-07-01T14:05:11Z",
+      "atualizado_em": "2022-07-01T14:05:11Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzIKjs57lDBoAay47x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Olha, o IntelliJ ultimate (e todas as IDE's da proprietária do IntelliJ também contam) é gratuito para os alunos que fazem faculdade...",
+      "curtidas": 3,
+      "publicado_em": "2022-05-22T04:07:52Z",
+      "atualizado_em": "2022-05-22T04:07:52Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzIKjs57lDBoAay47x4AaABAg.9bJfVzKew5S9bmo3MYS0gw",
+      "comentario_pai_id": "UgzIKjs57lDBoAay47x4AaABAg",
+      "tipo": "resposta",
+      "texto": "A versão community é gratuita para todo mundo =) pode usar sem medo, espero ver você mais vezes por aqui!",
+      "curtidas": 2,
+      "publicado_em": "2022-06-02T20:59:49Z",
+      "atualizado_em": "2022-06-02T20:59:49Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzIKjs57lDBoAay47x4AaABAg.9bJfVzKew5S9bq0SS2Yk5n",
+      "comentario_pai_id": "UgzIKjs57lDBoAay47x4AaABAg",
+      "tipo": "resposta",
+      "texto": "@cursodetecnologia já usei bastante! Usava mais pra brincar mesmo com Java....",
+      "curtidas": 1,
+      "publicado_em": "2022-06-04T02:54:33Z",
+      "atualizado_em": "2022-06-04T02:54:33Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgygBvYTzbXZ25qw_FZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Dá para usar a versão community do IntelliJ para programar com Java EE (JSP, JPA/Hibernate, Spring) e Maven/Gradle? Ou isso só é possível na versão paga?",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T02:52:57Z",
+      "atualizado_em": "2022-05-02T02:52:57Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgygBvYTzbXZ25qw_FZ4AaABAg.9aW21lIA-5l9bmoT2ZwVZR",
+      "comentario_pai_id": "UgygBvYTzbXZ25qw_FZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Da sim tranquilamente, inclusive tem vídeo no canal aonde eu crio uma aplicação do zero spring boot.",
+      "curtidas": 2,
+      "publicado_em": "2022-06-02T21:03:19Z",
+      "atualizado_em": "2022-06-02T21:03:19Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxstCuXTBuhCAU--Y54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "caramba comecei java esse ano e logo de cara youtube ja me recomendou esse canal, peguei ele nascendo, coisa boa",
+      "curtidas": 6,
+      "publicado_em": "2022-03-30T16:36:54Z",
+      "atualizado_em": "2022-03-30T16:36:54Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxstCuXTBuhCAU--Y54AaABAg.9_CY5eZ6Vi29aug2l5QFxM",
+      "comentario_pai_id": "UgxstCuXTBuhCAU--Y54AaABAg",
+      "tipo": "resposta",
+      "texto": "Salve meu irmão, fico feliz de ter gostado, pretendo voltar a postar com mais frequência, seja bem vindo.",
+      "curtidas": 1,
+      "publicado_em": "2022-05-12T01:52:21Z",
+      "atualizado_em": "2022-05-12T01:52:21Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxstCuXTBuhCAU--Y54AaABAg.9_CY5eZ6Vi2A2fPo8bub5M",
+      "comentario_pai_id": "UgxstCuXTBuhCAU--Y54AaABAg",
+      "tipo": "resposta",
+      "texto": "Eai, deu certo com Java?",
+      "curtidas": 0,
+      "publicado_em": "2024-04-25T22:43:31Z",
+      "atualizado_em": "2024-04-25T22:43:31Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugxy8F9sn1-3h8QAGQt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Como é bom ver vídeos com conteúdo de qualidade. Teu canal é muito bom, cara! Obrigado por compartilhar informações e conhecimento de anos de trabalho e estudo seu! Tem outra rede social pra te acompanhar?",
+      "curtidas": 4,
+      "publicado_em": "2022-03-28T14:44:00Z",
+      "atualizado_em": "2022-03-28T14:44:00Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugxy8F9sn1-3h8QAGQt4AaABAg.9_7Ba-JWHVf9_7LYem4wi9",
+      "comentario_pai_id": "Ugxy8F9sn1-3h8QAGQt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Salve irmão criei só um grupo no ZAP por enquanto, eu estou devendo novos vídeos me chama no ZAP e eu ti add lá --44991691960--",
+      "curtidas": 0,
+      "publicado_em": "2022-03-28T16:11:03Z",
+      "atualizado_em": "2022-03-28T16:11:03Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugz6-bgfhgoneXkTVPN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "After effects, kkkkk Zuera não entendo nada desse ramo, mas deve ser bacana",
+      "curtidas": 1,
+      "publicado_em": "2022-03-05T03:12:35Z",
+      "atualizado_em": "2022-03-05T03:12:35Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugz6-bgfhgoneXkTVPN4AaABAg.9ZAjAnih1Xm9bmpEm8FB3g",
+      "comentario_pai_id": "Ugz6-bgfhgoneXkTVPN4AaABAg",
+      "tipo": "resposta",
+      "texto": "haaa então vamos aprender juntos irmão!",
+      "curtidas": 0,
+      "publicado_em": "2022-06-02T21:10:07Z",
+      "atualizado_em": "2022-06-02T21:10:07Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyFDe6h7fyDmQio-D14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse cara é muito bom, curti o conteúdo.",
+      "curtidas": 2,
+      "publicado_em": "2022-03-04T23:30:40Z",
+      "atualizado_em": "2022-03-04T23:30:40Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyFDe6h7fyDmQio-D14AaABAg.9ZAKmPWZ70D9bmpFyv2MpI",
+      "comentario_pai_id": "UgyFDe6h7fyDmQio-D14AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado meu irmão!",
+      "curtidas": 1,
+      "publicado_em": "2022-06-02T21:10:17Z",
+      "atualizado_em": "2022-06-02T21:10:17Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugxl4giJwyhMC3JjenR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vlw pelos seus vídeos conteúdo até aqui têm me acrescentado e olha que vi apenas 3, comecei pelo \"Java vale a pena\".\n\nMuito obrigado",
+      "curtidas": 4,
+      "publicado_em": "2022-03-03T16:31:02Z",
+      "atualizado_em": "2022-03-03T16:31:02Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugxl4giJwyhMC3JjenR4AaABAg.9Z7-y5a_rLM9bmpIQkX_Au",
+      "comentario_pai_id": "Ugxl4giJwyhMC3JjenR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu que agradeço o seu feedback mano, sempre que precisar me chame!",
+      "curtidas": 1,
+      "publicado_em": "2022-06-02T21:10:37Z",
+      "atualizado_em": "2022-06-02T21:10:37Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aos 49 anos iniciando em Java.... sem nenhum connhecimento... espero aprender muito!",
+      "curtidas": 96,
+      "publicado_em": "2022-02-22T19:24:52Z",
+      "atualizado_em": "2022-02-22T19:24:52Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmr9YlZt8iHK9_",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Salve irmão seja bem vindo, vou criar uma série do zero a vitória acompanhe que vai ser sucesso",
+      "curtidas": 26,
+      "publicado_em": "2022-02-22T23:22:24Z",
+      "atualizado_em": "2022-02-22T23:22:24Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmr9qzN7jZZ7rb",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "@cursodetecnologia também começando do zero espero aprender estou focado",
+      "curtidas": 0,
+      "publicado_em": "2023-06-15T13:56:47Z",
+      "atualizado_em": "2024-06-18T02:13:34Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmr9qzN8OGju2L",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "@cursodetecnologia também começando do zero espero aprender estou focado",
+      "curtidas": 0,
+      "publicado_em": "2023-06-15T13:56:52Z",
+      "atualizado_em": "2024-06-18T02:13:34Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmr9s3fc5_IMZS",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Começando a partir de agora também, 27 anos aqui.",
+      "curtidas": 0,
+      "publicado_em": "2023-07-12T11:54:41Z",
+      "atualizado_em": "2023-07-12T11:54:41Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmr9soOKupMJsT",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu tbm começando agora em 2023. Todas as dicas de Java está neste canal",
+      "curtidas": 0,
+      "publicado_em": "2023-07-31T00:38:28Z",
+      "atualizado_em": "2023-07-31T00:38:28Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmrA2T4e5dO_je",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "e ai amigo, 2 anos depois como você está?",
+      "curtidas": 0,
+      "publicado_em": "2024-04-20T18:28:31Z",
+      "atualizado_em": "2024-04-20T18:28:31Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmrA2fPVvjTUNk",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eai, conseguiu algum trabalho com Java?",
+      "curtidas": 0,
+      "publicado_em": "2024-04-25T22:40:53Z",
+      "atualizado_em": "2024-04-25T22:40:53Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmrA6Y1pXk4xA1",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Desejo muito boa sorte a todos vocês",
+      "curtidas": 0,
+      "publicado_em": "2024-07-31T02:45:39Z",
+      "atualizado_em": "2024-07-31T02:45:39Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmrAAT-9voMSt8",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "E ai mano? como está o seu nível, 2 anos depois?",
+      "curtidas": 1,
+      "publicado_em": "2024-11-05T13:51:43Z",
+      "atualizado_em": "2024-11-05T13:51:43Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwy844tziEcw9_MAlp4AaABAg.9Yl8hSRxRmrABYPPndoXRQ",
+      "comentario_pai_id": "Ugwy844tziEcw9_MAlp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Comecei aos 50 anos  através de uma 3a Graduação em Ciências da Computação EAD, hj  tenho 51 e no 4° semestre. Não quero emprego , quero um negócio envolvendo IA e legislação tributária, já tenho 28 anos de serviço público em 2 cargos , estou sossegado e quero apenas uma 3a renda.",
+      "curtidas": 0,
+      "publicado_em": "2024-12-02T12:48:40Z",
+      "atualizado_em": "2024-12-02T12:48:40Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyweyEqJ8RBbASoIIt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom",
+      "curtidas": 2,
+      "publicado_em": "2022-02-18T18:57:42Z",
+      "atualizado_em": "2022-02-18T18:57:42Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyweyEqJ8RBbASoIIt4AaABAg.9YanPwdPb7b9Yd8gGGeBzQ",
+      "comentario_pai_id": "UgyweyEqJ8RBbASoIIt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado mano, sempre de uma passadinha nos vídeos o/",
+      "curtidas": 0,
+      "publicado_em": "2022-02-19T16:50:47Z",
+      "atualizado_em": "2022-02-19T16:50:47Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwEs1-HRWOrMuIEOr14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Acredito que o IntelliJ é a melhor para programar com Java, a integração é fora do normal e deixa o Eclipse pra trás. No meu trabalho eu necessito utilizar o Eclipse e na boa.... É muito ruim, ainda mais pelos projetos serem muito grandes, frequentemte tenho problemas com processamento e a IDE simplesmente para... kkkkkk. \n\nDevido à projetos paralelos que tenho feito, eu comprei a IntelliJ Ultimate e cara, na boa mesmo, não tenho arrependimento algum... Apesar de ter escutado um monte da minha esposa... kkkkk",
+      "curtidas": 19,
+      "publicado_em": "2022-02-17T19:11:56Z",
+      "atualizado_em": "2022-02-17T19:11:56Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwEs1-HRWOrMuIEOr14AaABAg.9YZFFKC8LOI9YaYXhVn74f",
+      "comentario_pai_id": "UgwEs1-HRWOrMuIEOr14AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim intellij se for o pago então aí nem tem o que dizer.",
+      "curtidas": 3,
+      "publicado_em": "2022-02-18T16:38:57Z",
+      "atualizado_em": "2022-02-18T16:38:57Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwi0xn9Cdr4h03jSfV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "cara gostei muito dos seus videos, acho que voce traz a informacao de uma forma muito clara, continua mlk",
+      "curtidas": 6,
+      "publicado_em": "2022-02-15T18:57:04Z",
+      "atualizado_em": "2022-02-15T18:57:04Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwi0xn9Cdr4h03jSfV4AaABAg.9YU3xfpXU-d9YU62PgYuML",
+      "comentario_pai_id": "Ugwi0xn9Cdr4h03jSfV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Salve irmão ainda bem que você gostou, é essa a ideia mesmo ser claro e descomplicado, pois o foco é colocar em pratica!",
+      "curtidas": 1,
+      "publicado_em": "2022-02-15T19:15:19Z",
+      "atualizado_em": "2022-02-15T19:15:19Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw3_Va5Vjijd1RscWx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom o seu vídeo que venha os 100k",
+      "curtidas": 2,
+      "publicado_em": "2022-02-15T04:13:31Z",
+      "atualizado_em": "2022-02-15T04:13:31Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugw3_Va5Vjijd1RscWx4AaABAg.9YSUqLskbFO9Yd8z5eBLfl",
+      "comentario_pai_id": "Ugw3_Va5Vjijd1RscWx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Seria um sonho realizado, quem sabe um dia, eu ficaria muito feliz!",
+      "curtidas": 0,
+      "publicado_em": "2022-02-19T16:53:21Z",
+      "atualizado_em": "2022-02-19T16:53:21Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwgjttBxtKKBygCMAh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu ainda uso o Java 8.2 kkkk para projetos swingão",
+      "curtidas": 2,
+      "publicado_em": "2022-02-15T04:09:59Z",
+      "atualizado_em": "2022-02-15T04:09:59Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwgjttBxtKKBygCMAh4AaABAg.9YSURWi4KM49YVEzHzRpK7",
+      "comentario_pai_id": "UgwgjttBxtKKBygCMAh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Irmão bora fazer uns projetos em java web aí hehe, aos poucos iremos aprender juntos, que bom que está gostando do canal",
+      "curtidas": 1,
+      "publicado_em": "2022-02-16T05:52:38Z",
+      "atualizado_em": "2022-02-16T05:52:38Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwgjttBxtKKBygCMAh4AaABAg.9YSURWi4KM49Y_4nuP4kIM",
+      "comentario_pai_id": "UgwgjttBxtKKBygCMAh4AaABAg",
+      "tipo": "resposta",
+      "texto": "@cursodetecnologia vamos sim voçe poderia fazer um vídeo mostrando os passos a passos para se tornar um desenvolvedor java para o mercado? eu acabei de sair de POO, alguns dizem para eu ir pra JPA outros para String estou meio confuso, gostaria de sua resposta pf, se fizer um vídeo falando dos passos a passos para se tornar um dev java completo seria um exelente tema de vídeo e também tiraria minha dúvida. :)",
+      "curtidas": 2,
+      "publicado_em": "2022-02-18T02:59:55Z",
+      "atualizado_em": "2022-02-18T02:59:55Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwgjttBxtKKBygCMAh4AaABAg.9YSURWi4KM49Yd8wOEEOJ3",
+      "comentario_pai_id": "UgwgjttBxtKKBygCMAh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Irei fazer muitos vídeos pode ficar tranquilo",
+      "curtidas": 1,
+      "publicado_em": "2022-02-19T16:52:59Z",
+      "atualizado_em": "2022-02-19T16:52:59Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwgjttBxtKKBygCMAh4AaABAg.9YSURWi4KM49YdFhLeqSyP",
+      "comentario_pai_id": "UgwgjttBxtKKBygCMAh4AaABAg",
+      "tipo": "resposta",
+      "texto": "@cursodetecnologia <3",
+      "curtidas": 0,
+      "publicado_em": "2022-02-19T17:52:06Z",
+      "atualizado_em": "2022-02-19T17:52:06Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyfBtNNZ8Wo444fuVB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show!",
+      "curtidas": 2,
+      "publicado_em": "2022-02-13T19:39:00Z",
+      "atualizado_em": "2022-02-13T19:39:00Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwo7MHSmEc7jlE9OvN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O vídeo ficou bem informativo.",
+      "curtidas": 2,
+      "publicado_em": "2022-02-12T01:29:25Z",
+      "atualizado_em": "2022-02-12T01:29:25Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugwo7MHSmEc7jlE9OvN4AaABAg.9YKTfpZMPYK9YOdNmTiLEW",
+      "comentario_pai_id": "Ugwo7MHSmEc7jlE9OvN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigado meu amigo, espero poder continuar agradando você e a galera com meus vídeos!",
+      "curtidas": 0,
+      "publicado_em": "2022-02-13T16:19:54Z",
+      "atualizado_em": "2022-02-13T16:19:54Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzgA4dItRvqRqRCH2Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Custou um pouco, mas achei o canal dele.\nhttps://www.youtube.com/channel/UCuyIoRWZbpHao9TqUbJiBmg",
+      "curtidas": 2,
+      "publicado_em": "2022-02-11T18:32:29Z",
+      "atualizado_em": "2022-02-11T18:32:29Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzgA4dItRvqRqRCH2Z4AaABAg.9YJiy7bZ9jU9YOdjU-7AZ2",
+      "comentario_pai_id": "UgzgA4dItRvqRqRCH2Z4AaABAg",
+      "tipo": "resposta",
+      "texto": "Manda um Salve lá para meu amigo Yanaga lá nos comentários, obrigado por vir aqui irmão trocar ideia com o Samuca!",
+      "curtidas": 0,
+      "publicado_em": "2022-02-13T16:23:00Z",
+      "atualizado_em": "2022-02-13T16:23:00Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyWxOb-8bYbiDAmt414AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O NetBeans,  em certa época, teve seu desenvolvimento e manutenção gerenciado pela Oracle, assim como o JDK da Oracle, que ficou muito popular, daí alguns acreditam que os dois juntos, NetBeans e Oracle JDK, \"funcionam melhor\" juntos. Agora, a Apache é quem está desenvolvendo e dando suporte ao NetBeans.",
+      "curtidas": 9,
+      "publicado_em": "2022-02-11T11:25:18Z",
+      "atualizado_em": "2022-02-11T18:16:03Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyWxOb-8bYbiDAmt414AaABAg.9YIy4OH3k_N9YOdGE79Wqe",
+      "comentario_pai_id": "UgyWxOb-8bYbiDAmt414AaABAg",
+      "tipo": "resposta",
+      "texto": "Realmente ele tem pontos muito bons, mas profissionalmente ele nunca foi bem visto por corporação nenhuma que passei, ou de amigos, e até entendo o motivo.",
+      "curtidas": 1,
+      "publicado_em": "2022-02-13T16:18:52Z",
+      "atualizado_em": "2022-02-13T16:18:52Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyWxOb-8bYbiDAmt414AaABAg.9YIy4OH3k_N9eWSp2Ry0BY",
+      "comentario_pai_id": "UgyWxOb-8bYbiDAmt414AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim, depois que a Apache comprou o netbeans, ele na minha opinião está quase igual o eclipse, até melhor em alguns aspectos. Não fui muito com a cara do intellij, apesar de ser popular.",
+      "curtidas": 1,
+      "publicado_em": "2022-08-09T16:52:35Z",
+      "atualizado_em": "2022-08-09T16:52:35Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzinUtSXfPOVjyJkh54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "É importante essa visão de mercado de trabalho, por que aprendemos realmente da forma mais simples, mas meio que os acostumamos e quando vamos trabalhar é totalmente diferente...parabeins pelo video!",
+      "curtidas": 6,
+      "publicado_em": "2022-02-09T03:17:29Z",
+      "atualizado_em": "2022-02-09T03:17:29Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzinUtSXfPOVjyJkh54AaABAg.9YCwejflBom9YOd9xnl6t7",
+      "comentario_pai_id": "UgzinUtSXfPOVjyJkh54AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado irmão, espero que você gostem dos vídeos que pretendo trazer, não estou postando com frequência mas pretendo aumentar a frequência de vídeos no canal aqui!",
+      "curtidas": 1,
+      "publicado_em": "2022-02-13T16:18:00Z",
+      "atualizado_em": "2022-02-13T16:18:00Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx-ovXrEt9TFOy_zHF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show de bola,  tô começando agora , curso de Java web , nunca programei na vida tô gostando muito",
+      "curtidas": 3,
+      "publicado_em": "2022-01-29T15:51:20Z",
+      "atualizado_em": "2022-01-29T15:51:20Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugx-ovXrEt9TFOy_zHF4AaABAg.9XmyBOzQ85d9YOdKzwKf0k",
+      "comentario_pai_id": "Ugx-ovXrEt9TFOy_zHF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Salve irmão espero que goste das minhas dicas, pois eu aprendi ao longo dos anos, você terá a oportunidade de aprender de uma maneira menos custosa aqui, mais uma vez obrigado por passar aqui no canal do Samuca",
+      "curtidas": 2,
+      "publicado_em": "2022-02-13T16:19:31Z",
+      "atualizado_em": "2022-02-13T16:19:31Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugxj8fo22q3RNwwk52F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "uso vscode, parabéns pelo vídeo",
+      "curtidas": 3,
+      "publicado_em": "2022-01-28T23:50:11Z",
+      "atualizado_em": "2022-01-28T23:50:11Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "Ugxj8fo22q3RNwwk52F4AaABAg.9XlFBnsQw249YOdYt22I2-",
+      "comentario_pai_id": "Ugxj8fo22q3RNwwk52F4AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado maninho, realmente o VSCode é uma alternativa que está chegando no mercado, a melhor IDE é aquela que não ti traz problemas no final das contas, eu fiquei muito tempo no eclipse mas agora só estou no Intelij o motivo é que claro, todo mundo usa ele no projeto, eu não vou ser o diferente rsrs",
+      "curtidas": 3,
+      "publicado_em": "2022-02-13T16:21:25Z",
+      "atualizado_em": "2022-02-13T16:21:25Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxtkO38fkWYExvUNSB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu tô utilizando mais Eclipse.",
+      "curtidas": 1,
+      "publicado_em": "2022-01-20T02:51:35Z",
+      "atualizado_em": "2022-01-20T02:51:35Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxtkO38fkWYExvUNSB4AaABAg.9XPOnWI7sCq9YOdfhrCipz",
+      "comentario_pai_id": "UgxtkO38fkWYExvUNSB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Enquanto a galera do projeto estiver usando também está tranquilo, o problema é todo mundo usar uma IDE e você outra e depois colocaram a culpa de algum erro do projeto por que você usa outra IDE, por isso é bom sempre seguir o padrão do projeto, Eclipse é Top bem configuradinho bega muito bem!",
+      "curtidas": 1,
+      "publicado_em": "2022-02-13T16:22:29Z",
+      "atualizado_em": "2022-02-13T16:22:29Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzEbCSxWrFGKudmHFB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tô ansioso pelos próximos vídeos",
+      "curtidas": 3,
+      "publicado_em": "2022-01-20T02:51:07Z",
+      "atualizado_em": "2022-01-20T02:51:07Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzEbCSxWrFGKudmHFB4AaABAg.9XPOk8yrKb-9YOdRCBfT5B",
+      "comentario_pai_id": "UgzEbCSxWrFGKudmHFB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Obrigado meu amigo, estou devendo mesmo fazer mais vídeos para vocês, prometo que logo logo aumenta a frequência de vídeos no canal!",
+      "curtidas": 1,
+      "publicado_em": "2022-02-13T16:20:22Z",
+      "atualizado_em": "2022-02-13T16:20:22Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwF5KyGArBRugIRBEd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "As vezes uso o eclipse e as vezes o intelij! O intelij acho fantástico",
+      "curtidas": 4,
+      "publicado_em": "2022-01-19T09:30:40Z",
+      "atualizado_em": "2022-01-19T09:30:40Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgwF5KyGArBRugIRBEd4AaABAg.9XNXfaSCmTc9XOI9FoVT9g",
+      "comentario_pai_id": "UgwF5KyGArBRugIRBEd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Os dois são muito bons, o que não da para usar é o NetBeans",
+      "curtidas": 1,
+      "publicado_em": "2022-01-19T16:34:17Z",
+      "atualizado_em": "2022-01-19T16:34:17Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzPuS1JUkvJ9GoA-K14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Salve Samuca!! Vídeo top, até o momento só utilizei o eclipse pra programar em Java, tô começando a entrar no mundo do Java pra web agora e tô apanhando um pouco pra configurar  o eclipse pra conectar com o tomcat dentro do container. Tô ansioso pelos próximos vídeos vlw!",
+      "curtidas": 9,
+      "publicado_em": "2022-01-18T23:36:53Z",
+      "atualizado_em": "2022-01-18T23:36:53Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgzPuS1JUkvJ9GoA-K14AaABAg.9XMTibPUfxb9XMqGebGXa_",
+      "comentario_pai_id": "UgzPuS1JUkvJ9GoA-K14AaABAg",
+      "tipo": "resposta",
+      "texto": "Salve irmão o próximo vídeo eu coloco um Tomcat para rodar com um projetinho para fazermos juntos, na raça sem treinar vamos ver o que sai no vídeo!",
+      "curtidas": 2,
+      "publicado_em": "2022-01-19T03:02:39Z",
+      "atualizado_em": "2022-01-19T03:02:39Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxMzKvQM7ge2H0jtxN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Instalei todas e acabei parando no Eclipse.",
+      "curtidas": 3,
+      "publicado_em": "2022-01-18T22:58:51Z",
+      "atualizado_em": "2022-01-18T22:58:51Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgxMzKvQM7ge2H0jtxN4AaABAg.9XMPN4F7q8U9XMqL3Do_Kb",
+      "comentario_pai_id": "UgxMzKvQM7ge2H0jtxN4AaABAg",
+      "tipo": "resposta",
+      "texto": "O Eclipse eu usei por anos, agora estou com o Intellij por que o banco exige mas o eclipse é muito bom!",
+      "curtidas": 0,
+      "publicado_em": "2022-01-19T03:03:15Z",
+      "atualizado_em": "2022-01-19T03:03:15Z"
+    },
+    {
+      "video_id": "0_xIsqAzZf8",
+      "comentario_id": "UgyNNvjl34LJ2WKNejR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito top. Estou dando os primeiros passos em Java e consegui uma licença de 1 ano do IntelliJ Ultimate gratuitamente. Fiz um video ensinando no meu canal se alguém estiver precisando.\n\n (É necessário estar matriculado em uma instituição de ensino superior, em um curso de tecnologia.)",
+      "curtidas": 1,
+      "publicado_em": "2022-01-18T21:06:38Z",
+      "atualizado_em": "2022-01-18T21:06:38Z"
+    }
+  ]
+}

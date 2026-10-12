@@ -1,11 +1,11 @@
 entidade,tipo,frequencia
-EUA,LOC,9
-HTML,MISC,6
-Brasil,LOC,6
-Jetbrains,LOC,6
-Vscode,LOC,5
-repl.it,ORG,4
-Python,MISC,4
-VS Code,MISC,4
-Lucas,MISC,4
-Lucas Montano,PER,4
+Java,MISC,75
+VS Code,MISC,45
+IntelliJ,MISC,36
+Eclipse,PER,34
+NetBeans,MISC,28
+Java,LOC,22
+Python,MISC,21
+Linux,MISC,16
+Visual Studio,MISC,16
+IDEs,ORG,15

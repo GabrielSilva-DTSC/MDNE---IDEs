@@ -1,0 +1,143 @@
+ide,sentimento,termo,frequencia
+VS Code,positivo,gostar,9
+VS Code,positivo,uso,8
+VS Code,positivo,bom,8
+VS Code,positivo,achar,7
+VS Code,positivo,jar,5
+VS Code,positivo,vida,4
+VS Code,positivo,jetbraim,4
+VS Code,positivo,legal,3
+VS Code,neutro,usar,27
+VS Code,neutro,uso,26
+VS Code,neutro,jar,18
+VS Code,neutro,código,12
+VS Code,neutro,linguagem,12
+VS Code,neutro,extensão,11
+VS Code,neutro,python,11
+VS Code,neutro,achar,11
+VS Code,negativo,bosta,4
+VS Code,negativo,funcionar,4
+VS Code,negativo,projeto,4
+VS Code,negativo,falar,4
+VS Code,negativo,usar,4
+VS Code,negativo,uso,3
+VS Code,negativo,abrir,3
+VS Code,negativo,navegador,3
+Vim/Neovim,positivo,bom,5
+Vim/Neovim,positivo,configurar,4
+Vim/Neovim,positivo,ver,4
+Vim/Neovim,positivo,usar,3
+Vim/Neovim,positivo,gostar,3
+Vim/Neovim,positivo,produtividade,2
+Vim/Neovim,positivo,aprender,2
+Vim/Neovim,positivo,modo,2
+Vim/Neovim,neutro,uso,14
+Vim/Neovim,neutro,usar,11
+Vim/Neovim,neutro,aprender,7
+Vim/Neovim,neutro,extensão,5
+Vim/Neovim,neutro,achar,5
+Vim/Neovim,neutro,falar,5
+Vim/Neovim,neutro,texto,4
+Vim/Neovim,neutro,linguagem,4
+Vim/Neovim,negativo,usar,3
+Vim/Neovim,negativo,colocar,2
+Vim/Neovim,negativo,carar,2
+Vim/Neovim,negativo,lixo,2
+Vim/Neovim,negativo,merda,2
+IntelliJ IDEA,positivo,bom,8
+IntelliJ IDEA,positivo,jar,6
+IntelliJ IDEA,positivo,idea,4
+IntelliJ IDEA,positivo,uso,4
+IntelliJ IDEA,positivo,gostar,4
+IntelliJ IDEA,positivo,programar,3
+IntelliJ IDEA,positivo,top,3
+IntelliJ IDEA,positivo,acreditar,2
+IntelliJ IDEA,neutro,jar,8
+IntelliJ IDEA,neutro,ultimate,7
+IntelliJ IDEA,neutro,usar,6
+IntelliJ IDEA,neutro,ano,4
+IntelliJ IDEA,neutro,conseguir,4
+IntelliJ IDEA,neutro,versão,3
+IntelliJ IDEA,neutro,community,3
+IntelliJ IDEA,neutro,uso,3
+IntelliJ IDEA,negativo,jar,2
+IntelliJ IDEA,negativo,mensagem,2
+IntelliJ IDEA,negativo,pouha,2
+IntelliJ IDEA,negativo,inferno,2
+Eclipse,positivo,usar,6
+Eclipse,positivo,jar,6
+Eclipse,positivo,gostar,5
+Eclipse,positivo,começar,4
+Eclipse,positivo,intelij,4
+Eclipse,positivo,bom,4
+Eclipse,positivo,curso,3
+Eclipse,positivo,projeto,3
+Eclipse,neutro,jar,12
+Eclipse,neutro,usar,6
+Eclipse,neutro,uso,6
+Eclipse,neutro,projeto,5
+Eclipse,neutro,spring,4
+Eclipse,neutro,programar,3
+Eclipse,neutro,achar,3
+Eclipse,neutro,utilizar,3
+Eclipse,negativo,achar,4
+Eclipse,negativo,ver,2
+Eclipse,negativo,ficar,2
+Eclipse,negativo,open,2
+Eclipse,negativo,source,2
+Eclipse,negativo,projeto,2
+Eclipse,negativo,rodar,2
+Eclipse,negativo,bom,2
+NetBeans,neutro,usar,11
+NetBeans,neutro,jar,5
+NetBeans,neutro,utilizar,5
+NetBeans,neutro,oracle,5
+NetBeans,neutro,gostar,3
+NetBeans,neutro,falar,3
+NetBeans,neutro,ter,3
+NetBeans,neutro,uso,3
+NetBeans,negativo,época,2
+NetBeans,negativo,universidade,2
+NetBeans,negativo,trabalho,2
+NetBeans,negativo,jar,2
+Visual Studio,positivo,bom,3
+Visual Studio,positivo,uso,3
+Visual Studio,positivo,ferramenta,2
+Visual Studio,positivo,auxiliar,2
+Visual Studio,positivo,desenvolvimento,2
+Visual Studio,neutro,uso,4
+Visual Studio,neutro,servir,3
+Visual Studio,neutro,diferença,2
+Visual Studio,neutro,extensão,2
+Visual Studio,neutro,balta,2
+Visual Studio,neutro,mac,2
+Visual Studio,neutro,community,2
+Visual Studio,neutro,web,2
+Visual Studio,negativo,gostar,2
+PyCharm,positivo,configuração,2
+PyCharm,positivo,bom,2
+PyCharm,positivo,utilizar,2
+PyCharm,positivo,gpu,2
+PyCharm,neutro,usar,5
+PyCharm,neutro,python,5
+PyCharm,neutro,jetbraim,4
+PyCharm,neutro,pesar,3
+PyCharm,neutro,uso,3
+PyCharm,neutro,dúvida,2
+PyCharm,neutro,instalar,2
+PyCharm,neutro,achar,2
+PyCharm,negativo,usar,2
+PyCharm,negativo,notebook,2
+Notepad++,positivo,usar,3
+Notepad++,positivo,arquivo,3
+Notepad++,positivo,gostar,2
+Notepad++,positivo,bom,2
+Notepad++,positivo,coisa,2
+Notepad++,neutro,usar,4
+Notepad++,neutro,programa,3
+Notepad++,neutro,texto,2
+Notepad++,neutro,simples,2
+Notepad++,neutro,código,2
+Notepad++,neutro,executável,2
+Notepad++,neutro,uso,2
+Notepad++,neutro,modificação,2
