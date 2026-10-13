@@ -1,0 +1,1416 @@
+{
+  "video": {
+    "id": "_KnvyQIK0Ic",
+    "url": "https://www.youtube.com/watch?v=_KnvyQIK0Ic",
+    "titulo": "4 IDEs para programar em C# no Windows, Mac ou Linux",
+    "canal": "balta",
+    "publicado_em": "2022-04-13T14:46:05Z",
+    "comentarios_informados_pela_api": 139
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:46:57.799393+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:47:24.030653+00:00",
+    "total": 139,
+    "principais": 64,
+    "respostas": 75,
+    "requisicoes": 65
+  },
+  "comentarios": [
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy4hgwKKo5PGl5oZ0p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Rapaz usava Windows, mudei setup para mac, Rider me salvou. Vscode funciona, sim, mas é um parto dependendo o projeto.",
+      "curtidas": 1,
+      "publicado_em": "2025-11-12T17:31:57Z",
+      "atualizado_em": "2025-11-12T17:34:25Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy4hgwKKo5PGl5oZ0p4AaABAg.APRG4SGYCbPAPaG32H7Jy6",
+      "comentario_pai_id": "Ugy4hgwKKo5PGl5oZ0p4AaABAg",
+      "tipo": "resposta",
+      "texto": "Boa! Rider é top!",
+      "curtidas": 0,
+      "publicado_em": "2025-11-16T14:44:10Z",
+      "atualizado_em": "2025-11-16T14:44:10Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugyms0q4drfI8vFeLtV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Rapaz usava Windows, mudei setup para mac, Rider me salvou. Vscode funciona, sim, mas é um parto dependendo o projeto",
+      "curtidas": 1,
+      "publicado_em": "2025-11-12T17:31:45Z",
+      "atualizado_em": "2025-11-12T17:31:45Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugyms0q4drfI8vFeLtV4AaABAg.APRG2ybPiRuAPaGRw4OUra",
+      "comentario_pai_id": "Ugyms0q4drfI8vFeLtV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Rider é show!",
+      "curtidas": 1,
+      "publicado_em": "2025-11-16T14:47:33Z",
+      "atualizado_em": "2025-11-16T14:47:33Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzOgs3BMzNMv_Ovttd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tenho um mac i9 16gb, o Rider ficou muito lento nele, tive que apelar pro vs code e cursor.\nTenho um Windows i7 9 32gb, roda o visual studio 22 muito melhor do que o mac com rider. Não preciso usar vs code no Windows. \nEu trabalho com .net.",
+      "curtidas": 1,
+      "publicado_em": "2025-06-28T14:34:12Z",
+      "atualizado_em": "2025-06-28T14:34:54Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzOgs3BMzNMv_Ovttd4AaABAg.AJvApePt9CaAK-0ZKpzcWW",
+      "comentario_pai_id": "UgzOgs3BMzNMv_Ovttd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Meu Mac Intel era péssimo também, esquentava muito e consequentemente segurava a performance… mas nos M séries está bem demais",
+      "curtidas": 0,
+      "publicado_em": "2025-06-30T11:40:39Z",
+      "atualizado_em": "2025-06-30T11:40:39Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy7Zc_qFNOl_RAHjHh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "não tem nenhuma forma de pegar o Rider de gratis não? da uma chave ai na moral ;-;",
+      "curtidas": 0,
+      "publicado_em": "2024-09-06T00:03:50Z",
+      "atualizado_em": "2024-09-06T00:03:50Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy7Zc_qFNOl_RAHjHh4AaABAg.A810im6kSQIA8nvKpHAZjT",
+      "comentario_pai_id": "Ugy7Zc_qFNOl_RAHjHh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vou tentar conseguir para os Premium!! 🚀🚀🚀",
+      "curtidas": 0,
+      "publicado_em": "2024-09-25T09:10:01Z",
+      "atualizado_em": "2024-09-25T09:10:01Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwyP57sXG-T52Is3UF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Web Storm da Jetbrains e muito bem, uso ele a anos.",
+      "curtidas": 1,
+      "publicado_em": "2024-04-08T04:18:21Z",
+      "atualizado_em": "2024-04-08T04:18:21Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwyP57sXG-T52Is3UF4AaABAg.A1xeopUs1XZA1yXE9_TfMx",
+      "comentario_pai_id": "UgwyP57sXG-T52Is3UF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Uso todos da JetBrains hahahah... pycharm, rustrover, goland, rider",
+      "curtidas": 0,
+      "publicado_em": "2024-04-08T12:22:32Z",
+      "atualizado_em": "2024-04-08T12:22:32Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxF2dp-2gzkQlZgLKl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Visual Studio 2022 n da mto ruim",
+      "curtidas": 1,
+      "publicado_em": "2024-04-01T21:38:14Z",
+      "atualizado_em": "2024-04-01T21:38:14Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxF2dp-2gzkQlZgLKl4AaABAg.A1hVG-4nnHaA1yVUhG3nUP",
+      "comentario_pai_id": "UgxF2dp-2gzkQlZgLKl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vishhhhhhhhhh",
+      "curtidas": 0,
+      "publicado_em": "2024-04-08T12:07:19Z",
+      "atualizado_em": "2024-04-08T12:07:19Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwZEqZ1d3HOnq8ZFiV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Visual studio tem debug com watch run, vscode não tem este suporte, infelizmente. Isto me obriga a ficar no windows. Triste.",
+      "curtidas": 1,
+      "publicado_em": "2024-02-02T22:19:44Z",
+      "atualizado_em": "2024-02-02T22:19:44Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwZEqZ1d3HOnq8ZFiV4AaABAg.A-Ke6IhNK6zA-R3BTFILRf",
+      "comentario_pai_id": "UgwZEqZ1d3HOnq8ZFiV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Você pode usar o Rider! Mas o VS Code com C# DevKit tem recursos de Debug melhores. 🚀",
+      "curtidas": 0,
+      "publicado_em": "2024-02-05T10:03:04Z",
+      "atualizado_em": "2024-02-05T10:03:04Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwZEqZ1d3HOnq8ZFiV4AaABAg.A-Ke6IhNK6zA-Rl88HpBFz",
+      "comentario_pai_id": "UgwZEqZ1d3HOnq8ZFiV4AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio pois é, mas eu preciso do Debug com watch run",
+      "curtidas": 0,
+      "publicado_em": "2024-02-05T16:35:50Z",
+      "atualizado_em": "2024-06-17T21:18:04Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxYiGd2CmcxxONNBRF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Rapaz, fique curioso para ver a máquina do mestre ai...",
+      "curtidas": 0,
+      "publicado_em": "2023-12-17T18:32:47Z",
+      "atualizado_em": "2023-12-17T18:32:47Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxYiGd2CmcxxONNBRF4AaABAg.9yRDlxmKBCK9yStngBInkR",
+      "comentario_pai_id": "UgxYiGd2CmcxxONNBRF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Preciso fazer um vídeo sobre meu hardware!",
+      "curtidas": 0,
+      "publicado_em": "2023-12-18T10:08:00Z",
+      "atualizado_em": "2023-12-18T10:08:00Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyqTb75TUcx3WJlU_d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim é o melhor, pelo menos para mim hehe .",
+      "curtidas": 1,
+      "publicado_em": "2023-11-27T01:09:51Z",
+      "atualizado_em": "2023-11-27T01:09:51Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyqTb75TUcx3WJlU_d4AaABAg.9xarWs8Hwe89xbqSEi-T4X",
+      "comentario_pai_id": "UgyqTb75TUcx3WJlU_d4AaABAg",
+      "tipo": "resposta",
+      "texto": "Show!!!",
+      "curtidas": 0,
+      "publicado_em": "2023-11-27T10:19:43Z",
+      "atualizado_em": "2023-11-27T10:19:43Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugyd7T2gDnAxSUBl3V54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente professor!!! Estou com um notebook com poucos recursos e que não permite expansão, procuro uma IDE para trabalhar com csharp aplicativos desktop, é um caso pontual. Visual Studio já tentei, impossível rodar. Para frontend alguma outra opção além do VSCode? Já me indicaram o SharpDeveloper mas  ele foi descontinuado tem um bom tempo, ainda assim será que vale a pena? To pensando apenas no hardware que tenho disponível.",
+      "curtidas": 1,
+      "publicado_em": "2023-11-12T21:13:29Z",
+      "atualizado_em": "2023-11-12T21:13:29Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugyd7T2gDnAxSUBl3V54AaABAg.9x1OLM14h0S9x2tl7KN5xO",
+      "comentario_pai_id": "Ugyd7T2gDnAxSUBl3V54AaABAg",
+      "tipo": "resposta",
+      "texto": "O VS Code recebeu um update legal para trabalhar com C#, se chama DevKit, tem vídeo aqui no canal, dá uma pesquisada, você vai gostar 🚀",
+      "curtidas": 0,
+      "publicado_em": "2023-11-13T11:16:00Z",
+      "atualizado_em": "2023-11-13T11:16:00Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwyM_cROhhMDToR0Ch4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Novidade no VS Code: A extensão para C# foi atualizada e a Microsoft lançou a extensão \"C# Dev Kit\", que inclui várias funcionalidades ao VS Code.",
+      "curtidas": 5,
+      "publicado_em": "2023-06-07T12:23:01Z",
+      "atualizado_em": "2023-06-07T12:23:01Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwyM_cROhhMDToR0Ch4AaABAg.9qeb1uV9f6S9qu3PtQ2YRz",
+      "comentario_pai_id": "UgwyM_cROhhMDToR0Ch4AaABAg",
+      "tipo": "resposta",
+      "texto": "Saiu vídeo ontem sobre isto! 🚀",
+      "curtidas": 0,
+      "publicado_em": "2023-06-13T12:28:18Z",
+      "atualizado_em": "2023-06-13T12:28:18Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwnKG_QIlCAnL8p5gV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Oi professor, sou iniciante e tenho uma dúvida, o .NET Core tem aquela possibilidade de usar o Mac para programar em C#, tem algum malefício específico de programar em C# no Mac? Pelo menos pra conseguir a primeira vaga? Muito obrigado e ótimo canal!",
+      "curtidas": 1,
+      "publicado_em": "2023-06-05T11:15:01Z",
+      "atualizado_em": "2023-06-05T11:15:01Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwnKG_QIlCAnL8p5gV4AaABAg.9q_Kf4-RYnp9qu3MLpW7sU",
+      "comentario_pai_id": "UgwnKG_QIlCAnL8p5gV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim, eu uso Mac! 🚀",
+      "curtidas": 0,
+      "publicado_em": "2023-06-13T12:27:49Z",
+      "atualizado_em": "2023-06-13T12:27:49Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy1O6KhKH7WpTlQiix4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sublime Text recebeu extensão pro c#",
+      "curtidas": 2,
+      "publicado_em": "2023-03-31T03:50:03Z",
+      "atualizado_em": "2023-03-31T03:50:03Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy1O6KhKH7WpTlQiix4AaABAg.9nuaHI53Z1K9nw6GtdKzPp",
+      "comentario_pai_id": "Ugy1O6KhKH7WpTlQiix4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ouuuwwww... legal demais hein!! Usei bastante o Sublime!!! 🚀",
+      "curtidas": 1,
+      "publicado_em": "2023-03-31T17:57:35Z",
+      "atualizado_em": "2023-03-31T17:57:35Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyeHAlmQR5pY2AJWEd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Final de 2022 e ainda nao tem o VS pra Linux :(.  Baltha, o que vc acha do Monodevelop?",
+      "curtidas": 0,
+      "publicado_em": "2022-12-03T18:32:26Z",
+      "atualizado_em": "2022-12-03T18:32:26Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyeHAlmQR5pY2AJWEd4AaABAg.9jBKSpBN7Ts9jLfbr0Wm4v",
+      "comentario_pai_id": "UgyeHAlmQR5pY2AJWEd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Mas tem Rider 💜",
+      "curtidas": 1,
+      "publicado_em": "2022-12-07T18:58:26Z",
+      "atualizado_em": "2022-12-07T18:58:26Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugwa6c9-cJmE-AXwaOx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito interessante, mas o Rider tem alguma ferramenta similar ao Windows Média Player?",
+      "curtidas": 0,
+      "publicado_em": "2022-12-02T16:58:09Z",
+      "atualizado_em": "2022-12-02T16:58:09Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugwa6c9-cJmE-AXwaOx4AaABAg.9j8_sUQNRKs9jLfY0Yh0AF",
+      "comentario_pai_id": "Ugwa6c9-cJmE-AXwaOx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Acredito que não",
+      "curtidas": 1,
+      "publicado_em": "2022-12-07T18:57:47Z",
+      "atualizado_em": "2022-12-07T18:57:47Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxwXHnpDBF4WGJbDoN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esqueceu o que bate o Rider em tudo: busca. Shift + Shift e Ctrl + Shift + F é imbatível.  Só a possibilidade de editar enquanto busca é otimo",
+      "curtidas": 1,
+      "publicado_em": "2022-10-26T23:45:26Z",
+      "atualizado_em": "2022-10-26T23:45:26Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxwXHnpDBF4WGJbDoN4AaABAg.9hf245zz1Mp9hgzLotbQTm",
+      "comentario_pai_id": "UgxwXHnpDBF4WGJbDoN4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜 Não conhecia... vou testar! Muito obrigado!",
+      "curtidas": 0,
+      "publicado_em": "2022-10-27T17:51:23Z",
+      "atualizado_em": "2022-10-27T17:51:23Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxiosA53gSZbz37N914AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Usando o Rider e MacBook (também), graças a influências suas!! kkk",
+      "curtidas": 1,
+      "publicado_em": "2022-10-04T20:40:02Z",
+      "atualizado_em": "2022-10-04T20:40:02Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxiosA53gSZbz37N914AaABAg.9gm3MukV5nK9gqMgru0dyH",
+      "comentario_pai_id": "UgxiosA53gSZbz37N914AaABAg",
+      "tipo": "resposta",
+      "texto": "É um caminho sem volta hein!",
+      "curtidas": 1,
+      "publicado_em": "2022-10-06T12:45:52Z",
+      "atualizado_em": "2022-10-06T12:45:52Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgynfhFj5MMvLwOoUX14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faz o review do DEX, se puder. Ia ser Show!! =D",
+      "curtidas": 1,
+      "publicado_em": "2022-10-04T20:39:42Z",
+      "atualizado_em": "2022-10-04T20:39:42Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgynfhFj5MMvLwOoUX14AaABAg.9gm3KV9EqUx9gqMfiPjqvI",
+      "comentario_pai_id": "UgynfhFj5MMvLwOoUX14AaABAg",
+      "tipo": "resposta",
+      "texto": "Vou tentar :)",
+      "curtidas": 1,
+      "publicado_em": "2022-10-06T12:45:43Z",
+      "atualizado_em": "2022-10-06T12:45:43Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw8TnID45D6GcyU-hN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Essa ide é muito parecida com o Android Studio.",
+      "curtidas": 1,
+      "publicado_em": "2022-10-04T12:36:12Z",
+      "atualizado_em": "2022-10-04T12:36:12Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw8TnID45D6GcyU-hN4AaABAg.9glC-HCskX-9gl_qb2ntvt",
+      "comentario_pai_id": "Ugw8TnID45D6GcyU-hN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim! 💜",
+      "curtidas": 0,
+      "publicado_em": "2022-10-04T16:13:20Z",
+      "atualizado_em": "2022-10-04T16:13:20Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy6LnCljClWIVnpnx14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu to perdidinho, eu to aprendendo agora linguagem C no primeiro semestre da faculdade, ai instalei um linux e nao tem o programa que eu usava, alguma recomendacao? preciso de um que mostra o programa dos exercicios na tela.",
+      "curtidas": 1,
+      "publicado_em": "2022-08-30T17:25:03Z",
+      "atualizado_em": "2022-08-30T17:25:03Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy6LnCljClWIVnpnx14AaABAg.9fMaEDs0YzW9g1l5Aed_cx",
+      "comentario_pai_id": "Ugy6LnCljClWIVnpnx14AaABAg",
+      "tipo": "resposta",
+      "texto": "Visual Studio Code não rola?",
+      "curtidas": 0,
+      "publicado_em": "2022-09-16T11:47:16Z",
+      "atualizado_em": "2022-09-16T11:47:16Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxlwUCakJpzAYVFKSt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente vídeo, muito bom mesmo.\n\nMas faltou a IDE dos brabos, os fracos não tem vez, ela separa os homens dos meninos.\nO Bloco de Notas que vem por padrão no SO 👍",
+      "curtidas": 10,
+      "publicado_em": "2022-07-22T14:15:45Z",
+      "atualizado_em": "2022-07-22T14:15:45Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxlwUCakJpzAYVFKSt4AaABAg.9dmpZdwH2_Q9dvA6W6cqVm",
+      "comentario_pai_id": "UgxlwUCakJpzAYVFKSt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ai é brabo demaaaaiss 💜",
+      "curtidas": 2,
+      "publicado_em": "2022-07-25T19:57:56Z",
+      "atualizado_em": "2022-07-25T19:57:56Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzHukJ-hZtLlZqFJgB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Rider tem que pagar ?",
+      "curtidas": 1,
+      "publicado_em": "2022-07-20T00:29:52Z",
+      "atualizado_em": "2022-07-20T00:29:52Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzHukJ-hZtLlZqFJgB4AaABAg.9dgCSxepet49dvA2VGqYWI",
+      "comentario_pai_id": "UgzHukJ-hZtLlZqFJgB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim! No meu caso, tenho gratuito por conta do MVP!",
+      "curtidas": 0,
+      "publicado_em": "2022-07-25T19:57:23Z",
+      "atualizado_em": "2022-07-25T19:57:23Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzHukJ-hZtLlZqFJgB4AaABAg.9dgCSxepet49dvAaL-8o_O",
+      "comentario_pai_id": "UgzHukJ-hZtLlZqFJgB4AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio como conseguimos o MVP ?",
+      "curtidas": 0,
+      "publicado_em": "2022-07-25T20:02:09Z",
+      "atualizado_em": "2022-07-25T20:02:09Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugx8mBptc2SGv0TWtgh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Primeira vez que eu vejo alguém falando de IDEs/Editores de forma tão tranquila e sem fanatismo.\n\nParabéns pelo canal! Estou voltando a ter contato com C# e estou usando o canal aqui para me atualizar.\n\nComo agora estou usando mac, acho que o Rider faz mais sentido pra mim. Nem sabia dessa opção!\n\nSucesso!",
+      "curtidas": 4,
+      "publicado_em": "2022-07-04T22:17:04Z",
+      "atualizado_em": "2022-07-04T22:17:04Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugx8mBptc2SGv0TWtgh4AaABAg.9d4LL8ZAIXf9d8SDsKJLjf",
+      "comentario_pai_id": "Ugx8mBptc2SGv0TWtgh4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-07-06T12:34:12Z",
+      "atualizado_em": "2022-07-06T12:34:12Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwuOJDz1KX2jicuXqR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Utilizando no linux WinForms com rider não fica a desejar?",
+      "curtidas": 1,
+      "publicado_em": "2022-06-19T11:57:29Z",
+      "atualizado_em": "2022-06-19T11:57:29Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwuOJDz1KX2jicuXqR4AaABAg.9cSbW-n_9hD9d8Qnpbaizk",
+      "comentario_pai_id": "UgwuOJDz1KX2jicuXqR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Nope 💜",
+      "curtidas": 1,
+      "publicado_em": "2022-07-06T12:21:46Z",
+      "atualizado_em": "2022-07-06T12:21:46Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgypE_k70Q165WkULex4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Alguma dica de plugin para o visual studio para ajudar a encontrar erros em querys? rsrsrs",
+      "curtidas": 1,
+      "publicado_em": "2022-06-14T04:42:52Z",
+      "atualizado_em": "2022-06-14T04:42:52Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgypE_k70Q165WkULex4AaABAg.9cExnQwe9es9cIaqQN84pd",
+      "comentario_pai_id": "UgypE_k70Q165WkULex4AaABAg",
+      "tipo": "resposta",
+      "texto": "No VS não, mas no Rider tem isto nativo, só conectar o seu banco de dados na IDE 💜",
+      "curtidas": 0,
+      "publicado_em": "2022-06-15T14:39:15Z",
+      "atualizado_em": "2022-06-15T14:39:15Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgypE_k70Q165WkULex4AaABAg.9cExnQwe9es9cIfeIbHd-g",
+      "comentario_pai_id": "UgypE_k70Q165WkULex4AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio Grande diferencial, né?",
+      "curtidas": 0,
+      "publicado_em": "2022-06-15T15:21:17Z",
+      "atualizado_em": "2022-06-15T15:21:17Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugx6IkvCVTifdGoily54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Professor, quais extensão você usa no visual studio? Essa rechap serve para quê?",
+      "curtidas": 1,
+      "publicado_em": "2022-06-14T04:33:16Z",
+      "atualizado_em": "2022-06-14T04:33:16Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugx6IkvCVTifdGoily54AaABAg.9cEwh5zDrYI9cIanx0_S63",
+      "comentario_pai_id": "Ugx6IkvCVTifdGoily54AaABAg",
+      "tipo": "resposta",
+      "texto": "Estas que mostrei no vídeo mesmo... ReSharper sugere melhorias no código 💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-06-15T14:38:55Z",
+      "atualizado_em": "2022-06-15T14:38:55Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugx6IkvCVTifdGoily54AaABAg.9cEwh5zDrYI9cIfaNRCtKb",
+      "comentario_pai_id": "Ugx6IkvCVTifdGoily54AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio Certo, obrigado!",
+      "curtidas": 0,
+      "publicado_em": "2022-06-15T15:20:45Z",
+      "atualizado_em": "2022-06-15T15:20:45Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugzl_naxR2D482OZC_l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Balta, percebi que você não citou o Visual Studio for Mac. Teria algum motivo em específico? Qual sua opinião sobre ele? Forte abraço e parabéns pelo conteúdo!",
+      "curtidas": 1,
+      "publicado_em": "2022-06-08T13:31:55Z",
+      "atualizado_em": "2022-06-08T13:31:55Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugzl_naxR2D482OZC_l4AaABAg.9c0S_5FqguM9c32VnT0Oxu",
+      "comentario_pai_id": "Ugzl_naxR2D482OZC_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "13:46",
+      "curtidas": 0,
+      "publicado_em": "2022-06-09T13:41:52Z",
+      "atualizado_em": "2022-06-09T13:41:52Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugzl_naxR2D482OZC_l4AaABAg.9c0S_5FqguM9c6w2GVRKMU",
+      "comentario_pai_id": "Ugzl_naxR2D482OZC_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ahgon9672 nessa parte prestei atenção em outra coisa e passou despercebido kkkkkkk. Valeu!",
+      "curtidas": 0,
+      "publicado_em": "2022-06-11T01:53:37Z",
+      "atualizado_em": "2022-06-11T01:53:37Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugzl_naxR2D482OZC_l4AaABAg.9c0S_5FqguM9cI_f5Ghjc0",
+      "comentario_pai_id": "Ugzl_naxR2D482OZC_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "No 13:46 eu comento 💜",
+      "curtidas": 0,
+      "publicado_em": "2022-06-15T14:28:58Z",
+      "atualizado_em": "2022-06-15T14:28:58Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzoQWTEKWAztj_NCnt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "olá ! esse curso atende as necessidades de um iniciante em programação ? ótimo conteúdo falando nisso",
+      "curtidas": 2,
+      "publicado_em": "2022-05-03T19:48:51Z",
+      "atualizado_em": "2022-05-03T19:48:51Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzoQWTEKWAztj_NCnt4AaABAg.9a_R5IfWLLO9a_Y0BAyFSH",
+      "comentario_pai_id": "UgzoQWTEKWAztj_NCnt4AaABAg",
+      "tipo": "resposta",
+      "texto": "É difícil dizer... o curso está gratuito... tem que começar pra ver se você curte :)",
+      "curtidas": 1,
+      "publicado_em": "2022-05-03T20:49:19Z",
+      "atualizado_em": "2022-05-03T20:49:19Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugz3YrJIxKDMeOdtcKJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Foda se o riderrr a comunidade vai de code ou Studio porra... faz aula com essa merda e perca todos os alunos.\nDicA: SE VAI MOSTRAR ide tira a foto q ninguém faz questao de ver e foca na tela",
+      "curtidas": 1,
+      "publicado_em": "2022-04-23T02:17:46Z",
+      "atualizado_em": "2022-04-23T02:19:12Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzQyC89oTn_WBSRoaV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Legal. Obrigado.",
+      "curtidas": 1,
+      "publicado_em": "2022-04-22T18:46:08Z",
+      "atualizado_em": "2022-04-22T18:46:08Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzQyC89oTn_WBSRoaV4AaABAg.9a8-ALvjoHc9aDfOcEsLvh",
+      "comentario_pai_id": "UgzQyC89oTn_WBSRoaV4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-24T23:40:01Z",
+      "atualizado_em": "2022-04-24T23:40:01Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzQyC89oTn_WBSRoaV4AaABAg.9a8-ALvjoHc9aDgLMsATg7",
+      "comentario_pai_id": "UgzQyC89oTn_WBSRoaV4AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio dark Mode do visual Studio não me agrada, mas esse que vc indicou estou me acostumando. Se vc tiver oportunidade de algum vídeo específico para ferramentas que auxiliam o desenvolvimento seria bem interessante. Obrigado.",
+      "curtidas": 0,
+      "publicado_em": "2022-04-24T23:48:19Z",
+      "atualizado_em": "2022-04-24T23:48:19Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzTuQjoLr7t1CNxRlZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "o lance do dex com codespace vai mudar minha vida ótima dica agora e só levar o tablet quando sair de casa",
+      "curtidas": 1,
+      "publicado_em": "2022-04-22T02:26:11Z",
+      "atualizado_em": "2022-04-22T02:26:11Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzTuQjoLr7t1CNxRlZ4AaABAg.9a6F10G5WV09aDfIWL8bkR",
+      "comentario_pai_id": "UgzTuQjoLr7t1CNxRlZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vou tentar gravar uns testes! 💜",
+      "curtidas": 1,
+      "publicado_em": "2022-04-24T23:39:11Z",
+      "atualizado_em": "2022-04-24T23:39:11Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgzTuQjoLr7t1CNxRlZ4AaABAg.9a6F10G5WV09aFGZ2oJBD3",
+      "comentario_pai_id": "UgzTuQjoLr7t1CNxRlZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio conta pra ninguem nao mas pelo menos reuniao e resolver muita coisa de documentos ja consegui fazer usando o teams.  mas eu poderia conectar na VDI com android e codar se fosse preciso.",
+      "curtidas": 0,
+      "publicado_em": "2022-04-25T14:32:44Z",
+      "atualizado_em": "2022-04-25T14:32:44Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwEXHN0mrf6qnz3HCl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sensacional. Quando vou mexer com javascript, no momento eu prefiro o plugin dos IDEs da Jetbrains. O VS Code é muito bom, porém prefiro o Rider para JS",
+      "curtidas": 2,
+      "publicado_em": "2022-04-21T14:39:40Z",
+      "atualizado_em": "2022-04-21T14:39:40Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwEXHN0mrf6qnz3HCl4AaABAg.9a4zAKG7gcq9aDfGQ1J9q-",
+      "comentario_pai_id": "UgwEXHN0mrf6qnz3HCl4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-24T23:38:54Z",
+      "atualizado_em": "2022-04-24T23:38:54Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugwl2Oi308N5UfSSDkN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Balta, qual é a diferença entre o IntelliCode e o Resharper ?",
+      "curtidas": 1,
+      "publicado_em": "2022-04-21T11:10:45Z",
+      "atualizado_em": "2022-04-21T11:10:45Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugwl2Oi308N5UfSSDkN4AaABAg.9a4bGBG8vjK9aDfFPylfGw",
+      "comentario_pai_id": "Ugwl2Oi308N5UfSSDkN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Intellicode é uma funcionalidade presente no VS, o ReSharper é uma extensão que adiciona N recursos, incluindo sugestões de otimização de código...",
+      "curtidas": 1,
+      "publicado_em": "2022-04-24T23:38:46Z",
+      "atualizado_em": "2022-04-24T23:38:46Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxqHMRj08tyAoZNogZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Como sempre, conteúdo de altíssimo nível!",
+      "curtidas": 3,
+      "publicado_em": "2022-04-20T02:51:22Z",
+      "atualizado_em": "2022-04-20T02:51:22Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxqHMRj08tyAoZNogZ4AaABAg.9a18JfJ1AhF9aDfA2Ig4hp",
+      "comentario_pai_id": "UgxqHMRj08tyAoZNogZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-24T23:38:02Z",
+      "atualizado_em": "2022-04-24T23:38:02Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwMuXVj0S9e7w0Dycd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O codespace é sensacional. Não conhecia. Sobre as ides, uso o visual Studio para backend e o code pra front end",
+      "curtidas": 5,
+      "publicado_em": "2022-04-18T02:47:25Z",
+      "atualizado_em": "2022-04-18T02:47:25Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwMuXVj0S9e7w0Dycd4AaABAg.9_wzH2qsw489_yqhwN_ECE",
+      "comentario_pai_id": "UgwMuXVj0S9e7w0Dycd4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:11:04Z",
+      "atualizado_em": "2022-04-18T20:11:04Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxrLsIFH8A9e2w_oCZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Debug do Code eu não gosto. Mas assim, ele é bom. Agora quando eu preciso adicionar projetos a uma solução e etc tem que ser numa ide, muito chato ficar utilizando CLI para isso",
+      "curtidas": 1,
+      "publicado_em": "2022-04-16T22:18:10Z",
+      "atualizado_em": "2022-04-16T22:18:10Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxrLsIFH8A9e2w_oCZ4AaABAg.9_tvf5matld9_yqcsCJmg_",
+      "comentario_pai_id": "UgxrLsIFH8A9e2w_oCZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜",
+      "curtidas": 1,
+      "publicado_em": "2022-04-18T20:10:22Z",
+      "atualizado_em": "2022-04-18T20:10:22Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyoNMR6F2y1R7z9jIl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse defeito é gravíssimo do Visual Studio. Eu tenho a versão VS 22 para Mac e ele é muito ruim. \n\nPrimeiro é que ele não tem nada de próximo com nada. E experiência é péssima. E tem um monte de BUG. \n\nPor isso eu utilizo o Rider quando preciso “debbugar” e o code quando eu estou codando de leve.",
+      "curtidas": 1,
+      "publicado_em": "2022-04-16T22:14:51Z",
+      "atualizado_em": "2022-04-16T22:14:51Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyoNMR6F2y1R7z9jIl4AaABAg.9_tvHobgRII9_yqc1IIxX8",
+      "comentario_pai_id": "UgyoNMR6F2y1R7z9jIl4AaABAg",
+      "tipo": "resposta",
+      "texto": "É, pra Mac a versão 2022 ainda está em Preview!",
+      "curtidas": 1,
+      "publicado_em": "2022-04-18T20:10:16Z",
+      "atualizado_em": "2022-04-18T20:10:16Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyoNMR6F2y1R7z9jIl4AaABAg.9_tvHobgRII9a01kar88FE",
+      "comentario_pai_id": "UgyoNMR6F2y1R7z9jIl4AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio verdade Balta, eu inclusive peguei uns erros na IDE e reportei para eles, porém eu acho difícil a questão de layout mudar, enfim. \nAcho que o mais próximo do vs seria o code mesmo, mas eu curto demais o Rider, nossa que IDE boa. \n\nAgora se não fosse pelo debug estranho no code eu até utilizaria apenas ele.",
+      "curtidas": 0,
+      "publicado_em": "2022-04-19T16:34:46Z",
+      "atualizado_em": "2022-04-19T16:34:46Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw3h5QX6CiP8SSD6OB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "14:52 JAVA...",
+      "curtidas": 1,
+      "publicado_em": "2022-04-16T14:44:47Z",
+      "atualizado_em": "2022-04-16T14:44:47Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw3h5QX6CiP8SSD6OB4AaABAg.9_t6mMN3nmN9_yqZ2l0nDt",
+      "comentario_pai_id": "Ugw3h5QX6CiP8SSD6OB4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:09:43Z",
+      "atualizado_em": "2022-04-18T20:09:43Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugz0jjl-Lc-LFDeE-bp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Com um sistema legado em asp classico em produção, qual seria a melhor\r\nopção para fazer integração com asp classico e ir migrando para um nova tecnologia?\r\npreciso que essa nova tecnologia converse com o asp classico.",
+      "curtidas": 1,
+      "publicado_em": "2022-04-16T04:31:30Z",
+      "atualizado_em": "2022-04-16T04:31:30Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugz0jjl-Lc-LFDeE-bp4AaABAg.9_s0aYxAK_j9_yqUWMwMt1",
+      "comentario_pai_id": "Ugz0jjl-Lc-LFDeE-bp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Não tem como te responder assim, precisa traçar uma estratégia de migração e isto envolve muita coisa...",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:09:06Z",
+      "atualizado_em": "2022-04-18T20:09:06Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxQKZJ0sNjc2DFrHuV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual o seu notebook?",
+      "curtidas": 1,
+      "publicado_em": "2022-04-16T02:11:55Z",
+      "atualizado_em": "2022-04-16T02:11:55Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxQKZJ0sNjc2DFrHuV4AaABAg.9_rlcHvXUmZ9_yqPI_YN48",
+      "comentario_pai_id": "UgxQKZJ0sNjc2DFrHuV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Samsung Galaxy Book Pro 360 (Não é zoeira, este é o nome dele mesmo)",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:08:23Z",
+      "atualizado_em": "2022-04-18T20:08:23Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgypHBimYQK_Jpf88JZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo! Visual Studio no back-end e VS Code no front tá bom pra os projetos com Angular. comecei a usar um orquestrador de contêiners a máquina deu uma sentada. Nada que um equipamento mais parrudo resolvesse. Fira code sensacional. Faltou falar do Notepad++ hahah brincadeira👍",
+      "curtidas": 6,
+      "publicado_em": "2022-04-15T22:12:17Z",
+      "atualizado_em": "2022-04-15T22:12:17Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgypHBimYQK_Jpf88JZ4AaABAg.9_rLC7EfzEf9_yqNEsBPtt",
+      "comentario_pai_id": "UgypHBimYQK_Jpf88JZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "hahahahah boa!!! 💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:08:06Z",
+      "atualizado_em": "2022-04-18T20:08:06Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwqqEG6wyLXijMwvhd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Adoro as IDEs da Jet, principalmente o Pycharm ... pena não sou profissional da área, aí teria como pagar pelo Rider. Tenha uma ótimo feriadão!",
+      "curtidas": 2,
+      "publicado_em": "2022-04-15T18:38:40Z",
+      "atualizado_em": "2022-04-15T18:38:40Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwqqEG6wyLXijMwvhd4AaABAg.9_qxk_HRFip9_yqDcU1DU4",
+      "comentario_pai_id": "UgwqqEG6wyLXijMwvhd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pycharm nunca usei... usei bastante o WebStorm :D",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:06:47Z",
+      "atualizado_em": "2022-04-18T20:06:47Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxvP-SOsqydZNlAPOd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sempre preferi VSCode devido maior parte do tempo passar lendo código, alem disso o Code é o mais “clean”, leve e minimalista",
+      "curtidas": 1,
+      "publicado_em": "2022-04-15T01:44:37Z",
+      "atualizado_em": "2022-04-15T01:44:54Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxvP-SOsqydZNlAPOd4AaABAg.9_p8hSpeTcR9_yq9k6fIH0",
+      "comentario_pai_id": "UgxvP-SOsqydZNlAPOd4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:06:16Z",
+      "atualizado_em": "2022-04-18T20:06:16Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgypcfssYVftZLRGpL94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom. Seria interessante um video sobre setup com uma abordagem também do DEX",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T20:46:52Z",
+      "atualizado_em": "2022-04-14T20:46:52Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgypcfssYVftZLRGpL94AaABAg.9_obcfu_kNj9_yq8u4YLIX",
+      "comentario_pai_id": "UgypcfssYVftZLRGpL94AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-18T20:06:09Z",
+      "atualizado_em": "2022-04-18T20:06:09Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy3J2DOQbKaiTqhcLd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu gosto de usar o Vim hahaha. Eu uso ele junto com o plugin OmniSharp(o mesmo do VSCode) e funcionando, tendo tudo oque eu preciso. O Rider vai ser o meu próximo a testar. Parece super completo, ainda mais que eu só uso Linux, então VS tá fora de questão.",
+      "curtidas": 2,
+      "publicado_em": "2022-04-14T17:18:54Z",
+      "atualizado_em": "2022-04-14T17:19:13Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy3J2DOQbKaiTqhcLd4AaABAg.9_oEpU9v0kc9_yq8NYEbgv",
+      "comentario_pai_id": "Ugy3J2DOQbKaiTqhcLd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Legal demais, vou testar :D 💜",
+      "curtidas": 1,
+      "publicado_em": "2022-04-18T20:06:04Z",
+      "atualizado_em": "2022-04-18T20:06:04Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwUPQjFDdUqmxwJzNl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "tem o Indent Rainbow no rider tambem",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T17:01:39Z",
+      "atualizado_em": "2022-04-14T17:01:39Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwUPQjFDdUqmxwJzNl4AaABAg.9_oCr5YgPzX9_oEkfXkONv",
+      "comentario_pai_id": "UgwUPQjFDdUqmxwJzNl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Tem mesmo, vi aqui: https://plugins.jetbrains.com/plugin/13308-indent-rainbow\nObrigado!!!",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T17:18:15Z",
+      "atualizado_em": "2022-04-14T17:18:15Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwHRtukPyt7ZNRo0tx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse negócio de font com ligaduras me dá um nervoso.",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T15:43:55Z",
+      "atualizado_em": "2022-04-14T15:43:55Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwHRtukPyt7ZNRo0tx4AaABAg.9_o3xj8b9tB9_o4Lo4E8Jm",
+      "comentario_pai_id": "UgwHRtukPyt7ZNRo0tx4AaABAg",
+      "tipo": "resposta",
+      "texto": "hahhahahah",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T15:47:20Z",
+      "atualizado_em": "2022-04-14T15:47:20Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwXlnKp0uoU0P-bCSp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara vc falou falou\nMas \nVc não escreveu o danado do nome reader e aonde baixar isso\nVc tem q saber que uma parte de quem ta assistindo não domina o inglês ainda !!!",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T15:38:26Z",
+      "atualizado_em": "2022-04-14T15:38:26Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwXlnKp0uoU0P-bCSp4AaABAg.9_o3Ka9YCm99_o4JfckQuO",
+      "comentario_pai_id": "UgwXlnKp0uoU0P-bCSp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito bem posicionado... já alterei a descrição do vídeo com nomes e respectivos links... muito obrigado pelo feedback 💜",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T15:47:03Z",
+      "atualizado_em": "2022-04-14T15:47:03Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwXlnKp0uoU0P-bCSp4AaABAg.9_o3Ka9YCm99_tbzRRSskO",
+      "comentario_pai_id": "UgwXlnKp0uoU0P-bCSp4AaABAg",
+      "tipo": "resposta",
+      "texto": "@baltaio agradeço o retorno .",
+      "curtidas": 0,
+      "publicado_em": "2022-04-16T19:26:11Z",
+      "atualizado_em": "2022-04-16T19:26:11Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy5NJSqBndsfNADpU94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Respeito por ser MVP 👏👏. Hj em dia, quando vou fazer alguma mudança rápida nos arquivos, bate preguiça até de esperar o vscode carregar e eu abro o gedit ou nano mesmo, no Ubuntu 😂. Parece q a preguiça só aumenta.",
+      "curtidas": 2,
+      "publicado_em": "2022-04-14T15:25:20Z",
+      "atualizado_em": "2022-04-14T15:25:20Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy5NJSqBndsfNADpU94AaABAg.9_o1pgu1S2V9_o4ErCcfbX",
+      "comentario_pai_id": "Ugy5NJSqBndsfNADpU94AaABAg",
+      "tipo": "resposta",
+      "texto": "Verdate... cat e touch também uso bastante pra criar e editar arquivos rapidamente... Também rola o comando \"code .\" para abrir no VS Code...",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T15:46:23Z",
+      "atualizado_em": "2022-04-14T15:46:23Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxfAmMasFWoB5LM9u94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Logo acho que teremos um novo da JetBrains, o Fleet que ainda está em closed preview, parece que vai ser legal",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T14:28:00Z",
+      "atualizado_em": "2022-04-14T14:28:00Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxfAmMasFWoB5LM9u94AaABAg.9_nwGgPqte39_o44PxJ_MZ",
+      "comentario_pai_id": "UgxfAmMasFWoB5LM9u94AaABAg",
+      "tipo": "resposta",
+      "texto": "Não consegui acesso antecipado... queria testar :(",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T15:44:58Z",
+      "atualizado_em": "2022-04-14T15:44:58Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxpkTZpv4RlocJTcXp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Balta, como habilita as ligaduras no Visual Studio?",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T14:03:43Z",
+      "atualizado_em": "2022-04-14T14:03:43Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxpkTZpv4RlocJTcXp4AaABAg.9_ntUuQKYuE9_nv-pLbrQd",
+      "comentario_pai_id": "UgxpkTZpv4RlocJTcXp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Aqui habilitou por padrão... Não mudei nada... acho que depende da fonte... a que uso chama Fira Code",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T14:16:57Z",
+      "atualizado_em": "2022-04-14T14:16:57Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxTJrqM7A_oPSfdWqN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Venho trabalhando com o Rider há anos e sem dúvida é a melhor IDE que já trabalhei, trazendo muita produtividade para o meu dia a dia.",
+      "curtidas": 8,
+      "publicado_em": "2022-04-14T09:10:39Z",
+      "atualizado_em": "2022-04-14T09:10:39Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxTJrqM7A_oPSfdWqN4AaABAg.9_nMxMQJ8Al9_nuxk_Z1gi",
+      "comentario_pai_id": "UgxTJrqM7A_oPSfdWqN4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:16:32Z",
+      "atualizado_em": "2022-04-14T14:16:32Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy95ay2gWBnGk2K2H54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Grande Balta ! Como sempre, um excelente vídeo. Obrigado !",
+      "curtidas": 3,
+      "publicado_em": "2022-04-14T02:16:39Z",
+      "atualizado_em": "2022-04-14T02:16:39Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy95ay2gWBnGk2K2H54AaABAg.9_mc_CBXDI49_nur0U7Rz_",
+      "comentario_pai_id": "Ugy95ay2gWBnGk2K2H54AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:15:37Z",
+      "atualizado_em": "2022-04-14T14:15:37Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwmEz_18vyJzdmBO9l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tempo utilizando Rider: 2 anos",
+      "curtidas": 4,
+      "publicado_em": "2022-04-13T22:04:08Z",
+      "atualizado_em": "2022-04-13T22:04:08Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwmEz_18vyJzdmBO9l4AaABAg.9_mAfflUOmV9_nuq39HN2H",
+      "comentario_pai_id": "UgwmEz_18vyJzdmBO9l4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu pouco mais de um ano... mas to gostando 💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:15:29Z",
+      "atualizado_em": "2022-04-14T14:15:29Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw72-zaeQiuQZ-uLMV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "e o Webstorm?",
+      "curtidas": 1,
+      "publicado_em": "2022-04-13T20:53:50Z",
+      "atualizado_em": "2022-04-13T20:53:50Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw72-zaeQiuQZ-uLMV4AaABAg.9_m2cpzj9Gd9_nuoRq3R14",
+      "comentario_pai_id": "Ugw72-zaeQiuQZ-uLMV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Suporta .NET? Não sabia... vou testar 💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:15:16Z",
+      "atualizado_em": "2022-04-14T14:15:16Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwisytFHrToWUP0tEt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Achei q ia falar de usar o neovim (Não é Ide mas acho q da pra esforçar) kk",
+      "curtidas": 1,
+      "publicado_em": "2022-04-13T20:34:39Z",
+      "atualizado_em": "2022-04-13T20:34:39Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwisytFHrToWUP0tEt4AaABAg.9_m0RH30k8Q9_numoky83L",
+      "comentario_pai_id": "UgwisytFHrToWUP0tEt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Boa indicação, vou testar!! 💜💜💜",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T14:15:02Z",
+      "atualizado_em": "2022-04-14T14:15:02Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwCRVl2v18zwP4DzR14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "excelente vídeo! vou testar outras IDEs. Faz um vídeo sobre o modo dex, eu tenho um celular com um ready for que seria o equivalente da Motorola, instalei o Ubuntu mas achei bem limitado o funcionamento.",
+      "curtidas": 2,
+      "publicado_em": "2022-04-13T18:27:03Z",
+      "atualizado_em": "2022-04-13T18:27:03Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgwCRVl2v18zwP4DzR14AaABAg.9_lmpgdQpLe9_nukcwxHjS",
+      "comentario_pai_id": "UgwCRVl2v18zwP4DzR14AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:14:44Z",
+      "atualizado_em": "2022-04-14T14:14:44Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxUy6jp2Sh0IZnB8nt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu não consigo gostar do Visual Studio e depois que eu entendi como fazer as coisas com a dotnet cli eu tive menos vontade ainda de tentar gostar dele...",
+      "curtidas": 2,
+      "publicado_em": "2022-04-13T17:34:28Z",
+      "atualizado_em": "2022-04-13T17:34:28Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgxUy6jp2Sh0IZnB8nt4AaABAg.9_lgo_Ssfh-9_nujsmq4Nn",
+      "comentario_pai_id": "UgxUy6jp2Sh0IZnB8nt4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:14:38Z",
+      "atualizado_em": "2022-04-14T14:14:38Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy40oIVWZYSPXg79u94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mostra teu setup Balta, todo o hardware que envolve todo esse conteúdo de qualidade que vc traz 🔥",
+      "curtidas": 15,
+      "publicado_em": "2022-04-13T17:28:30Z",
+      "atualizado_em": "2022-04-13T17:28:30Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugy40oIVWZYSPXg79u94AaABAg.9_lg7vig9CD9_nuiqWArKY",
+      "comentario_pai_id": "Ugy40oIVWZYSPXg79u94AaABAg",
+      "tipo": "resposta",
+      "texto": "Vou mostrar💜💜💜💜",
+      "curtidas": 4,
+      "publicado_em": "2022-04-14T14:14:30Z",
+      "atualizado_em": "2022-04-14T14:14:30Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyBC4C7BjFfHiGB1CF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Existe o Indent Rainbow no Rider.",
+      "curtidas": 1,
+      "publicado_em": "2022-04-13T17:08:12Z",
+      "atualizado_em": "2022-04-13T17:08:12Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyBC4C7BjFfHiGB1CF4AaABAg.9_ldoBh_E3-9_nui5CtN-s",
+      "comentario_pai_id": "UgyBC4C7BjFfHiGB1CF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Obaaa, se puder, passa o link ai!",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T14:14:24Z",
+      "atualizado_em": "2022-04-14T14:14:24Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyaieMNQfZeHKOMRlt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Rider, mesmo eu tendo que abrir o VS por causa de um projeto em .Net Framework 4.8(isso pq usamos DevExpress), ainda sim faço quase tudo no Rider.",
+      "curtidas": 3,
+      "publicado_em": "2022-04-13T17:02:36Z",
+      "atualizado_em": "2022-04-13T17:02:36Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyaieMNQfZeHKOMRlt4AaABAg.9_ldAAs434i9_nugs6t252",
+      "comentario_pai_id": "UgyaieMNQfZeHKOMRlt4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:14:14Z",
+      "atualizado_em": "2022-04-14T14:14:14Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyaieMNQfZeHKOMRlt4AaABAg.9_ldAAs434i9_o1d73N5dZ",
+      "comentario_pai_id": "UgyaieMNQfZeHKOMRlt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Rider ta sendo minha paixão",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T15:23:37Z",
+      "atualizado_em": "2022-04-14T15:23:37Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyxTjT43QnX1SYtmUp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso bastante o Visual Studio Community (gratuito) e não tenho do que reclamar.\nDesenvolvo para web e desktop sem problema.",
+      "curtidas": 6,
+      "publicado_em": "2022-04-13T16:50:47Z",
+      "atualizado_em": "2022-04-13T16:50:47Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyxTjT43QnX1SYtmUp4AaABAg.9_lbof0P1FT9_nufEiQ7AY",
+      "comentario_pai_id": "UgyxTjT43QnX1SYtmUp4AaABAg",
+      "tipo": "resposta",
+      "texto": "💜💜💜",
+      "curtidas": 0,
+      "publicado_em": "2022-04-14T14:14:00Z",
+      "atualizado_em": "2022-04-14T14:14:00Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgyxTjT43QnX1SYtmUp4AaABAg.9_lbof0P1FT9_tm9jawhp0",
+      "comentario_pai_id": "UgyxTjT43QnX1SYtmUp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ele desenhe pra mobile?",
+      "curtidas": 0,
+      "publicado_em": "2022-04-16T20:55:06Z",
+      "atualizado_em": "2022-04-16T20:55:06Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw3Y_R8yuF0WYRcEhx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bacana o vídeo sobre IDE's.  Qual aplicativo \"caneta lazer\" você usa durante a apresentação?",
+      "curtidas": 2,
+      "publicado_em": "2022-04-13T16:02:30Z",
+      "atualizado_em": "2022-04-13T16:02:30Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "Ugw3Y_R8yuF0WYRcEhx4AaABAg.9_lXHwSbVo19_nueAMQQrQ",
+      "comentario_pai_id": "Ugw3Y_R8yuF0WYRcEhx4AaABAg",
+      "tipo": "resposta",
+      "texto": "ZoomIt",
+      "curtidas": 1,
+      "publicado_em": "2022-04-14T14:13:52Z",
+      "atualizado_em": "2022-04-14T14:13:52Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgynhiNqTdoL-uE7CmR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Interessante! Estou tentando o Rider no Fedora, mas to apanhando bastante com a instalação do Rider que parece meio bugada e não há nenhum tutorial decente pra isso, pelo menos eu não achei, fica a dica de conteúdo ai hehe",
+      "curtidas": 4,
+      "publicado_em": "2022-04-13T10:31:08Z",
+      "atualizado_em": "2022-04-13T10:31:08Z"
+    },
+    {
+      "video_id": "_KnvyQIK0Ic",
+      "comentario_id": "UgynhiNqTdoL-uE7CmR4AaABAg.9_kwN1d7d0w9_lMvxh_0fB",
+      "comentario_pai_id": "UgynhiNqTdoL-uE7CmR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eita!! No ubuntu vai de boa!",
+      "curtidas": 0,
+      "publicado_em": "2022-04-13T14:31:58Z",
+      "atualizado_em": "2022-04-13T14:31:58Z"
+    }
+  ]
+}

@@ -1,0 +1,1396 @@
+{
+  "video": {
+    "id": "J21H_bdBoIg",
+    "url": "https://www.youtube.com/watch?v=J21H_bdBoIg",
+    "titulo": "Qual é o melhor editor de código? #HipstersPontoTube",
+    "canal": "Alura",
+    "publicado_em": "2019-10-23T14:00:02Z",
+    "comentarios_informados_pela_api": 137
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:48:51.357735+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:49:03.932422+00:00",
+    "total": 137,
+    "principais": 83,
+    "respostas": 54,
+    "requisicoes": 32
+  },
+  "comentarios": [
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugy7Q2oZEN2wnidAQlF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nunca ouvi falar do IMEX.\nNo tempo que atuava em Unix (não Linux) usava o EMACS",
+      "curtidas": 1,
+      "publicado_em": "2022-12-25T16:06:28Z",
+      "atualizado_em": "2022-12-25T16:06:28Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugy47nmn0F2KvA2q9ER4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Triste pq o atom vai ser descontinuado...",
+      "curtidas": 0,
+      "publicado_em": "2022-07-14T01:07:26Z",
+      "atualizado_em": "2022-07-14T01:07:26Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugyvpgpp50h4cn1iFjR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "moh papo bom!!",
+      "curtidas": 0,
+      "publicado_em": "2022-07-13T22:35:15Z",
+      "atualizado_em": "2022-07-13T22:35:15Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugwfd0i1WMWfT-H5NXN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vs code + Emacs é maravilhoso ❤️",
+      "curtidas": 0,
+      "publicado_em": "2022-07-04T01:19:48Z",
+      "atualizado_em": "2022-07-04T01:19:48Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugy3L-OGYChjvj2gn4h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Depois que você aprende Vim, você descobre que o problema não está neste ou naquele editor de texto (nada contra o VSCode, até pq eu também uso). O Mal de todos os males é o mouse, e o Windows é um click fest do kct!!!! Pra mim o melhor setup dev de todos os tempos é Linux com um tiled window manager (tipo i3-wm) que te permite esquecer que o mouse existe. Tem extensão para usar comandos do Vim até para navegação no chrome. Enfim... to tentando me adaptar o windows + wsl2 (mais para poder dar swap nas distros on the go, para fins didáticos), mas me admiro que o Windows não ofereça um window manager mais eficaz......",
+      "curtidas": 1,
+      "publicado_em": "2022-06-30T14:55:43Z",
+      "atualizado_em": "2022-06-30T14:55:43Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgynUo95YsV8Fk72FlR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gosto Muito Do Sublime!! Acho Pratico Ja Tentei Usar O Vs Code Mas Nunca Consegui.",
+      "curtidas": 1,
+      "publicado_em": "2022-01-06T17:12:29Z",
+      "atualizado_em": "2022-01-06T17:12:29Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugw2A7N7K1POU_Jz6qR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim... Apenas...",
+      "curtidas": 0,
+      "publicado_em": "2022-01-04T04:49:25Z",
+      "atualizado_em": "2022-01-04T04:49:25Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzZLJh9QNgMPf53irZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quero meu Megazord",
+      "curtidas": 0,
+      "publicado_em": "2021-11-24T03:48:38Z",
+      "atualizado_em": "2021-11-24T03:48:38Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwlTfAiEmhIoG174IF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim",
+      "curtidas": 0,
+      "publicado_em": "2021-11-22T22:53:26Z",
+      "atualizado_em": "2021-11-22T22:53:26Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyK6Yvv0_Veuy59L3p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Os da JetBrains são os melhores em tudo!",
+      "curtidas": 1,
+      "publicado_em": "2021-10-11T20:54:11Z",
+      "atualizado_em": "2021-10-11T20:54:11Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzJChdXL8mX4Jj9Co54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nunca usei o bloco de notas pq nunca soube que dava kkkk (tô começando a estudar programação).",
+      "curtidas": 0,
+      "publicado_em": "2021-08-06T23:59:34Z",
+      "atualizado_em": "2021-08-06T23:59:34Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwNHnqIP8ueIFB_bnB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Paulo e Mario... Muito boa a colocação que vocês fizeram! Realmente, acabei de ver os videos sobre os melhores S.O, IDE e linguagem de programação. E a conclusão é: Não existem vencedores unânimes! Cada situação requer uma ferramenta e cada pessoa desenvolve mais habilidade e, consequentemente, mais agilidade pra desenvolver em sistemas operacionais, linguagens e editores diferentes. Parabéns pelos conteúdos!",
+      "curtidas": 1,
+      "publicado_em": "2021-07-31T22:46:44Z",
+      "atualizado_em": "2021-07-31T22:46:44Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyiqUcC6t1550R-Qwt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O Visual Studio Code também usa Eletron 😒😒😒",
+      "curtidas": 1,
+      "publicado_em": "2021-07-24T15:06:45Z",
+      "atualizado_em": "2021-07-24T15:06:45Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyYMtLGGBUiN70EiWV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS code: Nunca vi melhor e mais produtivo.",
+      "curtidas": 0,
+      "publicado_em": "2021-07-19T18:06:06Z",
+      "atualizado_em": "2021-07-19T18:06:06Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzeFSqsKQmi1QkgYft4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não consigo largar meu emacs",
+      "curtidas": 0,
+      "publicado_em": "2021-07-13T04:05:10Z",
+      "atualizado_em": "2021-07-13T04:05:10Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugyur-0sbVj4pe4ki6h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nerdbunker?",
+      "curtidas": 1,
+      "publicado_em": "2021-06-08T21:50:30Z",
+      "atualizado_em": "2021-06-08T21:50:30Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugyur-0sbVj4pe4ki6h4AaABAg.9OLVUTWh4Pp9ONBY8li488",
+      "comentario_pai_id": "Ugyur-0sbVj4pe4ki6h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim! Gravamos lá por um tempo antes dele não existir mais 🥺",
+      "curtidas": 0,
+      "publicado_em": "2021-06-09T13:34:43Z",
+      "atualizado_em": "2021-06-09T13:34:43Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzDkRJbfRWgDcYSJU94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o TextMate pra C (daí compilo e executo no terminal) e Netbeans pra Java.",
+      "curtidas": 1,
+      "publicado_em": "2021-06-02T23:21:15Z",
+      "atualizado_em": "2021-06-02T23:21:15Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxLRaHl3u0eaSwNF-p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O melhor é o bloco de notas",
+      "curtidas": 1,
+      "publicado_em": "2021-06-02T20:49:47Z",
+      "atualizado_em": "2021-06-02T20:49:47Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyANgIPghFD2xauEjp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "to numa transição do vscode pro atom",
+      "curtidas": 2,
+      "publicado_em": "2021-05-05T18:13:34Z",
+      "atualizado_em": "2021-05-05T18:13:34Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzaMl3GZ2424Rv_Tb94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vs code roda Python?? E se sim, ele é mais liso do que pycharm???",
+      "curtidas": 1,
+      "publicado_em": "2021-03-31T01:49:41Z",
+      "atualizado_em": "2021-03-31T01:49:41Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzaMl3GZ2424Rv_Tb94AaABAg.9LXgD-0d6pU9Q1yY9XWqXS",
+      "comentario_pai_id": "UgzaMl3GZ2424Rv_Tb94AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim, e roda um pouco mais leve que o pycharm. O pycharm consumia 500Mb/1Gb do meu pc, enquanto o vscode consome no máximo uns 300Mb ;)",
+      "curtidas": 0,
+      "publicado_em": "2021-07-21T00:51:08Z",
+      "atualizado_em": "2021-07-21T00:51:08Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugzgm3DBx3uaBsasEPp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "LaTeX é uma ótima ferramenta também ! Depois de algum tempo você automaticamente se desprende do Word e fica definitivo nele.",
+      "curtidas": 1,
+      "publicado_em": "2021-03-28T11:43:07Z",
+      "atualizado_em": "2021-03-28T11:43:07Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugwre3-46HtweWM6PLh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Para quem está começando e tem um computador ruim, indico o Jupyter Notebook ou Jupyter Lab facilita muito a vida da gente.\nPara ciência de dados :p claro",
+      "curtidas": 2,
+      "publicado_em": "2021-03-22T17:30:54Z",
+      "atualizado_em": "2021-03-22T17:32:19Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzI00rLlRS0O7A5DFl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Começando Python agora, e tava usando Pycharm :(",
+      "curtidas": 2,
+      "publicado_em": "2021-03-13T01:01:56Z",
+      "atualizado_em": "2021-03-13T01:01:56Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzI00rLlRS0O7A5DFl4AaABAg.9KoFRZOPV-G9KuwjcvCYPj",
+      "comentario_pai_id": "UgzI00rLlRS0O7A5DFl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Demais! Valeu por compartilhar com a gente! 💙",
+      "curtidas": 0,
+      "publicado_em": "2021-03-15T15:24:27Z",
+      "atualizado_em": "2021-03-15T15:24:27Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzI00rLlRS0O7A5DFl4AaABAg.9KoFRZOPV-G9LXfoFq8qPM",
+      "comentario_pai_id": "UgzI00rLlRS0O7A5DFl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Mano eu tmb mais tá rodando na força e dando uns erros na conf acho que vou ver se vc code é mais liso",
+      "curtidas": 0,
+      "publicado_em": "2021-03-31T01:46:10Z",
+      "atualizado_em": "2021-03-31T01:46:10Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgykPFNQE8fXjpRF1354AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim é vida irmão. No início sofri muito pra aprender, mas hoje eu nn troco ele mais por nada.",
+      "curtidas": 4,
+      "publicado_em": "2021-03-07T17:08:37Z",
+      "atualizado_em": "2021-03-07T17:08:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyLS9TSy0Zsg0eCwqR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "gosto do phpstorm",
+      "curtidas": 1,
+      "publicado_em": "2021-02-15T18:11:41Z",
+      "atualizado_em": "2021-02-15T18:11:41Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyLS9TSy0Zsg0eCwqR4AaABAg.9Jn8btam4rr9JpFy2rbdw1",
+      "comentario_pai_id": "UgyLS9TSy0Zsg0eCwqR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Show! 💙",
+      "curtidas": 0,
+      "publicado_em": "2021-02-16T13:54:21Z",
+      "atualizado_em": "2021-02-16T13:54:21Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxHWCkv5h3DaPdDILR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Brackets é o melhor",
+      "curtidas": 2,
+      "publicado_em": "2021-02-12T02:48:32Z",
+      "atualizado_em": "2021-02-12T02:48:32Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxHWCkv5h3DaPdDILR4AaABAg.9Jdl_yJJTRd9Jf2vPqTEeD",
+      "comentario_pai_id": "UgxHWCkv5h3DaPdDILR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Valeu por compartilhar sua opinião com a gente! 💙",
+      "curtidas": 0,
+      "publicado_em": "2021-02-12T14:47:59Z",
+      "atualizado_em": "2021-02-12T14:47:59Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyQEd10-wI8v7jGfjB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nano e VIM.",
+      "curtidas": 1,
+      "publicado_em": "2021-01-01T23:36:14Z",
+      "atualizado_em": "2021-01-01T23:36:14Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyQEd10-wI8v7jGfjB4AaABAg.9Hzqzdkgzi09I66w4SKBJN",
+      "comentario_pai_id": "UgyQEd10-wI8v7jGfjB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Valeu por compartilhar sua opinião com a gente! 💙",
+      "curtidas": 0,
+      "publicado_em": "2021-01-04T19:18:59Z",
+      "atualizado_em": "2021-01-04T19:18:59Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxyQ5ZvTqwCANBQHRd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vs Code é vida",
+      "curtidas": 0,
+      "publicado_em": "2020-11-27T15:34:55Z",
+      "atualizado_em": "2020-11-27T15:34:55Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxyQ5ZvTqwCANBQHRd4AaABAg.9GZs4kaUS_C9G_EXWwLmvJ",
+      "comentario_pai_id": "UgxyQ5ZvTqwCANBQHRd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Boa, Jhow! 💙",
+      "curtidas": 0,
+      "publicado_em": "2020-11-27T18:59:49Z",
+      "atualizado_em": "2020-11-27T18:59:49Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzLWsg6KhJdFFpPXCp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou começando nisso agora, não sei onde começar e não tenho dinheiro pra cursos...",
+      "curtidas": 2,
+      "publicado_em": "2020-10-17T09:04:41Z",
+      "atualizado_em": "2020-10-17T09:04:41Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzLWsg6KhJdFFpPXCp4AaABAg.9EuapiqWDZz9F-fcnbaYDN",
+      "comentario_pai_id": "UgzLWsg6KhJdFFpPXCp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Oi! Tudo certo? Aqui no nosso canal temos alguns vídeos que te darão uma noção de como começar nessa área, e com dicas de alguns materiais. Segue o link: \n\n▶ Como posso aprender a programar?\nhttps://bit.ly/como-aprender-a-progra...\n\n▶ Como entrar no mundo da programação?\nhttps://bit.ly/como-entrar-programacao\n\n▶ Veja o vídeo completo em ➡️ http://bit.ly/AluraLive22Completa\n(Start do video, a partir de 05:30min)\n\n🔗 Dois artigos sobre a Carreira do Programador da Alura: \nhttp://bit.ly/qual-curso-primeiro\nhttp://bit.ly/como-escolher-carreira-ti\n\nEspero que esses materiais possam te ajudar! 🙂",
+      "curtidas": 1,
+      "publicado_em": "2020-10-19T17:42:03Z",
+      "atualizado_em": "2020-10-19T17:42:03Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwZRAU1rMPtsFj13nR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bloco de notas é o melhor.... Kkkk fiz uns Batch no notepad por muito tempo, só para \"automatizar\" minhas preguiças.",
+      "curtidas": 4,
+      "publicado_em": "2020-10-08T02:31:58Z",
+      "atualizado_em": "2020-10-08T02:31:58Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwZRAU1rMPtsFj13nR4AaABAg.9EXijTxtlLd9EZXmqPAUBe",
+      "comentario_pai_id": "UgwZRAU1rMPtsFj13nR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Hahaha! Boa, Jimmy! 💙",
+      "curtidas": 2,
+      "publicado_em": "2020-10-08T19:26:03Z",
+      "atualizado_em": "2020-10-08T19:26:03Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxgxQT1TPjkVpkkcGJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "top",
+      "curtidas": 1,
+      "publicado_em": "2020-10-05T18:32:57Z",
+      "atualizado_em": "2020-10-05T18:32:57Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxgxQT1TPjkVpkkcGJ4AaABAg.9ERiKLvDBTl9ETnPX6NwiC",
+      "comentario_pai_id": "UgxgxQT1TPjkVpkkcGJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Valeu, Sancle! 💙",
+      "curtidas": 0,
+      "publicado_em": "2020-10-06T13:55:50Z",
+      "atualizado_em": "2020-10-06T13:55:50Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugx8_pIFbQJ7pwGsUSx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nunca usei o bloco de notas mas o gdit do Ubuntu....",
+      "curtidas": 3,
+      "publicado_em": "2020-10-04T06:53:54Z",
+      "atualizado_em": "2020-10-04T06:53:54Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugx8_pIFbQJ7pwGsUSx4AaABAg.9ENtXNXzmnG9ETx7T3Ej4_",
+      "comentario_pai_id": "Ugx8_pIFbQJ7pwGsUSx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Legal! Valeu por compartilhar sua experiência com a gente! 💙",
+      "curtidas": 0,
+      "publicado_em": "2020-10-06T15:20:45Z",
+      "atualizado_em": "2020-10-06T15:20:45Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxavfVUViX-UVUHpTZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mano do céu, eu realmente tava ficando chateado por não falarem do meu VIM, e ai ele fala isso kkkk eu fiquei tipo: WHAT ?? SAI DA MINHA MENTE kkkkkkk Eu era um apaixonado por vscode, eu sou um daqueles  que fica migrando de distro para distro para encontrar a melhor, e assim é com os editores, IDES, já vi quase tudo kkk mas a um tempo eu vi o VIM e amei ele, mas sempre tinha a barreira de ter que me acostumar só com comandos e tals, mas sepre curti a ideia dele ser via terminal e consumir pouca ram. e agora a mais ou menos um mês eu to só nele, no ínicio foi complexo, perdi produtividade, mas agora para mim é a mesma coisa que trabalhar no vscode, ou até mais rápido, e tudo isso com pouca ram rsrs não largo o meu VIM por nada haha",
+      "curtidas": 2,
+      "publicado_em": "2020-10-03T12:31:13Z",
+      "atualizado_em": "2020-10-03T12:31:13Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxavfVUViX-UVUHpTZ4AaABAg.9ELvL71RMif9ETzccNxw3E",
+      "comentario_pai_id": "UgxavfVUViX-UVUHpTZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Hahaha! Ainda bem que falamos, Marlon! Valeu por compartilhar a sua experiência do VIM com a gente! 💙",
+      "curtidas": 1,
+      "publicado_em": "2020-10-06T15:42:37Z",
+      "atualizado_em": "2020-10-06T15:42:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugz9u6KSoPpVUk7aIlx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pycharm. É  nois",
+      "curtidas": 1,
+      "publicado_em": "2020-07-01T03:03:11Z",
+      "atualizado_em": "2020-07-01T03:03:11Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugz9u6KSoPpVUk7aIlx4AaABAg.9AYrbV2p0D79BmgO7RuG3o",
+      "comentario_pai_id": "Ugz9u6KSoPpVUk7aIlx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Boa, Fábio! 💙",
+      "curtidas": 1,
+      "publicado_em": "2020-07-31T17:45:06Z",
+      "atualizado_em": "2020-07-31T17:45:06Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwgxqsqbF2X7AXDFxl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Acredito que seja emacs o nome correto",
+      "curtidas": 1,
+      "publicado_em": "2020-06-03T16:09:30Z",
+      "atualizado_em": "2020-06-03T16:09:30Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwdJsI00TNtPhCXYYl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "dreamweaver quem gosta?",
+      "curtidas": 1,
+      "publicado_em": "2020-05-13T17:04:37Z",
+      "atualizado_em": "2020-05-13T17:04:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwQHUABMTL4sHqKUzN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "py charm tambem e top do \"primo rico\"",
+      "curtidas": 2,
+      "publicado_em": "2020-05-08T23:17:37Z",
+      "atualizado_em": "2020-05-08T23:18:08Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugy_E2kmqAEZjqinhDl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O notepad++ não salva o código em txt e sim já executável se perder esse executável já foi.",
+      "curtidas": 0,
+      "publicado_em": "2020-05-07T18:27:37Z",
+      "atualizado_em": "2020-05-07T18:27:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyzKbufW1w9nXvufvF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "dreamweaver para front alguem usa?",
+      "curtidas": 1,
+      "publicado_em": "2020-04-17T20:45:31Z",
+      "atualizado_em": "2020-04-17T20:45:31Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzAmpSSLb5zBiE7xZF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Alguém precisa revisar os vídeos... Imex hahahah É o que dá pra entender.",
+      "curtidas": 1,
+      "publicado_em": "2020-03-30T18:39:33Z",
+      "atualizado_em": "2020-03-30T18:39:33Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugx91h4LO8PEnxY1SvR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Olá. Quero saber se tem como instalar o wordpress num site q já tenha sido feito no HTML (o site já está pronto). O site já existe e está cheio de informação. Se eu for no painel e instalar o WP, vai dar algum conflito?",
+      "curtidas": 0,
+      "publicado_em": "2020-01-23T22:54:41Z",
+      "atualizado_em": "2020-01-23T22:54:41Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugw9SiUcMJCIM7d3KRd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim hoje ,  vim amanhã e vim sempre !!!",
+      "curtidas": 3,
+      "publicado_em": "2020-01-19T01:17:53Z",
+      "atualizado_em": "2020-01-19T01:17:53Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugw9SiUcMJCIM7d3KRd4AaABAg.93xOBg2ZToK9CCPGyqu0z6",
+      "comentario_pai_id": "Ugw9SiUcMJCIM7d3KRd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim!!!",
+      "curtidas": 0,
+      "publicado_em": "2020-08-11T02:46:20Z",
+      "atualizado_em": "2020-08-11T02:46:20Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxzGt4tv0bH83H4w1F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E o dreamweaver?",
+      "curtidas": 2,
+      "publicado_em": "2020-01-15T04:17:18Z",
+      "atualizado_em": "2020-01-15T04:17:18Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwFf4zWvhpyXRpGYGt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "imex doeu demais",
+      "curtidas": 2,
+      "publicado_em": "2020-01-05T14:32:56Z",
+      "atualizado_em": "2020-01-05T14:32:56Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwFf4zWvhpyXRpGYGt4AaABAg.93Pl2Zlgfel93SgBx72icP",
+      "comentario_pai_id": "UgwFf4zWvhpyXRpGYGt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Desculpe o erro, Phelipe! Tirando isso esperamos que tenha curtido o vídeo :)",
+      "curtidas": 0,
+      "publicado_em": "2020-01-06T17:48:14Z",
+      "atualizado_em": "2020-01-06T17:48:14Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyfOG7f6-lZRA8KaCV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu to aprendendo a programar e uso o VS Code pq nossa senhora o meu pc é só uma calculadora gigante, não roda mais nada",
+      "curtidas": 1,
+      "publicado_em": "2019-11-26T15:52:39Z",
+      "atualizado_em": "2019-11-26T15:52:39Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyfOG7f6-lZRA8KaCV4AaABAg.91nuNUnV0fB9O5vlh5zgPN",
+      "comentario_pai_id": "UgyfOG7f6-lZRA8KaCV4AaABAg",
+      "tipo": "resposta",
+      "texto": "O VS Code é o mais pesado;-;",
+      "curtidas": 1,
+      "publicado_em": "2021-06-02T20:41:04Z",
+      "atualizado_em": "2021-06-02T20:41:04Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzA1rqQjEstVKPPApB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bloco de Notaasss ??!!!! hahahaha NÃAAAAAAO !!!!!",
+      "curtidas": 0,
+      "publicado_em": "2019-11-24T01:37:49Z",
+      "atualizado_em": "2019-11-24T01:37:49Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwhmfSH5fy-SrZFm9d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu entrei no VIM e nunca mais consegui sair hahahahahaha",
+      "curtidas": 2,
+      "publicado_em": "2019-11-20T16:52:28Z",
+      "atualizado_em": "2019-11-20T16:52:28Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwhmfSH5fy-SrZFm9d4AaABAg.91ZZSN_6jPE9CCPJEOxePg",
+      "comentario_pai_id": "UgwhmfSH5fy-SrZFm9d4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pse!!",
+      "curtidas": 0,
+      "publicado_em": "2020-08-11T02:46:39Z",
+      "atualizado_em": "2020-08-11T02:46:39Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugx0evHSBqHR-I-r4K94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "\"Fecha e abre dnv\" e da pra sair de outro jeito? :V",
+      "curtidas": 4,
+      "publicado_em": "2019-11-19T01:18:02Z",
+      "atualizado_em": "2019-11-19T01:18:02Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxSax6geQkxES4w5VJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Melhor que usar o notepad, só escrever os códigos em folhas de sulfite (identado, claro), depois escanear e usar um OCR pra capturar o código e mandar compilar.",
+      "curtidas": 57,
+      "publicado_em": "2019-11-17T13:10:14Z",
+      "atualizado_em": "2019-11-17T13:10:14Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxSax6geQkxES4w5VJ4AaABAg.91RRd1szLVb9E5AO8UHnty",
+      "comentario_pai_id": "UgxSax6geQkxES4w5VJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "O ruim é sujar uma folha pra isso kkkk\n#SalvemAsÁrvores",
+      "curtidas": 5,
+      "publicado_em": "2020-09-27T00:24:21Z",
+      "atualizado_em": "2020-09-27T00:24:21Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxSax6geQkxES4w5VJ4AaABAg.91RRd1szLVb9N8fbE04dMp",
+      "comentario_pai_id": "UgxSax6geQkxES4w5VJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "@viniciusfreiri Melhor scriptar com um graveto na areia da praia. STONKS!",
+      "curtidas": 7,
+      "publicado_em": "2021-05-10T01:46:09Z",
+      "atualizado_em": "2021-05-10T01:46:09Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxSax6geQkxES4w5VJ4AaABAg.91RRd1szLVb9ZMEsQFPhEz",
+      "comentario_pai_id": "UgxSax6geQkxES4w5VJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "viajou hein?!!?  rsrsrsr",
+      "curtidas": 0,
+      "publicado_em": "2022-03-09T14:29:56Z",
+      "atualizado_em": "2022-03-09T14:29:56Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzVo6K9b1ZRi1dC6Wt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse episódio ficou show",
+      "curtidas": 1,
+      "publicado_em": "2019-11-13T22:14:04Z",
+      "atualizado_em": "2019-11-13T22:14:04Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzQZJzwA1VG7K2tlux4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bom vídeo.",
+      "curtidas": 1,
+      "publicado_em": "2019-10-27T22:08:44Z",
+      "atualizado_em": "2019-10-27T22:08:44Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugx1XP6Q9NWtUwCIbtB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual é o melhor editor de código e porque é o VS code",
+      "curtidas": 1,
+      "publicado_em": "2019-10-27T18:57:43Z",
+      "atualizado_em": "2019-10-27T18:57:43Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzhYuT_g564wPzyP7V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCode pra tudo,  e para quem não quiser a telemetira da Microsoft, tem o VSCodium no github.",
+      "curtidas": 3,
+      "publicado_em": "2019-10-27T18:39:54Z",
+      "atualizado_em": "2019-10-27T18:39:54Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzqZ-j2OYd-D4edpvx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nunca usei o notepad",
+      "curtidas": 0,
+      "publicado_em": "2019-10-27T13:47:42Z",
+      "atualizado_em": "2019-10-27T13:47:42Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugxr43DD3Uv4bq--U0J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Caramba, falaram de IDE e deixaram o DELPHI de fora? =]",
+      "curtidas": 0,
+      "publicado_em": "2019-10-26T14:49:07Z",
+      "atualizado_em": "2019-10-26T14:49:20Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzKsHBcjpkZD5rf1v54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "melhor que o vim não existe",
+      "curtidas": 3,
+      "publicado_em": "2019-10-26T10:08:55Z",
+      "atualizado_em": "2019-10-26T10:08:55Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugzj38JyNOG7Qp6qF2l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Os produtos da Jetbrains são incríveis, porém fica aquela questão do preço ( que pra mim vale a pena se você puder pagar). Vs code é muito bom, mas pra quem usa algo mais personalizado, como intellij ou phpstorm, sente falta de algumas coisas",
+      "curtidas": 2,
+      "publicado_em": "2019-10-26T05:01:55Z",
+      "atualizado_em": "2019-10-26T05:01:55Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugzj38JyNOG7Qp6qF2l4AaABAg.90XvGFf-CCx9CCP_TmpgN5",
+      "comentario_pai_id": "Ugzj38JyNOG7Qp6qF2l4AaABAg",
+      "tipo": "resposta",
+      "texto": "crackea mds",
+      "curtidas": 1,
+      "publicado_em": "2020-08-11T02:49:00Z",
+      "atualizado_em": "2020-08-11T02:49:00Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzFGHu_uUV6TUqrME14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso Vscode e o VIM, grandes ferramentas.",
+      "curtidas": 5,
+      "publicado_em": "2019-10-25T21:36:19Z",
+      "atualizado_em": "2019-10-25T21:36:19Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzJ4FDNE4LguthAQKR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS Code nem é programa, é estilo de vida :)",
+      "curtidas": 20,
+      "publicado_em": "2019-10-25T01:12:37Z",
+      "atualizado_em": "2019-10-25T01:12:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzJ4FDNE4LguthAQKR4AaABAg.90UwDuWDkdu9g6_PU0O6YJ",
+      "comentario_pai_id": "UgzJ4FDNE4LguthAQKR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Nada ver",
+      "curtidas": 1,
+      "publicado_em": "2022-09-18T08:41:23Z",
+      "atualizado_em": "2022-09-18T08:41:23Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxogaScwwOPDuDupVh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não sei se é \"REAL\" mas a boatos que o VS code tem uma parada integrada que recebe informações do seu código. A solução é o \"vscodium\"",
+      "curtidas": 2,
+      "publicado_em": "2019-10-25T00:32:35Z",
+      "atualizado_em": "2019-10-25T00:32:35Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxogaScwwOPDuDupVh4AaABAg.90Urde6Mzlb90XukISCD8r",
+      "comentario_pai_id": "UgxogaScwwOPDuDupVh4AaABAg",
+      "tipo": "resposta",
+      "texto": "A maioria dos produtos da Microsoft tem telemetria. Tem como desativar nas configurações, mas vai saber o que eles coletam né. Por ser open source, acaba sendo \"mais\"  confiável, porém kkkk",
+      "curtidas": 0,
+      "publicado_em": "2019-10-26T04:57:25Z",
+      "atualizado_em": "2019-10-26T04:57:25Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxogaScwwOPDuDupVh4AaABAg.90Urde6Mzlb90YWwjHLQnx",
+      "comentario_pai_id": "UgxogaScwwOPDuDupVh4AaABAg",
+      "tipo": "resposta",
+      "texto": "@alexandrevent612 complicado né kkkk",
+      "curtidas": 0,
+      "publicado_em": "2019-10-26T10:39:54Z",
+      "atualizado_em": "2019-10-26T10:39:54Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugx2WY_fxpDoFAl8stt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Lembrando que o VS Code também é baseado no Electron/Chromium, assim como o Atom... Então o consumo de RAM é o de um Google Chrome rs.\n\nNão manjo muito do VI/VIM. Mas já vi caras usando eles de forma espetacular, sem tocar no mouse, sem usar ambiente gráfico... para quem domina são muito eficientes mesmo.",
+      "curtidas": 10,
+      "publicado_em": "2019-10-24T23:43:26Z",
+      "atualizado_em": "2019-10-25T00:22:39Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyRaMWw6S_supj4oCJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "poxa faltou editor da web em, tipo o brackets, na epoca que eu trampava com templates usava muito ele por conta do live preview que é uma funcionalidade muito util,  sem falar que você pode incrementar com plugins, passei por todos esses editores citado no video com exceção do imex, mas depois que comecei a usar o primo rico, estou meio que refem, pq só uso ele agora, não há como negar, as ferramentas dos cara e muito boa, pra min vale muito a pena.",
+      "curtidas": 1,
+      "publicado_em": "2019-10-24T23:31:15Z",
+      "atualizado_em": "2019-10-24T23:31:15Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyVxn34hVKxuLgg2Gh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "esc :wq",
+      "curtidas": 1,
+      "publicado_em": "2019-10-24T16:59:52Z",
+      "atualizado_em": "2019-10-24T16:59:52Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugw5le78DcI1p7myoq14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nano >>>>>>>>> VI \n\nFalei e sai correndo",
+      "curtidas": 0,
+      "publicado_em": "2019-10-24T15:34:17Z",
+      "atualizado_em": "2019-10-24T15:34:17Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzVVV_tjtAekGfRa5R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O VSCode é muito bom para desenvolvimento front-end, mas aconselho a todos experimentarem a versão paga do WebStorm.",
+      "curtidas": 9,
+      "publicado_em": "2019-10-24T14:59:41Z",
+      "atualizado_em": "2019-10-24T14:59:41Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzVVV_tjtAekGfRa5R4AaABAg.90Tq4dJIrfE9OGe-Vh42yz",
+      "comentario_pai_id": "UgzVVV_tjtAekGfRa5R4AaABAg",
+      "tipo": "resposta",
+      "texto": "pra backend é perfeito também, só instalar as extensões certas",
+      "curtidas": 0,
+      "publicado_em": "2021-06-07T00:37:27Z",
+      "atualizado_em": "2021-06-07T00:37:27Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugy20amYCyYQZdmAwcF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VIM FTW",
+      "curtidas": 2,
+      "publicado_em": "2019-10-24T11:09:01Z",
+      "atualizado_em": "2019-10-24T11:09:01Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxM1iu1A2ucAMD6nqB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu sou o único que não gosta do VSCode?",
+      "curtidas": 2,
+      "publicado_em": "2019-10-24T09:09:51Z",
+      "atualizado_em": "2019-10-24T09:09:51Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxM1iu1A2ucAMD6nqB4AaABAg.90TD2MT4x_G90aa4xqwKCE",
+      "comentario_pai_id": "UgxM1iu1A2ucAMD6nqB4AaABAg",
+      "tipo": "resposta",
+      "texto": "sim",
+      "curtidas": 0,
+      "publicado_em": "2019-10-27T15:13:50Z",
+      "atualizado_em": "2019-10-27T15:13:50Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxM1iu1A2ucAMD6nqB4AaABAg.90TD2MT4x_G90azyLMnHzE",
+      "comentario_pai_id": "UgxM1iu1A2ucAMD6nqB4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ruanoliveira4147 ;-;",
+      "curtidas": 0,
+      "publicado_em": "2019-10-27T18:59:59Z",
+      "atualizado_em": "2019-10-27T18:59:59Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxM1iu1A2ucAMD6nqB4AaABAg.90TD2MT4x_G9CCPd4Zhd5W",
+      "comentario_pai_id": "UgxM1iu1A2ucAMD6nqB4AaABAg",
+      "tipo": "resposta",
+      "texto": "nao",
+      "curtidas": 0,
+      "publicado_em": "2020-08-11T02:49:29Z",
+      "atualizado_em": "2020-08-11T02:49:29Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyBHPP1WC7sy1D_-dh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A galera fala que o atom é lento por rodar em cima do Electron mas paga pau pro VSCode, que também roda em cima do Electron. Ué...",
+      "curtidas": 5,
+      "publicado_em": "2019-10-24T04:06:17Z",
+      "atualizado_em": "2019-10-24T04:06:17Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgywivjdWBfR5VT7fbV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Caraca, achei que era só eu que escrevia tudo em Markdown kkkkkkk",
+      "curtidas": 3,
+      "publicado_em": "2019-10-24T01:36:28Z",
+      "atualizado_em": "2019-10-24T01:36:28Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgywivjdWBfR5VT7fbV4AaABAg.90SP9ekb_km90SRxeZkHi2",
+      "comentario_pai_id": "UgywivjdWBfR5VT7fbV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Cara é um Life Style hahaha",
+      "curtidas": 2,
+      "publicado_em": "2019-10-24T02:00:54Z",
+      "atualizado_em": "2019-10-24T02:00:54Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyTkuLxPjGJQ36M5vJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mas o erro não é usar o bloco de notas e sim estar usando windows  :)",
+      "curtidas": 4,
+      "publicado_em": "2019-10-23T23:39:09Z",
+      "atualizado_em": "2019-10-23T23:39:09Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyOmKIiTKrxDj5xttJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Brackets ?? Não acredito que nem mencionaram a título de conhecimento.",
+      "curtidas": 5,
+      "publicado_em": "2019-10-23T22:24:29Z",
+      "atualizado_em": "2019-10-23T22:24:29Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyOmKIiTKrxDj5xttJ4AaABAg.90S3B_G2C9690SRoMX9Dub",
+      "comentario_pai_id": "UgyOmKIiTKrxDj5xttJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito bem lembrado, acabou passando no video",
+      "curtidas": 1,
+      "publicado_em": "2019-10-24T01:59:37Z",
+      "atualizado_em": "2019-10-24T01:59:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxI2C_R1LT2Nd2Y_D94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vi o título e abri o vídeo só pra comentar VS CODE, ahsuauahhs",
+      "curtidas": 12,
+      "publicado_em": "2019-10-23T22:01:58Z",
+      "atualizado_em": "2019-10-23T22:02:14Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyCmSb0aAAsvLZvjjt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS Code é amor demais <3",
+      "curtidas": 15,
+      "publicado_em": "2019-10-23T21:45:13Z",
+      "atualizado_em": "2019-10-23T21:45:13Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS Code até surgir outro melhor que ele.",
+      "curtidas": 70,
+      "publicado_em": "2019-10-23T18:03:02Z",
+      "atualizado_em": "2019-10-23T18:03:02Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK90TNUdh5NSl",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "@Marcio Duran O que vem crescendo muito é Gitpod.io",
+      "curtidas": 0,
+      "publicado_em": "2019-10-24T10:41:05Z",
+      "atualizado_em": "2023-11-16T18:54:26Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK90TreaCbwZ-",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "@Marcio Duran Eu uso o CodeSandbox, comecei a testar o Gitpod.io a versão grátis. É bem prático.",
+      "curtidas": 0,
+      "publicado_em": "2019-10-24T15:13:28Z",
+      "atualizado_em": "2023-10-24T19:09:38Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK90Uw7jRkb8X",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "Meu professor fala que o VS Code é muito frescurento kkkkk",
+      "curtidas": 4,
+      "publicado_em": "2019-10-25T01:11:46Z",
+      "atualizado_em": "2019-10-25T01:11:46Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK90Vr2eFKwzz",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "@Mizaisma kkkkkk nada a ver cara.",
+      "curtidas": 2,
+      "publicado_em": "2019-10-25T09:46:38Z",
+      "atualizado_em": "2019-10-25T09:46:38Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK90VwkI4XYjk",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "@fernandocode Eu sei cara kkkk",
+      "curtidas": 1,
+      "publicado_em": "2019-10-25T10:36:25Z",
+      "atualizado_em": "2019-10-25T10:36:25Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK90WEl3bArJq",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "@Mizaisma kkkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2019-10-25T13:22:33Z",
+      "atualizado_em": "2019-10-25T13:22:33Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9ABm-Q-SnTG",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "Brackets é excelente",
+      "curtidas": 1,
+      "publicado_em": "2020-06-22T03:51:37Z",
+      "atualizado_em": "2020-06-22T03:51:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9ARz6yBA41M",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "@txLedz Já usei",
+      "curtidas": 0,
+      "publicado_em": "2020-06-28T10:54:06Z",
+      "atualizado_em": "2020-06-28T10:54:06Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9CCPC8cHpwl",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "VIM, o melhor",
+      "curtidas": 0,
+      "publicado_em": "2020-08-11T02:45:40Z",
+      "atualizado_em": "2020-08-11T02:45:40Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9HzqhZSiGJc",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "VIM 😎😎😎😎",
+      "curtidas": 1,
+      "publicado_em": "2021-01-01T23:33:46Z",
+      "atualizado_em": "2021-01-01T23:33:46Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9HzqiXIa6Bc",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "Nano",
+      "curtidas": 2,
+      "publicado_em": "2021-01-01T23:33:54Z",
+      "atualizado_em": "2021-01-01T23:33:54Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9OmqnxFKnNX",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "já usou vim?eu viciei nesse editor",
+      "curtidas": 1,
+      "publicado_em": "2021-06-19T22:04:16Z",
+      "atualizado_em": "2021-06-19T22:04:16Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9P68Ef9g3le",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sublime text é o melhor pra python.",
+      "curtidas": 0,
+      "publicado_em": "2021-06-27T19:10:09Z",
+      "atualizado_em": "2021-06-27T19:10:09Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9QdmfDkKilV",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "neovim ⚠️🔞",
+      "curtidas": 0,
+      "publicado_em": "2021-08-05T02:37:45Z",
+      "atualizado_em": "2021-08-05T02:37:45Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg.90RaGh2tefK9TKGO37VnRj",
+      "comentario_pai_id": "UgxCWcoJ3EMqLHNYv7F4AaABAg",
+      "tipo": "resposta",
+      "texto": "nunca surgira",
+      "curtidas": 0,
+      "publicado_em": "2021-10-10T16:56:17Z",
+      "atualizado_em": "2021-10-10T16:56:17Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgweVJ9r-9IMroH8Z-t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ou você usa VIM, ou você tá errado. :P\n\n*ESC* :wq!",
+      "curtidas": 4,
+      "publicado_em": "2019-10-23T17:01:39Z",
+      "atualizado_em": "2019-10-23T17:01:59Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgweVJ9r-9IMroH8Z-t4AaABAg.90RUF88EQc690SRqES3XSS",
+      "comentario_pai_id": "UgweVJ9r-9IMroH8Z-t4AaABAg",
+      "tipo": "resposta",
+      "texto": "Meu uso no vim é sair dele hahaha",
+      "curtidas": 0,
+      "publicado_em": "2019-10-24T01:59:53Z",
+      "atualizado_em": "2019-10-24T01:59:53Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgxmdU742BHbeH-gpUJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já aconteceu cmg, no começo ter varias coisas no sublime, entre plugin e configuração. Aí tive que formatar o notebook. Perdi tudo 😅",
+      "curtidas": 7,
+      "publicado_em": "2019-10-23T16:28:31Z",
+      "atualizado_em": "2019-10-23T16:28:31Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwBh42fF4ECHzDsEhZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vale ressaltar que o VS Code também é escrito em JS e CSS semelhante ao Atom. Já o Sublime é escrito em Python.\nEu particularmente ainda utilizo o Sublime mas de olho no PHP Storm",
+      "curtidas": 5,
+      "publicado_em": "2019-10-23T15:57:38Z",
+      "atualizado_em": "2019-10-23T15:57:38Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyW0BhReBB6BrM050Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "vim hoje em dia é sadomasoquismo.",
+      "curtidas": 1,
+      "publicado_em": "2019-10-23T15:29:32Z",
+      "atualizado_em": "2019-10-23T15:29:32Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyQcdgWovCx1vUq96V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Visual Studio em diversos sistemas operacionais? 3:03",
+      "curtidas": 4,
+      "publicado_em": "2019-10-23T15:04:47Z",
+      "atualizado_em": "2019-10-23T15:04:47Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyQcdgWovCx1vUq96V4AaABAg.90RGsA_JI7F90RHNemYnKf",
+      "comentario_pai_id": "UgyQcdgWovCx1vUq96V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Windows e Mac OS. Junto com a Canonical, a Microsoft está distribuindo a versão Code do Visual Studio para o Ubuntu. \n\n\nhttps://sempreupdate.com.br/microsoft-lanca-oficialmente-o-codigo-do-visual-studio-como-snap-para-usuarios-linux/",
+      "curtidas": 4,
+      "publicado_em": "2019-10-23T15:09:13Z",
+      "atualizado_em": "2019-10-23T15:12:37Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgyQcdgWovCx1vUq96V4AaABAg.90RGsA_JI7F90RIrNZFeU1",
+      "comentario_pai_id": "UgyQcdgWovCx1vUq96V4AaABAg",
+      "tipo": "resposta",
+      "texto": "@jhonatancosmo vscode ok, mas tava curioso do vs no linux, vlww",
+      "curtidas": 1,
+      "publicado_em": "2019-10-23T15:22:09Z",
+      "atualizado_em": "2019-10-23T15:22:09Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzTXZew3QiKIG_Fvyd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Editor/IDE é gosto! Quanto mais você conhece a ferramenta mais você a customiza para melhorar sua produtividade, e usar várias também é uma boa prática para abrir seu leque de conhecimento. Jurei que iam esquecer do Vi, mas gosto do nano :-)",
+      "curtidas": 5,
+      "publicado_em": "2019-10-23T14:24:29Z",
+      "atualizado_em": "2019-10-23T14:24:29Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgzTXZew3QiKIG_Fvyd4AaABAg.90RCFx_F5NE90azyWyGC4G",
+      "comentario_pai_id": "UgzTXZew3QiKIG_Fvyd4AaABAg",
+      "tipo": "resposta",
+      "texto": "\"gosto do nano\" putz\nia te criticar por usar IDE, mas depois dessa fiquei até com dó",
+      "curtidas": 1,
+      "publicado_em": "2019-10-27T19:00:01Z",
+      "atualizado_em": "2019-10-27T19:00:01Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwT-4v4f7L8F_6dahp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCODE HOJE, VSCODE AMANHÃ, VSCODE SEMPRE !",
+      "curtidas": 45,
+      "publicado_em": "2019-10-23T14:14:15Z",
+      "atualizado_em": "2019-10-23T14:14:15Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwT-4v4f7L8F_6dahp4AaABAg.90RB4zIqHvj90RBNfGBJCN",
+      "comentario_pai_id": "UgwT-4v4f7L8F_6dahp4AaABAg",
+      "tipo": "resposta",
+      "texto": "ESSA PARTE DE VSCODE PRA SEMPRE  E MUITO FORTE. KKKK\nNADA É PRA SEMPRE.... OQUE É HOJE, FODA, AMANHÃ EXISTIRÁ ALGO MAIS FODA AINDA!",
+      "curtidas": 5,
+      "publicado_em": "2019-10-23T14:16:48Z",
+      "atualizado_em": "2019-10-23T14:17:07Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwT-4v4f7L8F_6dahp4AaABAg.90RB4zIqHvj90TvfURIZBL",
+      "comentario_pai_id": "UgwT-4v4f7L8F_6dahp4AaABAg",
+      "tipo": "resposta",
+      "texto": "@dicasdePC679 Sim, sim... foi so para fazer a referencia mesmo",
+      "curtidas": 1,
+      "publicado_em": "2019-10-24T15:48:32Z",
+      "atualizado_em": "2019-10-24T15:48:32Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwT-4v4f7L8F_6dahp4AaABAg.90RB4zIqHvj9Hzqm-p_E3S",
+      "comentario_pai_id": "UgwT-4v4f7L8F_6dahp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Trava muito",
+      "curtidas": 0,
+      "publicado_em": "2021-01-01T23:34:22Z",
+      "atualizado_em": "2021-01-01T23:34:22Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "UgwT-4v4f7L8F_6dahp4AaABAg.90RB4zIqHvj9OxZOwsI4-I",
+      "comentario_pai_id": "UgwT-4v4f7L8F_6dahp4AaABAg",
+      "tipo": "resposta",
+      "texto": "@JoaoGabriel-lz9fo chris",
+      "curtidas": 1,
+      "publicado_em": "2021-06-24T01:55:05Z",
+      "atualizado_em": "2021-06-24T01:55:05Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugzxk2Th8CGjM48SFet4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Um que eu vi uma vez no curso de Cordova é o Brackets. Ele é feito em Javascript, dá pra editar o código fonte dele em tempo real. Não sei como está hoje...",
+      "curtidas": 4,
+      "publicado_em": "2019-10-23T14:13:13Z",
+      "atualizado_em": "2019-10-23T14:13:13Z"
+    },
+    {
+      "video_id": "J21H_bdBoIg",
+      "comentario_id": "Ugx8ufghuKZQL8WNGHR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sempre gostei do Notepad++. Hoje em dia só to usando ele para os códigos Cobol.\nPara Php/JS já me acostumei com o VSCode.",
+      "curtidas": 3,
+      "publicado_em": "2019-10-23T14:03:09Z",
+      "atualizado_em": "2019-10-23T14:03:09Z"
+    }
+  ]
+}

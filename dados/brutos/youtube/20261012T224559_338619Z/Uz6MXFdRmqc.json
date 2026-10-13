@@ -1,0 +1,2066 @@
+{
+  "video": {
+    "id": "Uz6MXFdRmqc",
+    "url": "https://www.youtube.com/watch?v=Uz6MXFdRmqc",
+    "titulo": "POR ISSO VOCÊ NÃO DEVE USAR O VS CODE PARA ESTUDAR JAVA",
+    "canal": "Jovem Tranquilão",
+    "publicado_em": "2023-09-25T15:00:03Z",
+    "comentarios_informados_pela_api": 204
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:48:23.615456+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:48:42.198626+00:00",
+    "total": 204,
+    "principais": 110,
+    "respostas": 94,
+    "requisicoes": 45
+  },
+  "comentarios": [
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx2pLK4dp81a9K0dql4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Por isso você não deve estudar java",
+      "curtidas": 0,
+      "publicado_em": "2026-09-13T02:27:18Z",
+      "atualizado_em": "2026-09-13T02:27:18Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwUMz8PhL8ASJJ87gt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Obrigado cara!",
+      "curtidas": 0,
+      "publicado_em": "2026-08-23T08:27:29Z",
+      "atualizado_em": "2026-08-23T08:27:29Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzapkVZ1UdTrDmzpOl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu tinha até clicado em outro vídeo mas quando vi o cara na capa percebi que esse tinha experiência com Java",
+      "curtidas": 1,
+      "publicado_em": "2026-08-10T22:50:16Z",
+      "atualizado_em": "2026-08-10T22:50:16Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzapkVZ1UdTrDmzpOl4AaABAg.A_Lcw1zpILeA_LhIpEKo4L",
+      "comentario_pai_id": "UgzapkVZ1UdTrDmzpOl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Kkkk",
+      "curtidas": 0,
+      "publicado_em": "2026-08-10T23:28:28Z",
+      "atualizado_em": "2026-08-10T23:28:28Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzUsNBvh2Zp2n6dkLV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Hoje (2026) a versão 2026-09 M2 (4.41.0 M2) do Eclipse está muito boa. Ele vem melhorando cada dia mais.",
+      "curtidas": 0,
+      "publicado_em": "2026-08-10T03:56:21Z",
+      "atualizado_em": "2026-08-10T03:56:21Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzUsNBvh2Zp2n6dkLV4AaABAg.A_JbA-pAJuNA_KWz_Yw1Kq",
+      "comentario_pai_id": "UgzUsNBvh2Zp2n6dkLV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Saudades eclipse",
+      "curtidas": 0,
+      "publicado_em": "2026-08-10T12:30:21Z",
+      "atualizado_em": "2026-08-10T12:30:21Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwPbluE911Kx7_FKtp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou começando a estudar Java e percebo que o Eclipse é uma IDE muito completa em recursos. Para quem está começando é tantos recursos que a pessoa fica perdido. Primeiro pelos nomes (pouco intuitivo dos plugins) e segundo pela quantidade de opções de configuração existentes e necessárias para desenvolver um projeto profissional. O IntelliJ (eu tenho o CLion 2026 para C/C++ Community) realmente tem uma interface mais organizada e já meio pré configurada para a linguagem específica e também com muitos recursos para quem vai desenvolver profissionalmente em projetos grandes e em equipe (só que com custo da licença).",
+      "curtidas": 0,
+      "publicado_em": "2026-08-10T03:51:20Z",
+      "atualizado_em": "2026-08-10T03:51:20Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwPbluE911Kx7_FKtp4AaABAg.A_JaaCh_USCA_KVhGr85zm",
+      "comentario_pai_id": "UgwPbluE911Kx7_FKtp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Verdade meu jovem eclipse é open source e tudo que é open source tem interface ruim",
+      "curtidas": 0,
+      "publicado_em": "2026-08-10T12:19:06Z",
+      "atualizado_em": "2026-08-10T12:19:06Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz8GZTpzydOhB9Slch4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fala jovem, passei para estudar Ciências de Dados, gostei muito da área de Engenharia de Dados e outros estudos em programação, você diria que o Java é interessante para estudar nessa área?",
+      "curtidas": 1,
+      "publicado_em": "2026-04-19T16:54:33Z",
+      "atualizado_em": "2026-04-19T16:54:33Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz8GZTpzydOhB9Slch4AaABAg.AVn1Orf5VRUAVpzaIBdMKz",
+      "comentario_pai_id": "Ugz8GZTpzydOhB9Slch4AaABAg",
+      "tipo": "resposta",
+      "texto": "Dados é mais Python e sql pelo que vejo",
+      "curtidas": 1,
+      "publicado_em": "2026-04-20T20:27:46Z",
+      "atualizado_em": "2026-04-20T20:27:46Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz8GZTpzydOhB9Slch4AaABAg.AVn1Orf5VRUAVq44gNUpBe",
+      "comentario_pai_id": "Ugz8GZTpzydOhB9Slch4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@JovemTranquilãoObrigado pela resposta jovem 🙏🏽",
+      "curtidas": 1,
+      "publicado_em": "2026-04-20T21:15:44Z",
+      "atualizado_em": "2026-04-20T21:15:44Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgweDzuBpBP44HzX1Jh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A minha visão é, se tu escolheu uma IDE para desenvolver se vire sozinho para lidar com ela, pare de buscar ajuda de outros Devs cada um com seu B.O de ferramenta, procurem os Devs para lidar com codigo e não com IDEs.",
+      "curtidas": 0,
+      "publicado_em": "2026-04-16T11:48:53Z",
+      "atualizado_em": "2026-04-16T11:49:14Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxnquPWaa2h-F2ZzIl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E como eu faço se estou usando o neovim no termux pelo android para aprender java 😂😂",
+      "curtidas": 0,
+      "publicado_em": "2026-04-03T23:16:44Z",
+      "atualizado_em": "2026-04-03T23:16:44Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxnquPWaa2h-F2ZzIl4AaABAg.AV9WQ1ce7TVAVBJ8D1u7Oe",
+      "comentario_pai_id": "UgxnquPWaa2h-F2ZzIl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Instala o IntelliJ não se usa essas coisas no dia a dia",
+      "curtidas": 0,
+      "publicado_em": "2026-04-04T15:59:11Z",
+      "atualizado_em": "2026-04-04T15:59:11Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxnquPWaa2h-F2ZzIl4AaABAg.AV9WQ1ce7TVAVBN24kF0mC",
+      "comentario_pai_id": "UgxnquPWaa2h-F2ZzIl4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@JovemTranquilão no momento e oque eu tenho pra estudar por enquanto to sem pc ou notebook",
+      "curtidas": 0,
+      "publicado_em": "2026-04-04T16:33:18Z",
+      "atualizado_em": "2026-04-04T16:33:18Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzQUfhZgBIGzCmqd9l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faz muito sentido!!!!",
+      "curtidas": 0,
+      "publicado_em": "2026-03-14T23:46:39Z",
+      "atualizado_em": "2026-03-14T23:46:39Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgylC4Xvpc7HszxBH_F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso o bloco dinotas",
+      "curtidas": 0,
+      "publicado_em": "2026-03-06T01:07:56Z",
+      "atualizado_em": "2026-03-06T01:07:56Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxxiz9DKkUCznRhFB54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E para python? Vale VS Code?",
+      "curtidas": 0,
+      "publicado_em": "2026-03-03T04:33:27Z",
+      "atualizado_em": "2026-03-03T04:33:27Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxxiz9DKkUCznRhFB54AaABAg.ATsgDkOzdC0ATtgwRIa_Tl",
+      "comentario_pai_id": "Ugxxiz9DKkUCznRhFB54AaABAg",
+      "tipo": "resposta",
+      "texto": "Vale mas tem o pycharm",
+      "curtidas": 1,
+      "publicado_em": "2026-03-03T13:58:56Z",
+      "atualizado_em": "2026-03-03T13:58:56Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxxiz9DKkUCznRhFB54AaABAg.ATsgDkOzdC0ATuW-lmfFua",
+      "comentario_pai_id": "Ugxxiz9DKkUCznRhFB54AaABAg",
+      "tipo": "resposta",
+      "texto": "@JovemTranquilão Obrigado. O curso que eu fiz foi todo no pycharm. Mas eu usei o VS Code no curso todo.",
+      "curtidas": 0,
+      "publicado_em": "2026-03-03T21:33:55Z",
+      "atualizado_em": "2026-03-03T21:33:55Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzrPsL1KASihB5JlEl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já tentei usar VsCode pra Java, mas não deu muito certo. IntelliJ é mais completo pro javinha",
+      "curtidas": 0,
+      "publicado_em": "2026-01-27T18:41:26Z",
+      "atualizado_em": "2026-01-27T18:41:26Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwS7ugy7xxs5hrm7rt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não tem uma Roupa Melhor? Vá Orar.",
+      "curtidas": 2,
+      "publicado_em": "2025-12-16T18:12:04Z",
+      "atualizado_em": "2025-12-16T18:12:04Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwS7ugy7xxs5hrm7rt4AaABAg.AQnsh1cLGeNAQo7o2yT6IO",
+      "comentario_pai_id": "UgwS7ugy7xxs5hrm7rt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Viva Cristo Rei",
+      "curtidas": 1,
+      "publicado_em": "2025-12-16T20:32:50Z",
+      "atualizado_em": "2025-12-16T20:32:50Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwS7ugy7xxs5hrm7rt4AaABAg.AQnsh1cLGeNAQoSRwy6J71",
+      "comentario_pai_id": "UgwS7ugy7xxs5hrm7rt4AaABAg",
+      "tipo": "resposta",
+      "texto": "@JovemTranquilão A vida é estranha. A Padaria de DM fecha em um dia, a Mãe não recebe merda nenhuma, e já no outro dia aparece um slogan Rico Alimentos ou Congelados, na porra da Geladeira, o último que me chamou de Rico era um Deus meio desaparecido metido a herói fantasma e um coxa branca também. Sei lá cara, eu tento ser uma pessoa humilde, honesta e também compreensiva com os outros mas às vezes a gente cansa de tentar entender as coisas e só se preocupa em se isolar ou se matar, no e JÁ TENTEI 3 X E NÃO COMO NÃO CONSEGUI, mas nesse caso...me resta sumir.",
+      "curtidas": 0,
+      "publicado_em": "2025-12-16T23:33:11Z",
+      "atualizado_em": "2025-12-16T23:33:11Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwS7ugy7xxs5hrm7rt4AaABAg.AQnsh1cLGeNAQoSqdv6IkI",
+      "comentario_pai_id": "UgwS7ugy7xxs5hrm7rt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vê a pessoa 10 segundos, e de repente o mundo inteiro tem sua confiança e sua intimidade, é tão lindo, mas eu não sou tão retardado como pensaram. Eu conheço as facas Tactical, e nem sei quais jugulares vão sangrar menos quando eu resalmente decidir algum tipo de direito a defesa contra toda essa MERDA. guerra nas estrelas nunca foi minha praia, eu não vivo em um mundo de pessoas infelizes consigo mesmas.",
+      "curtidas": 0,
+      "publicado_em": "2025-12-16T23:36:41Z",
+      "atualizado_em": "2025-12-16T23:36:41Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwS7ugy7xxs5hrm7rt4AaABAg.AQnsh1cLGeNAQohFvJVrUi",
+      "comentario_pai_id": "UgwS7ugy7xxs5hrm7rt4AaABAg",
+      "tipo": "resposta",
+      "texto": "VS CODE SÓ SERVE PRA BATER PUNHETA. Pessoas Fortíssimas em Papeis de Fantoches Vorazes - Mês do Cachorro Louco (CYBERPUNK2077);\nSempre Achei simples Levar a Mensagem do Amor para as Pessoas em real Necessitade com Atitude, e não Abrindo a Boca.   NOVA GERAÇÃO; ELES ENTENDEM OS REAIS SEM PRECISARMOS FALAR.",
+      "curtidas": 0,
+      "publicado_em": "2025-12-17T01:51:21Z",
+      "atualizado_em": "2025-12-17T01:51:21Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwS7ugy7xxs5hrm7rt4AaABAg.AQnsh1cLGeNAQohngFgVwa",
+      "comentario_pai_id": "UgwS7ugy7xxs5hrm7rt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Se o Mark Não gosta da minha Presença no Meta, ne no Insta nem na porra do whatzapp é melhor ele se suicidar antes que veja a CONDIÇÃO DA MINHA CARA ÀS 4 HORAS NA PORRA DA RUA.",
+      "curtidas": 0,
+      "publicado_em": "2025-12-17T01:56:06Z",
+      "atualizado_em": "2025-12-17T01:56:06Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwS7ugy7xxs5hrm7rt4AaABAg.AQnsh1cLGeNAQohrkr6NxN",
+      "comentario_pai_id": "UgwS7ugy7xxs5hrm7rt4AaABAg",
+      "tipo": "resposta",
+      "texto": "VAMOS NOS ARMAR, PORQUE É DIREITO CONQUISTADO A BASE DE PORRADA.",
+      "curtidas": 0,
+      "publicado_em": "2025-12-17T01:56:39Z",
+      "atualizado_em": "2025-12-17T01:56:39Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugyto9BKZ8B_4zpwRRd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "voce e o mago eletrico do clash royale",
+      "curtidas": 1,
+      "publicado_em": "2025-11-10T20:37:13Z",
+      "atualizado_em": "2025-11-10T20:37:13Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxJ603n4INhaDI0WLt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "essa thumbnail deu jumpscare",
+      "curtidas": 0,
+      "publicado_em": "2025-10-19T20:52:24Z",
+      "atualizado_em": "2025-10-19T20:52:24Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzYeOhdNWrKMH51Tz94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tranquilão é show demais, videos atemporais",
+      "curtidas": 0,
+      "publicado_em": "2025-10-07T13:12:43Z",
+      "atualizado_em": "2025-10-07T13:12:43Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz8Re7FpWbPvFqoXYd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "JAVA é NetBeans.",
+      "curtidas": 1,
+      "publicado_em": "2025-08-18T20:19:07Z",
+      "atualizado_em": "2025-08-18T20:19:07Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz-Xk-TCttVC7uBJxV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "ninguem usa na esfera de javeiros velhos ... acho mto mais pratico leve e faz o mesmo q o intelij ... o intelij deixa vc burro ... e o eclipse suga tua maquina",
+      "curtidas": 0,
+      "publicado_em": "2025-08-01T20:44:42Z",
+      "atualizado_em": "2025-08-01T20:44:42Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugwqi6VfQJzigqYzUux4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "se Jovem Tranquilão falou está falado",
+      "curtidas": 1,
+      "publicado_em": "2025-07-29T18:00:52Z",
+      "atualizado_em": "2025-07-29T18:00:52Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugwqi6VfQJzigqYzUux4AaABAg.ALAN7V54iwWAMuGp23E5Zm",
+      "comentario_pai_id": "Ugwqi6VfQJzigqYzUux4AaABAg",
+      "tipo": "resposta",
+      "texto": "O cara é um mago",
+      "curtidas": 0,
+      "publicado_em": "2025-09-10T19:41:29Z",
+      "atualizado_em": "2025-09-10T19:41:29Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwpBW5XEz235NzM9U14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "se eu visse esse vídeo antes, teria me economizado uma semana tentando codar Java em VS Code kkkkkkkkkkk. É uma bagunça, jesus... Dps que começei a usar o IntelliJ, aí sim eu vi o céu",
+      "curtidas": 5,
+      "publicado_em": "2025-07-25T18:42:15Z",
+      "atualizado_em": "2025-07-25T18:42:15Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxAAtAOqL0PLT6_qe54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Odeio netbeans tenho trauma negócio pesado da porra.",
+      "curtidas": 0,
+      "publicado_em": "2025-07-04T12:55:48Z",
+      "atualizado_em": "2025-07-04T12:55:48Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyYEGL0eqGPdxq2_D94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não pegava em Java desde de o fim da minha graduação em 2017. Resolvi rever uns conceitos e pensei, agora to com uma máquina legal, quero ver o eclipse travar. Tenho um ryzen 5500, 16gb de ram a 3000mhz uma rx 5600 xt, pois é escrevi um helloword e o eclipse travou 😂😂😂😂",
+      "curtidas": 8,
+      "publicado_em": "2025-06-04T06:26:40Z",
+      "atualizado_em": "2025-06-04T06:26:40Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyYEGL0eqGPdxq2_D94AaABAg.AIwVxuQMtnpAOxWsgneKTR",
+      "comentario_pai_id": "UgyYEGL0eqGPdxq2_D94AaABAg",
+      "tipo": "resposta",
+      "texto": "Ferramenta de programação é tudo mal feita e cheia de bug kkkkk UX passa longe",
+      "curtidas": 1,
+      "publicado_em": "2025-10-31T19:02:18Z",
+      "atualizado_em": "2025-10-31T19:02:18Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy7yDH15cJX1u8OFLh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ali é um marea mano ?",
+      "curtidas": 3,
+      "publicado_em": "2025-05-31T15:39:45Z",
+      "atualizado_em": "2025-05-31T15:39:45Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugwz6m0rwyoxq9fSA0B4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "team vscode",
+      "curtidas": 0,
+      "publicado_em": "2025-05-07T23:13:38Z",
+      "atualizado_em": "2025-05-07T23:13:38Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz26TcvKOwjjXLsEHd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eclipse eh pessimo pra fazer debug de J2EE. Ja o IntelliJ eh top",
+      "curtidas": 1,
+      "publicado_em": "2025-05-06T22:54:44Z",
+      "atualizado_em": "2025-05-06T22:54:44Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugyko4Ic8DP-F3sd7OR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "sempre tranquilão",
+      "curtidas": 1,
+      "publicado_em": "2025-04-19T02:53:35Z",
+      "atualizado_em": "2025-04-19T02:53:35Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwdRoOL2LNJ3v4Q5FJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "KD o link do curso?",
+      "curtidas": 0,
+      "publicado_em": "2025-04-14T12:10:09Z",
+      "atualizado_em": "2025-04-14T12:10:09Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzDXPhXRG8z6aqNTPF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O cara ta na skin de programador java, slk",
+      "curtidas": 99,
+      "publicado_em": "2025-04-05T19:59:03Z",
+      "atualizado_em": "2025-04-05T19:59:03Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwA-ujyPr6ISmZ09TZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "faleu obrigado",
+      "curtidas": 0,
+      "publicado_em": "2025-03-10T16:56:26Z",
+      "atualizado_em": "2025-03-10T16:56:26Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugzp_QQyKt5m4pqMlw14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Nada a ver, eu particularmente uso Eclipse, Inteliji, VsCode. Tem colega que trabalha com Java em multinacional e padronizaram VSCODE para o time todo. Quem programa, programa até em Notepad, Notepad++;",
+      "curtidas": 0,
+      "publicado_em": "2025-02-25T00:54:47Z",
+      "atualizado_em": "2025-02-25T00:55:54Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzUwIiLbAyhUD5sjc54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Há problema em usar para trabalhar com python? Eu fico em dúvida se uso ele, ou o pycharm ou outro",
+      "curtidas": 0,
+      "publicado_em": "2025-02-23T21:31:44Z",
+      "atualizado_em": "2025-02-23T21:31:44Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxgy5n9AqxX5ulZlIp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Como usar o pycharm para Java",
+      "curtidas": 0,
+      "publicado_em": "2025-02-13T08:52:32Z",
+      "atualizado_em": "2025-02-13T08:52:32Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz6JEGKdN6Tl6Nuy5Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O pouco que aprendi estudando Java, foi de utilizar o Eclipse ou o Spring Tool Suit 4.",
+      "curtidas": 0,
+      "publicado_em": "2025-02-03T00:58:04Z",
+      "atualizado_em": "2025-02-03T00:58:04Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy79I8U4gaofWUiTQh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse cara me faz repensar se realmente quero continuar programando...",
+      "curtidas": 3,
+      "publicado_em": "2024-12-26T15:21:46Z",
+      "atualizado_em": "2024-12-26T15:21:46Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy79I8U4gaofWUiTQh4AaABAg.ACWU04uUTVfADatyKjAaZc",
+      "comentario_pai_id": "Ugy79I8U4gaofWUiTQh4AaABAg",
+      "tipo": "resposta",
+      "texto": "por quê? kkkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2025-01-22T14:24:55Z",
+      "atualizado_em": "2025-01-22T14:24:55Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw7xTxCo36wYJ9nkCt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vs code na veia e csharp no coração",
+      "curtidas": 0,
+      "publicado_em": "2024-11-23T01:50:15Z",
+      "atualizado_em": "2024-11-23T01:50:15Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgySZWx47yG94LQPSn54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso no vscode , no principio tive muitas dificuldades mas com o passar do tempo fui me acustumando , não sei se é o posicionamento correcto em escolher uma IDE , acredito que qualquer uma deve servir como ferramenta pra constriur ou resolver problemas. que é o foco principal",
+      "curtidas": 0,
+      "publicado_em": "2024-11-06T23:22:54Z",
+      "atualizado_em": "2024-11-06T23:22:54Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgySZWx47yG94LQPSn54AaABAg.AAWaKHbM8oaAAWapTCwnpc",
+      "comentario_pai_id": "UgySZWx47yG94LQPSn54AaABAg",
+      "tipo": "resposta",
+      "texto": "Na teoria sim, mas na pratica quando pega projetos reais as vezes ate a versao da ide já faz a diferença, principalmente no mundo do eclipse, ao ponto de vc nem conseguir compilar iu rodar o projeto, ja vi cada coisa kkkk",
+      "curtidas": 0,
+      "publicado_em": "2024-11-06T23:27:18Z",
+      "atualizado_em": "2024-11-06T23:27:18Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyHm5hXJ9vQx2wjpv54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Perdi 3 dias instalando o IntelliJ.. depois ficava aparecendo uma mensagem do capiroto.. avisando de uma pouha de um tróço chamado _JAVA_OPTIONS.. que deve ter vindo direto das profundezas do inferno isso aí (kk).. fiquei editando meu sistema operacional todo (uso kali Linux).. a mensagem não saiu de jeito nenhum.. assistir mais de 4.865 tutoriais e nada. Bem por fim.. Quando fui estudar, (duas semanas depois), o IntelliJ não abria mais :| Cara, que experiência dos infernos com essa pouha!! Daí instalei o VSbosta.. mas já to vendo que não vai rolar.. quebos kk..",
+      "curtidas": 0,
+      "publicado_em": "2024-10-12T21:26:11Z",
+      "atualizado_em": "2024-10-12T21:26:11Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz3wrXXnfzOxl8UIwR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "esse vídeo aparecendo nos meus recomendados logo depois de eu configurar o vscode pra usar java",
+      "curtidas": 2,
+      "publicado_em": "2024-09-29T02:12:28Z",
+      "atualizado_em": "2024-09-29T02:12:28Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz3wrXXnfzOxl8UIwR4AaABAg.A8xTj3f5Ol7A8ylfQcqMLl",
+      "comentario_pai_id": "Ugz3wrXXnfzOxl8UIwR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Kkkkkk pare",
+      "curtidas": 0,
+      "publicado_em": "2024-09-29T14:17:14Z",
+      "atualizado_em": "2024-09-29T14:17:14Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzGI--MV-WCZrJv3Jx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "obg",
+      "curtidas": 0,
+      "publicado_em": "2024-09-10T15:41:59Z",
+      "atualizado_em": "2024-09-10T15:41:59Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyMiqa6BO8kPw321NF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou relativamente no começo em programação e fiquei com uma dúvida. Eu estive criando um projeto web com JS. E preciso armazenar dados de tabela(cadastro de clientes) em um BD. O correto seria eu tratar esses dados em java para armazená-los? Ou seria viável armazená-los diretamente com JS? Pois estou usando uma função async para ligar ao BD. Mas sempre ouvi que JS não é indicado para back-end e tratamento de dados. Agradeço desde já!",
+      "curtidas": 1,
+      "publicado_em": "2024-09-03T20:14:57Z",
+      "atualizado_em": "2024-09-03T20:15:34Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyMiqa6BO8kPw321NF4AaABAg.A7wSwib9HnIA88NLAj5Y4L",
+      "comentario_pai_id": "UgyMiqa6BO8kPw321NF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Banco é banco, não interessa com qual linguagem você se conecta a ele. Pode gravar com JS que o resultado é o mesmo que de fosse com outra.\n\nNunca confie no seu usuário, então sim, trate os valores antes de salvar.",
+      "curtidas": 0,
+      "publicado_em": "2024-09-08T20:36:08Z",
+      "atualizado_em": "2024-09-08T20:36:08Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyMiqa6BO8kPw321NF4AaABAg.A7wSwib9HnIA88NZwkLAzv",
+      "comentario_pai_id": "UgyMiqa6BO8kPw321NF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Aliás, você vai ouvir muita gente falar que JS não é indicado pra backend (via NodeJS, Bun ou Deno), e também vai ouvir falar que Java não é indicado e etc. Não dê ouvidos. O que importa no fim é a aplicação entregar a melhor experiência pro usuário. Ele tá cagando pra qual linguagem ou tecnologia você usou.",
+      "curtidas": 0,
+      "publicado_em": "2024-09-08T20:38:09Z",
+      "atualizado_em": "2024-09-08T20:38:09Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyMiqa6BO8kPw321NF4AaABAg.A7wSwib9HnIA88NdFTfCwS",
+      "comentario_pai_id": "UgyMiqa6BO8kPw321NF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu particularmente já usei muito JS pra backend. Prefiro usar JAVA, mas não muda \"quase\" nada no fim.",
+      "curtidas": 0,
+      "publicado_em": "2024-09-08T20:38:44Z",
+      "atualizado_em": "2024-09-08T20:38:44Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxophNl4dXLn6DpgiZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não consigo me acostumar com outra IDE acho o VS CODE MUITO SIMPLES é bom mesmo .",
+      "curtidas": 0,
+      "publicado_em": "2024-08-22T23:44:05Z",
+      "atualizado_em": "2024-08-22T23:44:05Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzdYtJ6YF5rto8ogjJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Onde eu trabalho o pessoal de java usa vscode",
+      "curtidas": 2,
+      "publicado_em": "2024-08-19T00:28:14Z",
+      "atualizado_em": "2024-08-19T00:28:14Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugzbz83HSLLPXi0JNyJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tem legado Java na empresa que nem adianta abrir no vscode, congela tudo.",
+      "curtidas": 0,
+      "publicado_em": "2024-08-10T02:37:13Z",
+      "atualizado_em": "2024-08-10T02:37:13Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw9UHjwgSeWoEtfuBl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu estava quase fazendo isso até que achei o seu vídeo graças ao Algorítimo do youtube. Obgd.",
+      "curtidas": 1,
+      "publicado_em": "2024-07-22T00:13:39Z",
+      "atualizado_em": "2024-07-22T00:13:39Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxY4ribmLeknZlPxI54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu comecei aprendendo python e depois fui para o java, quando comecei no java eu entendi o quão poderesa é uma IDE, uso o intelij e a IDE ajuda muito.",
+      "curtidas": 4,
+      "publicado_em": "2024-06-14T20:09:35Z",
+      "atualizado_em": "2024-06-14T20:09:35Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwCOvBXRNMxftg0Gyd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Obrigadoo pela dica vou guadar no coração 🙂",
+      "curtidas": 1,
+      "publicado_em": "2024-06-14T00:09:42Z",
+      "atualizado_em": "2024-06-14T00:09:42Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugzw3cD-b3KLnAOwohN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vou usar o VS Code pq não passei o dia todo tentando instalar as IDE e nenhuma funcionou depois compro um PC melhor pra usar essas outras ferramentas senão desisto e volto pra javascript ou python, mas vencerei e serei javeiro 😂 🙏 Obrigado pelas dicas!",
+      "curtidas": 1,
+      "publicado_em": "2024-06-13T07:44:19Z",
+      "atualizado_em": "2024-06-13T07:44:19Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwXm4v0Icx2_j0GKtB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Meu professor faz eu usar o Geany 😢",
+      "curtidas": 0,
+      "publicado_em": "2024-05-29T02:20:36Z",
+      "atualizado_em": "2024-05-29T02:20:36Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwtyKMhCgPWpNFjcm94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "com java 22 isso vai mudar",
+      "curtidas": 0,
+      "publicado_em": "2024-04-24T23:07:26Z",
+      "atualizado_em": "2024-04-24T23:07:26Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw-LjkA1CLAoZSTt1t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito lucido",
+      "curtidas": 0,
+      "publicado_em": "2024-04-24T19:20:27Z",
+      "atualizado_em": "2024-04-24T19:20:27Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyzxTMh9zloQfJ--Hl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pra quem tá matriculado em graduação, IntelliJ tem a versão ultimate pra estudante.",
+      "curtidas": 0,
+      "publicado_em": "2024-04-12T15:27:30Z",
+      "atualizado_em": "2024-04-12T15:27:30Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyzxTMh9zloQfJ--Hl4AaABAg.A289_LY-MadA28nTbtqffU",
+      "comentario_pai_id": "UgyzxTMh9zloQfJ--Hl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Orra muito bom",
+      "curtidas": 0,
+      "publicado_em": "2024-04-12T21:24:51Z",
+      "atualizado_em": "2024-04-12T21:24:51Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxB4HeHH6smcOFJAPl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Acho o intellij mais produtivo e mais leve.",
+      "curtidas": 0,
+      "publicado_em": "2024-03-30T01:54:54Z",
+      "atualizado_em": "2024-03-30T01:54:54Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxB4HeHH6smcOFJAPl4AaABAg.A1aEFHbaahwA1bWHhBH9bJ",
+      "comentario_pai_id": "UgxB4HeHH6smcOFJAPl4AaABAg",
+      "tipo": "resposta",
+      "texto": "É bom kkkkk",
+      "curtidas": 0,
+      "publicado_em": "2024-03-30T13:51:46Z",
+      "atualizado_em": "2024-03-30T13:51:46Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sou programador java desde de 2015. Ja usei NetBeans, eclipse, intelijj e vscode. Nao sei pq mas eu gostei do vscode. Tem tudo que preciso para programar em java. Plugin Tomcat, Wildfly. Para desenvolvimento de rest api, Spring boot, quarkus, jax rs é perfeito. Agora com jsp, jsf eu prefiro o intellij. Mas como eu nao sou muito refém de IDE, tanto faz para mim kkkkk",
+      "curtidas": 123,
+      "publicado_em": "2024-03-14T01:02:51Z",
+      "atualizado_em": "2024-03-14T01:02:51Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg.A0ww_5Mvfi6AEtX17vOJHn",
+      "comentario_pai_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "Use então o bloco de notas com tema escuro...",
+      "curtidas": 26,
+      "publicado_em": "2025-02-23T16:32:41Z",
+      "atualizado_em": "2025-02-23T16:32:41Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg.A0ww_5Mvfi6AN-77TVB42_",
+      "comentario_pai_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "@questionador_contumaz papo de mendigo",
+      "curtidas": 12,
+      "publicado_em": "2025-09-13T02:12:11Z",
+      "atualizado_em": "2025-09-13T02:12:11Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg.A0ww_5Mvfi6AQ4DqmMwj0C",
+      "comentario_pai_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "@pedropaz9497 kkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2025-11-28T15:21:20Z",
+      "atualizado_em": "2025-11-28T15:21:20Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg.A0ww_5Mvfi6ATLLi23FurF",
+      "comentario_pai_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "@questionador_contumaz KKKKKKKKKKKKKKKKKKKK",
+      "curtidas": 0,
+      "publicado_em": "2026-02-17T20:31:19Z",
+      "atualizado_em": "2026-02-17T20:31:19Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg.A0ww_5Mvfi6ATSJY5sUBGS",
+      "comentario_pai_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "@questionador_contumaz tem um cara ai que fez um projeto todo em java no bloco de notas.",
+      "curtidas": 0,
+      "publicado_em": "2026-02-20T13:27:02Z",
+      "atualizado_em": "2026-02-20T13:27:02Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg.A0ww_5Mvfi6AVekpFPcww0",
+      "comentario_pai_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "somo dois, acho que quando o cara entende como funciona uma linguagem essas ferramentas são apenas meios, na minha opnião quem fica preso em uma ferramenta está limitado, e o vs code vejo que é muito mais simples para o usuario consegui programar e na minha opniçao consome bem menos memoria do que o eclipse e até mesmo do que o intellij",
+      "curtidas": 0,
+      "publicado_em": "2026-04-16T11:47:05Z",
+      "atualizado_em": "2026-04-16T11:47:05Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg.A0ww_5Mvfi6A_owRRZJaZc",
+      "comentario_pai_id": "UgyfPgkvSU2BSo2N9Ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "IDE é algo muito pessoal eu acho.",
+      "curtidas": 0,
+      "publicado_em": "2026-08-22T17:17:56Z",
+      "atualizado_em": "2026-08-22T17:17:56Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxc-dceycwtqWKinRV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o eclipse devido ao Curso de Games da Danki Code, aprendi Java OO  criando jogos, foi a melhor coisa do mundo!!!\nOnde trabalho só se usa Eclipse, o VSCode todos querem usar, só querem.",
+      "curtidas": 0,
+      "publicado_em": "2024-03-12T23:32:30Z",
+      "atualizado_em": "2024-03-12T23:32:30Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwWd2N9cu1G466EGUx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Hoje trabalho com Angular e queria aprender alguma linguagem de backend. O que recomendam? Eu estava na duvida entre Java e C#. Valeu!",
+      "curtidas": 1,
+      "publicado_em": "2024-03-12T15:42:31Z",
+      "atualizado_em": "2024-03-12T15:42:31Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwWd2N9cu1G466EGUx4AaABAg.A0tMeBF1auJA0u8XQt_gL7",
+      "comentario_pai_id": "UgwWd2N9cu1G466EGUx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Java jkkk",
+      "curtidas": 1,
+      "publicado_em": "2024-03-12T22:58:22Z",
+      "atualizado_em": "2024-03-12T22:58:22Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyjcXSKMyuqB4zQhXB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mas pq a comunidade Java não vai pro Vscode? Ele realmente não tem mecanismos eficientes para rodar java? Ou é só pq a comunidade de java está toda nessas IDE's? Se for isso, acho meio paia ignorar o melhor e ficar no comodismo, pq eu acho mt feio e pesado o Eclipse e Intelli..",
+      "curtidas": 2,
+      "publicado_em": "2024-02-25T01:24:25Z",
+      "atualizado_em": "2024-02-25T01:24:25Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyjcXSKMyuqB4zQhXB4AaABAg.A0DcjEZhgPPA0DdnACx9PJ",
+      "comentario_pai_id": "UgyjcXSKMyuqB4zQhXB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu testei java no vs code, funciona bem, pelo menos em projetos de estudo\n\nTalvez possa funcionar para projetos maiores mas especialmente em sistemas legados temos muitas facilidades no eclipse por exemplo\n\nCoisas já amarradas e procedimentos ja comuns na comunidade\n\nO mesmo pro intellij\n\nDe certa forma o vs code é mais manual - por isso é mais leve. Muitas coisas que o intellij e o eclipse fazem automaticamente no vacode precisa rodar um comando no terminal do vs code\n\nAcho que isso impacta, normalmente sistemas java em empresas - principalmente os antigos - tem uma serie de configurações complexas e muitas vezes funcionam apenas numa versao especifica do eclipse por exemplo\n\nSe coloca em outra ide buga bastante coisa",
+      "curtidas": 0,
+      "publicado_em": "2024-02-25T01:33:41Z",
+      "atualizado_em": "2024-02-25T01:33:41Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxf3cWDuCFniMP8IeV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pra mim que sou leigo e estou começando agora, codar Java usando o Vs Code me soou como, o cara codar todo o front do site no bloco de notas. kkkkkkkkk",
+      "curtidas": 1,
+      "publicado_em": "2024-02-19T07:14:50Z",
+      "atualizado_em": "2024-02-19T07:15:21Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxf3cWDuCFniMP8IeV4AaABAg.A-zo3XMceWzA0-RsY4nrgK",
+      "comentario_pai_id": "Ugxf3cWDuCFniMP8IeV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Kkkkk é meio estranho apesar de ser leve e funcionar bem",
+      "curtidas": 0,
+      "publicado_em": "2024-02-19T13:11:27Z",
+      "atualizado_em": "2024-02-19T13:11:27Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzPFFCmFhIr5EaQZgt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu discordo totalmente, pois no VSCode você aprende os fundamentos da linguagem, ainda mais se buscar rodar os comandos de compilação e execução no terminal. Quando você aprende assim, qualquer IDE passa a servir, algumas só vão acelerar um pouquinho seu trabalho, e nesse caso tenho que concordar que IntelliJ é a melhor opção.\nMas eu uso o VSCode profissionalmente sem o menor problema.",
+      "curtidas": 6,
+      "publicado_em": "2024-01-25T13:22:43Z",
+      "atualizado_em": "2024-01-25T13:22:43Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzPFFCmFhIr5EaQZgt4AaABAg.A--5I6KenAGA-1kVw4XyL3",
+      "comentario_pai_id": "UgzPFFCmFhIr5EaQZgt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sim mas eu acho essa parte dos comandos meio que secundaria, vc aprendendo na ide primeiro foca só no codigo e depois pode se aprofundar nos comandos\n\nNo dia a dia consigo fazer tudo pela ide sem precisar de comandos pra nada, só em casos especiais kkkk",
+      "curtidas": 0,
+      "publicado_em": "2024-01-26T14:10:05Z",
+      "atualizado_em": "2024-01-26T14:10:05Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzPFFCmFhIr5EaQZgt4AaABAg.A--5I6KenAGA-1l3lEqMnU",
+      "comentario_pai_id": "UgzPFFCmFhIr5EaQZgt4AaABAg",
+      "tipo": "resposta",
+      "texto": "@JovemTranquilão Esse é um erro que eu vejo em muitos novos desenvolvedores: eles aprendem a codar, mas não a pensar o software em si. Por isso muitos aprendem uma linguagem e tem dificuldade de mudar depois.",
+      "curtidas": 0,
+      "publicado_em": "2024-01-26T14:14:59Z",
+      "atualizado_em": "2024-06-18T02:30:59Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxT6n7GTwDuydf9IV14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Programo Java & Spring usando o VS Code e não me arrependo! Editor superleve, e com as extensões certas instaladas, se equipara a uma ide!",
+      "curtidas": 6,
+      "publicado_em": "2023-11-28T13:09:01Z",
+      "atualizado_em": "2023-11-28T13:09:01Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxT6n7GTwDuydf9IV14AaABAg.9xeibwbEGdZ9xel_AnT1_M",
+      "comentario_pai_id": "UgxT6n7GTwDuydf9IV14AaABAg",
+      "tipo": "resposta",
+      "texto": "pois é meu amigo eu uso ele tb com java em algumaas lives e achei sensacional kkk",
+      "curtidas": 3,
+      "publicado_em": "2023-11-28T13:34:50Z",
+      "atualizado_em": "2023-11-28T13:34:50Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzYzNSOccN1h7qEgdN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "fala jovem tranquilo, sabe me dizer se livros seria uma boa pra quem ja tem um entendimento razoavel em programaçao\nno caso iria querer compra um livro de java",
+      "curtidas": 1,
+      "publicado_em": "2023-11-19T00:22:56Z",
+      "atualizado_em": "2023-11-19T00:22:56Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzYzNSOccN1h7qEgdN4AaABAg.9xHAnEoBv5U9xQSzrrFub3",
+      "comentario_pai_id": "UgzYzNSOccN1h7qEgdN4AaABAg",
+      "tipo": "resposta",
+      "texto": "pois é meu amigo eu não costumo usar livros, sou mais do digital, falam que tem muitos livros bacanas mas nao saberia te indicar kkk",
+      "curtidas": 0,
+      "publicado_em": "2023-11-22T14:55:07Z",
+      "atualizado_em": "2023-11-22T14:55:07Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwyfEA2eQ9Oku2WJjR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Otimas dicas, voce me lembra o vilao do filme Spawn",
+      "curtidas": 61,
+      "publicado_em": "2023-10-05T12:40:43Z",
+      "atualizado_em": "2023-10-05T12:40:43Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwyfEA2eQ9Oku2WJjR4AaABAg.9vUcSV3yL6Q9zur5JNgeMG",
+      "comentario_pai_id": "UgwyfEA2eQ9Oku2WJjR4AaABAg",
+      "tipo": "resposta",
+      "texto": "kkkkk oloco",
+      "curtidas": 10,
+      "publicado_em": "2024-01-23T12:33:41Z",
+      "atualizado_em": "2024-01-23T12:33:41Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxMqLLZ8mU-K6Z2VD54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Comecei a estagiar semana passada e a galera usa o Intellij, to apanhando pra aprender a usar essa IDE mas uma hora vai kkkkk",
+      "curtidas": 6,
+      "publicado_em": "2023-10-03T09:47:07Z",
+      "atualizado_em": "2023-10-03T09:47:07Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyKPRwGbSxP_volHzB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cade o link do curso tropa ?",
+      "curtidas": 1,
+      "publicado_em": "2023-10-01T05:30:29Z",
+      "atualizado_em": "2023-10-01T05:30:29Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyKPRwGbSxP_volHzB4AaABAg.9vJZ1whwqJW9vK_Np3cIXD",
+      "comentario_pai_id": "UgyKPRwGbSxP_volHzB4AaABAg",
+      "tipo": "resposta",
+      "texto": "https://go.hotmart.com/Y85593220J?dp=1 compre com 29% de desconto com o cumpo JOVEMDESEMPREGADAO",
+      "curtidas": 0,
+      "publicado_em": "2023-10-01T15:01:27Z",
+      "atualizado_em": "2023-10-01T15:01:27Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx7xicBYjc-aph7jJN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Esse lado descontraído de coçar as costas ao longo do vídeo é TOP demais!! 😆😆",
+      "curtidas": 10,
+      "publicado_em": "2023-09-27T18:45:09Z",
+      "atualizado_em": "2023-09-27T18:45:09Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwQq46mC8hn_yj3BVN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A IDE não deveria tornar um projeto diferente. Pelas configurações. Por isso sempre gostei de c# javascript e python. Independente de onde esteja vai ser a mesma coisa.",
+      "curtidas": 24,
+      "publicado_em": "2023-09-26T20:28:39Z",
+      "atualizado_em": "2023-09-26T20:28:39Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwQq46mC8hn_yj3BVN4AaABAg.9v8HqwyYqYX9valjJ6IrOp",
+      "comentario_pai_id": "UgwQq46mC8hn_yj3BVN4AaABAg",
+      "tipo": "resposta",
+      "texto": "exatamente.... penso a mesma coisa.",
+      "curtidas": 2,
+      "publicado_em": "2023-10-08T07:16:28Z",
+      "atualizado_em": "2023-10-08T07:16:28Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwQq46mC8hn_yj3BVN4AaABAg.9v8HqwyYqYXA8O6QZl1Xal",
+      "comentario_pai_id": "UgwQq46mC8hn_yj3BVN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Apesar de ser real, é muito estranho pra mim, que trabalho com Java desde o começo, ter o projeto amarrado a IDE. Ainda mais usando maven ou outra coisa parecida",
+      "curtidas": 0,
+      "publicado_em": "2024-09-14T23:16:10Z",
+      "atualizado_em": "2024-09-14T23:16:10Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwQq46mC8hn_yj3BVN4AaABAg.9v8HqwyYqYXATsfpHB6pWz",
+      "comentario_pai_id": "UgwQq46mC8hn_yj3BVN4AaABAg",
+      "tipo": "resposta",
+      "texto": "E para python, vale usar a VS Code? As empresas usam?",
+      "curtidas": 0,
+      "publicado_em": "2026-03-03T04:29:59Z",
+      "atualizado_em": "2026-03-03T04:29:59Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz61e-lDfV6JMyic2d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótima dica do IntelliJ uso e não me arrependo, decidi tomar vergonha na cara e aprender Java na base do soco kkk.",
+      "curtidas": 3,
+      "publicado_em": "2023-09-26T20:26:08Z",
+      "atualizado_em": "2023-09-26T20:26:08Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz61e-lDfV6JMyic2d4AaABAg.9v8HZQifEfPALDdQ1Jh0tV",
+      "comentario_pai_id": "Ugz61e-lDfV6JMyic2d4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu também. Comecei a ser espancado não tem nem uma semana.",
+      "curtidas": 0,
+      "publicado_em": "2025-07-31T00:29:40Z",
+      "atualizado_em": "2025-07-31T00:29:40Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxe4OS1-6yr255tDtF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "sou do time Eclipse para Java kkkk",
+      "curtidas": 3,
+      "publicado_em": "2023-09-26T19:27:08Z",
+      "atualizado_em": "2023-09-26T19:27:08Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw7AfTHRKOzi1vXOG54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pra começar a estudar? Usa um notepad++ ou sublime text. Depois que dominar toda a sintaxe do Java aí sim usa uma ide.",
+      "curtidas": 2,
+      "publicado_em": "2023-09-26T17:08:35Z",
+      "atualizado_em": "2023-09-26T17:08:35Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw7AfTHRKOzi1vXOG54AaABAg.9v7vxVZSQ0c9v7ze3eIzt3",
+      "comentario_pai_id": "Ugw7AfTHRKOzi1vXOG54AaABAg",
+      "tipo": "resposta",
+      "texto": "o ruim é que você fica sem auto complete e sem o compilador pra te dizer se está errado e sugerir correçoes",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T17:40:52Z",
+      "atualizado_em": "2023-09-26T17:40:52Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw7AfTHRKOzi1vXOG54AaABAg.9v7vxVZSQ0c9v8ByscsANA",
+      "comentario_pai_id": "Ugw7AfTHRKOzi1vXOG54AaABAg",
+      "tipo": "resposta",
+      "texto": "Faça isso e levará o dobro, triplo do tempo pra chegar ao mesmo resultado. 🎉",
+      "curtidas": 2,
+      "publicado_em": "2023-09-26T19:37:19Z",
+      "atualizado_em": "2023-09-26T19:37:34Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw7AfTHRKOzi1vXOG54AaABAg.9v7vxVZSQ0c9v8FrxDWcJF",
+      "comentario_pai_id": "Ugw7AfTHRKOzi1vXOG54AaABAg",
+      "tipo": "resposta",
+      "texto": "@julianosouza2716 Colega, tem programador Java que não consegue escrever um método main na mão, ou nunca compilou uma classe usando javac. Fica totalmente dependente de uma IDE. Esse tempo que você diz que vai perder é justamente para ter uma fundação sólida. Tem plug-in de IDE que você nem precisa criar ou mandar criar métodos get e set, pois a IDE faz isso por baixo dos panos. Isso é ótimo para produção, mas para quem está começando acho melhor fazer na unha, e somente usar IDE quando tiver certeza que sabe fazer sozinho. Algumas entrevistas de emprego te jogam um bloco de notas e pedem pra fazer alguns algoritmos com java. Nessa hora o candidato se lasca.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T20:11:19Z",
+      "atualizado_em": "2024-06-17T23:46:33Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw7AfTHRKOzi1vXOG54AaABAg.9v7vxVZSQ0c9v8HH6A7Nld",
+      "comentario_pai_id": "Ugw7AfTHRKOzi1vXOG54AaABAg",
+      "tipo": "resposta",
+      "texto": "@leandrofelip Eu aprendi a complicar usando o Javac na faculdade. Realmente tem muita gente q N sabe o básico, mas nesse caso é falta d interesse em estudar e se aprofundar nas coisas. A IDE me ajudou muito, mas eu sempre optei por digitar ao invés de usar atalhos.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T20:23:38Z",
+      "atualizado_em": "2024-06-17T23:46:33Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz1VMmwoanIzG34FtF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mano hoje em dia não tem desculpa, VS Code está tão pesada quanto um IDE Jetbrains, e VS Code nem é um IDE, é um editor de código.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-26T16:05:00Z",
+      "atualizado_em": "2023-09-26T16:05:28Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxNtwLK2W5u7PaCYdV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara quanto a isso sou totalmente contra impor IDE, só é assim quando o cara é Juninho e entra na ampresa, a grande maioria nem se importa com qual ide vc usa pra codar desde que funcione.",
+      "curtidas": 16,
+      "publicado_em": "2023-09-26T12:34:21Z",
+      "atualizado_em": "2023-09-26T12:34:21Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxbRDmTDLT0i-cs-Wx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pessoal, quem for estudante, consegue o Intellij IDEA Ultimate de graça.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-26T02:12:39Z",
+      "atualizado_em": "2023-09-26T02:12:39Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwA3_5pX89Fq5HnEft4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cade o link do curso?",
+      "curtidas": 2,
+      "publicado_em": "2023-09-26T00:35:14Z",
+      "atualizado_em": "2023-09-26T00:35:14Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwA3_5pX89Fq5HnEft4AaABAg.9v69H3BNfxw9v6Aa-UFNOi",
+      "comentario_pai_id": "UgwA3_5pX89Fq5HnEft4AaABAg",
+      "tipo": "resposta",
+      "texto": "https://hotmart.com/pt-br/marketplace/produtos/dev-tranquilao/Y85593220J?system=product_page",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T00:46:42Z",
+      "atualizado_em": "2023-09-26T00:46:41Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyBahE4O2xXVH1Xhy54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu recomendo STS pra Spring",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T22:56:26Z",
+      "atualizado_em": "2023-09-25T22:56:26Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyqCtuqI2AditX5SLt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O vscode para Java e horrível, para outras linguagens é excelente, eu uso o spring tools suíte ou o eclipse (Praticamente a mesma coisa)",
+      "curtidas": 2,
+      "publicado_em": "2023-09-25T22:49:30Z",
+      "atualizado_em": "2023-09-25T22:50:20Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyqCtuqI2AditX5SLt4AaABAg.9v5yAgkEgjt9v7Rrj-bLJR",
+      "comentario_pai_id": "UgyqCtuqI2AditX5SLt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Tá usando errado então pq experimentei aqui e não voltei pro intelij",
+      "curtidas": 1,
+      "publicado_em": "2023-09-26T12:36:54Z",
+      "atualizado_em": "2023-09-26T12:36:54Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyhPQ1IhYcfKrHwbjN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "tentei voltar a estudar java, mas não consigo largar o python. Eu comecei com vs code pra programar python, mas hj em dia não consigo largar o jupyter notebook , pois ele é flexível e permite rodar partes do código em específico. Existe uma forma de rodar o jupyter no vscode, mas nunca tentei.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T22:12:03Z",
+      "atualizado_em": "2023-09-25T22:12:03Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyhPQ1IhYcfKrHwbjN4AaABAg.9v5ttO0m18v9v87i1lYxR9",
+      "comentario_pai_id": "UgyhPQ1IhYcfKrHwbjN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu to usando essa bomba de jupyter notbook na faculdade so estresse com isso",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T19:00:04Z",
+      "atualizado_em": "2023-09-26T19:00:04Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyhPQ1IhYcfKrHwbjN4AaABAg.9v5ttO0m18v9v8aOpW_7pw",
+      "comentario_pai_id": "UgyhPQ1IhYcfKrHwbjN4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@techanalogia Qual o estresse? Para mim, isso simplificou bastante, especialmente para executar apenas a seção do código com o erro. Vejo como uma ferramenta valiosa para automação no preenchimento de formulários online ou webscraping. Ter o código segmentado em células é excelente, pois posso testar o que realmente funciona sem executar todo o código novamente.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T23:19:27Z",
+      "atualizado_em": "2024-04-18T02:43:30Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugyx4e1P6QRl85TxCtp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom o vídeo. É bem isso mesmo.\nTem projetos que dá pra galera usar meio que misturado, mas a tendência mesmo é todo mundo usar a mesma IDE.",
+      "curtidas": 17,
+      "publicado_em": "2023-09-25T22:06:53Z",
+      "atualizado_em": "2023-09-25T22:06:53Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwIql5EKXtwvb7WP-t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ele sabe o que diz. Mas vai aqui meus 50 centavos nessa discussão: Uso o vscode e o eclipse. Já vi ótimos programadores usando netbeans. Intellij está sim sendo muito usado. IDE é questão de gosto.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T21:19:06Z",
+      "atualizado_em": "2023-09-25T21:19:06Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgyR4VGm1cKPj0IlmZ94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito interessante !! Papo d Gente Grande !!! Q sabe o q diz !!!! Parabéns !!!",
+      "curtidas": 7,
+      "publicado_em": "2023-09-25T21:10:26Z",
+      "atualizado_em": "2023-09-25T21:10:26Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy59zT7cfqda65goK54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso ele porquê estou aprendendo minha primeira linguagem de programação e meu Professor também usa, assim não me perco quando ele mostra algo. Por causa disso tive que usar o VS CODE e instalei o navegador Google Chrome para ficar tudo certo, mas naturalmente gosto de usar Intellij e o navegador Opera.",
+      "curtidas": 7,
+      "publicado_em": "2023-09-25T21:05:35Z",
+      "atualizado_em": "2023-09-25T21:05:35Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxPeVHSL2KSMOqnaVh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Faz um video con figurando o eclipseeeeeeeee ksakskaska",
+      "curtidas": 2,
+      "publicado_em": "2023-09-25T20:40:15Z",
+      "atualizado_em": "2023-09-25T20:40:14Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugw49PO7eWRi1MT33_F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso o Eclipse. Me adaptei bem.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T19:52:25Z",
+      "atualizado_em": "2023-09-25T19:52:25Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgylMYPc2JHdvhFanTd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu ainda usando o Netbeans kkkk",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T19:40:02Z",
+      "atualizado_em": "2023-09-25T19:40:01Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwIc9s4CrbK6ELoZZ54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pior que eu tava usando vscode com java esse mês, mas eu tava usando intellij e colando tudo no vs",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T19:37:58Z",
+      "atualizado_em": "2023-09-25T19:37:58Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgztBaExD4wK9sTUpm94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cade o link?",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T19:30:55Z",
+      "atualizado_em": "2023-09-25T19:30:54Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugzh60RbkjX_N6RE5mF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bom saber. Vou iniciar o Java essa semana e já vou instalar o Inteli",
+      "curtidas": 12,
+      "publicado_em": "2023-09-25T18:54:55Z",
+      "atualizado_em": "2023-09-25T18:54:54Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Jovem, meu professor de Estrutura de Dados em C/C++ passou uma atividade para entregarmos até dezembro, que consiste em desenvolver uma biblioteca em C que permita o desenvolvimento de programas utilizando a língua portuguesa. Não faço a mínima ideia de por onde começar, help me?",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T18:34:31Z",
+      "atualizado_em": "2023-09-25T18:34:30Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v5hpvYDrlf",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "tipo criar uma linguagem? se for isso deve procurar sobre como fazer interpretadores, nao sei se vale a pena aprofundar no assunto, pelo tempo deve dar, se for um compilador, começe pelo video do akita, ele da uma boa visao ampla sobre como compiladores funcionam",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T20:26:44Z",
+      "atualizado_em": "2023-09-25T20:26:43Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v5jR0OzQbs",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "Se for o que eu entendi, ele quer que você faça uma interface em C/C++ onde o input em lingua portuguesa será mapeado para código C/C++, como se você estivesse criando uma estrutura de programação low/no-code, tipo, o usuário escreve \"arredondar 7.85\" e a interface entenderá que isso é round(7.85).\n\nSe for isso, é definir o quanto essa sua biblioteca vai abranger, fazer os algoritmos pra filtrar dados de entrada e entender o que o usuário tá dizendo, mapear tudo, implementar e, acima de tudo, testar tudo (tu vai usar muito, mas muito teste mesmo).",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T20:40:40Z",
+      "atualizado_em": "2023-09-25T20:41:07Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v5k0xZokkX",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "Se for rodar em C++, começa criando uma function para entender se o que a pessoa está digitando é uma função ou não. Faz uma função booleana com argumentos string e lista funções conhecidas, tipo, se tu for focar em cálculos, \" std::vector<std::string> funcoesConhecidas = {\"arredondar\", \"somar\", \"subtrair\", \"multiplicar\"};\"\n\nDaí tu vai fazer a lógica de uma a uma, implementando o que deve ser feito caso a pessoa utilize uma dessas funções",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T20:45:51Z",
+      "atualizado_em": "2023-09-25T20:46:31Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v5zVsuudZz",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "nossa, bem fácil hein kkkkkkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T23:01:08Z",
+      "atualizado_em": "2023-09-25T23:01:08Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v61EXIyke_",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "@EinzeIkämpfer acredito que seja isso mesmo, mds, simbora",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T23:24:59Z",
+      "atualizado_em": "2024-06-17T21:42:27Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v61KOLxCfT",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "@oCarlos__ acredito que criar a linguagem não visse, pelo menos espero que não kkkk vou tirar a dúvida com ele e volto com mais informações",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T23:25:47Z",
+      "atualizado_em": "2024-06-17T21:42:27Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v61UfkHCIF",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "@jairorodrigues5809 ooooh kkkkk",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T23:27:11Z",
+      "atualizado_em": "2024-06-17T23:25:03Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg.9v5W-0h3PHB9v63IaI1eUX",
+      "comentario_pai_id": "Ugz5kmCMEPx5AyRRK_l4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu perguntei aqui o professor ele falou que era usando o comando Define, alguém conhece?",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T23:43:01Z",
+      "atualizado_em": "2023-09-25T23:43:00Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxFwlK24sUkfU_q2aZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Rodo vscode aqui de boa.. buscas principalmente é bem mais rápido. :D",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T18:21:22Z",
+      "atualizado_em": "2023-09-25T18:21:21Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgySVEtQAiNjscfFFWt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara, tou usando o Vscode faz um tempo, o que eu gostei muito é que ele é bem leve, já que meu notebook não é bom, ele sempre da umas travadas pra mudar de aplicação, abrir outra coisa, mas no vscode eu consegui resolver esse problema, tenho extensão para acessar praticamente qualquer banco de dados, sela ele local ou online, relacional ou não relacional, posso criar um projeto Spring boot e escolher as dependências tudo de dentro do vscode, posso usar até o postman dentro dele agora, que era um problema do krl, eu passava uns 5m pra abrir o postman, mas agr tá mt mais prático e rápido, pra mim ele tá me atendendo em quase tudo que eu espero, mas imagino mesmo que o intellij seja melhor, porém não penso em mudar",
+      "curtidas": 48,
+      "publicado_em": "2023-09-25T18:05:17Z",
+      "atualizado_em": "2023-09-25T18:05:17Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgySVEtQAiNjscfFFWt4AaABAg.9v5SdwVAdQ19v5UjFUAt4P",
+      "comentario_pai_id": "UgySVEtQAiNjscfFFWt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Estudo Java no vs pq meu note é ruim tbm, e no pc o intellij ou eclipse",
+      "curtidas": 2,
+      "publicado_em": "2023-09-25T18:23:29Z",
+      "atualizado_em": "2023-09-25T18:23:28Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgySVEtQAiNjscfFFWt4AaABAg.9v5SdwVAdQ19v7e6SMk5Dk",
+      "comentario_pai_id": "UgySVEtQAiNjscfFFWt4AaABAg",
+      "tipo": "resposta",
+      "texto": "To de boa com o meu vs code tbm",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T14:32:39Z",
+      "atualizado_em": "2023-09-26T14:32:39Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgySVEtQAiNjscfFFWt4AaABAg.9v5SdwVAdQ1AH0f4LkdbqN",
+      "comentario_pai_id": "UgySVEtQAiNjscfFFWt4AaABAg",
+      "tipo": "resposta",
+      "texto": "sou do clube java vs code tmb, tranquilinho aqui",
+      "curtidas": 1,
+      "publicado_em": "2025-04-17T13:28:29Z",
+      "atualizado_em": "2025-04-17T13:28:29Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx6aYUzyqcKVYVEW-14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Dica de ouro!",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T17:56:03Z",
+      "atualizado_em": "2023-09-25T17:56:03Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgytHCyGf7zn01Qeq3J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "vim>>>",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:53:24Z",
+      "atualizado_em": "2023-09-25T16:53:24Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgytHCyGf7zn01Qeq3J4AaABAg.9v5KQXif1_eABCJLV2_jiE",
+      "comentario_pai_id": "UgytHCyGf7zn01Qeq3J4AaABAg",
+      "tipo": "resposta",
+      "texto": "sabia q ia achar um desse aqui nos comentários kkkk aí é pra quem tem mais experiencia",
+      "curtidas": 0,
+      "publicado_em": "2024-11-23T22:52:22Z",
+      "atualizado_em": "2024-11-23T22:52:22Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwII3KxC6LLqPOSmMJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fala Jovem! \r\nUm amigo que já é DEV, me passou um curso (ORIGAMID) para eu assistir as aulas e começar a praticar. É possível ser programador só com esse curso? (Meu objetivo seria ficar fazendo Freela)",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:44:09Z",
+      "atualizado_em": "2023-09-25T16:44:09Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwII3KxC6LLqPOSmMJ4AaABAg.9v5JMj0vH8M9v5OWZFFslU",
+      "comentario_pai_id": "UgwII3KxC6LLqPOSmMJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "da mesma forma que ninguém vira médico assistindo um unico \"curso online\", programação envolve diversos assuntos que devem ser continuamente estudados, por mais que um curso online consiga abranger diversos tópicos, vc sempre estará pesquisando e estudando, todos os dias. Afinal, programar é exatamente isso, vc vai se deparar com problemas o tempo todo e o Google será seu melhor amigo em sua carreira",
+      "curtidas": 2,
+      "publicado_em": "2023-09-25T17:29:11Z",
+      "atualizado_em": "2023-09-25T17:29:10Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwII3KxC6LLqPOSmMJ4AaABAg.9v5JMj0vH8M9v5Ptovb7DJ",
+      "comentario_pai_id": "UgwII3KxC6LLqPOSmMJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu estudando que nem uma cachorro adoidado pra me tornar desenvolvedor vendo isso kkkkkkk🤡",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T17:41:14Z",
+      "atualizado_em": "2023-09-25T17:41:13Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwII3KxC6LLqPOSmMJ4AaABAg.9v5JMj0vH8M9v5QbEOTshb",
+      "comentario_pai_id": "UgwII3KxC6LLqPOSmMJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu tenho esse curso é um bom curso só que é voltado para front end e design. Se vc quer trabalhar com isso vale a pena.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T17:47:26Z",
+      "atualizado_em": "2023-09-25T17:47:25Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz3evSJOELzCsv-AXB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "cadê o link do curso ?",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:39:50Z",
+      "atualizado_em": "2023-09-25T16:39:50Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzZOEUpMD1Mc417Ygd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Serve pro kotlin tbm?",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:26:31Z",
+      "atualizado_em": "2023-09-25T16:26:30Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzIysbaixsfs1ysjPZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Por que usar Angular em vez de React?",
+      "curtidas": 2,
+      "publicado_em": "2023-09-25T16:18:44Z",
+      "atualizado_em": "2023-09-25T16:18:44Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzIysbaixsfs1ysjPZ4AaABAg.9v5GSaBiFQo9v5J3eA91e-",
+      "comentario_pai_id": "UgzIysbaixsfs1ysjPZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Cara pelo que o mercado usa. A maioria das empresas usa angular que é uma biblioteca mas conhecida tlgd ?",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T16:41:33Z",
+      "atualizado_em": "2023-09-25T16:41:32Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzIysbaixsfs1ysjPZ4AaABAg.9v5GSaBiFQoA--5-8NH1CS",
+      "comentario_pai_id": "UgzIysbaixsfs1ysjPZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Angular, a partir do 2, muda pouco a estrutura de uma versão pra outra, normalmente é só trocar a versão e recompilar que já funciona.\nReact costuma ter que fazer muitos ajustes na aplicação quando quer subir de versão.",
+      "curtidas": 0,
+      "publicado_em": "2024-01-25T13:20:07Z",
+      "atualizado_em": "2024-01-25T13:20:07Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzIysbaixsfs1ysjPZ4AaABAg.9v5GSaBiFQoADNGLI4Tg4C",
+      "comentario_pai_id": "UgzIysbaixsfs1ysjPZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "E o Ionic do Angular está melhor que o React Native?",
+      "curtidas": 0,
+      "publicado_em": "2025-01-16T22:00:33Z",
+      "atualizado_em": "2025-01-16T22:00:33Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx8rFR1IGOc2vCKtm94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estava usando o VSCode pra java por curiosidade e deu muito problema de cache.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:10:55Z",
+      "atualizado_em": "2023-09-25T16:10:55Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzuuNx4hGFsYeS0frR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Usar vscode pra java, não faz nem sentido essa frase kkkkkkkkk",
+      "curtidas": 3,
+      "publicado_em": "2023-09-25T16:06:57Z",
+      "atualizado_em": "2023-09-25T16:06:57Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzuuNx4hGFsYeS0frR4AaABAg.9v5F6Gl2-Dg9v5GI8kuqJW",
+      "comentario_pai_id": "UgzuuNx4hGFsYeS0frR4AaABAg",
+      "tipo": "resposta",
+      "texto": "pq?",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T16:17:19Z",
+      "atualizado_em": "2023-09-25T16:17:18Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzuuNx4hGFsYeS0frR4AaABAg.9v5F6Gl2-Dg9v5H7tl1zd8",
+      "comentario_pai_id": "UgzuuNx4hGFsYeS0frR4AaABAg",
+      "tipo": "resposta",
+      "texto": "eu uso e tô fazendo projetos de boa com ele",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T16:24:39Z",
+      "atualizado_em": "2023-09-25T16:24:38Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzuuNx4hGFsYeS0frR4AaABAg.9v5F6Gl2-Dg9v5H8dfWtMk",
+      "comentario_pai_id": "UgzuuNx4hGFsYeS0frR4AaABAg",
+      "tipo": "resposta",
+      "texto": "spring boot",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:24:45Z",
+      "atualizado_em": "2023-09-25T16:24:44Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzuuNx4hGFsYeS0frR4AaABAg.9v5F6Gl2-Dg9v5I0ze9nPo",
+      "comentario_pai_id": "UgzuuNx4hGFsYeS0frR4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@bern-out Instalou o pack do java e do Spring Boot, já era...Roda liso",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:32:27Z",
+      "atualizado_em": "2024-04-18T01:17:22Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzuuNx4hGFsYeS0frR4AaABAg.9v5F6Gl2-Dg9v5LfqTAL5u",
+      "comentario_pai_id": "UgzuuNx4hGFsYeS0frR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Meu irmão programa Java no Vim, vscode é o menor dos problemas kk",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T17:04:22Z",
+      "atualizado_em": "2023-09-25T17:04:22Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Comecei com Eclipse e migrei para IntelliJ pela integração com o Maven e Spring. Apesar de ser mais antigão, quando abro o Eclipse me sinto \"em casa\"",
+      "curtidas": 109,
+      "publicado_em": "2023-09-25T16:06:33Z",
+      "atualizado_em": "2023-09-25T16:06:33Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg.9v5F3LmTPFu9v5_vgLR14Z",
+      "comentario_pai_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "tipo": "resposta",
+      "texto": "O meu Linux não roda eclipse direito, então o NetBeans e o VSCode é as únicas opções.",
+      "curtidas": 4,
+      "publicado_em": "2023-09-25T19:17:37Z",
+      "atualizado_em": "2023-09-25T19:17:36Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg.9v5F3LmTPFu9v5kUV4SNCr",
+      "comentario_pai_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "tipo": "resposta",
+      "texto": "@mrmarloncarvalho  nesse caso, recomendaria ir direto pro IntelliJ",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T20:49:53Z",
+      "atualizado_em": "2024-06-17T21:53:49Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg.9v5F3LmTPFu9v6--TQIuZu",
+      "comentario_pai_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@mrmarloncarvalhoEu uso o Intellij no Linux.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T23:05:27Z",
+      "atualizado_em": "2024-06-17T21:53:49Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg.9v5F3LmTPFu9ziJ_FsWIMW",
+      "comentario_pai_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "tipo": "resposta",
+      "texto": "@mrmarloncarvalho IntelliJ funciona também no Linux. Tô testando aqui agora no meu Fedora o IntelliJ",
+      "curtidas": 0,
+      "publicado_em": "2024-01-18T15:41:12Z",
+      "atualizado_em": "2024-06-17T21:53:49Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg.9v5F3LmTPFuA3HNCVtzqZW",
+      "comentario_pai_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "tipo": "resposta",
+      "texto": "@mrmarloncarvalho e dá pra codar java em vscode, é super d boas - e é muito mais leve q o intellij ou eclipse, aliás... eu entendo o q o tranquilão quer dizer mas acho q eu complementaria da seguinte maneira: se tu te vira bem com a ferramenta q tu tem, se tu não tem qq problema d produtividade, usa o q tu quer",
+      "curtidas": 6,
+      "publicado_em": "2024-05-11T01:51:09Z",
+      "atualizado_em": "2024-05-11T01:51:09Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg.9v5F3LmTPFuA4N88wnmrY6",
+      "comentario_pai_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "tipo": "resposta",
+      "texto": "vc usa a versão da comunidade? tentei usar mas n tem suporte pra SQL isso q ferrou",
+      "curtidas": 2,
+      "publicado_em": "2024-06-07T04:06:25Z",
+      "atualizado_em": "2024-06-07T04:06:25Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxDhDUxR_5fsnY-12J4AaABAg.9v5F3LmTPFuA4PE768ttGM",
+      "comentario_pai_id": "UgxDhDUxR_5fsnY-12J4AaABAg",
+      "tipo": "resposta",
+      "texto": "@vitostegames9989 migrei pra .NET há um tempo então estou usando Visual Studio, mas na época usava o intellij full com licença de estudante",
+      "curtidas": 0,
+      "publicado_em": "2024-06-07T23:37:05Z",
+      "atualizado_em": "2024-06-07T23:37:05Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx6xPpRUVZVB7n_4Et4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aprender Java ou Kotlin primeiro? Todo ecossistema Java é muito rico, aí tô em dúvida por qual começar, valeuuu",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T16:00:11Z",
+      "atualizado_em": "2023-09-25T16:00:10Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx6xPpRUVZVB7n_4Et4AaABAg.9v5EKfO2UYH9v5Zbp7sqGk",
+      "comentario_pai_id": "Ugx6xPpRUVZVB7n_4Et4AaABAg",
+      "tipo": "resposta",
+      "texto": "Se quiser Android vai de Kotlin, se for backend vai de java",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T19:06:09Z",
+      "atualizado_em": "2023-09-25T19:06:09Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx6xPpRUVZVB7n_4Et4AaABAg.9v5EKfO2UYH9v5iBbPYCtT",
+      "comentario_pai_id": "Ugx6xPpRUVZVB7n_4Et4AaABAg",
+      "tipo": "resposta",
+      "texto": "@ricardofarias1443 Sim, mas pensando em backend, Java é muito utilizado com toda certeza, mas não existe uma tendência para Kotlin? Pq no final implemento spring bem parecido com Java e Kotlin. Porem Kotlin é null safety e não preciso do Lombok.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T20:29:49Z",
+      "atualizado_em": "2024-06-17T22:54:40Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzhbWiJ8LLzOzWsRL54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu comecei pelo VsCode, migrei pro Intellij há alguns meses, já usei as 4 IDE's, para mim a melhor é o intellij e a pior é o eclipse",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T15:24:57Z",
+      "atualizado_em": "2023-09-25T15:24:57Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu to no mundo java a 5 anos, nunca vi ninguem usar o eclipse, mesmo pra projetos antigos",
+      "curtidas": 3,
+      "publicado_em": "2023-09-25T15:18:09Z",
+      "atualizado_em": "2023-09-25T15:18:08Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg.9v59WnCknpp9v5LBRlj1YE",
+      "comentario_pai_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Oloco? Que Java é esse?",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T17:00:05Z",
+      "atualizado_em": "2023-09-25T17:00:04Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg.9v59WnCknpp9v5RjoC6pa7",
+      "comentario_pai_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg",
+      "tipo": "resposta",
+      "texto": "Aqui na empresa tem projetos que só roda no Eclipse hahahah.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T17:57:21Z",
+      "atualizado_em": "2023-09-25T17:57:20Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg.9v59WnCknpp9v5Y4wDQht4",
+      "comentario_pai_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg",
+      "tipo": "resposta",
+      "texto": "@al3xr3is kkkkk acredito, provavelmente usava plugins do eclipse",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T18:52:48Z",
+      "atualizado_em": "2024-06-17T22:39:48Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg.9v59WnCknpp9v5YB2dCDl_",
+      "comentario_pai_id": "Ugy8hhAXaUP7vz1qHGN4AaABAg",
+      "tipo": "resposta",
+      "texto": "@jazzycats8827 A maior parte do tempo trabalhei com spring boot, mas já trabalhei com uns projeto de quase 20 anos de vida que era java EE e todo mundo já tinha migrado pra intellij, pessoalmente só conheci 1 pessoa que usava netbeans e ele gostava muito kkk",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T18:53:38Z",
+      "atualizado_em": "2024-06-17T22:39:48Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgzueTlG39x1wopwWKR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu estou usando o Intellij,  ele é excelente.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-25T15:17:29Z",
+      "atualizado_em": "2023-09-25T15:17:29Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz7XXszHXERRQ-SpuR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fala meu caro … tudo bem ? \nCara tenho quarenta anos e quero mudar de profissão e ir pra programação , qual caminho vc me aconselha ( cursos ) \nDesde já muito obrigado 👊🏼",
+      "curtidas": 3,
+      "publicado_em": "2023-09-24T20:11:06Z",
+      "atualizado_em": "2023-09-24T20:11:06Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz7XXszHXERRQ-SpuR4AaABAg.9v36Fc2rCqu9v4BhkE58uH",
+      "comentario_pai_id": "Ugz7XXszHXERRQ-SpuR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Opa! Tô numa situação semelhante e posso te recomendar o curso do Nélio Alves na Udemy. Aqui no YouTube tem bastante conteúdo bom também, recomendo o curso de Java da Loiane. Os dois são muito didáticos. Mas basicamente o caminho é aprender lógica de programação, ficar fera if-else, for, while.. partir pra orientação a objetos e Spring boot. Um abraço e sucesso!",
+      "curtidas": 1,
+      "publicado_em": "2023-09-25T06:18:01Z",
+      "atualizado_em": "2023-09-25T06:18:00Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz7XXszHXERRQ-SpuR4AaABAg.9v36Fc2rCqu9v7gUEBR-E0",
+      "comentario_pai_id": "Ugz7XXszHXERRQ-SpuR4AaABAg",
+      "tipo": "resposta",
+      "texto": "fala membro tudo bem? fiz um video respondendo sua pergunta: https://www.youtube.com/live/dP1l2_IFFQc?feature=shared",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T14:53:22Z",
+      "atualizado_em": "2023-09-26T14:53:22Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxZUW1wvBuBaIHaE-N4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "To usando o eclipse. Quando comecei os fundamentos,  usei o vscode. Massss, instalei o eclipse e ta rodando legal no meu note antigo. 4gb de RAM e ssd de 258. Tu acha que é melhor eu instalar o intelliJ? Ou fico no eclipse mesmo? O eclipse roda liso no meu note. Nao sei o intelliJ.",
+      "curtidas": 1,
+      "publicado_em": "2023-09-24T13:12:23Z",
+      "atualizado_em": "2023-09-24T13:12:23Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgxZUW1wvBuBaIHaE-N4AaABAg.9v2MKshnfxr9v2Z16wXLbN",
+      "comentario_pai_id": "UgxZUW1wvBuBaIHaE-N4AaABAg",
+      "tipo": "resposta",
+      "texto": "dá uma experimentada no IntelliJ ele é mais modernão",
+      "curtidas": 0,
+      "publicado_em": "2023-09-24T15:03:17Z",
+      "atualizado_em": "2023-09-24T15:03:17Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugwlo1g2kAX-utTtugx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Onde q ta o link do treinamento?",
+      "curtidas": 2,
+      "publicado_em": "2023-09-24T11:58:41Z",
+      "atualizado_em": "2023-09-24T11:58:41Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugwlo1g2kAX-utTtugx4AaABAg.9v2Du3Z7dsi9v2I87Pb7zE",
+      "comentario_pai_id": "Ugwlo1g2kAX-utTtugx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Garanta 30% de desconto com o cupom JOVEMTRANQUILO\nhttps://lnkd.in/dQcTpsgv",
+      "curtidas": 0,
+      "publicado_em": "2023-09-24T12:35:42Z",
+      "atualizado_em": "2023-09-24T12:35:41Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugwlo1g2kAX-utTtugx4AaABAg.9v2Du3Z7dsi9v6ABvzDxkY",
+      "comentario_pai_id": "Ugwlo1g2kAX-utTtugx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Cupom tá off ?",
+      "curtidas": 0,
+      "publicado_em": "2023-09-26T00:43:16Z",
+      "atualizado_em": "2023-09-26T00:43:16Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugzjf2PY78r89bJydw94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poxa publica um artigo na minha plataforma mano... por favor",
+      "curtidas": 2,
+      "publicado_em": "2023-09-23T15:36:28Z",
+      "atualizado_em": "2023-09-23T15:36:27Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugz7qGrcBkl7wNowctZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O lema da plataforma: Grandes culturas são construídas em comunidades de prática e relacionamentos onde as pessoas podem compartilhar o que sabem e DESCOBRIR o que NÃO SABEM!",
+      "curtidas": 74,
+      "publicado_em": "2023-09-23T15:35:59Z",
+      "atualizado_em": "2023-09-23T15:35:59Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugx7WOE_aQDbv9oGkyF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poxa destes assuntos que vc ensina e direciona agente eu faço parte do grupo dos que AINDA NÃO IMAGINA O QUE NÃO SABE DA SUA CULTURA.",
+      "curtidas": 0,
+      "publicado_em": "2023-09-23T15:35:13Z",
+      "atualizado_em": "2023-09-23T15:35:13Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgysrBih3ytqrj6xyT54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sim usei no angular e na manutenção do servidor o vscode... 😮😮😮😮 poxa queria te mostrar meu projeto da comunidade que já tá pronto e tô criando o app agora para ser app e site de comunidade",
+      "curtidas": 5,
+      "publicado_em": "2023-09-23T15:32:09Z",
+      "atualizado_em": "2023-09-23T15:32:09Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "Ugxw4WYZfQpOjbGZ1td4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu ia te perguntar isso na live de ontem e não sabia como... kkkk não queria dar a impressão de ser chato(mais do que já sou 😂😂😂😂, mas é sem querer, é que gosto de aprender e vou perguntando tudo mesmo)",
+      "curtidas": 1,
+      "publicado_em": "2023-09-23T15:29:15Z",
+      "atualizado_em": "2023-09-23T15:29:15Z"
+    },
+    {
+      "video_id": "Uz6MXFdRmqc",
+      "comentario_id": "UgwDcG4ADm0rFo-1Unh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu sou viciado no STS4!",
+      "curtidas": 1,
+      "publicado_em": "2023-09-23T15:20:06Z",
+      "atualizado_em": "2023-09-23T15:20:06Z"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+entidade,tipo,frequencia
+Java,MISC,75
+VS Code,MISC,45
+IntelliJ,MISC,36
+Eclipse,PER,34
+NetBeans,MISC,28
+Java,LOC,22
+Python,MISC,21
+Linux,MISC,16
+Visual Studio,MISC,16
+IDEs,ORG,15

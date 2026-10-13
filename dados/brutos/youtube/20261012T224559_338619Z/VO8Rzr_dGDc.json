@@ -1,0 +1,196 @@
+{
+  "video": {
+    "id": "VO8Rzr_dGDc",
+    "url": "https://www.youtube.com/watch?v=VO8Rzr_dGDc",
+    "titulo": "Como escolher a MELHOR IDE para Java: 5 PONTOS que você PRECISA levar em conta para ESCOLHER CERTO",
+    "canal": "Manual da Programação",
+    "publicado_em": "2021-05-28T21:00:10Z",
+    "comentarios_informados_pela_api": 17
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:49:03.940658+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:49:07.617120+00:00",
+    "total": 17,
+    "principais": 7,
+    "respostas": 10,
+    "requisicoes": 9
+  },
+  "comentarios": [
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgwPzWiOL7whmTc2HZx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo, mas eu uso vim btw",
+      "curtidas": 1,
+      "publicado_em": "2024-04-28T21:46:36Z",
+      "atualizado_em": "2024-04-28T21:46:36Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgwPzWiOL7whmTc2HZx4AaABAg.A2n1fx1p_v8A6n5FUyaWe8",
+      "comentario_pai_id": "UgwPzWiOL7whmTc2HZx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu nunca usei o vim para programar. É bom mesmo como dizem?",
+      "curtidas": 0,
+      "publicado_em": "2024-08-06T08:23:23Z",
+      "atualizado_em": "2024-08-06T08:23:23Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxjdZe6irobULvq5Dh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Valeu pelas dicas!",
+      "curtidas": 1,
+      "publicado_em": "2022-06-23T23:55:34Z",
+      "atualizado_em": "2022-06-23T23:55:34Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxjdZe6irobULvq5Dh4AaABAg.9cdBru7IaqQA6nTHcAeIUM",
+      "comentario_pai_id": "UgxjdZe6irobULvq5Dh4AaABAg",
+      "tipo": "resposta",
+      "texto": "As ordens",
+      "curtidas": 0,
+      "publicado_em": "2024-08-06T11:53:23Z",
+      "atualizado_em": "2024-08-06T11:53:23Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgzqdI0HQbnxsllKGz54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quem tem medo de Inglês, nem deveria tentar ser programador...",
+      "curtidas": 13,
+      "publicado_em": "2022-06-18T00:04:25Z",
+      "atualizado_em": "2022-06-18T00:04:25Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgzqdI0HQbnxsllKGz54AaABAg.9cOl6_YpjIwA6nWTPTHxfG",
+      "comentario_pai_id": "UgzqdI0HQbnxsllKGz54AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu diria que saber mesmo inglês ajuda bastante.. mas cada coisa no seu devido tempo.. conheço vários programadores com muita experiência que não conseguem ter uma conversa em inglês..",
+      "curtidas": 0,
+      "publicado_em": "2024-08-06T12:21:13Z",
+      "atualizado_em": "2024-08-06T12:21:13Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxTu0HQOT5X1UUSM6N4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito boa informação, mas faltou a interação gráfica com o logotipo de cada IDE a que você está referenciando!!!",
+      "curtidas": 4,
+      "publicado_em": "2021-12-08T00:29:04Z",
+      "atualizado_em": "2021-12-08T00:29:04Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxTu0HQOT5X1UUSM6N4AaABAg.9VfQJ5b0x3eA6nfcnMtCOC",
+      "comentario_pai_id": "UgxTu0HQOT5X1UUSM6N4AaABAg",
+      "tipo": "resposta",
+      "texto": "na próxima incluo",
+      "curtidas": 0,
+      "publicado_em": "2024-08-06T13:50:01Z",
+      "atualizado_em": "2024-08-06T13:50:01Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bons esses pontos! Normalmente uso Visual Studio pra C# e consigo enxergar várias das vantagens mencionadas, é realmente uma ótima IDE, os pontos citados são muito relevantes mesmo. Ao se tratar de Java, já experimentei NetBeans e no momento conhecendo mais Eclipse; ainda quero conhecer IntelliJ, que dizem ser ótima.",
+      "curtidas": 10,
+      "publicado_em": "2021-05-30T16:47:41Z",
+      "atualizado_em": "2021-05-30T16:47:41Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg.9NymfhrxcW69O-wMn1oE2P",
+      "comentario_pai_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que bom que esse vídeo foi útil pra você! O visual studio é bom mesmo! Netbeans também! No eclipse você vai encontrar muitas qualidades também!",
+      "curtidas": 0,
+      "publicado_em": "2021-05-31T12:50:50Z",
+      "atualizado_em": "2021-05-31T12:50:50Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg.9NymfhrxcW69kimdR1DMN3",
+      "comentario_pai_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg",
+      "tipo": "resposta",
+      "texto": "olá @karinamoreira sou um dev e gostaria de te conhecer",
+      "curtidas": 0,
+      "publicado_em": "2023-01-11T00:12:59Z",
+      "atualizado_em": "2023-01-11T00:12:59Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg.9NymfhrxcW69oSf0mgBbXg",
+      "comentario_pai_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg",
+      "tipo": "resposta",
+      "texto": "sabe me dizer se o Visual Studio serve para programar em Java?",
+      "curtidas": 0,
+      "publicado_em": "2023-04-13T18:44:54Z",
+      "atualizado_em": "2023-04-13T18:44:54Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg.9NymfhrxcW69qigMZKphzB",
+      "comentario_pai_id": "UgxnhBv4v5tlGg6Ur8J4AaABAg",
+      "tipo": "resposta",
+      "texto": "@SalameMingue666 olha pelo que andei pesquisando, o Visual Studio não serve para programar em JAVA, mas o VS code que é um pouco parecido tem a possibilidade de se programar em JAVA com as extensões corretas. Só lembrando que o VS code não é uma IDE, mas que pode trabalhar como uma por meio das extensões!",
+      "curtidas": 0,
+      "publicado_em": "2023-06-09T02:26:29Z",
+      "atualizado_em": "2023-06-09T02:26:59Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "Ugw1eO4lCYnT5PPfhuR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "massa valeu a dica, estou iniciando em Java e é bom saber desses detalhes!!",
+      "curtidas": 5,
+      "publicado_em": "2021-05-29T00:53:38Z",
+      "atualizado_em": "2021-05-29T00:53:38Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "Ugw1eO4lCYnT5PPfhuR4AaABAg.9NuVh95Olr_9NuW-9HC8aM",
+      "comentario_pai_id": "Ugw1eO4lCYnT5PPfhuR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que bom que ajudou! Fico feliz em saber disso.. toda semana tem conteúdo novo aqui no canal!",
+      "curtidas": 1,
+      "publicado_em": "2021-05-29T00:56:14Z",
+      "atualizado_em": "2021-05-29T00:56:14Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgzkYVb-et6wSaXGv5J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Valeu Grande Paulo, excelentes dicas...",
+      "curtidas": 1,
+      "publicado_em": "2021-05-29T00:15:55Z",
+      "atualizado_em": "2021-05-29T00:15:55Z"
+    },
+    {
+      "video_id": "VO8Rzr_dGDc",
+      "comentario_id": "UgzkYVb-et6wSaXGv5J4AaABAg.9NuRNpI3xrm9NuVxODwox7",
+      "comentario_pai_id": "UgzkYVb-et6wSaXGv5J4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu que agradeço pela audiência e companheirismo! Abraço meu amigo!",
+      "curtidas": 1,
+      "publicado_em": "2021-05-29T00:55:51Z",
+      "atualizado_em": "2021-05-29T00:55:51Z"
+    }
+  ]
+}

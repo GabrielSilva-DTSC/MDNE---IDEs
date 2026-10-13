@@ -1,1 +1,9 @@
-# Adicione aqui as dependências quando os módulos forem implementados.
+pandas
+numpy
+spacy
+pysentimiento
+langdetect
+emoji
+matplotlib
+seaborn
+wordcloud

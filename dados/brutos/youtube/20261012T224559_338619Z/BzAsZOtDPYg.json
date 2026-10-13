@@ -1,0 +1,836 @@
+{
+  "video": {
+    "id": "BzAsZOtDPYg",
+    "url": "https://www.youtube.com/watch?v=BzAsZOtDPYg",
+    "titulo": "OS MELHORES EDITORES DE CÓDIGO (NA PRÁTICA)",
+    "canal": "Danki Code",
+    "publicado_em": "2020-08-24T20:46:28Z",
+    "comentarios_informados_pela_api": 81
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:48:44.834777+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:48:51.335079+00:00",
+    "total": 81,
+    "principais": 56,
+    "respostas": 25,
+    "requisicoes": 16
+  },
+  "comentarios": [
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwWj-40rjDMbz8CYAp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "🎁 Mais um sorteio começando em breve!\r\nhttps://instagram.com/guigrillo13",
+      "curtidas": 9,
+      "publicado_em": "2020-08-24T21:03:45Z",
+      "atualizado_em": "2020-08-24T21:03:45Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwWj-40rjDMbz8CYAp4AaABAg.9CkqC0gHr2O9CkzOlZQmBG",
+      "comentario_pai_id": "UgwWj-40rjDMbz8CYAp4AaABAg",
+      "tipo": "resposta",
+      "texto": "como participar do sorteio gui??",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T22:24:08Z",
+      "atualizado_em": "2020-08-24T22:24:08Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwWj-40rjDMbz8CYAp4AaABAg.9CkqC0gHr2O9ML1ppcMNeO",
+      "comentario_pai_id": "UgwWj-40rjDMbz8CYAp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pergunta besta  kkkkkk\nTodos suportam Payton ?",
+      "curtidas": 0,
+      "publicado_em": "2021-04-20T00:28:37Z",
+      "atualizado_em": "2021-04-20T00:28:37Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwK6-FF-leeHtFJbU54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "consigo ter visualização estilo o código de um lado e design do outro com o visual code?",
+      "curtidas": 0,
+      "publicado_em": "2024-11-23T23:25:08Z",
+      "atualizado_em": "2024-11-23T23:25:08Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwDKd3ubcRRhawikop4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Danki, será que vc pode me ajudar? Eu e um amigo queremos montar um site, mas eu em um Pc e ele no dele, aí o código seria atualizado em casa modificação, mas sem usar git",
+      "curtidas": 0,
+      "publicado_em": "2024-04-09T23:49:59Z",
+      "atualizado_em": "2024-04-09T23:49:59Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwDKd3ubcRRhawikop4AaABAg.A21Kgwj1JD0A24JZQ9BYIQ",
+      "comentario_pai_id": "UgwDKd3ubcRRhawikop4AaABAg",
+      "tipo": "resposta",
+      "texto": "Mano, beleza? Se eu entendi... Vcs querem trabalhar no mesmo código só mesmo tempo por algum editor de código?\nSe for isso, recomendo o visual Studio code e baixem a extensão LIVE SHARE e compartilhar um para o outro",
+      "curtidas": 0,
+      "publicado_em": "2024-04-11T03:37:48Z",
+      "atualizado_em": "2024-04-11T03:37:48Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzS4kX0KA_RylJCaCJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "consigo baixar o Vs code no meu Notbook W7",
+      "curtidas": 0,
+      "publicado_em": "2024-01-02T18:44:42Z",
+      "atualizado_em": "2024-01-02T18:44:42Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxfC_FAb6Esib4WFNt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não suporto para win8.1",
+      "curtidas": 0,
+      "publicado_em": "2023-12-01T13:01:28Z",
+      "atualizado_em": "2023-12-01T13:01:28Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxC-jdiIanQqmzisqp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "cara como eu visualizo uma pagina da internet do jeito q ela está? se eu baixo a pagina com todos os arquivos na hr de  visualizar nao fica o mesmo layout etc original da pagina.",
+      "curtidas": 0,
+      "publicado_em": "2023-07-18T18:37:27Z",
+      "atualizado_em": "2023-07-18T18:37:27Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzJheu4A4yB6mUp6Ht4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cara existe alguma função de \"go to\" tipo vc clicar no codigo e mostrar onde ele está na página web e se eu marcar na página ver qual onde ele está no código. Quando usava por exemplo o overleaf pra escreevr o meu tcc em latex tinha essa função. programando em html tu fica meio perdido em onde está o que.",
+      "curtidas": 1,
+      "publicado_em": "2023-03-28T16:24:46Z",
+      "atualizado_em": "2023-03-28T16:24:46Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugy0c5xyI8JECK3dYZF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O Atom, é bom?",
+      "curtidas": 1,
+      "publicado_em": "2022-09-02T15:15:29Z",
+      "atualizado_em": "2022-09-02T15:15:29Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugyi95nnLFr3ACTY-kh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS Code, pra mim não existe outro melhor!!!",
+      "curtidas": 0,
+      "publicado_em": "2022-08-27T22:40:54Z",
+      "atualizado_em": "2022-08-27T22:40:54Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugye-fwpYlyv7A7xyaZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show",
+      "curtidas": 0,
+      "publicado_em": "2022-08-25T20:49:15Z",
+      "atualizado_em": "2022-08-25T20:49:15Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxRkKhGWkYfNojTCd14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso o VS CODE mas estou nesse vídeo só por curiosidade por um conhecimento em editores de códigos",
+      "curtidas": 4,
+      "publicado_em": "2022-06-13T23:23:44Z",
+      "atualizado_em": "2022-06-13T23:23:44Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugw7MDAaK6U1CjaktOZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Hehe vou fazer codigos regedit",
+      "curtidas": 0,
+      "publicado_em": "2022-05-08T20:05:05Z",
+      "atualizado_em": "2022-05-08T20:05:05Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxLOyWOdHdbJ_pLN4t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "qual a diferença de fazer programação no celular ou desktop ?",
+      "curtidas": 0,
+      "publicado_em": "2022-05-04T22:07:03Z",
+      "atualizado_em": "2022-05-04T22:07:03Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugz0RLQjqVNFAD2jc8h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Boa noite\nAcabei de ver o seu vídeo \nEu estou procurando um editor de texto\nPara o meu projetos\nSendo que eu estou usando o sublime text\nSó q na colagem de uma imagem ele me direcionar para uma página de cobrança \nPra fazer uma assinatura \nTem como resolver isso\nHá eu sou iniciante nesse assunto\nAguardando uma resposta e uma ajuda\nAbs: Nilton",
+      "curtidas": 0,
+      "publicado_em": "2022-01-31T02:00:21Z",
+      "atualizado_em": "2022-01-31T02:00:21Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugwy39vjY991Ab7vnc94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "1.lugar (Bloco De Notas)",
+      "curtidas": 0,
+      "publicado_em": "2022-01-15T21:51:32Z",
+      "atualizado_em": "2022-01-15T21:51:32Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgyuYc61StY1sBppc3R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim... Apenas...",
+      "curtidas": 0,
+      "publicado_em": "2022-01-04T04:41:58Z",
+      "atualizado_em": "2022-01-04T04:41:58Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzorBJ1tgHchX08ukp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito lindo e legal o seu video",
+      "curtidas": 0,
+      "publicado_em": "2021-12-23T00:39:03Z",
+      "atualizado_em": "2021-12-23T00:39:03Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwlgNCKh1G4FijQb7Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tem como baixar para celular? Tipo tenho tudo pra fazer um celular igual a pc",
+      "curtidas": 0,
+      "publicado_em": "2021-10-16T21:50:12Z",
+      "atualizado_em": "2021-10-16T21:50:12Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwlgNCKh1G4FijQb7Z4AaABAg.9T_EmwkN9019dLv-HTqOMK",
+      "comentario_pai_id": "UgwlgNCKh1G4FijQb7Z4AaABAg",
+      "tipo": "resposta",
+      "texto": "Nn existe isso man",
+      "curtidas": 0,
+      "publicado_em": "2022-07-11T18:04:29Z",
+      "atualizado_em": "2022-07-11T18:04:29Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugxpjce_kP1FIXs7vil4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tem alguns editor bom pra  celular iOS",
+      "curtidas": 0,
+      "publicado_em": "2021-09-25T15:00:05Z",
+      "atualizado_em": "2021-09-25T15:00:20Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgznY1yXSctO5yX5RpF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "uso o bloco de notas a 10 anos.. depois só passo pra plataforma..",
+      "curtidas": 0,
+      "publicado_em": "2021-09-17T17:46:29Z",
+      "atualizado_em": "2021-09-17T17:46:29Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwOFZXt3KXKC5xXppV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Notepad (qualquer editor de texto simples) + CMD (Shell para compilar ou interpretar os scripts) kkk",
+      "curtidas": 1,
+      "publicado_em": "2021-06-03T16:05:54Z",
+      "atualizado_em": "2021-06-03T16:05:54Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwOFZXt3KXKC5xXppV4AaABAg.9O8045caT_A9lyRIF01HG2",
+      "comentario_pai_id": "UgwOFZXt3KXKC5xXppV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vc pode dar mais detalhes sobre sua afirmação?",
+      "curtidas": 0,
+      "publicado_em": "2023-02-10T22:36:58Z",
+      "atualizado_em": "2023-02-10T22:36:58Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugyqyf86anoRMlZsvkB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Meu sublime tá dando muito problema nas classes, elas n podem ter o mesmo nome, sempre da problema",
+      "curtidas": 1,
+      "publicado_em": "2021-02-22T01:59:59Z",
+      "atualizado_em": "2021-02-22T01:59:59Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgyEMcVAnCs03ijO0bt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual usa sem ser Wordpress?",
+      "curtidas": 0,
+      "publicado_em": "2021-02-07T20:33:51Z",
+      "atualizado_em": "2021-02-07T20:33:51Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugzq_4JJnII5VwYdzfl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "No curso desenvolvimento web, vc usa o Sublime text 3, posso fazer o curso usando o Visual sem problema nenhum ?",
+      "curtidas": 1,
+      "publicado_em": "2020-12-02T12:13:35Z",
+      "atualizado_em": "2020-12-02T12:13:35Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugyq74wz-FdlWlbXSIt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns Guilherme pelo o vídeo, mas acho que tô ficando sou bem Raiz com editores de código não é a toa que o meu editor é o VIM",
+      "curtidas": 1,
+      "publicado_em": "2020-09-08T10:27:43Z",
+      "atualizado_em": "2020-09-08T10:27:43Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugyq74wz-FdlWlbXSIt4AaABAg.9DLKKehjyac9KaYOfrug_R",
+      "comentario_pai_id": "Ugyq74wz-FdlWlbXSIt4AaABAg",
+      "tipo": "resposta",
+      "texto": "O meu também kkkkk. Eu gosto de+ do Vim. Principalmente por causa de sua linguagem o VimScript e seus atalhos e leveza.",
+      "curtidas": 0,
+      "publicado_em": "2021-03-07T17:18:12Z",
+      "atualizado_em": "2021-03-07T17:18:12Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzXyWhCT9UTbpBYsu54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual o tema q vc usa no vs code",
+      "curtidas": 0,
+      "publicado_em": "2020-09-04T20:40:40Z",
+      "atualizado_em": "2020-09-04T20:41:41Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxY56t-qajbhg4hIId4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Visual Studio + drácula + beauty + bookmarker = perfeição",
+      "curtidas": 15,
+      "publicado_em": "2020-08-25T15:14:48Z",
+      "atualizado_em": "2020-08-25T15:14:48Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxY56t-qajbhg4hIId4AaABAg.9Cmn33tOkUP9NFEPN8ZRyR",
+      "comentario_pai_id": "UgxY56t-qajbhg4hIId4AaABAg",
+      "tipo": "resposta",
+      "texto": "kkkkkkkkkkkkkkkkkk",
+      "curtidas": 1,
+      "publicado_em": "2021-05-12T14:54:25Z",
+      "atualizado_em": "2021-05-12T14:54:25Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxY56t-qajbhg4hIId4AaABAg.9Cmn33tOkUP9PwsSKGgyBV",
+      "comentario_pai_id": "UgxY56t-qajbhg4hIId4AaABAg",
+      "tipo": "resposta",
+      "texto": "Visual Studio é IDE.",
+      "curtidas": 1,
+      "publicado_em": "2021-07-18T16:02:27Z",
+      "atualizado_em": "2021-07-18T16:02:27Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxY56t-qajbhg4hIId4AaABAg.9Cmn33tOkUP9PwzzLuFYFV",
+      "comentario_pai_id": "UgxY56t-qajbhg4hIId4AaABAg",
+      "tipo": "resposta",
+      "texto": "@piadas804 sim, estava no vídeo, ele com essas extensões fica só o fino",
+      "curtidas": 1,
+      "publicado_em": "2021-07-18T17:08:16Z",
+      "atualizado_em": "2021-07-18T17:08:16Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxY56t-qajbhg4hIId4AaABAg.9Cmn33tOkUP9PxAart5a1j",
+      "comentario_pai_id": "UgxY56t-qajbhg4hIId4AaABAg",
+      "tipo": "resposta",
+      "texto": "@luciano8810 realmente. Visual Studio é uma ótima IDE.",
+      "curtidas": 0,
+      "publicado_em": "2021-07-18T18:49:47Z",
+      "atualizado_em": "2021-07-18T18:49:47Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugye71qqPSYvzSPC82F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu utilizo o notepad++",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T14:18:31Z",
+      "atualizado_em": "2020-08-25T14:18:31Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxiLinxGNlxfXywGrd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso o Android Studio",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T11:32:13Z",
+      "atualizado_em": "2020-08-25T11:32:13Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugz5WghoV7LSfR9F45l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "quero saber se no seu curso de programaçao aprende sobre o .lua ou nao",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T05:55:07Z",
+      "atualizado_em": "2020-08-25T05:55:07Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugzm_C6iEQsKQA1VZUp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sublime é vida pô kkk",
+      "curtidas": 1,
+      "publicado_em": "2020-08-25T03:53:17Z",
+      "atualizado_em": "2020-08-25T03:53:17Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugwl3CkphcedlIEITN54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "o editor de código que eu uso é o atom que pertence ao github é muito bom, o ruim dele é que utilidades como o terminal e o minimap tem que instalar, mas fora isso o editor é excelente",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T01:22:21Z",
+      "atualizado_em": "2020-08-25T01:22:21Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzOn_KdQAPMFwRpqrx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu continuo usando o sublime devido a facilidade do mesmo, porém hora ou outra estou usando o vscode.",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T00:36:23Z",
+      "atualizado_em": "2020-08-25T00:36:23Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzONBk85LH3vlfLAsJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mano, ensina como criar um app pra Android e ios no visual studio, ou no code",
+      "curtidas": 1,
+      "publicado_em": "2020-08-25T00:31:53Z",
+      "atualizado_em": "2020-08-25T00:31:53Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgyPIL1ad-m7GiszFRx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mano, ensina como criar um app pra Android e ios no visual studio, ou no code",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T00:05:39Z",
+      "atualizado_em": "2020-08-25T00:05:39Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugyz7wB72E4GqydHysp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "PHPStorm",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T00:02:16Z",
+      "atualizado_em": "2020-08-25T00:02:16Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgznZfuxW4gb307voOd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "No canal ou no curso tem mostrando o visual Studio code?",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T23:58:51Z",
+      "atualizado_em": "2020-08-24T23:59:10Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxMXNLilX85DBZbDiR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uma época ultilizei o Phpstorm crackeado;) Ele realmente é muito bom vem tudo na mão sem ter que baixar plugins, mas era muito pesado, o pc tem que ser bem potente.",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T23:33:44Z",
+      "atualizado_em": "2020-08-24T23:33:44Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugzr2XPqoEXI37Blflx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Queria saber, quanto tempo em média vc custuma programar por dia desde que vc trabalha com programação?",
+      "curtidas": 1,
+      "publicado_em": "2020-08-24T23:31:40Z",
+      "atualizado_em": "2020-08-24T23:31:40Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwPglCcxg7JWYkECPB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu também uso o vscode. e obrigado pelo dica do tema. esse e muito bom valeu",
+      "curtidas": 1,
+      "publicado_em": "2020-08-24T22:59:10Z",
+      "atualizado_em": "2020-08-24T22:59:10Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzTPk7kkomxtFTjtDl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gui quais os plugins usados no visual Studio code para front end e PHP. Eu estou usando atualmente notepad++.",
+      "curtidas": 4,
+      "publicado_em": "2020-08-24T22:56:29Z",
+      "atualizado_em": "2020-08-24T22:56:29Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzTPk7kkomxtFTjtDl4AaABAg.9Cl25jM_umQ9O808CwQjrx",
+      "comentario_pai_id": "UgzTPk7kkomxtFTjtDl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Continua no not...",
+      "curtidas": 0,
+      "publicado_em": "2021-06-03T16:06:27Z",
+      "atualizado_em": "2021-06-03T16:06:27Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugxmnx4g2yKfaG5eiHZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso VSCODE!!!!",
+      "curtidas": 1,
+      "publicado_em": "2020-08-24T22:44:29Z",
+      "atualizado_em": "2020-08-24T22:44:29Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwjET0NLkt1jfaqwVt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Essa intro ficou show",
+      "curtidas": 1,
+      "publicado_em": "2020-08-24T22:24:51Z",
+      "atualizado_em": "2020-08-24T22:24:51Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugz4M0CCy4U1_bLvOaN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Já baixei o visual studio code e gostei dele já de cara e vou passar a utilizar ele direto",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T21:46:43Z",
+      "atualizado_em": "2020-08-24T21:46:43Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugx1-_HbN2B9ROKogiR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Para mim o visual studio community vai ser sempre a melhor IDE",
+      "curtidas": 6,
+      "publicado_em": "2020-08-24T21:42:15Z",
+      "atualizado_em": "2020-08-24T21:42:15Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgwWyxemggta2ukVGU94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu sempre utiizei o netBeans e a faz 1 ano que eu to usando o  apacheNetBeans e uso o sublime quando quero fazer  algo mais rapido que não vou demorar muito tempo",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T21:27:32Z",
+      "atualizado_em": "2020-08-24T21:27:32Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugyi9AdgCwsE9hrfteB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Putz! Já ia sugerir o curso de JavaScript puro... esperando ansiosamente a liberação de mais este treinamento top. Parabéns Guilherme!",
+      "curtidas": 7,
+      "publicado_em": "2020-08-24T21:23:04Z",
+      "atualizado_em": "2020-08-24T21:23:04Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugy_x2MkXcXIcGFMtHx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show Guilherme estou aprendendo muito com o full-stack tenho grandes expectativas que a programação vai mudar minha vida muito obrigado 🔥💪",
+      "curtidas": 21,
+      "publicado_em": "2020-08-24T21:14:38Z",
+      "atualizado_em": "2020-08-24T21:14:38Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugy_x2MkXcXIcGFMtHx4AaABAg.9CkrRiuCulZ9Ckvll9_zmb",
+      "comentario_pai_id": "Ugy_x2MkXcXIcGFMtHx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vou comprar o pacote full stack amanhã 😁",
+      "curtidas": 1,
+      "publicado_em": "2020-08-24T21:52:27Z",
+      "atualizado_em": "2020-08-24T21:52:27Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugy_x2MkXcXIcGFMtHx4AaABAg.9CkrRiuCulZ9aY_WI6PuhJ",
+      "comentario_pai_id": "Ugy_x2MkXcXIcGFMtHx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Como tá sua vida depois de 1 ano ?",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T02:32:41Z",
+      "atualizado_em": "2022-05-03T02:32:41Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugy_x2MkXcXIcGFMtHx4AaABAg.9CkrRiuCulZ9t2FmwCEAex",
+      "comentario_pai_id": "Ugy_x2MkXcXIcGFMtHx4AaABAg",
+      "tipo": "resposta",
+      "texto": "2 anos depois. O que rolou",
+      "curtidas": 0,
+      "publicado_em": "2023-08-05T19:12:23Z",
+      "atualizado_em": "2023-08-05T19:12:23Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugywf_SkTfO2N6wa0bF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Traz um vídeo sobre Python",
+      "curtidas": 2,
+      "publicado_em": "2020-08-24T21:10:24Z",
+      "atualizado_em": "2020-08-24T21:10:24Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugywf_SkTfO2N6wa0bF4AaABAg.9CkqxkKVA6p9Cl_8KuIfkV",
+      "comentario_pai_id": "Ugywf_SkTfO2N6wa0bF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Up",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T03:53:56Z",
+      "atualizado_em": "2020-08-25T03:53:56Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugz6NeDs-fwJJ_vEiDp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gui mostra teu Setup e fala qual e o melhor periférico pra usar como programado",
+      "curtidas": 7,
+      "publicado_em": "2020-08-24T21:01:13Z",
+      "atualizado_em": "2020-08-24T21:01:13Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxD7C939dpMMufzYRB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "As IDE's da JetBrains são muito boas tbm",
+      "curtidas": 1,
+      "publicado_em": "2020-08-24T20:57:09Z",
+      "atualizado_em": "2020-08-24T20:57:09Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxHu8VhKMtzlROeSRZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "o curso js puro vai estar incluso no full stack?",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T20:54:59Z",
+      "atualizado_em": "2020-08-24T20:54:59Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgxHu8VhKMtzlROeSRZ4AaABAg.9CkpBqnQvMv9CkpODjOxMy",
+      "comentario_pai_id": "UgxHu8VhKMtzlROeSRZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Vai",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T20:56:40Z",
+      "atualizado_em": "2020-08-24T20:56:40Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgyGQGOKht5seuGTkol4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gui eu sou aluno do full stack e do curso de games, vc poderia me dar uma dica por qual começar dos seus cursos?",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T20:54:35Z",
+      "atualizado_em": "2020-08-24T20:54:35Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgyGQGOKht5seuGTkol4AaABAg.9Ckp8qo9-dr9CkpLbb_abP",
+      "comentario_pai_id": "UgyGQGOKht5seuGTkol4AaABAg",
+      "tipo": "resposta",
+      "texto": "Js html css",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T20:56:19Z",
+      "atualizado_em": "2020-08-24T20:56:19Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgykTmqn30j7m-mGuwx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Jeito diferente de começar o vídeo kkkkk",
+      "curtidas": 8,
+      "publicado_em": "2020-08-24T20:52:45Z",
+      "atualizado_em": "2020-08-24T20:52:45Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgykTmqn30j7m-mGuwx4AaABAg.9CkowWq-PM29CkrBFD5tW4",
+      "comentario_pai_id": "UgykTmqn30j7m-mGuwx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Cada dia tá ficando mais estranho",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T21:12:23Z",
+      "atualizado_em": "2020-08-24T21:12:23Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgykTmqn30j7m-mGuwx4AaABAg.9CkowWq-PM29CkrxHr876S",
+      "comentario_pai_id": "UgykTmqn30j7m-mGuwx4AaABAg",
+      "tipo": "resposta",
+      "texto": "kkkkkkk foi mesmo ficou engraçado kkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T21:19:04Z",
+      "atualizado_em": "2020-08-24T21:19:04Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzX2pz9VvhjtL1Ewxh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "IntelliJ IDEA <3",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T20:49:16Z",
+      "atualizado_em": "2020-08-24T20:49:16Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzX2pz9VvhjtL1Ewxh4AaABAg.9CkoXwfZT3d9Cl0PKC28Bs",
+      "comentario_pai_id": "UgzX2pz9VvhjtL1Ewxh4AaABAg",
+      "tipo": "resposta",
+      "texto": "a maioria das pessoas usa o eclipse",
+      "curtidas": 1,
+      "publicado_em": "2020-08-24T22:41:41Z",
+      "atualizado_em": "2020-08-24T22:41:41Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "UgzX2pz9VvhjtL1Ewxh4AaABAg.9CkoXwfZT3d9ClBQbDhzVq",
+      "comentario_pai_id": "UgzX2pz9VvhjtL1Ewxh4AaABAg",
+      "tipo": "resposta",
+      "texto": "@Victor-pd9vj Sim, sim.",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T00:17:58Z",
+      "atualizado_em": "2020-08-25T00:17:58Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugx-xXv0DnVXvMswuFx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Boa tarde Guilherme. Eu quero comprar o curso full stack da danki code, mas gosto muito de direito. Eu queria saber se tem como fazer programação para mim trabalhar em casa, para ter uma renda e depois estudar direito?",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T20:48:18Z",
+      "atualizado_em": "2020-08-24T20:48:18Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugx-xXv0DnVXvMswuFx4AaABAg.9CkoQuEOqFV9CkoeLJvJ_R",
+      "comentario_pai_id": "Ugx-xXv0DnVXvMswuFx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Tem, mas o curso é grande, se você não gosta de programação nem vale a pena estudar",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T20:50:16Z",
+      "atualizado_em": "2020-08-24T20:50:16Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugx-xXv0DnVXvMswuFx4AaABAg.9CkoQuEOqFV9Cl61ytszzf",
+      "comentario_pai_id": "Ugx-xXv0DnVXvMswuFx4AaABAg",
+      "tipo": "resposta",
+      "texto": "@copybase4585 Obrigado pela dica",
+      "curtidas": 0,
+      "publicado_em": "2020-08-24T23:30:55Z",
+      "atualizado_em": "2020-08-24T23:30:55Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugx-xXv0DnVXvMswuFx4AaABAg.9CkoQuEOqFV9CmwfVgbyW9",
+      "comentario_pai_id": "Ugx-xXv0DnVXvMswuFx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Desenvolve um software que se use na área de direito, um problema que não tenha uma solução simples e pode até vender",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T16:38:49Z",
+      "atualizado_em": "2020-08-25T16:38:49Z"
+    },
+    {
+      "video_id": "BzAsZOtDPYg",
+      "comentario_id": "Ugx-xXv0DnVXvMswuFx4AaABAg.9CkoQuEOqFV9CnLxNFi-cS",
+      "comentario_pai_id": "Ugx-xXv0DnVXvMswuFx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Amigo, se você se vê programando, vai fundo. Programação é como muitos dizem, é uma ferramenta para resolver problemas, o trabalho de um programador é resolver problemas e ele utiliza a programação como ferramenta para resolve-los, então isso não te impede de aplicar programação em direito, muito pelo contrário, ela pode se tornar uma ferramenta que vai te auxiliar na sua futura carreira. Pode se tornar o diferencial. Atualmente faço Eng. Software, e meus professores já deram vários exemplos de onde pode ser aplicado a programação e um deles foi na área de nutrição, onde dois nutricionistas aprenderam a programar e desenvolveram um software para os auxiliar, o projeto demonstrou potencial e além de auxiliar eles, eles também puderam comercializa-lo para outros nutricionistas, obviamente não é só vender, tem todo um licenciamento para isso, mas o que eu quero dizer é que programação não é apenas para desenvolver um aplicativo para celular ou software para um supermercado, ela pode ser aplicada em todas as áreas que necessitem de tecnologia, ou que podem utilizar a tecnologia para facilitar e talvez automatizar as tarefas.",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T20:28:27Z",
+      "atualizado_em": "2020-08-25T20:28:27Z"
+    }
+  ]
+}

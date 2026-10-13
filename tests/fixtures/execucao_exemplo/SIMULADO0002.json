@@ -1,0 +1,112 @@
+{
+  "video": {
+    "id": "SIMULADO0002",
+    "titulo": "Vídeo simulado B"
+  },
+  "coleta": {
+    "status": "concluido",
+    "simulado": true
+  },
+  "comentarios": [
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c0",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A Microsoft e a Google já usam isso no desenvolvimento",
+      "curtidas": 0,
+      "publicado_em": "2026-10-01T10:00:00Z",
+      "atualizado_em": "2026-10-01T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c1",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Excelente, didático e direto ao ponto",
+      "curtidas": 7,
+      "publicado_em": "2026-10-02T10:00:00Z",
+      "atualizado_em": "2026-10-02T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c2",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Que lixo de vídeo, decepcionante",
+      "curtidas": 3,
+      "publicado_em": "2026-10-03T10:00:00Z",
+      "atualizado_em": "2026-10-03T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c3",
+      "comentario_pai_id": "SIMULADO0002_c2",
+      "tipo": "resposta",
+      "texto": "Obrigado professor, ajudou muito na faculdade",
+      "curtidas": 10,
+      "publicado_em": "2026-10-04T10:00:00Z",
+      "atualizado_em": "2026-10-04T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c4",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O GitHub Copilot melhorou minha produtividade, muito útil 🚀",
+      "curtidas": 6,
+      "publicado_em": "2026-10-05T10:00:00Z",
+      "atualizado_em": "2026-10-05T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c5",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Interessante, mas faltou falar de segurança",
+      "curtidas": 2,
+      "publicado_em": "2026-10-06T10:00:00Z",
+      "atualizado_em": "2026-10-06T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c6",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Boa explicação sobre arquitetura de software",
+      "curtidas": 9,
+      "publicado_em": "2026-10-01T10:00:00Z",
+      "atualizado_em": "2026-10-01T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c7",
+      "comentario_pai_id": "SIMULADO0002_c6",
+      "tipo": "resposta",
+      "texto": "Isso está errado, o método não funciona assim",
+      "curtidas": 5,
+      "publicado_em": "2026-10-02T10:00:00Z",
+      "atualizado_em": "2026-10-02T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c8",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Melhor canal de programação do Brasil",
+      "curtidas": 1,
+      "publicado_em": "2026-10-03T10:00:00Z",
+      "atualizado_em": "2026-10-03T10:00:00Z"
+    },
+    {
+      "video_id": "SIMULADO0002",
+      "comentario_id": "SIMULADO0002_c9",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poderia fazer um vídeo sobre Python?",
+      "curtidas": 8,
+      "publicado_em": "2026-10-04T10:00:00Z",
+      "atualizado_em": "2026-10-04T10:00:00Z"
+    }
+  ]
+}

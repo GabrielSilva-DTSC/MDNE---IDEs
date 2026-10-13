@@ -1,0 +1,436 @@
+{
+  "video": {
+    "id": "dKLrPxWTSbo",
+    "url": "https://www.youtube.com/watch?v=dKLrPxWTSbo",
+    "titulo": "Melhores IDE de Programação [ONLINE E OFFLINE] | Getting Started #13",
+    "canal": "DIO",
+    "publicado_em": "2022-03-28T19:00:11Z",
+    "comentarios_informados_pela_api": 41
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:47:46.601381+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:47:50.204502+00:00",
+    "total": 41,
+    "principais": 30,
+    "respostas": 11,
+    "requisicoes": 9
+  },
+  "comentarios": [
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugx7AGyNF45kNkleWK14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Arrasou. A melhor!",
+      "curtidas": 0,
+      "publicado_em": "2025-01-19T19:57:06Z",
+      "atualizado_em": "2025-01-19T19:57:06Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugza7HLT2UQ58yE9TTl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "gosto da dio pq nao tem lacração igual numa tal de alure\n🤣🤣🤣🤣🤣🤣",
+      "curtidas": 0,
+      "publicado_em": "2024-10-10T04:35:41Z",
+      "atualizado_em": "2024-10-10T04:35:59Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugw5Rg3CFaGjaB1PvsF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu testei o ''Atom\" e não gostei, usei a versão Atom pra Dispositivo Mobile, e não funciona BeM, o VS CODE pra Mobile a versão gratuita é RuiM,  atualmente uso o Code Studio Studio da Ali tecnology e não tá 100% o funcionamento vou testar o Replit..",
+      "curtidas": 0,
+      "publicado_em": "2024-09-24T19:21:42Z",
+      "atualizado_em": "2024-09-24T19:21:42Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugwd1S5Nod4J5V-Urrt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Po, usava direto o replit, mas agora ele tá pago, que sacanagem!!",
+      "curtidas": 1,
+      "publicado_em": "2024-08-30T13:50:43Z",
+      "atualizado_em": "2024-08-30T13:50:43Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugwd1S5Nod4J5V-Urrt4AaABAg.A7lTmwDTK1CA91bkd3xwJ0",
+      "comentario_pai_id": "Ugwd1S5Nod4J5V-Urrt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pse mano, sacanagem",
+      "curtidas": 0,
+      "publicado_em": "2024-10-01T02:07:31Z",
+      "atualizado_em": "2024-10-01T02:07:31Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwhKCKfQ3vEd4vh5gd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Entre o eclipse comparado com intellj community ? Qual é a melhor ?",
+      "curtidas": 0,
+      "publicado_em": "2024-08-29T11:09:25Z",
+      "atualizado_em": "2024-08-29T11:09:25Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgxJEC_uE3e606XTwoB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Linda ❤",
+      "curtidas": 0,
+      "publicado_em": "2024-04-02T02:31:12Z",
+      "atualizado_em": "2024-04-02T02:31:12Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugx_sc9IOcmKNmjsdTF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito obrigado",
+      "curtidas": 0,
+      "publicado_em": "2024-02-25T16:43:25Z",
+      "atualizado_em": "2024-02-25T16:43:25Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwybX_B9hYlu0YJdsx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neatbens é mais para desktop ??",
+      "curtidas": 0,
+      "publicado_em": "2024-02-24T13:12:23Z",
+      "atualizado_em": "2024-02-24T13:12:23Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgzYUH46hhaniS_qzFB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso o bloco de notas",
+      "curtidas": 0,
+      "publicado_em": "2024-02-08T01:30:21Z",
+      "atualizado_em": "2024-02-08T01:30:21Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwIKgUz86zH7SkBBoZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "ótimo, mais enrola muito!",
+      "curtidas": 4,
+      "publicado_em": "2024-01-14T00:24:25Z",
+      "atualizado_em": "2024-01-14T00:24:25Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwIKgUz86zH7SkBBoZ4AaABAg.9zXNU6rciqsA0MfyldvJpS",
+      "comentario_pai_id": "UgwIKgUz86zH7SkBBoZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Valeu 👍",
+      "curtidas": 0,
+      "publicado_em": "2024-02-28T13:45:55Z",
+      "atualizado_em": "2024-02-28T13:45:55Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwIKgUz86zH7SkBBoZ4AaABAg.9zXNU6rciqsA0VhdNYKua6",
+      "comentario_pai_id": "UgwIKgUz86zH7SkBBoZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "*mas",
+      "curtidas": 0,
+      "publicado_em": "2024-03-03T01:53:38Z",
+      "atualizado_em": "2024-03-03T01:53:38Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwIKgUz86zH7SkBBoZ4AaABAg.9zXNU6rciqsA6FCsMKgxji",
+      "comentario_pai_id": "UgwIKgUz86zH7SkBBoZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "O cara não consegue assistir 7 minutos de videokkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "curtidas": 2,
+      "publicado_em": "2024-07-23T19:16:34Z",
+      "atualizado_em": "2024-07-23T19:16:34Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwIKgUz86zH7SkBBoZ4AaABAg.9zXNU6rciqsA9SRE--U0EP",
+      "comentario_pai_id": "UgwIKgUz86zH7SkBBoZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@Kayokkj69Kkkkkkkkkkkkkkkkkkkkkkk",
+      "curtidas": 0,
+      "publicado_em": "2024-10-11T12:06:18Z",
+      "atualizado_em": "2024-10-11T12:06:18Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgxpdJHM8haHRx36Mzx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "qual a ide ideal pra linguagem C?",
+      "curtidas": 3,
+      "publicado_em": "2023-03-07T23:25:36Z",
+      "atualizado_em": "2023-03-07T23:25:36Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgxpdJHM8haHRx36Mzx4AaABAg.9mytjIeNx7l9zvKwHl1sZx",
+      "comentario_pai_id": "UgxpdJHM8haHRx36Mzx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Dev C++ é ótimo",
+      "curtidas": 1,
+      "publicado_em": "2024-01-23T17:03:12Z",
+      "atualizado_em": "2024-01-23T17:03:12Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugy91qfp0g_swhUXATx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E pensar que quando estava na faculdade de Física eu aprendi a programar em Pascal com essa IDE da Borland (Turbo Pascal 5) no Windows 95 e depois no Linux o Emacs para programar em Fortran... Depois de anos resolvi voltar a estudar programação, e sou fã das IDEs da JetBrains. O VS Code acho um intesssante editor de códigos que facilita muito.",
+      "curtidas": 3,
+      "publicado_em": "2022-10-23T00:27:16Z",
+      "atualizado_em": "2022-10-23T00:27:16Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugy91qfp0g_swhUXATx4AaABAg.9hVog0auFyp9hoNBVsksFl",
+      "comentario_pai_id": "Ugy91qfp0g_swhUXATx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Te ensinaram a programação na faculdade de Física? Ou vc aprendeu enquanto ainda estava na faculdade de física?",
+      "curtidas": 0,
+      "publicado_em": "2022-10-30T14:43:06Z",
+      "atualizado_em": "2022-10-30T14:43:06Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgyRxrj2MYVgKdVa8GB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "gostei do seu canal, muito sucesso pra vc",
+      "curtidas": 2,
+      "publicado_em": "2022-09-12T14:33:42Z",
+      "atualizado_em": "2022-09-12T14:33:42Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgxoPa5HqFZng2I9K5R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu tenho uma experoencia nada boa com o VSCode",
+      "curtidas": 3,
+      "publicado_em": "2022-09-12T14:26:51Z",
+      "atualizado_em": "2022-09-12T14:26:51Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgzrqpVuNhxDbFd3WEJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Valeuuuu sensei!!",
+      "curtidas": 1,
+      "publicado_em": "2022-08-30T11:51:28Z",
+      "atualizado_em": "2022-08-30T11:51:28Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugxb6HLDQQ_1WCedBHx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito obrigado, vc é 10",
+      "curtidas": 1,
+      "publicado_em": "2022-07-24T02:30:23Z",
+      "atualizado_em": "2022-07-24T02:30:23Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugw7kBNrCi0LcHuqpRB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uma pequena correção, o Visual Studio Code e o Atom são editores de código, não IDEs.\n\nNessa lista deveria estar o VIM e o NeoVIM, são editores de código extremamente poderosos e simples, apesar da curva de aprendizado ser gigante. Quando vc citou o VIM você equiparou ao Notepad++ porém o VIM/NeoVIm é outro patamar.\n\nSenti falta de uma disciplina/vídeo falando de privacidade das informações, por exemplo, o VS Code é um ótimo editor e apesar de ser OpenSource ele é proprietário, existe Telemetria. Uma alternativa ao VS Code seria o VS Codium que é o VS Code sem telemetria, com isso acaba ficando mais rápido que o VS Code.\n\nAs vantagens da IDE é ter um ambiente integrado como vc comentou, porém as desvantagens é que é um ambiente lento e pesado se comparado com editores de código. Os editores estão se popularizando porque existem muitos plugins que permitem fazer quase tudo que uma IDE faz. Mesmo assim a escolha entre uma ferramenta ou outra, depende da necessidade e do tipo de projeto que está sendo desenvolvido.",
+      "curtidas": 9,
+      "publicado_em": "2022-04-19T11:18:38Z",
+      "atualizado_em": "2022-04-19T11:18:38Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugw7kBNrCi0LcHuqpRB4AaABAg.9a-T_ArodYy9qQjwSuoJKK",
+      "comentario_pai_id": "Ugw7kBNrCi0LcHuqpRB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Nossaa, muito obrigado! Atualmente estou usando o python no VS code, mas quando for fazer algum projeto grande eu vou usar o pycharm",
+      "curtidas": 1,
+      "publicado_em": "2023-06-01T17:52:10Z",
+      "atualizado_em": "2023-06-01T17:52:10Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugzx2BU5BZdABpHCZHB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Falou de Python é Pycharm, não tem outro.",
+      "curtidas": 2,
+      "publicado_em": "2022-04-01T22:06:43Z",
+      "atualizado_em": "2022-04-01T22:06:43Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugwl7l2aTe1Y4nXNBSh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o eclipse para o Java",
+      "curtidas": 2,
+      "publicado_em": "2022-03-29T19:20:56Z",
+      "atualizado_em": "2022-03-29T19:20:56Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwkRbS_-MZj9XupcAp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Dio, infelizmente não to conseguindo fazer nenhuma atividade dos bootcamp, pois no app minimiza e fecha o app e não roda de jeito nenhum o vídeo. Abri ticket e não foi resolvido o problema e ainda quem deu olhada mudou o status para resolvido sendo que eu que to tendo o problema não falei que foi resolvido em momento nenhum.",
+      "curtidas": 3,
+      "publicado_em": "2022-03-29T18:29:59Z",
+      "atualizado_em": "2022-03-29T18:29:59Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugyva_ZQK49VF6hLP5d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gostei muito das explicações, Muito Obrigado.",
+      "curtidas": 2,
+      "publicado_em": "2022-03-29T16:36:41Z",
+      "atualizado_em": "2022-03-29T16:36:41Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgzGUBongE9WlChSaOZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom, Adriana. Obrigado pelas dicas!!",
+      "curtidas": 1,
+      "publicado_em": "2022-03-29T15:51:04Z",
+      "atualizado_em": "2022-03-29T15:51:04Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugwe4yvCOd4j7Zz7OoV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VScode <3",
+      "curtidas": 1,
+      "publicado_em": "2022-03-29T13:54:19Z",
+      "atualizado_em": "2022-03-29T13:54:19Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugzx_AYvbuh7xVMz6VJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o VSCode também",
+      "curtidas": 0,
+      "publicado_em": "2022-03-29T13:22:51Z",
+      "atualizado_em": "2022-03-29T13:22:51Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgxSm0lic2Ly3S1_rk94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sou #teamVscode",
+      "curtidas": 1,
+      "publicado_em": "2022-03-29T12:26:31Z",
+      "atualizado_em": "2022-03-29T12:26:31Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugx0gqVr8zIQcFDuBTp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ainda não usei uma IDE “off-line” mas o Replit salvou muito",
+      "curtidas": 9,
+      "publicado_em": "2022-03-29T01:10:31Z",
+      "atualizado_em": "2022-03-29T01:10:31Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugw-KSTkw2BIPBuIQI54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso o VSCode para desenvolver Java, diga-se de passagem, o vsc não me deixa na mão!",
+      "curtidas": 3,
+      "publicado_em": "2022-03-28T20:26:06Z",
+      "atualizado_em": "2022-03-28T20:26:06Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "Ugw-KSTkw2BIPBuIQI54AaABAg.9_7nji607Ia9tT4g_2f8xN",
+      "comentario_pai_id": "Ugw-KSTkw2BIPBuIQI54AaABAg",
+      "tipo": "resposta",
+      "texto": "Pra mim é o melhor também principalmente pelas extensões.",
+      "curtidas": 0,
+      "publicado_em": "2023-08-16T05:14:54Z",
+      "atualizado_em": "2023-08-16T05:14:54Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgzzlutwOeqhT82bhqx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gosto muito do VS  Code",
+      "curtidas": 4,
+      "publicado_em": "2022-03-28T20:03:14Z",
+      "atualizado_em": "2022-03-28T20:03:14Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgwZohlpWY03jqtLhCB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Só qm paga consegue fazer algo no site, pq pra aprender no plano free com uma qualidade em que mal se ver as letras que estão sendo escrita,infelizmente n presta",
+      "curtidas": 3,
+      "publicado_em": "2022-03-28T19:43:34Z",
+      "atualizado_em": "2022-03-28T19:43:34Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgzBPEv8KtfnM6wfvE14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E aí comunidade tech mais vibrante da América Latina! Fala pra gente, qual a sua IDE preferida? Comenta aqui embaixo pra gente saber!",
+      "curtidas": 13,
+      "publicado_em": "2022-03-28T16:51:42Z",
+      "atualizado_em": "2022-03-28T16:51:42Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgzBPEv8KtfnM6wfvE14AaABAg.9_7QCP7PBuS9_7_PjVJWGF",
+      "comentario_pai_id": "UgzBPEv8KtfnM6wfvE14AaABAg",
+      "tipo": "resposta",
+      "texto": "gosto muito do Eclipse!",
+      "curtidas": 0,
+      "publicado_em": "2022-03-28T18:20:54Z",
+      "atualizado_em": "2022-03-28T18:20:54Z"
+    },
+    {
+      "video_id": "dKLrPxWTSbo",
+      "comentario_id": "UgzBPEv8KtfnM6wfvE14AaABAg.9_7QCP7PBuS9_7hB2I1Ox8",
+      "comentario_pai_id": "UgzBPEv8KtfnM6wfvE14AaABAg",
+      "tipo": "resposta",
+      "texto": "Gostei do C++",
+      "curtidas": 0,
+      "publicado_em": "2022-03-28T19:28:48Z",
+      "atualizado_em": "2022-03-28T19:28:48Z"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "video": {
+    "id": "LyiSd5YbOuE",
+    "url": "https://www.youtube.com/watch?v=LyiSd5YbOuE",
+    "titulo": "QUAL A MELHOR IDE ONLINE PARA PROGRAMAR PYTHON, JS ou PHP?🤓",
+    "canal": "Código CEO",
+    "publicado_em": "2022-05-02T22:15:11Z",
+    "comentarios_informados_pela_api": 23
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:48:01.165025+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:48:05.361278+00:00",
+    "total": 23,
+    "principais": 9,
+    "respostas": 14,
+    "requisicoes": 10
+  },
+  "comentarios": [
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O assunto do vídeo começa em 13:18...\nEspero que como profissional você seja mais objetivo.",
+      "curtidas": 0,
+      "publicado_em": "2022-12-31T04:59:32Z",
+      "atualizado_em": "2022-12-31T04:59:32Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg.9kHygXW7LiJ9kJEHMR6Imv",
+      "comentario_pai_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "tipo": "resposta",
+      "texto": "Comentário típico de que fica pulando partes do vídeo e depois passa vergonha nos comentários 🤦🏽‍♂️\n\nO assunto iniciou em 1:16, logo depois da introdução. \n\nPor isso a geração atual é tão desligada. Acham que sabem tudo e querem que tudo funcione em curto prazo. \nEspero que enquanto profissional você entenda que existem passos sequenciais, lógicos, metódicos e que não adianta se resolver um problema como um todo se não o quebrar em pequenos pedaços lógicos, pois seu comentário demonstra claramente que você (e sua geração) ainda não entenderam este conceito.",
+      "curtidas": 0,
+      "publicado_em": "2022-12-31T16:43:45Z",
+      "atualizado_em": "2022-12-31T16:43:45Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg.9kHygXW7LiJ9kJEdw_dO5-",
+      "comentario_pai_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "tipo": "resposta",
+      "texto": "Complementando: no vídeo existem os capítulos que estão no próprio corpo do vídeo e na descrição. Se observasse com minúcia, veria que tem um capítulo específico para o trecho do vídeo aos 13:22. \nMas... a pressa deve ser tão grande que talvez nunca tenha notado esse tipo de recurso nos vídeos do YouTube.",
+      "curtidas": 0,
+      "publicado_em": "2022-12-31T16:46:58Z",
+      "atualizado_em": "2022-12-31T16:46:58Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg.9kHygXW7LiJ9kJXWeKjVBi",
+      "comentario_pai_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "tipo": "resposta",
+      "texto": "@codigoceo LIXO!!!",
+      "curtidas": 0,
+      "publicado_em": "2022-12-31T19:31:52Z",
+      "atualizado_em": "2022-12-31T19:31:52Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg.9kHygXW7LiJ9kJjGpdNrco",
+      "comentario_pai_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "tipo": "resposta",
+      "texto": "Moleque mimadinho da geração mimimi 🙂",
+      "curtidas": 0,
+      "publicado_em": "2022-12-31T21:23:18Z",
+      "atualizado_em": "2022-12-31T21:23:18Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg.9kHygXW7LiJ9kK72tDoNG2",
+      "comentario_pai_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "tipo": "resposta",
+      "texto": "@codigoceo Pelo contrário, sou da época do Clipper e Delphi, talvez por isso a impaciência com a sua geração, assim como você também não tem com a atual.\nNão quis desmerecer o trabalho, só publiquei  minha opinião",
+      "curtidas": 0,
+      "publicado_em": "2023-01-01T00:59:51Z",
+      "atualizado_em": "2023-01-01T01:01:41Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg.9kHygXW7LiJ9kK780-LzRZ",
+      "comentario_pai_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "tipo": "resposta",
+      "texto": "Boas festas paz, saúde e muito e Sucesso!",
+      "curtidas": 0,
+      "publicado_em": "2023-01-01T01:00:33Z",
+      "atualizado_em": "2023-01-01T01:00:33Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgxvgG1dX6Q_XNvNaj14AaABAg.9kHygXW7LiJ9kK7inp9aYW",
+      "comentario_pai_id": "UgxvgG1dX6Q_XNvNaj14AaABAg",
+      "tipo": "resposta",
+      "texto": "Tranquilo. Sou dessa época TB. Sou da década de 80.\nÓtimo 2023.\nAbs.",
+      "curtidas": 0,
+      "publicado_em": "2023-01-01T01:05:42Z",
+      "atualizado_em": "2023-01-01T01:05:42Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "Ugye_ZUmky0wDxX1h254AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Poderia fazer também um vídeo de como criar um bom portfólio para conseguir a primeira vaga.",
+      "curtidas": 0,
+      "publicado_em": "2022-07-21T12:28:27Z",
+      "atualizado_em": "2022-07-21T12:28:27Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "Ugye_ZUmky0wDxX1h254AaABAg.9dk3UolhzyC9dkApf2x7CB",
+      "comentario_pai_id": "Ugye_ZUmky0wDxX1h254AaABAg",
+      "tipo": "resposta",
+      "texto": "Boooa! Anotado 🤙😉🙏\n-----\nInstagram: @CodigoCEO",
+      "curtidas": 0,
+      "publicado_em": "2022-07-21T13:32:35Z",
+      "atualizado_em": "2022-07-21T13:32:35Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgzAfkDXVRgb-2JmobF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cristovom\nMatéria bem apresentada e justificada. Não sei se é de seu conhecimento as IDE\"s: PyCharm, Geany e Bluefish além do Visual Studio Code que você comentou. Essas IDE\"s no Linux Mint 20.3 são excelentes. Recomendo o PyCharm após os usuários terem aprendidos a programar Python usando o Python-IDLE3 do interpretador no início; mas saiba que para [instalar o PyCharm] em qualquer distribuições linux deverá usar o instalador [JetBrains Toolbox]. No Windows a instalação do PyCharm é direta. Profºr Márcio Santos, pergunto-lhe: Sobre a carreira de [Programador Iniciante] - Qualquer indivíduo após fazer um curso de treinamento Python ou JavaScript de 6 meses a 1 ano ao ser contratado por qualquer empresa no regime CLT como primeiro emprego como programador iniciante será registrado na Carteira de Trabalho como programador Junior?",
+      "curtidas": 1,
+      "publicado_em": "2022-05-30T18:42:13Z",
+      "atualizado_em": "2022-05-30T18:42:13Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgzAfkDXVRgb-2JmobF4AaABAg.9bepvrkydab9bfACCfAqUH",
+      "comentario_pai_id": "UgzAfkDXVRgb-2JmobF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Oi, Cristovom. Conheço o PyCharmé muito bom mesmo. Sobre o registro em carteira: relativo. Como os níveis de programador não são oficializados, vai muito do bom senso nada empresa usar a nomenclatura adequada ao registrar um dev.\nAbs!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-30T21:48:05Z",
+      "atualizado_em": "2022-05-30T21:48:05Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgwB5OPc83cI0C3-1bx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "I'm looking for js programmers I know you are busy but of you know any experienced programmers I would appreciate your help 😃",
+      "curtidas": 1,
+      "publicado_em": "2022-05-17T21:24:24Z",
+      "atualizado_em": "2022-05-17T21:24:24Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgwB5OPc83cI0C3-1bx4AaABAg.9b8e9Ls59Ng9b8pHVGdlhu",
+      "comentario_pai_id": "UgwB5OPc83cI0C3-1bx4AaABAg",
+      "tipo": "resposta",
+      "texto": "My e-mail: marcio@codigoceo.com.br ;-)",
+      "curtidas": 0,
+      "publicado_em": "2022-05-17T23:01:37Z",
+      "atualizado_em": "2022-05-17T23:01:37Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgwvrQb74ZNcmW58QSZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Essa IDe consegue simular um servidor localhost(PHP)? Se não, existe alguma IDE que tenha este recurso? Obrigado pelas dicas!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-09T10:13:36Z",
+      "atualizado_em": "2022-05-09T10:13:36Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgwvrQb74ZNcmW58QSZ4AaABAg.9anr1LTJKGs9aotZI34SqD",
+      "comentario_pai_id": "UgwvrQb74ZNcmW58QSZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Simula sim.",
+      "curtidas": 0,
+      "publicado_em": "2022-05-09T19:54:57Z",
+      "atualizado_em": "2022-05-09T19:54:57Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "Ugw00QwrNrSX47W1nbZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Interessante pra quem tem pc do milhão. Aqui eu uso vscode e não troco por nada, fora que é super leve e tem um milhão de extensões!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-04T03:16:03Z",
+      "atualizado_em": "2022-05-04T03:16:31Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "Ugw00QwrNrSX47W1nbZ4AaABAg.9aaEGeoYH1R9abICa-ZUQz",
+      "comentario_pai_id": "Ugw00QwrNrSX47W1nbZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "O VSCode é top mesmo!\nAbs!\n-----\nInstagram: @CodigoCEO",
+      "curtidas": 2,
+      "publicado_em": "2022-05-04T13:09:41Z",
+      "atualizado_em": "2022-05-04T13:09:41Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgzaKMz9jIfF9HGFVJt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tem autocompletar ?",
+      "curtidas": 1,
+      "publicado_em": "2022-05-03T17:18:51Z",
+      "atualizado_em": "2022-05-03T17:19:02Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "UgzaKMz9jIfF9HGFVJt4AaABAg.9a_9vdSGB3X9a_jyRmYyR7",
+      "comentario_pai_id": "UgzaKMz9jIfF9HGFVJt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Tem sim ;-)\n-----\nInstagram: @CodigoCEO",
+      "curtidas": 0,
+      "publicado_em": "2022-05-03T22:42:32Z",
+      "atualizado_em": "2022-05-03T22:42:32Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "Ugy99WRdFbXxK3PzgZl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Boas Márcio , esse curso será o próximo em , assim que terminar o seu de Logica de programação , vlewwww e parabéns ! Abração",
+      "curtidas": 1,
+      "publicado_em": "2022-05-02T22:39:34Z",
+      "atualizado_em": "2022-05-02T22:39:34Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "Ugy99WRdFbXxK3PzgZl4AaABAg.9aY9pqbMoUq9aZhQyLbmMs",
+      "comentario_pai_id": "Ugy99WRdFbXxK3PzgZl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Opaaaa show, Evandro!\nGrande abraço, man!",
+      "curtidas": 1,
+      "publicado_em": "2022-05-03T13:01:07Z",
+      "atualizado_em": "2022-05-03T13:01:07Z"
+    },
+    {
+      "video_id": "LyiSd5YbOuE",
+      "comentario_id": "Ugw6GBlPqdhl35lyH-p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "⚠MENTORIA JEDI: APRENDA A SER FREELANCER⚠\n👉 https://links.kopi.com.br/?url=mentoria-free-tvle\n\n✅ CURSO DE PYTHON COMPLETO\n👉 https://www.logicamentepro.com.br/python/",
+      "curtidas": 0,
+      "publicado_em": "2022-05-01T14:37:07Z",
+      "atualizado_em": "2023-09-12T00:27:49Z"
+    }
+  ]
+}

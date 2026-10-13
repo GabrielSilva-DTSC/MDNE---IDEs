@@ -1,0 +1,156 @@
+{
+  "video": {
+    "id": "I953V5vfVRY",
+    "url": "https://www.youtube.com/watch?v=I953V5vfVRY",
+    "titulo": "Qual o melhor editor de código? #shorts",
+    "canal": "Alura",
+    "publicado_em": "2023-01-11T15:27:39Z",
+    "comentarios_informados_pela_api": 13
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:48:42.205804+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:48:44.814583+00:00",
+    "total": 13,
+    "principais": 7,
+    "respostas": 6,
+    "requisicoes": 7
+  },
+  "comentarios": [
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgyuHpBUfq5ukOJCHo14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu prefiro o VS Code!",
+      "curtidas": 1,
+      "publicado_em": "2024-08-03T21:52:20Z",
+      "atualizado_em": "2024-08-03T21:52:20Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgwF5U_qzxvJbk9b5Yt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "acho impressionante a capacidade dos profissioanais tupinik em complicar o simples",
+      "curtidas": 3,
+      "publicado_em": "2023-11-28T15:04:31Z",
+      "atualizado_em": "2023-11-28T15:04:58Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgwF5U_qzxvJbk9b5Yt4AaABAg.9xevq-fHiVDAFLhDJAZ_uD",
+      "comentario_pai_id": "UgwF5U_qzxvJbk9b5Yt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu uso um chamado literalmente \"editor de código\" baixa pela playstore, só que daí uso IA pra criar os códigos",
+      "curtidas": 0,
+      "publicado_em": "2025-03-07T00:28:26Z",
+      "atualizado_em": "2025-03-07T00:28:26Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgwTXjiFy3DCXg5rIll4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Intellij é top para JAVA, mas tô curtindo bastante o NetBeans haha",
+      "curtidas": 3,
+      "publicado_em": "2023-01-15T20:17:25Z",
+      "atualizado_em": "2023-01-15T20:17:25Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgwTXjiFy3DCXg5rIll4AaABAg.9kvEeOtidY29kx6Ws1TFJi",
+      "comentario_pai_id": "UgwTXjiFy3DCXg5rIll4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que demais, Victu. Obrigada pela contribuição! 🤩",
+      "curtidas": 2,
+      "publicado_em": "2023-01-16T13:44:49Z",
+      "atualizado_em": "2023-01-16T13:44:49Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgyauM_ZJsOp624NtgF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qnd n to perto do pc eu programo no papel msm",
+      "curtidas": 0,
+      "publicado_em": "2023-01-11T22:52:52Z",
+      "atualizado_em": "2023-01-11T22:52:52Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgyauM_ZJsOp624NtgF4AaABAg.9klDGTkKMhc9kmmMsLg5Kk",
+      "comentario_pai_id": "UgyauM_ZJsOp624NtgF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Toda hora é hora! 😍🤣",
+      "curtidas": 0,
+      "publicado_em": "2023-01-12T13:27:33Z",
+      "atualizado_em": "2023-01-12T13:27:33Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "Ugwhn5hbAi5HeFajqU94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu tive um contato bem pouco com Sublime, tentei usar Oracle quando fui estudar Java (não gostei da IDE) e sou \"casada\" com VS Code desde então 🤠 Acho ótimo!",
+      "curtidas": 2,
+      "publicado_em": "2023-01-11T19:12:01Z",
+      "atualizado_em": "2023-01-11T19:12:01Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgxNoClEuesqB8IGE1Z4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Como hard user do Sublime falo com a absoluta certeza que ele não é so corzinha...ele pode ficar idêntico ao VSCode se você souber customizar e desenvolver os módulos.. com terminais... debug etc.\n\nO problema é justamente esse, a curva de configuração do Sublime chega a ser tão desconfortável quanto um VIM",
+      "curtidas": 6,
+      "publicado_em": "2023-01-11T18:22:22Z",
+      "atualizado_em": "2023-01-11T18:22:22Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgxNoClEuesqB8IGE1Z4AaABAg.9kkjJJcNeZg9kkkkimYORg",
+      "comentario_pai_id": "UgxNoClEuesqB8IGE1Z4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que legal, Andre. Obrigada pela contribuição! 🤩",
+      "curtidas": 2,
+      "publicado_em": "2023-01-11T18:34:59Z",
+      "atualizado_em": "2023-01-11T18:34:59Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgxNoClEuesqB8IGE1Z4AaABAg.9kkjJJcNeZg9rqklMuPtQS",
+      "comentario_pai_id": "UgxNoClEuesqB8IGE1Z4AaABAg",
+      "tipo": "resposta",
+      "texto": "acho o sublime muito melhor, tem alguns detalhes que não consigo migrar pro vscode, mesmo ele tendo muito mais recursos\nqueria muito que o vscode tivesse a mesma barra de buscar que o sublime text",
+      "curtidas": 1,
+      "publicado_em": "2023-07-07T02:10:17Z",
+      "atualizado_em": "2023-07-07T02:10:17Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgyrbdLM-hCgNoM7rUl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Dreamweaver :p",
+      "curtidas": 1,
+      "publicado_em": "2023-01-11T15:54:10Z",
+      "atualizado_em": "2023-01-11T15:54:10Z"
+    },
+    {
+      "video_id": "I953V5vfVRY",
+      "comentario_id": "UgyrbdLM-hCgNoM7rUl4AaABAg.9kkTLqFIfAH9kkYIbxVFMV",
+      "comentario_pai_id": "UgyrbdLM-hCgNoM7rUl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Raphael, esse é um clássico, né? 😉",
+      "curtidas": 0,
+      "publicado_em": "2023-01-11T16:37:25Z",
+      "atualizado_em": "2023-01-11T16:37:25Z"
+    }
+  ]
+}

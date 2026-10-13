@@ -1,0 +1,1606 @@
+{
+  "video": {
+    "id": "GPcIjsz-2cA",
+    "url": "https://www.youtube.com/watch?v=GPcIjsz-2cA",
+    "titulo": "IDE // Dicionário do Programador",
+    "canal": "Código Fonte TV",
+    "publicado_em": "2018-07-16T14:00:01Z",
+    "comentarios_informados_pela_api": 158
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:48:05.382747+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:48:23.586227+00:00",
+    "total": 158,
+    "principais": 105,
+    "respostas": 53,
+    "requisicoes": 45
+  },
+  "comentarios": [
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxVqnSYO3mb-TGW0td4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "oloko tem 6 anos esse vídeo, achei que tinha no máximo 1 ano",
+      "curtidas": 0,
+      "publicado_em": "2025-06-13T23:10:06Z",
+      "atualizado_em": "2025-06-13T23:10:06Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy3h36acylglbjxZYN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Kkkk vcs são demais",
+      "curtidas": 0,
+      "publicado_em": "2023-11-01T14:48:50Z",
+      "atualizado_em": "2023-11-01T14:48:50Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwpzvLZbPaav7fhJzZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "amu essa canal admiro muito essa casal e minha inspiraçâo\n💌💌",
+      "curtidas": 1,
+      "publicado_em": "2023-09-11T00:02:03Z",
+      "atualizado_em": "2023-09-11T00:02:20Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwltO7oQIpunDjWA0R4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Estou nessa\n de aprender a programar a mais de um mês e vou dizer...é uma loucura de nomenclaturas, termos, definições e qualquer coisa do gênero, ainda sei tão pouco...minha nossa!",
+      "curtidas": 0,
+      "publicado_em": "2023-04-20T23:22:14Z",
+      "atualizado_em": "2023-04-20T23:22:14Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxWzF_lY_HRV6ITgJx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "essas canetas nao durariam muito no meu trabalho ksksksksksk",
+      "curtidas": 0,
+      "publicado_em": "2023-04-10T21:00:45Z",
+      "atualizado_em": "2023-04-10T21:00:45Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugyw-qXXrJh5TyDc6514AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mds. Quanta caneta KKKKKKK",
+      "curtidas": 0,
+      "publicado_em": "2023-03-24T23:01:43Z",
+      "atualizado_em": "2023-03-24T23:01:43Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwHwJvFPzOa7rrUT1B4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Notepad++ (qualquer editor de texto simples) + CMD (Shell para compilar ou interpretar os scripts)",
+      "curtidas": 0,
+      "publicado_em": "2023-02-11T23:59:01Z",
+      "atualizado_em": "2023-02-11T23:59:01Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugz2SHIDH5AAhfZpcAl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vídeo perfeito!",
+      "curtidas": 0,
+      "publicado_em": "2022-08-28T00:05:44Z",
+      "atualizado_em": "2022-08-28T00:05:44Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwQn8kDxYmEp2BKvrB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Por que vcs não fazem apostilas  com esses material do vídeos ou resistas para vender seria muito bom.",
+      "curtidas": 0,
+      "publicado_em": "2022-08-11T13:50:47Z",
+      "atualizado_em": "2022-08-11T13:50:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxLX1vm5Q88i6ONywF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quero agradecer vcs,  por me ambientar neste Mundo da Tecnologia de Programação.\n Estou começando  aos 47 anos e  estou maravilhado com a Gama de Conhecimento para aprender.  Um  Grande Abraço.",
+      "curtidas": 3,
+      "publicado_em": "2022-08-11T13:30:48Z",
+      "atualizado_em": "2022-08-11T13:30:48Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxLX1vm5Q88i6ONywF4AaABAg.9eaFJxQgufT9o3RJ7EkZFl",
+      "comentario_pai_id": "UgxLX1vm5Q88i6ONywF4AaABAg",
+      "tipo": "resposta",
+      "texto": "sucesso amigão, vc é um exemplo...",
+      "curtidas": 0,
+      "publicado_em": "2023-04-03T23:35:19Z",
+      "atualizado_em": "2023-04-03T23:35:19Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxLX1vm5Q88i6ONywF4AaABAg.9eaFJxQgufTA8eDOZ3tr4t",
+      "comentario_pai_id": "UgxLX1vm5Q88i6ONywF4AaABAg",
+      "tipo": "resposta",
+      "texto": "E aí, como está a evolução a área de tecnologia, nos conte mais, já conseguiu estágio ou emprego na área ?",
+      "curtidas": 0,
+      "publicado_em": "2024-09-21T14:44:09Z",
+      "atualizado_em": "2024-09-21T14:44:09Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxURAX1T-SxuhroIBd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O Replit seria uma IDE?",
+      "curtidas": 0,
+      "publicado_em": "2022-07-15T22:13:21Z",
+      "atualizado_em": "2022-07-15T22:13:21Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwJvh0d7Y8C9y-8ExZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "4:58 salvando pra estudar depois",
+      "curtidas": 0,
+      "publicado_em": "2022-05-31T13:11:05Z",
+      "atualizado_em": "2022-05-31T13:11:05Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxJML-ZVvdz4QtmpDt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Para quem realmente esta começando do zero (SUPER ZERO MESMO) este vídeo não é muito esclarecedor, pois usam outros termos que também nunca ouvi falar, além do IDE.",
+      "curtidas": 0,
+      "publicado_em": "2022-04-04T21:41:10Z",
+      "atualizado_em": "2022-04-04T21:41:10Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzcqxjItT2DYuXzxDp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "De onde vcs são?",
+      "curtidas": 1,
+      "publicado_em": "2022-01-31T17:46:44Z",
+      "atualizado_em": "2022-01-31T17:46:44Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzcqxjItT2DYuXzxDp4AaABAg.9XsJzT4Bowx9XskzFZhUrX",
+      "comentario_pai_id": "UgzcqxjItT2DYuXzxDp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Petrópolis / RJ",
+      "curtidas": 0,
+      "publicado_em": "2022-01-31T21:51:23Z",
+      "atualizado_em": "2022-01-31T21:51:23Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy9ARlDY2lRL2QxQtt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Façam um vídeo sobre Tinkercad",
+      "curtidas": 0,
+      "publicado_em": "2021-11-15T14:01:48Z",
+      "atualizado_em": "2021-11-15T14:01:48Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyhnnB4iA2XrGYIDCt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "kkkkkkkkkkkkkkkkkkkkk rachei o bico",
+      "curtidas": 0,
+      "publicado_em": "2021-10-10T22:08:29Z",
+      "atualizado_em": "2021-10-10T22:08:29Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxVWRV4sT20R7yPd2d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu tinha lido no meu livro que IDE era \"Integrated Drive Electronics\". Agora estou sem entender muito.",
+      "curtidas": 0,
+      "publicado_em": "2021-07-11T10:26:02Z",
+      "atualizado_em": "2021-07-11T10:26:02Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxle3vQFqN_75dZHMt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Valeu",
+      "curtidas": 0,
+      "publicado_em": "2021-07-02T22:29:33Z",
+      "atualizado_em": "2021-07-02T22:29:33Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy6MIaAI-RmdF4TpF94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vocês  têm um curso....top",
+      "curtidas": 0,
+      "publicado_em": "2021-05-16T03:53:24Z",
+      "atualizado_em": "2021-05-16T03:53:24Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxOEcDqiyb17RRHP-d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso uma ide chamada falcon c++ o que voces me falam sobre ela? existe alguma outra mais facil de compreender e trabalhar?",
+      "curtidas": 0,
+      "publicado_em": "2021-05-03T20:59:37Z",
+      "atualizado_em": "2021-05-03T20:59:37Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgydtW6ZKAr5l0_5UR54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fiquei impressionado com a didática de vocês e a qualidade dos vídeos!! Mais um inscrito!!",
+      "curtidas": 1,
+      "publicado_em": "2021-04-28T06:22:41Z",
+      "atualizado_em": "2021-04-28T06:22:41Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyI8_l5BjaZORQYok54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Costumo dizer que o VS Code é um Editor de Texto que ao longo do tempo que usamos ele vai se tornando uma IDE.",
+      "curtidas": 0,
+      "publicado_em": "2020-12-08T02:52:58Z",
+      "atualizado_em": "2020-12-08T02:52:58Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxU2Rnk23Fw5JqpCOR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Aaaaaaaahhh!!! Clipper!! Até choro quando vejo isso! Que tristeza que era compilar no Clipper!  :'o[",
+      "curtidas": 0,
+      "publicado_em": "2020-11-17T15:53:57Z",
+      "atualizado_em": "2020-11-17T15:53:57Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxPZKH8O5mR8I4oA6V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ajudou muito, tô ingressando nesse mundo agora. Me interessei nisso dps de passar uns anos rodando uns emuladores...é meio difícil estudar na escola e estudar programação ao mesmo tempo, mas tá dando certo.\nPs: tenho 15 anos, por isso de eu ir pra escola ._.",
+      "curtidas": 0,
+      "publicado_em": "2020-10-06T16:10:44Z",
+      "atualizado_em": "2020-10-06T16:10:44Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxPZKH8O5mR8I4oA6V4AaABAg.9EU1q_bQZ4p9WxVQhoHzT6",
+      "comentario_pai_id": "UgxPZKH8O5mR8I4oA6V4AaABAg",
+      "tipo": "resposta",
+      "texto": "😍",
+      "curtidas": 0,
+      "publicado_em": "2022-01-08T21:31:31Z",
+      "atualizado_em": "2022-01-08T21:31:31Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugz58bCOLxotFq4Zysp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Voces são maravilhosos,e o meu sonho é trabalhar com voces ! voces são minha inspiração!",
+      "curtidas": 2,
+      "publicado_em": "2020-08-25T01:28:14Z",
+      "atualizado_em": "2020-08-25T01:28:14Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugz58bCOLxotFq4Zysp4AaABAg.9ClJT6N1qQz9ClM7ClHcRU",
+      "comentario_pai_id": "Ugz58bCOLxotFq4Zysp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigado Junio!",
+      "curtidas": 0,
+      "publicado_em": "2020-08-25T01:51:27Z",
+      "atualizado_em": "2020-08-25T01:51:27Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxzl91VQcOneygPBhV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Android studio destruidor de PCs",
+      "curtidas": 0,
+      "publicado_em": "2020-07-08T16:06:56Z",
+      "atualizado_em": "2020-07-08T16:06:56Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyfLlIkppNLlvG5zN14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ôxe !   não falaram da CodeBloks ?   \nSenti um ar de trêta aí héin !   rsrsrs\n.",
+      "curtidas": 0,
+      "publicado_em": "2020-05-15T16:23:52Z",
+      "atualizado_em": "2020-05-15T16:23:52Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyFHNp8jaVwzNRhiN54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "ESSAS CANETAS TODAS AÍ É PARA ESCREVER OS CÓDIGOS ????",
+      "curtidas": 0,
+      "publicado_em": "2020-01-20T21:19:29Z",
+      "atualizado_em": "2020-01-20T21:19:29Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugyqa6p_LDLGhlgtr-x4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muitoooooooooo bom! Sigam meu canal, galera... valeu!",
+      "curtidas": 0,
+      "publicado_em": "2020-01-10T18:10:48Z",
+      "atualizado_em": "2020-01-10T18:10:48Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx249pDyHvOfs58f5p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pessoal esqueceram de citar o dreamwraver CC da Adobe, é uma IDE fantástica para desenvolvimento é aceita várias linguagem e inclusive também faz integração com o GIT ele é sempre esquecido pela maioria dos desenvolvedores... podre Dreamwraver não se preocupe... estou aqui para defende-lo hehehehe",
+      "curtidas": 0,
+      "publicado_em": "2019-12-24T11:21:18Z",
+      "atualizado_em": "2019-12-24T11:23:56Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwTT4chVL9fTpuX4SR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Porque não escreveram os nomes das IDEs? \nNão conseguiu decorar e escutar os nomes.",
+      "curtidas": 0,
+      "publicado_em": "2019-10-11T10:22:18Z",
+      "atualizado_em": "2019-10-11T10:22:18Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy4eXaV4dXXVKlUzgZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "A piada relacionada ao Android Studio foi ótima, vocês são perfeitos, sou muito fã desse casal.",
+      "curtidas": 21,
+      "publicado_em": "2019-09-04T20:09:02Z",
+      "atualizado_em": "2019-09-04T20:09:02Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy4eXaV4dXXVKlUzgZ4AaABAg.8zTdjd3gSIU9wMZ5npJ_bD",
+      "comentario_pai_id": "Ugy4eXaV4dXXVKlUzgZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu que eu diga... desisti de usar",
+      "curtidas": 0,
+      "publicado_em": "2023-10-27T06:00:08Z",
+      "atualizado_em": "2023-10-27T06:00:08Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxdJMsYToXCA3bJNx54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tanta inovação e ainda me perguntam como fazer um simples for...next! programador que vive só de ctrl c e ctrl v é tudo...menos programador, tá mais pra ... um gamer que gostou de mudar algo que já exista e posa de nerdologista para parecer que tem alguma relevância no mundo real.",
+      "curtidas": 1,
+      "publicado_em": "2019-07-09T22:26:00Z",
+      "atualizado_em": "2019-07-09T22:26:00Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwCGRSpb_lsclDPNrV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Usei o turbo Pascal :)",
+      "curtidas": 2,
+      "publicado_em": "2019-06-16T19:15:10Z",
+      "atualizado_em": "2019-06-16T19:15:10Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzslFypSuwQzVND-8l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "pra desenvolvimento web eu prefiro editor de código",
+      "curtidas": 1,
+      "publicado_em": "2019-03-11T01:05:24Z",
+      "atualizado_em": "2019-03-11T01:05:24Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxwELw83eGpG-8Zk-V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "acho que nunca vai deixar de ser engraçado as piadas com android studio e o fato dele ser bem pesado......",
+      "curtidas": 1,
+      "publicado_em": "2019-01-29T16:24:38Z",
+      "atualizado_em": "2019-01-29T16:24:38Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxXE0nXucyL37KY_Xh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Obrigado pelo vídeo, pode informar qual IDE grstis para estudar programação pyton e pascal e assembly compativeis com windows 10 home???, obrigado.",
+      "curtidas": 0,
+      "publicado_em": "2018-12-05T17:57:27Z",
+      "atualizado_em": "2018-12-05T17:57:27Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyZye0sQ5lhQiXsceJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "kkkkkkkkk rachei de rir com essa parte do Android Studio",
+      "curtidas": 0,
+      "publicado_em": "2018-11-25T18:04:15Z",
+      "atualizado_em": "2018-11-25T18:04:15Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzJg9-L3vhqPRgSZsR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "sublime text é uma IDE ?",
+      "curtidas": 0,
+      "publicado_em": "2018-11-15T18:57:47Z",
+      "atualizado_em": "2018-11-15T18:57:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzwNBC7cEZS7vz01xh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótima a piada com o Android Studio",
+      "curtidas": 0,
+      "publicado_em": "2018-11-03T15:41:03Z",
+      "atualizado_em": "2018-11-03T15:41:03Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzWWfjGHOIvTGdYIE14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bom! Vou falar mais do mesmo! Vcs são demais! hahahahahaha Sou um novato de 44 anos entrando na area depois de anos trabalhando computação gráfica na area de 3d! Obrigado por todos videos postados!",
+      "curtidas": 9,
+      "publicado_em": "2018-10-16T03:39:32Z",
+      "atualizado_em": "2018-10-16T03:39:32Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx_2YIReqOTYpsemtV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bom dia, ótimos vídeos uma dúvida então toda interface que se cria um programa é uma ide. Ex pascal?, Delphi ou tem algum digamos puro que não tem ide",
+      "curtidas": 1,
+      "publicado_em": "2018-10-03T10:28:47Z",
+      "atualizado_em": "2018-10-03T10:28:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugz5p-ikmMrG4W7NGXJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quais são as IDE's preferidas por vocês?!",
+      "curtidas": 1,
+      "publicado_em": "2018-09-17T19:18:56Z",
+      "atualizado_em": "2018-09-17T19:18:56Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugwts19jamdAZ3Nbwdl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Hey, hoje em dia um engenheiro de software ganhar muito dinheiro?",
+      "curtidas": 1,
+      "publicado_em": "2018-09-12T00:02:59Z",
+      "atualizado_em": "2018-09-12T00:02:59Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgySkJ-LdSbEfRBpBjV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tenho algumas sugestões lara futuros temas\n1 API\n2 TERMINAL/SHELL\n3 biblioteca\n4 GIT\n5 Níveis de programação, baixo nível (C) auto nivel (java)\n6 POO(sem usar o exemplo do cachorro, ninguém entende esse exemplo)\n7 PCO(Programação corporativa)",
+      "curtidas": 12,
+      "publicado_em": "2018-09-09T19:51:36Z",
+      "atualizado_em": "2018-09-09T19:51:36Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgySkJ-LdSbEfRBpBjV4AaABAg.8kzd_-EtjzH8l0_9Dk-gdN",
+      "comentario_pai_id": "UgySkJ-LdSbEfRBpBjV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Olá Marcelo, obrigada pelas ótimas sugestões.\nOBS.: Pode ficar tranquilo, não usaremos o cachorro no vídeo do POO (que entrará em breve no ar) :)",
+      "curtidas": 4,
+      "publicado_em": "2018-09-10T13:51:28Z",
+      "atualizado_em": "2018-09-10T13:51:28Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxW1hAjwqIhOSpRZFZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E aí galera, beleza? Costumam usar uma IDE para tudo ou diferenciam IDEs e Editores de texto conforme a linguagem (por exemplo, para PHP usam um Sublime Text e para Java, um Netbeans)? O que acham mais prático?",
+      "curtidas": 2,
+      "publicado_em": "2018-08-13T18:00:38Z",
+      "atualizado_em": "2018-08-13T18:00:38Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxW1hAjwqIhOSpRZFZ4AaABAg.8jtvPd0E6N18jwYe54koep",
+      "comentario_pai_id": "UgxW1hAjwqIhOSpRZFZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Por aqui, normalmente usamos uma só.",
+      "curtidas": 3,
+      "publicado_em": "2018-08-14T18:30:44Z",
+      "atualizado_em": "2018-08-14T18:30:44Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxW1hAjwqIhOSpRZFZ4AaABAg.8jtvPd0E6N18jwcvOLkWZ7",
+      "comentario_pai_id": "UgxW1hAjwqIhOSpRZFZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Código Fonte TV legal, podem comentar qual?",
+      "curtidas": 1,
+      "publicado_em": "2018-08-14T19:16:48Z",
+      "atualizado_em": "2018-08-14T19:16:48Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy07NSPnOCiUWnQnlZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "ANDROID STUDIO É PESADINHO RSRS pois é eu uso android studio e phpstorm e só resolvi o peso deles com SSD rsrsrs. tá doido rsrs",
+      "curtidas": 2,
+      "publicado_em": "2018-07-30T16:09:50Z",
+      "atualizado_em": "2018-07-30T16:09:50Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxjeF0AxHawGCIty9t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gabriel, vc falou do vscode. Eu uso Brackets e baixei o Vscode, contudo achei esse difícil pra caceta.",
+      "curtidas": 0,
+      "publicado_em": "2018-07-30T01:25:41Z",
+      "atualizado_em": "2018-07-30T01:25:41Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw7MF7ehoLRhglkqNh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muito bom 👏👏",
+      "curtidas": 2,
+      "publicado_em": "2018-07-25T04:53:21Z",
+      "atualizado_em": "2018-07-25T04:53:21Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwOzocLHC6u_Af2zUJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Netbeans",
+      "curtidas": 0,
+      "publicado_em": "2018-07-24T04:35:33Z",
+      "atualizado_em": "2018-07-24T04:35:33Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwC3FsShVagnV9DqSB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimos vídeos.",
+      "curtidas": 0,
+      "publicado_em": "2018-07-23T17:48:03Z",
+      "atualizado_em": "2018-07-23T17:48:03Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyZKFeM4iOtCXn6piV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "kkkkkkkkkkkkkk Android Studio...",
+      "curtidas": 1,
+      "publicado_em": "2018-07-21T23:35:08Z",
+      "atualizado_em": "2018-07-21T23:35:08Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyD8EVIAorWQnzcyPR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pq tantas canetas???",
+      "curtidas": 0,
+      "publicado_em": "2018-07-20T18:16:15Z",
+      "atualizado_em": "2018-07-20T18:16:15Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw0RE46d2PP0a1KFO94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo! Eu ainda estou começando na perogramação e vejo muitas pessoas criticando IDEs e que é pra programar usando um editor de texto. To no primeiro período do curso de ciência da computação e é usado editor te texto para programar. Gostaria de saber se enquanto trabalham, vocês utilizam alguma IDE ou editor de texto. Mais uma pergunta, acredito que vocês não trabalhem com jogos, mas se puderem sanar minha dúvida: eles são feitos em IDEs ou em editores de texto? Acho que seria muito difícil sem a utilização de uma IDE.",
+      "curtidas": 5,
+      "publicado_em": "2018-07-18T17:33:47Z",
+      "atualizado_em": "2018-07-18T17:33:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw0RE46d2PP0a1KFO94AaABAg.8iqvfAvA8pj8ix1uXUQ8h4",
+      "comentario_pai_id": "Ugw0RE46d2PP0a1KFO94AaABAg",
+      "tipo": "resposta",
+      "texto": "Eduardo Nunes Cara, se não me engano jogos são feitos em engines como o Unity",
+      "curtidas": 4,
+      "publicado_em": "2018-07-21T02:32:29Z",
+      "atualizado_em": "2018-07-21T02:32:29Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw0RE46d2PP0a1KFO94AaABAg.8iqvfAvA8pj8ix2G__prUe",
+      "comentario_pai_id": "Ugw0RE46d2PP0a1KFO94AaABAg",
+      "tipo": "resposta",
+      "texto": "samuel farias obrigado!!",
+      "curtidas": 2,
+      "publicado_em": "2018-07-21T02:35:38Z",
+      "atualizado_em": "2018-07-21T02:35:38Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw0RE46d2PP0a1KFO94AaABAg.8iqvfAvA8pj8ix6PqW1fi0",
+      "comentario_pai_id": "Ugw0RE46d2PP0a1KFO94AaABAg",
+      "tipo": "resposta",
+      "texto": "Não há de quê",
+      "curtidas": 3,
+      "publicado_em": "2018-07-21T03:11:51Z",
+      "atualizado_em": "2018-07-21T03:15:01Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw0RE46d2PP0a1KFO94AaABAg.8iqvfAvA8pj8r1vNxjX4sA",
+      "comentario_pai_id": "Ugw0RE46d2PP0a1KFO94AaABAg",
+      "tipo": "resposta",
+      "texto": "@samuelfarias7418 o unity vem com um editor proprio, mas pode ser integrado com o  visual studio pq ela usa c#",
+      "curtidas": 2,
+      "publicado_em": "2019-02-07T05:33:20Z",
+      "atualizado_em": "2019-02-07T05:33:20Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwYQ2KpcbNfWGUkbK94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Inciar em programão nem sempre é fácil alem dos termos que aprender a \"escrever o código\", exitem dezenas de termos ,tecnologia entre outras coisas que precisa ser estudadas.\n\nVisando ajudar quem está começando , eu quero saber qual é a vossa visão ou definição quanto as minhas  perguntas : qual é  diferença entre uma IDE,  Framework,  SDK, API E um  compilador ? e qual é a relação entre eles ?\n\nJá agora estão de parabéns pela ótima didática  quando aborda  assuntos relacionada a tecnologia Obrigado por vocês existirem.",
+      "curtidas": 4,
+      "publicado_em": "2018-07-18T17:12:19Z",
+      "atualizado_em": "2018-07-18T17:12:19Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwYQ2KpcbNfWGUkbK94AaABAg.8iqtD0V7nw_8iqx-0ENHM6",
+      "comentario_pai_id": "UgwYQ2KpcbNfWGUkbK94AaABAg",
+      "tipo": "resposta",
+      "texto": "Olá Daniel, foi justamente por essa dificuldade em ter que conhecer tantos termos que fizemos esse quadro! E, que bom que estamos ajudando.\nBem, da IDE já falamos, o Framework está \"no formo\" e será um dos próximos a entrar no ar (olha eu, dando spoiler dos próximos vídeos!) API e SDK já estão em nossa lista de criação.  Enfim, em breve conseguiremos sanar todas as suas dúvidas!\nObrigada pelas sugestões. Abraços",
+      "curtidas": 0,
+      "publicado_em": "2018-07-18T17:45:21Z",
+      "atualizado_em": "2018-07-18T17:45:21Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgySFjore4csuetSGKx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "PFV FAZ VÍDEO SOBRE API, PROMETO COMPARTILHA COM TODA MINHA SALA",
+      "curtidas": 1,
+      "publicado_em": "2018-07-18T15:47:56Z",
+      "atualizado_em": "2018-07-18T15:47:56Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgySFjore4csuetSGKx4AaABAg.8iqjYuogC678iqx2E_QcWw",
+      "comentario_pai_id": "UgySFjore4csuetSGKx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Olá Marcelo, já está na lista de criação! Abraços",
+      "curtidas": 0,
+      "publicado_em": "2018-07-18T17:45:47Z",
+      "atualizado_em": "2018-07-18T17:45:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzWkeqc9XaaBlwqDrF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pycharm, jetbrains em geral são as melhores",
+      "curtidas": 2,
+      "publicado_em": "2018-07-17T23:10:51Z",
+      "atualizado_em": "2018-07-17T23:10:51Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxUCvUbE1CRkq7hNHJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Queridos! E Shell? É o quê exatamente? (Pergunto aqui porque quando o google só me confunde kkk",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T22:25:16Z",
+      "atualizado_em": "2018-07-17T22:25:16Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxUCvUbE1CRkq7hNHJ4AaABAg.8iosEFnPF1K8iqx9Wbk2aU",
+      "comentario_pai_id": "UgxUCvUbE1CRkq7hNHJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Está na nossa lista para criação dos próximos vídeos! Abraços",
+      "curtidas": 0,
+      "publicado_em": "2018-07-18T17:46:47Z",
+      "atualizado_em": "2018-07-18T17:46:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx2wNQtYfE2PG1C5Wh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Falem sobre Vim",
+      "curtidas": 2,
+      "publicado_em": "2018-07-17T17:24:15Z",
+      "atualizado_em": "2018-07-17T17:24:15Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx_9yjrCnoVBsL9acx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sempre dou like antes mesmo de começar o vídeo. Nunca me decepcionam.",
+      "curtidas": 3,
+      "publicado_em": "2018-07-17T12:31:59Z",
+      "atualizado_em": "2018-07-17T12:31:59Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx_9yjrCnoVBsL9acx4AaABAg.8inoKqOrf3t8inz8rCAA6G",
+      "comentario_pai_id": "Ugx_9yjrCnoVBsL9acx4AaABAg",
+      "tipo": "resposta",
+      "texto": "😍😍😍😍",
+      "curtidas": 2,
+      "publicado_em": "2018-07-17T14:06:27Z",
+      "atualizado_em": "2018-07-17T14:06:27Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugyg6hogxAbZSp5TLl14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Kkkkkkk bem bolada a brincadeira com o Android Studio...",
+      "curtidas": 17,
+      "publicado_em": "2018-07-17T03:10:01Z",
+      "atualizado_em": "2018-07-17T03:10:01Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxQ2rk4n0tm5PfNn2J4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo, estão de parabéns casal. Verdadeiros escovas bits kkk.  Ri demais com o comentário a respeito do Android Studio, o IDE  obesa viu rs. Fico no aguardo do vídeo falando a respeito do .net 😊",
+      "curtidas": 3,
+      "publicado_em": "2018-07-17T02:08:04Z",
+      "atualizado_em": "2018-07-17T02:08:04Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxQ2rk4n0tm5PfNn2J4AaABAg.8imgwBEjt8O8io2XrV-xjW",
+      "comentario_pai_id": "UgxQ2rk4n0tm5PfNn2J4AaABAg",
+      "tipo": "resposta",
+      "texto": "O .Net já está na lista!\nObrigada",
+      "curtidas": 1,
+      "publicado_em": "2018-07-17T14:44:49Z",
+      "atualizado_em": "2018-07-17T14:44:49Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyIsLtTkeRFqp-H2d14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCode é muito amor!",
+      "curtidas": 1,
+      "publicado_em": "2018-07-17T01:55:01Z",
+      "atualizado_em": "2018-07-17T01:55:01Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyIsLtTkeRFqp-H2d14AaABAg.8imfRdEWXFE8io2ZEl-CKa",
+      "comentario_pai_id": "UgyIsLtTkeRFqp-H2d14AaABAg",
+      "tipo": "resposta",
+      "texto": "Também achamos!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T14:45:01Z",
+      "atualizado_em": "2018-07-17T14:45:01Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyrwTahVYEF6W5SIXx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Android Studio e sua lentidão me deixa até desanimado de fazer aplicativos... Rsrsrs... Mas aí fica o exercício de paciência.",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T01:10:45Z",
+      "atualizado_em": "2018-07-17T01:10:45Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyrwTahVYEF6W5SIXx4AaABAg.8imaNPO7kSc8io2bkYa2CQ",
+      "comentario_pai_id": "UgyrwTahVYEF6W5SIXx4AaABAg",
+      "tipo": "resposta",
+      "texto": "É isso aí Rafael, tudo tem o seu lado positivo! rrsrs",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T14:45:30Z",
+      "atualizado_em": "2018-07-17T14:45:30Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyyhvSVrjzsHCurpgl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Que canal maravilhoso. Que dupla! Tinha que ter um prêmio pra dupla mais sintonizada do YouTube. Vocês ganhariam fácil! Rs",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T23:54:51Z",
+      "atualizado_em": "2018-07-16T23:54:51Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyyhvSVrjzsHCurpgl4AaABAg.8imSgW7JKNG8imZMfembzU",
+      "comentario_pai_id": "UgyyhvSVrjzsHCurpgl4AaABAg",
+      "tipo": "resposta",
+      "texto": "😍😍😍😍",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T00:53:10Z",
+      "atualizado_em": "2018-07-17T00:53:10Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwZwa1KdEEuYPFyMRV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "ótimo vídeo Parabéns",
+      "curtidas": 2,
+      "publicado_em": "2018-07-16T23:47:16Z",
+      "atualizado_em": "2018-07-16T23:47:16Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw1-XQJVzW8h-wLZvl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Os devs da empresa que eu trabalho quase me humilharam quando disse que usava netbeans para os trabalhos da facul kkkkkkk",
+      "curtidas": 3,
+      "publicado_em": "2018-07-16T23:36:05Z",
+      "atualizado_em": "2018-07-16T23:36:05Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugw1-XQJVzW8h-wLZvl4AaABAg.8imQY3qfaWY8z0acN0ZMPv",
+      "comentario_pai_id": "Ugw1-XQJVzW8h-wLZvl4AaABAg",
+      "tipo": "resposta",
+      "texto": "Por que?",
+      "curtidas": 0,
+      "publicado_em": "2019-08-24T13:23:51Z",
+      "atualizado_em": "2019-08-24T13:23:51Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx51Syy3PoWPNMNnBh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show!! Continuem estimulando a comunidade a debater o bom debate sobre tecnologia. Estão de parabéns!!\n\nPS: Vcs são naturais do Rio msm? Não dá pra perceber o sotaque.",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T23:16:46Z",
+      "atualizado_em": "2018-07-16T23:16:46Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx51Syy3PoWPNMNnBh4AaABAg.8imOKY8YXfB8io2y1Rusjn",
+      "comentario_pai_id": "Ugx51Syy3PoWPNMNnBh4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada Joseph.\nSomos de Petrópolis, que fica na Região Serrana do Rio, por isso nosso sotaque é um pouquinho menos carioca. :)",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T14:48:32Z",
+      "atualizado_em": "2018-07-17T14:48:32Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxc11CkPcMnqJh0Sfx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O negócio é escrever o programa no bloco de notas e compilar e executar pelo terminal XD kkkkk Brinks..",
+      "curtidas": 14,
+      "publicado_em": "2018-07-16T22:35:59Z",
+      "atualizado_em": "2018-07-16T22:35:59Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxc11CkPcMnqJh0Sfx4AaABAg.8imJer509_k8io3D49nOUa",
+      "comentario_pai_id": "Ugxc11CkPcMnqJh0Sfx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Puxa Leandro, vc é das antigas! kkkk",
+      "curtidas": 5,
+      "publicado_em": "2018-07-17T14:50:43Z",
+      "atualizado_em": "2018-07-17T14:50:43Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugyn6C7eD2C1H2BQE9d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual IDE vocês mais gostam de usar? Ótimo vídeo! ;)",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T22:16:45Z",
+      "atualizado_em": "2018-07-16T22:16:45Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugyn6C7eD2C1H2BQE9d4AaABAg.8imHSucxflV8io3IaJW-Ir",
+      "comentario_pai_id": "Ugyn6C7eD2C1H2BQE9d4AaABAg",
+      "tipo": "resposta",
+      "texto": "Olá Guilherme, atualmente estamos com VSCode, gostamos muito dele. Abraços e muito obrigada!",
+      "curtidas": 2,
+      "publicado_em": "2018-07-17T14:51:29Z",
+      "atualizado_em": "2018-07-17T14:51:29Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwBuLQsvDHwgKZX2Dx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vídeo muito bem aprofundado no assunto, nunca imaginei que uma IDE podia ter tantos recursos.",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T22:03:21Z",
+      "atualizado_em": "2018-07-16T22:03:21Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwBuLQsvDHwgKZX2Dx4AaABAg.8imFvkoyyoD8io3QZfKPhG",
+      "comentario_pai_id": "UgwBuLQsvDHwgKZX2Dx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada Marcos. É sempre interessante conhecer recursos novos, afinal, eles estão ali para nos ajudar. ;)",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T14:52:34Z",
+      "atualizado_em": "2018-07-17T14:52:34Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwGhnC0yxo3lCN9mCd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Qual é o objeto mais pesado do universo?\n\nUm buraco negro ou o Java?",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T21:25:27Z",
+      "atualizado_em": "2018-07-16T21:25:27Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwGhnC0yxo3lCN9mCd4AaABAg.8imBaDZH3AQ8io3V9iG4HF",
+      "comentario_pai_id": "UgwGhnC0yxo3lCN9mCd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Podemos pesquisar antes de responder?! rsrsrsrsrs",
+      "curtidas": 1,
+      "publicado_em": "2018-07-17T14:53:12Z",
+      "atualizado_em": "2018-07-17T14:53:12Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwGhnC0yxo3lCN9mCd4AaABAg.8imBaDZH3AQ8io5Fi3fy4u",
+      "comentario_pai_id": "UgwGhnC0yxo3lCN9mCd4AaABAg",
+      "tipo": "resposta",
+      "texto": "claro, kkkk",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T15:08:34Z",
+      "atualizado_em": "2018-07-17T15:08:34Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwjJVMFAd_CaIcFMJR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "bah ficou mt profi esse vídeo  😍",
+      "curtidas": 3,
+      "publicado_em": "2018-07-16T21:01:54Z",
+      "atualizado_em": "2018-07-16T21:01:54Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwjJVMFAd_CaIcFMJR4AaABAg.8im8tk4ZDD78imFGzKpZ2K",
+      "comentario_pai_id": "UgwjJVMFAd_CaIcFMJR4AaABAg",
+      "tipo": "resposta",
+      "texto": "😍😍😍😍😍",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T21:57:38Z",
+      "atualizado_em": "2018-07-16T21:57:38Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyogiTTuS5bA5T18sB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Uso muito o visual studio 2017. Dá para trabalhar várias linguagens como c#, Java,  Android studio, Php, Html, JavaScript, R, inPython, Xamarin Android IOS Phone com C# e VBA e mais... Muito Legal!",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T19:22:50Z",
+      "atualizado_em": "2018-07-16T19:23:10Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyogiTTuS5bA5T18sB4AaABAg.8ilyZ9k4QXE8io3awq59Qa",
+      "comentario_pai_id": "UgyogiTTuS5bA5T18sB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ele é muito completo mesmo.",
+      "curtidas": 1,
+      "publicado_em": "2018-07-17T14:54:07Z",
+      "atualizado_em": "2018-07-17T14:54:07Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwRnvvOyVY49EViSJp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Que video topzera! Parabéns!",
+      "curtidas": 4,
+      "publicado_em": "2018-07-16T18:45:17Z",
+      "atualizado_em": "2018-07-16T18:45:17Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx_QRFszXcXDSrlFxp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Kkkkkk pos créditos excelente",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T18:30:19Z",
+      "atualizado_em": "2018-07-16T18:30:19Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx_QRFszXcXDSrlFxp4AaABAg.8ilsYWa3wBg8io3lp1h7Y6",
+      "comentario_pai_id": "Ugx_QRFszXcXDSrlFxp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Puxa vida, eu fui tão bem nos créditos que até criei uma nova IDE!  kkk",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T14:55:36Z",
+      "atualizado_em": "2018-07-17T14:55:36Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxbb5Fd3P3eT3YES_94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Show",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T18:26:53Z",
+      "atualizado_em": "2018-07-16T18:26:53Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwyQaTRaqELnQrRtlJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ótimo vídeo, mas me trouxe umas lembranças sombrias de trabalhar com RPG/AS400 :(\n\nAinda bem que hoje em dia eu vou de VS+Reshaper ;)",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T18:20:39Z",
+      "atualizado_em": "2018-07-16T18:20:39Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwyQaTRaqELnQrRtlJ4AaABAg.8ilrRgEnzaE8io3zGMhaqp",
+      "comentario_pai_id": "UgwyQaTRaqELnQrRtlJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Desculpa Fernando, não era nossa intensão trazer os fantasmas do passado para os dias atuais! rsrsrs\nMas como vc disse, ainda bem que hoje tudo mudou! ;)",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T14:57:26Z",
+      "atualizado_em": "2018-07-17T14:57:26Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwWz1aYjpNc6q2-jkl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCode é bom mesmo. Parece uma IDE, eu uso no estágio e acabei gostando.",
+      "curtidas": 2,
+      "publicado_em": "2018-07-16T18:11:42Z",
+      "atualizado_em": "2018-07-16T18:11:42Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwK6CRtzFqwA3d2K8l4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu me divirto enquanto aprendo kkkk",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T17:51:54Z",
+      "atualizado_em": "2018-07-16T17:51:54Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwK6CRtzFqwA3d2K8l4AaABAg.8ilo9AlMzc28io416nl4N3",
+      "comentario_pai_id": "UgwK6CRtzFqwA3d2K8l4AaABAg",
+      "tipo": "resposta",
+      "texto": "Que bom!",
+      "curtidas": 1,
+      "publicado_em": "2018-07-17T14:57:50Z",
+      "atualizado_em": "2018-07-17T14:57:50Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxmlo2MA9kZY7FP0MF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Por falar em Cobol, Pascal Clipper, ainda tem aplicações que rodam com codigo elaborado por estes. So uma pergunta..... Tenho uma coletanea de revistas Micro Sistemas. Tem ainda alguma utilidade?",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:51:20Z",
+      "atualizado_em": "2018-07-16T17:51:20Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxmlo2MA9kZY7FP0MF4AaABAg.8ilo50nwjMh8io4sjyTfpu",
+      "comentario_pai_id": "Ugxmlo2MA9kZY7FP0MF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Não sei te dizer se tecnicamente alguma delas ainda terá alguma utilidade (é bem provável que não), mas acredito que são itens interessantes para coleção. Abraços!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-17T15:05:17Z",
+      "atualizado_em": "2018-07-17T15:05:17Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx9qbq22-IjlEBhHv14AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "CARA O CONTEUDO SMP FOI BOM ! MAS ,VCS ESTÃO MUITO BONS NA EDIÇÃO E NA DIDÁTICA ! MT FODA !",
+      "curtidas": 17,
+      "publicado_em": "2018-07-16T17:41:57Z",
+      "atualizado_em": "2018-07-16T17:41:57Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx9qbq22-IjlEBhHv14AaABAg.8iln0GyVmwV8io47i7f_Cb",
+      "comentario_pai_id": "Ugx9qbq22-IjlEBhHv14AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada!",
+      "curtidas": 1,
+      "publicado_em": "2018-07-17T14:58:44Z",
+      "atualizado_em": "2018-07-17T14:58:44Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwEX2H1vyL4WZXdenF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Muitooooo bom !!!",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T17:27:10Z",
+      "atualizado_em": "2018-07-16T17:27:10Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwqHDnRG9R_yL-Spcx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Gostei do vídeo, mais teria como vocês ensinar a utilizar o Brackets, pois acostumei com o NetBeans e com isso tenho dificuldade  em utilizar outros ide .",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:10:49Z",
+      "atualizado_em": "2018-07-16T17:10:49Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwqHDnRG9R_yL-Spcx4AaABAg.8iljSDAUM_j8ilkyRUUjAj",
+      "comentario_pai_id": "UgwqHDnRG9R_yL-Spcx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sugestão anotada. Obrigada",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:24:05Z",
+      "atualizado_em": "2018-07-16T17:24:05Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxMxP0toT8MQ1Jdr8t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cobol <3",
+      "curtidas": 6,
+      "publicado_em": "2018-07-16T17:06:47Z",
+      "atualizado_em": "2018-07-16T17:06:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyNieZnmboxs9Ld45h4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Ah!!!! Saudosos turbo.exe e o editor do Clipper, que nem lembro mais o nome (ainda bem)! E detalhe para o BuquêGator.... heheheh",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T16:51:15Z",
+      "atualizado_em": "2018-07-16T16:51:15Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyNieZnmboxs9Ld45h4AaABAg.8ilhCvjsU7G8ill5B8ficN",
+      "comentario_pai_id": "UgyNieZnmboxs9Ld45h4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sessão nostalgia! BuquêGator kkkk adorei!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:25:08Z",
+      "atualizado_em": "2018-07-16T17:25:08Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugz194Zqdkf2uJgHsLd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Coincidência: assistindo o vídeo e instalando o Visual Studio na máquina nova.",
+      "curtidas": 5,
+      "publicado_em": "2018-07-16T16:48:34Z",
+      "atualizado_em": "2018-07-16T16:48:34Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzRTn3xsQjTvj8fQHR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Lindos ...",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T16:43:37Z",
+      "atualizado_em": "2018-07-16T16:43:37Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwMMJRoeFAGGhCwS_p4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "maneiraço ver o canal de vcs mais frequente!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T15:52:13Z",
+      "atualizado_em": "2018-07-16T15:52:13Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwMMJRoeFAGGhCwS_p4AaABAg.8ilaSZZ0PZs8illBc1_xnm",
+      "comentario_pai_id": "UgwMMJRoeFAGGhCwS_p4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada!!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:26:01Z",
+      "atualizado_em": "2018-07-16T17:26:01Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx8P5ms_FJq1OYWXL94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Parabéns, muito interessante esse quadro. Vocês são demais!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T15:24:13Z",
+      "atualizado_em": "2018-07-16T15:24:13Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx8P5ms_FJq1OYWXL94AaABAg.8ilYFRReexy8illDMgNR96",
+      "comentario_pai_id": "Ugx8P5ms_FJq1OYWXL94AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada!!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:26:16Z",
+      "atualizado_em": "2018-07-16T17:26:16Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyxrsYBfBmP7ScCrGd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "2:09 Vim <3",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T15:07:54Z",
+      "atualizado_em": "2018-07-16T19:30:33Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxk_NU0BgygXSWkwjZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "ganhou meu like pela dramatização kkk",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T15:07:34Z",
+      "atualizado_em": "2018-07-16T15:07:34Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxk_NU0BgygXSWkwjZ4AaABAg.8ilWLWB86lp8ilmGgrL_bX",
+      "comentario_pai_id": "Ugxk_NU0BgygXSWkwjZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada! rsrsrs",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:35:27Z",
+      "atualizado_em": "2018-07-16T17:35:27Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwfltCyV15xWOw2aOl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vídeo muito top amo esses tipos de vídeos",
+      "curtidas": 3,
+      "publicado_em": "2018-07-16T15:01:34Z",
+      "atualizado_em": "2018-07-16T15:01:34Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxkqE2Av6yPNsXxWj94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tirando o volume do áudio que está todo desajustado durante a execução do vídeo, de resto está perfeito. O mais importante é a informação.\nQue sabe na próxima versão corrigem o 😄 bug do áudio😄   (youtube áudio normalize) 😁.",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T14:37:17Z",
+      "atualizado_em": "2018-07-16T14:37:17Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxkqE2Av6yPNsXxWj94AaABAg.8ilSsm8f-Y48ilmNO9nnpp",
+      "comentario_pai_id": "UgxkqE2Av6yPNsXxWj94AaABAg",
+      "tipo": "resposta",
+      "texto": "Dica anotada! Obrigada",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:36:22Z",
+      "atualizado_em": "2018-07-16T17:36:22Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy4yQ37qRJiAAPZ8eh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Essa foi a primeira que eu aprendi!",
+      "curtidas": 5,
+      "publicado_em": "2018-07-16T14:36:38Z",
+      "atualizado_em": "2018-07-16T14:36:38Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgxAFpM5YBCBi-3lg-d4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vs code é intermediario, começa como editor mas com os plugins certos vira ide",
+      "curtidas": 9,
+      "publicado_em": "2018-07-16T14:25:56Z",
+      "atualizado_em": "2018-07-16T14:25:56Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzJzjcTPJ43fIVdsuF4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Falar sobre o Vim....",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T14:22:14Z",
+      "atualizado_em": "2018-07-16T14:22:14Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgzJzjcTPJ43fIVdsuF4AaABAg.8ilR9T1hfxh8ilTKuM4qwm",
+      "comentario_pai_id": "UgzJzjcTPJ43fIVdsuF4AaABAg",
+      "tipo": "resposta",
+      "texto": "Sugestão anotada!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T14:41:16Z",
+      "atualizado_em": "2018-07-16T14:41:16Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyIWy3kHZBa3y25Y6F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Coitado do Android Studio.kkkk achei que era o único que considerava o VS Code uma IDE.😂😂😂 \n\nÓtimo vídeo parabéns.👏👏👏👏",
+      "curtidas": 38,
+      "publicado_em": "2018-07-16T14:21:47Z",
+      "atualizado_em": "2018-07-16T14:21:47Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyIWy3kHZBa3y25Y6F4AaABAg.8ilR6AOyRKo8ilTK1ipzQt",
+      "comentario_pai_id": "UgyIWy3kHZBa3y25Y6F4AaABAg",
+      "tipo": "resposta",
+      "texto": "Tadinho do Android Studio, tivemos que fazer bullying com ele! kkk\nEstamos de acordo, é IDE e pronto! ;)\nObrigada!",
+      "curtidas": 4,
+      "publicado_em": "2018-07-16T14:41:09Z",
+      "atualizado_em": "2018-07-16T14:41:09Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyIWy3kHZBa3y25Y6F4AaABAg.8ilR6AOyRKo8ilmoySxCD8",
+      "comentario_pai_id": "UgyIWy3kHZBa3y25Y6F4AaABAg",
+      "tipo": "resposta",
+      "texto": "Também, de todas as IDEs é a mais barebones.",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T17:40:16Z",
+      "atualizado_em": "2018-07-16T17:40:16Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyIWy3kHZBa3y25Y6F4AaABAg.8ilR6AOyRKo8iuMTvCR4pE",
+      "comentario_pai_id": "UgyIWy3kHZBa3y25Y6F4AaABAg",
+      "tipo": "resposta",
+      "texto": "kkk tem que ter a zueira com o Android Studio kkk",
+      "curtidas": 0,
+      "publicado_em": "2018-07-20T01:34:30Z",
+      "atualizado_em": "2018-07-20T01:34:30Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwtTzc5PkEFBkZp-Qt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Onde a linguagem lua é mais utilizada?",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T14:20:03Z",
+      "atualizado_em": "2018-07-16T14:20:03Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwtTzc5PkEFBkZp-Qt4AaABAg.8ilQuTLFA2S8ilT71ju37T",
+      "comentario_pai_id": "UgwtTzc5PkEFBkZp-Qt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Olá Pedro, ela é usada em aplicações industriais e em jogos. E é uma linguagem brasileira! Se quiser saber mais aí vai um link interessante: https://www.lua.org/portugues.html",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T14:39:22Z",
+      "atualizado_em": "2018-07-16T14:39:22Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwtTzc5PkEFBkZp-Qt4AaABAg.8ilQuTLFA2S8ilU8KB0r7s",
+      "comentario_pai_id": "UgwtTzc5PkEFBkZp-Qt4AaABAg",
+      "tipo": "resposta",
+      "texto": "tenqeyou very math",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T14:48:17Z",
+      "atualizado_em": "2018-07-16T14:48:17Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxlj9j0kKlXX2_8h994AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "muito bom como sempre, adoro esse canal !!!",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T14:19:04Z",
+      "atualizado_em": "2018-07-16T14:19:04Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugxlj9j0kKlXX2_8h994AaABAg.8ilQnHrCJJM8ilQpHTgF6x",
+      "comentario_pai_id": "Ugxlj9j0kKlXX2_8h994AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T14:19:20Z",
+      "atualizado_em": "2018-07-16T14:19:20Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwEnA6WXQA0Bw9-pn54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O legal é as canetas kkkkk",
+      "curtidas": 45,
+      "publicado_em": "2018-07-16T14:18:33Z",
+      "atualizado_em": "2018-07-16T14:18:33Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwEnA6WXQA0Bw9-pn54AaABAg.8ilQjV2Pu8L8ilQvIm80HU",
+      "comentario_pai_id": "UgwEnA6WXQA0Bw9-pn54AaABAg",
+      "tipo": "resposta",
+      "texto": "rsrsrs ainda nos perguntamos pq todos gostam tanto delas! Mesmo sem escrever continuaremos usando! kkk",
+      "curtidas": 10,
+      "publicado_em": "2018-07-16T14:20:09Z",
+      "atualizado_em": "2018-07-16T14:20:09Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwEnA6WXQA0Bw9-pn54AaABAg.8ilQjV2Pu8L9KM-vFFL37-",
+      "comentario_pai_id": "UgwEnA6WXQA0Bw9-pn54AaABAg",
+      "tipo": "resposta",
+      "texto": "Deve ser uma mandinga de programador ... rsss",
+      "curtidas": 0,
+      "publicado_em": "2021-03-01T16:28:20Z",
+      "atualizado_em": "2021-03-01T16:28:20Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgwEnA6WXQA0Bw9-pn54AaABAg.8ilQjV2Pu8LAWM2xU1vsjW",
+      "comentario_pai_id": "UgwEnA6WXQA0Bw9-pn54AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu já estou até enxergando uma sequência de 0 e 1 nas canetas 😂",
+      "curtidas": 0,
+      "publicado_em": "2026-05-03T16:40:49Z",
+      "atualizado_em": "2026-05-03T16:40:49Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx-NmvY67Qh5jnlKEp4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O canal de vcs é sensacional. Parabéns!",
+      "curtidas": 1,
+      "publicado_em": "2018-07-16T14:16:49Z",
+      "atualizado_em": "2018-07-16T14:16:49Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx-NmvY67Qh5jnlKEp4AaABAg.8ilQXm9oGWC8ilQwY4hGFF",
+      "comentario_pai_id": "Ugx-NmvY67Qh5jnlKEp4AaABAg",
+      "tipo": "resposta",
+      "texto": "Muito obrigada Bruno!!!",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T14:20:19Z",
+      "atualizado_em": "2018-07-16T14:20:19Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugx9uayZTMAed9DJ1DV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Fiz um cursinho de programação com visual Studio há alguns anos e fiquei fascinado com tantas ferramentas que auxiliam muito o programador, economizando tempo e sendo produtivo.\n\nObrigado, os vídeos de vocês são excelentes e sempre ajudam.",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T14:12:39Z",
+      "atualizado_em": "2018-07-16T14:12:39Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "Ugy-ixnP9KSkMTKP7SN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eta sou segundo",
+      "curtidas": 3,
+      "publicado_em": "2018-07-16T14:11:03Z",
+      "atualizado_em": "2018-07-16T14:11:03Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyqKxQVS96cXtXcAv54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Primeiro a comentar... Tô adorando ver vídeos com mais frequência de vocês, Parabéns.!!",
+      "curtidas": 2,
+      "publicado_em": "2018-07-16T14:04:05Z",
+      "atualizado_em": "2018-07-16T14:04:05Z"
+    },
+    {
+      "video_id": "GPcIjsz-2cA",
+      "comentario_id": "UgyqKxQVS96cXtXcAv54AaABAg.8ilP4_S_5RL8ilQnNp7jaL",
+      "comentario_pai_id": "UgyqKxQVS96cXtXcAv54AaABAg",
+      "tipo": "resposta",
+      "texto": "Olá Rafael, que bom que vc está gostando! Também estamos felizes. :) Abraços",
+      "curtidas": 0,
+      "publicado_em": "2018-07-16T14:19:04Z",
+      "atualizado_em": "2018-07-16T14:19:04Z"
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "video": {
+    "id": "mshwmDsZ9js",
+    "url": "https://www.youtube.com/watch?v=mshwmDsZ9js",
+    "titulo": "As melhores IDEs pra cada linguagem de programação",
+    "canal": "DevArthur",
+    "publicado_em": "2026-04-24T21:01:00Z",
+    "comentarios_informados_pela_api": 88
+  },
+  "coleta": {
+    "iniciada_em": "2026-10-12T22:46:49.900274+00:00",
+    "limite": 0,
+    "incluir_respostas": true,
+    "ordem": "time",
+    "orcamento_requisicoes": 476,
+    "status": "concluido",
+    "encerramento": "api_esgotada",
+    "finalizada_em": "2026-10-12T22:46:57.790423+00:00",
+    "total": 88,
+    "principais": 48,
+    "respostas": 40,
+    "requisicoes": 21
+  },
+  "comentarios": [
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugz53yn6B__NBZBilqh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Meu insta pra vcs mandarem dúvidas: @devarthur7",
+      "curtidas": 2,
+      "publicado_em": "2026-04-28T09:18:54Z",
+      "atualizado_em": "2026-04-28T09:18:54Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgytbKVBow_O9LqUehZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Geany",
+      "curtidas": 0,
+      "publicado_em": "2026-05-04T03:42:27Z",
+      "atualizado_em": "2026-05-04T03:42:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzih74sek9eLjNzMWN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "uso vs code pra tudo mas to aprendendo neovim",
+      "curtidas": 0,
+      "publicado_em": "2026-05-03T02:01:38Z",
+      "atualizado_em": "2026-05-03T02:01:38Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugx6K3Qg85Msx4rbBLV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Zed, neovim e vscode. Tem que escolher um dos três e usar pra tudo",
+      "curtidas": 0,
+      "publicado_em": "2026-05-02T14:10:52Z",
+      "atualizado_em": "2026-05-02T14:10:52Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxEiOZ5GVALjYrcxuR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu usando vs code pra csharp, java, php, golang, ts, js, python.",
+      "curtidas": 1,
+      "publicado_em": "2026-05-02T02:59:01Z",
+      "atualizado_em": "2026-05-02T02:59:01Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgziD72Kt4K8Gc_djcx4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "nano, terminal e bloco de notas = tudo",
+      "curtidas": 0,
+      "publicado_em": "2026-05-01T19:55:41Z",
+      "atualizado_em": "2026-05-01T19:55:41Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgziD72Kt4K8Gc_djcx4AaABAg.AWHFezcDC3rAWJD182NnUW",
+      "comentario_pai_id": "UgziD72Kt4K8Gc_djcx4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pobreza extrema",
+      "curtidas": 0,
+      "publicado_em": "2026-05-02T14:11:07Z",
+      "atualizado_em": "2026-05-02T14:11:07Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwEFek6ghxHQfOSYLd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Que mercado que vai logo logo tender a 0... Ninguém mais vai precisar de IDE... 😢 Eu mesmo já cancelei todas as minhas assinaturas de IDE porque não escrevo mais código. AI full. Quem escreveu código profissionalmente escreveu, quem não teve essa oportunidade sinto muito.",
+      "curtidas": 0,
+      "publicado_em": "2026-05-01T17:40:44Z",
+      "atualizado_em": "2026-05-01T17:40:44Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxsIuGMVS9EVn9yMg94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Tentei baixar o pycharm , mas meu nootbook é uma bomba Kakakaka",
+      "curtidas": 0,
+      "publicado_em": "2026-05-01T10:53:01Z",
+      "atualizado_em": "2026-05-01T10:53:01Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxhHyrsZqrqU1_wTCN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Geany e neovim/lazyvim >>>> all",
+      "curtidas": 2,
+      "publicado_em": "2026-04-30T17:09:46Z",
+      "atualizado_em": "2026-04-30T17:09:46Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzQHuWHa7zFyTGnoLl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "tudo nutella, tem que usar o nano do linux",
+      "curtidas": 0,
+      "publicado_em": "2026-04-30T08:33:35Z",
+      "atualizado_em": "2026-04-30T08:33:35Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzPmlOEMHkkEoGiC1F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quando se trata de IDE e não editor de texto como VS Code a Jetbrains da um show, só quem já usou sabe a diferença brutal.",
+      "curtidas": 1,
+      "publicado_em": "2026-04-30T03:16:44Z",
+      "atualizado_em": "2026-04-30T03:16:44Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyEBHVZ3rcTjFAfj014AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Quando se trata de IDE e não editor de texto como VS Code a Jetbrains da um show, só quem já usou sabe a diferença brutal.",
+      "curtidas": 1,
+      "publicado_em": "2026-04-30T03:15:42Z",
+      "atualizado_em": "2026-04-30T03:15:42Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgweOeN_1T_1CUNe5Nd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCode não é IDE kkkkkk é só um navegador transvertido de IDE",
+      "curtidas": 1,
+      "publicado_em": "2026-04-28T11:17:46Z",
+      "atualizado_em": "2026-04-28T11:17:46Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugy4t1dQPr4Ph4EJQXJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Bloco de notas",
+      "curtidas": 0,
+      "publicado_em": "2026-04-28T07:45:05Z",
+      "atualizado_em": "2026-04-28T07:45:05Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwCLMg6nBlummJQMS54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Visual Studio também é o melhor pra C e C++ no windows",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T21:06:58Z",
+      "atualizado_em": "2026-04-27T21:06:58Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxMMj5_nMcI5Ny8Npd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O que e IDEs",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T18:32:18Z",
+      "atualizado_em": "2026-04-27T18:32:18Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgweDg7LJhF4TXdjwFR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim >>>>>>> qualquer uma dessas merdas aí. E não vai ocupar quase 1 TB de armazenamento só pra ter todas as IDEs.",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T15:03:27Z",
+      "atualizado_em": "2026-04-27T15:03:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgweDg7LJhF4TXdjwFR4AaABAg.AW6R21TTMmtAW6VRN7nxzr",
+      "comentario_pai_id": "UgweDg7LJhF4TXdjwFR4AaABAg",
+      "tipo": "resposta",
+      "texto": "pq falar palavrão meu nobre?",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T15:41:51Z",
+      "atualizado_em": "2026-04-27T15:41:51Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwH1oHhoy5sGqm1D4V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS Code é só um editor de texto com  esteroides(por isso que é muito mais leve e flexível). a diferença entre um editor de textos e uma ide é gritante",
+      "curtidas": 2,
+      "publicado_em": "2026-04-27T10:45:55Z",
+      "atualizado_em": "2026-04-27T10:45:55Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwH1oHhoy5sGqm1D4V4AaABAg.AW5yZqaat6aAWQoDTe5z9m",
+      "comentario_pai_id": "UgwH1oHhoy5sGqm1D4V4AaABAg",
+      "tipo": "resposta",
+      "texto": "Leve é o neovim, vc code é pesado pra caramba",
+      "curtidas": 0,
+      "publicado_em": "2026-05-05T12:59:32Z",
+      "atualizado_em": "2026-05-05T12:59:32Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzWDOxe_o-c94OXiFl4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "dito isso, pode baixar o vs code pra tudo e ser feliz",
+      "curtidas": 1,
+      "publicado_em": "2026-04-27T02:51:17Z",
+      "atualizado_em": "2026-04-27T02:51:17Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugwh8odPuxs9tI_zQdB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": ".net core sem dúvidas é melhor usar o vscode e wsl, visual studio é pesado e lerdo. Agora se tiver .net framework pra baixa ai nao tem mt como fugir kkkk",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T00:57:58Z",
+      "atualizado_em": "2026-04-27T00:57:58Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzsWRdMLjnW1LLPaKB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso nano mano",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T22:55:39Z",
+      "atualizado_em": "2026-04-26T22:55:39Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyUIxAKv7QuHxic37t4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Td isso pra perder emprego pro cara que usa neovim num hyprland",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T21:12:19Z",
+      "atualizado_em": "2026-04-26T21:12:19Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugy1V1AuQM-9xA3tsQh4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Padrão do Mercado pra Java sempre foi Eclipse",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T21:11:23Z",
+      "atualizado_em": "2026-04-26T21:11:23Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxN2jUIy63zl_WHsRN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O Sai amaria esse vídeo \n(Dr. Stone reference)",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T20:38:14Z",
+      "atualizado_em": "2026-04-26T20:38:14Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugz-rHLQb7bgguAMofZ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Só por curiosidade, e pra assembly?",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T19:55:52Z",
+      "atualizado_em": "2026-04-26T19:55:52Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugz-rHLQb7bgguAMofZ4AaABAg.AW4NhwFwrUwAW6bNgsIi0s",
+      "comentario_pai_id": "Ugz-rHLQb7bgguAMofZ4AaABAg",
+      "tipo": "resposta",
+      "texto": "O Clion funciona só q com ressalvas, vc precisa baixar um plugin para o assembly específico que vc vai programar e precisa usar o um assembler e criar executável para montar o código aí vc pode colocar ele no Cmake e vai funcionar",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T16:42:31Z",
+      "atualizado_em": "2026-04-27T16:42:31Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzfiq2avpT3_p7CAMN4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "O vs code não serve pra todas linguagem?",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T19:35:06Z",
+      "atualizado_em": "2026-04-26T19:35:06Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugx28qjwUITlBs-Ks454AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VSCode pra Dart e Flutter é maravilhoso tbm",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T19:34:20Z",
+      "atualizado_em": "2026-04-26T19:34:20Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwvnH6mgdsZGZnXE_V4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Eu uso o geany pra python",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T18:45:00Z",
+      "atualizado_em": "2026-04-26T18:45:00Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwvnH6mgdsZGZnXE_V4AaABAg.AW4FarIWbCnAWENcsPQsmP",
+      "comentario_pai_id": "UgwvnH6mgdsZGZnXE_V4AaABAg",
+      "tipo": "resposta",
+      "texto": "boa, to querendo aprender a usar o geany\nesse é foda",
+      "curtidas": 0,
+      "publicado_em": "2026-04-30T17:07:35Z",
+      "atualizado_em": "2026-04-30T17:07:35Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxMyZa9HZlmlXmhUs54AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Glr Vs code não é IDE",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T15:13:55Z",
+      "atualizado_em": "2026-04-26T15:13:55Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxT0WLcNhcr--VX0hB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Perfeito",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T13:44:47Z",
+      "atualizado_em": "2026-04-26T13:44:47Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxV_lNNyRyQomiSq-F4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Mano, vs code é inútil a menos que você tenha pc fraco, é só usar a ide da jetbrains focada na linguagem que você tá usando é sucesso. intellisense é muito melhor, refatoracao de código, ferramentas de debbug e etc",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T11:10:18Z",
+      "atualizado_em": "2026-04-26T11:10:18Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugx1B644Nz9TQKMZQn94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Slk to acostumado com o LIXO do Android Studio vou migrar logo",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T04:04:45Z",
+      "atualizado_em": "2026-04-26T04:04:45Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyrIz43-w3o2JLr0mR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Jetbtains ainda tentando devorar o mercado, todo mundo esquecendo o bom e velho bloco de notas e mt reza",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T03:08:55Z",
+      "atualizado_em": "2026-04-26T03:08:55Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzFoyiQI6zsjAXeGqV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Cala boca mano VS code> KKKKKKK",
+      "curtidas": 1,
+      "publicado_em": "2026-04-26T00:44:04Z",
+      "atualizado_em": "2026-04-26T00:44:04Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzFoyiQI6zsjAXeGqV4AaABAg.AW2JtrjuVG8AWENgID_IJV",
+      "comentario_pai_id": "UgzFoyiQI6zsjAXeGqV4AaABAg",
+      "tipo": "resposta",
+      "texto": "noob falando acima\n\nneovim >>>>> VSCODE",
+      "curtidas": 1,
+      "publicado_em": "2026-04-30T17:08:03Z",
+      "atualizado_em": "2026-04-30T17:08:03Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugyvg0xqDg-MitHaCht4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Não posso botar isso tudo, vai pocar meu Pc...",
+      "curtidas": 3,
+      "publicado_em": "2026-04-25T22:27:26Z",
+      "atualizado_em": "2026-04-25T22:27:26Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugyvg0xqDg-MitHaCht4AaABAg.AW24GCLBki0AWJD2gLUA2B",
+      "comentario_pai_id": "Ugyvg0xqDg-MitHaCht4AaABAg",
+      "tipo": "resposta",
+      "texto": "Pocar??",
+      "curtidas": 0,
+      "publicado_em": "2026-05-02T14:11:19Z",
+      "atualizado_em": "2026-05-02T14:11:19Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugz-xErOMgw0cDHufgV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Algum pra Cobol kkkkkkkkkkk",
+      "curtidas": 3,
+      "publicado_em": "2026-04-25T16:56:03Z",
+      "atualizado_em": "2026-04-25T16:56:03Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugz-xErOMgw0cDHufgV4AaABAg.AW1UL47hoiFAW1UqHO_Quj",
+      "comentario_pai_id": "Ugz-xErOMgw0cDHufgV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Porr kkkk",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T17:00:27Z",
+      "atualizado_em": "2026-04-25T17:00:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugy2nnE12FzhAXax1PB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Notepad++ pra tudo😎",
+      "curtidas": 9,
+      "publicado_em": "2026-04-25T16:39:33Z",
+      "atualizado_em": "2026-04-25T16:39:33Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugy2nnE12FzhAXax1PB4AaABAg.AW1SSFM_lNXAW1UYIMBTz4",
+      "comentario_pai_id": "Ugy2nnE12FzhAXax1PB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Brabo kkk",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T16:57:52Z",
+      "atualizado_em": "2026-04-25T16:57:52Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzr36h-SntPEbg2kl94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Neovim pra tudo filho",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T16:22:09Z",
+      "atualizado_em": "2026-04-25T16:22:09Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzr36h-SntPEbg2kl94AaABAg.AW1QShE42S2AW1UnMbRAdP",
+      "comentario_pai_id": "Ugzr36h-SntPEbg2kl94AaABAg",
+      "tipo": "resposta",
+      "texto": "Boa mn",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T17:00:03Z",
+      "atualizado_em": "2026-04-25T17:00:03Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzr36h-SntPEbg2kl94AaABAg.AW1QShE42S2AW1Wg9AlX82",
+      "comentario_pai_id": "Ugzr36h-SntPEbg2kl94AaABAg",
+      "tipo": "resposta",
+      "texto": "​@devvarthur o lado ruim é que tem que configurar muita coisa manualmente 😅",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T17:16:33Z",
+      "atualizado_em": "2026-04-25T17:16:33Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzr36h-SntPEbg2kl94AaABAg.AW1QShE42S2AW2i0ZjhgwP",
+      "comentario_pai_id": "Ugzr36h-SntPEbg2kl94AaABAg",
+      "tipo": "resposta",
+      "texto": "neovim é bem paia pra java, C# e desenvolvimento android nativo",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T04:23:34Z",
+      "atualizado_em": "2026-04-26T04:23:34Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzr36h-SntPEbg2kl94AaABAg.AW1QShE42S2AW3ObwvX-6d",
+      "comentario_pai_id": "Ugzr36h-SntPEbg2kl94AaABAg",
+      "tipo": "resposta",
+      "texto": "​@daishes é meio complicado mesmo. Mas uma vez eu consegui fazer pelo menos um LSP funcionar. Era o Roslyn, mas no meu celular não funciona então eu nem uso tanto C#...",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T10:44:33Z",
+      "atualizado_em": "2026-04-26T10:44:33Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzD_AXJqAfDiqrfGJJ4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Sublime pra tudo, executa no terminal",
+      "curtidas": 3,
+      "publicado_em": "2026-04-25T15:18:27Z",
+      "atualizado_em": "2026-04-25T15:18:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzD_AXJqAfDiqrfGJJ4AaABAg.AW1JAAtOg-NAW1UiwE2ejW",
+      "comentario_pai_id": "UgzD_AXJqAfDiqrfGJJ4AaABAg",
+      "tipo": "resposta",
+      "texto": "Raiz demais esse fluxo!",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T16:59:27Z",
+      "atualizado_em": "2026-04-25T16:59:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzQdgkiFRB04TkUNjt4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Obrigado ADM amo vc",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T13:42:36Z",
+      "atualizado_em": "2026-04-25T13:42:36Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgzQdgkiFRB04TkUNjt4AaABAg.AW18CEbBLPpAW1CnivP_GW",
+      "comentario_pai_id": "UgzQdgkiFRB04TkUNjt4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu te amo mais",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T14:22:49Z",
+      "atualizado_em": "2026-04-25T14:22:49Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Vim e bloco de notas pra tudo 💪🏻",
+      "curtidas": 42,
+      "publicado_em": "2026-04-25T13:17:24Z",
+      "atualizado_em": "2026-04-25T13:17:24Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW1QU7lGUfO",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eita! 😂",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T16:22:20Z",
+      "atualizado_em": "2026-04-25T16:22:20Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW1UYpJ0njX",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Raiz demais esse aí mn kkkkk",
+      "curtidas": 4,
+      "publicado_em": "2026-04-25T16:57:56Z",
+      "atualizado_em": "2026-04-25T16:57:56Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW1VWrAmit9",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ele tinha falha de segurança, prefiro o nano, raiz de vdd",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T17:06:24Z",
+      "atualizado_em": "2026-04-25T17:06:24Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW1WcL30O7u",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@king_flow2384 qual deles? O bloco de notas? Lembro mesmo de ter visto por aí algo sobre RCE no Vim ou no Notepad (da Microsoft)",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T17:16:01Z",
+      "atualizado_em": "2026-04-25T17:16:01Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW291vl8GQ7",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "@king_flow2384 nano KKKK",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T23:09:11Z",
+      "atualizado_em": "2026-04-25T23:09:11Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW3f6suZ94I",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@king_flow2384micro é melhor",
+      "curtidas": 0,
+      "publicado_em": "2026-04-26T13:17:27Z",
+      "atualizado_em": "2026-04-26T13:17:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW6QyWEiGYC",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@calebesouza9225o neovim não tem esse problema ;)",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T15:02:50Z",
+      "atualizado_em": "2026-04-27T15:02:50Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAW7DpPz3KXz",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Nenhum dos dois é ide mas ok",
+      "curtidas": 0,
+      "publicado_em": "2026-04-27T22:27:14Z",
+      "atualizado_em": "2026-04-27T22:27:35Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAWBMGlq0b2l",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "Nano no termux 😆",
+      "curtidas": 1,
+      "publicado_em": "2026-04-29T12:57:58Z",
+      "atualizado_em": "2026-04-29T12:57:58Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg.AW15JarWf_qAWBQnfAZEIT",
+      "comentario_pai_id": "UgyYcJIj7AzQ_mw8mpV4AaABAg",
+      "tipo": "resposta",
+      "texto": "@Holand3sOFC se é pra usar termux é melhor aprender usar o vim. ao menos voce navega muito bem usando o teclado normal sem precisar de usar aquele ctrl zoadasso.",
+      "curtidas": 2,
+      "publicado_em": "2026-04-29T13:37:33Z",
+      "atualizado_em": "2026-04-29T13:37:33Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugx35IaOzqNTamr2tRB4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "eu uso só neovim",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T12:06:46Z",
+      "atualizado_em": "2026-04-25T12:06:46Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugx35IaOzqNTamr2tRB4AaABAg.AW0yEDNMl8XAW1UtN1tbDJ",
+      "comentario_pai_id": "Ugx35IaOzqNTamr2tRB4AaABAg",
+      "tipo": "resposta",
+      "texto": "Brabo",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T17:00:52Z",
+      "atualizado_em": "2026-04-25T17:00:52Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzmt634M0xAOUixVId4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Visual studio - simplesmente não existo",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T10:18:43Z",
+      "atualizado_em": "2026-04-25T10:18:43Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "Ugzmt634M0xAOUixVId4AaABAg.AW0lrtVFC-iAW0oct-ZuQ_",
+      "comentario_pai_id": "Ugzmt634M0xAOUixVId4AaABAg",
+      "tipo": "resposta",
+      "texto": "Foi o último mn",
+      "curtidas": 1,
+      "publicado_em": "2026-04-25T10:42:53Z",
+      "atualizado_em": "2026-04-25T10:42:53Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxwJ79KBd3Y7lKLaVR4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "VS code pra tudo 👍🏽",
+      "curtidas": 103,
+      "publicado_em": "2026-04-25T03:13:46Z",
+      "atualizado_em": "2026-04-25T03:13:46Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxwJ79KBd3Y7lKLaVR4AaABAg.AW00ELYGKeKAWCaPPWqK7k",
+      "comentario_pai_id": "UgxwJ79KBd3Y7lKLaVR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Óbvio po. Até pdf",
+      "curtidas": 4,
+      "publicado_em": "2026-04-30T00:29:27Z",
+      "atualizado_em": "2026-04-30T00:29:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxwJ79KBd3Y7lKLaVR4AaABAg.AW00ELYGKeKAWED6oU6MbM",
+      "comentario_pai_id": "UgxwJ79KBd3Y7lKLaVR4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@lucasnahas Até pra binário kkkk",
+      "curtidas": 2,
+      "publicado_em": "2026-04-30T15:35:41Z",
+      "atualizado_em": "2026-04-30T15:35:41Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxwJ79KBd3Y7lKLaVR4AaABAg.AW00ELYGKeKAWENZHgCpDl",
+      "comentario_pai_id": "UgxwJ79KBd3Y7lKLaVR4AaABAg",
+      "tipo": "resposta",
+      "texto": "Neovim>>>>>",
+      "curtidas": 0,
+      "publicado_em": "2026-04-30T17:06:57Z",
+      "atualizado_em": "2026-04-30T17:06:57Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgxixeegwuABt-3bLA94AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Pó eclipse pra java era top",
+      "curtidas": 3,
+      "publicado_em": "2026-04-25T01:52:30Z",
+      "atualizado_em": "2026-04-25T01:52:30Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwIXKRD5lSEBnErb354AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "E pra python????",
+      "curtidas": 0,
+      "publicado_em": "2026-04-24T21:36:53Z",
+      "atualizado_em": "2026-04-24T21:36:53Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwIXKRD5lSEBnErb354AaABAg.AW-Pg2t02gnAW-U85heWBT",
+      "comentario_pai_id": "UgwIXKRD5lSEBnErb354AaABAg",
+      "tipo": "resposta",
+      "texto": "Foi o primeiro mn",
+      "curtidas": 1,
+      "publicado_em": "2026-04-24T22:15:48Z",
+      "atualizado_em": "2026-04-24T22:15:48Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Programo em C# e uso Linux 🤡",
+      "curtidas": 4,
+      "publicado_em": "2026-04-24T21:30:56Z",
+      "atualizado_em": "2026-04-24T21:30:56Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAW-U7FinS9i",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "WTF",
+      "curtidas": 3,
+      "publicado_em": "2026-04-24T22:15:41Z",
+      "atualizado_em": "2026-04-24T22:15:41Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAW-cO1YMfFg",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "Ta fácil pra ninguém... kkkk",
+      "curtidas": 1,
+      "publicado_em": "2026-04-24T23:36:37Z",
+      "atualizado_em": "2026-04-24T23:36:37Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAW-ynM7iBoy",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "usa a ide? porque tava usando linha de comando mesmo, nao tem coisa melhor, pq o visual studio parece uma bomba atomica pro pc",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T02:52:27Z",
+      "atualizado_em": "2026-04-25T02:52:27Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAW01OUGB9TU",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@cmarinho-deveu uso o cursor. É tipo um Rider só que bem pior. Ele é baseado no vs code, então o bom é que se for migrar dele pro cursor você consegue levar as extensões junto. Mas poxa, programar direito na linha de comando é complicado. Cê deve ter uma baita de uma paciência",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T03:23:52Z",
+      "atualizado_em": "2026-04-25T03:23:52Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAW06nrsiboL",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@MiguelGomes-1704kk mas ele é praticamente um vscodw com itens de ia ne; usa alguma extensão pra facilitar funcionalidades do visual studio ide? Ou manda a ia executar os comando msm",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T04:11:10Z",
+      "atualizado_em": "2026-04-25T04:11:10Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAW06xyCtOIL",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@MiguelGomes-1704se tem as funcionalidades nativamente no cursor ent to bem por fora mesmo",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T04:12:33Z",
+      "atualizado_em": "2026-04-25T04:12:33Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAW1-kYNYsXo",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "​@cmarinho-devele por padrão é literalmente o mesmo que o vs code, mas vem com a ia. Além disso, ele tem o Tab que sugere o código com base no que você tá escrevendo (é difícil explicar, mas é basicamente o IntelliSense do vs code só que melhor)",
+      "curtidas": 0,
+      "publicado_em": "2026-04-25T12:28:47Z",
+      "atualizado_em": "2026-04-25T12:28:47Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgymLG2J9Ol7MNjx5ap4AaABAg.AW-P-QhV0IuAWBrMrgOv6c",
+      "comentario_pai_id": "UgymLG2J9Ol7MNjx5ap4AaABAg",
+      "tipo": "resposta",
+      "texto": "Eu uso vscode para C kkkkk",
+      "curtidas": 0,
+      "publicado_em": "2026-04-29T17:38:25Z",
+      "atualizado_em": "2026-04-29T17:38:25Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwrZ3q5iMbvPuYVSXd4AaABAg",
+      "comentario_pai_id": null,
+      "tipo": "principal",
+      "texto": "Jetbrains e Microsoft",
+      "curtidas": 7,
+      "publicado_em": "2026-04-24T21:12:12Z",
+      "atualizado_em": "2026-04-24T21:12:12Z"
+    },
+    {
+      "video_id": "mshwmDsZ9js",
+      "comentario_id": "UgwrZ3q5iMbvPuYVSXd4AaABAg.AW-MrGUoKFLAW-U8u-QvmH",
+      "comentario_pai_id": "UgwrZ3q5iMbvPuYVSXd4AaABAg",
+      "tipo": "resposta",
+      "texto": "Resumindo",
+      "curtidas": 3,
+      "publicado_em": "2026-04-24T22:15:55Z",
+      "atualizado_em": "2026-04-24T22:15:55Z"
+    }
+  ]
+}
