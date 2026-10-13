@@ -7,3 +7,5 @@ emoji
 matplotlib
 seaborn
 wordcloud
+plotly
+streamlit
