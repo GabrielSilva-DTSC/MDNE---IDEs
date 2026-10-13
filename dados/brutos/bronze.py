@@ -4,6 +4,7 @@ Execute na raiz: python dados/brutos/bronze.py
 O limite padrão é de 500 registros por vídeo, incluindo as respostas.
 """
 
+
 import argparse
 import csv
 import json
