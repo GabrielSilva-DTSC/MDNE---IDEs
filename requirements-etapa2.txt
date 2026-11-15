@@ -1,0 +1,6 @@
+# Dependências adicionais e opcionais da Etapa 2.
+# Instale depois do requirements.txt. PyTorch pode ocupar bastante espaço em disco.
+-r requirements.txt
+sentence-transformers
+transformers
+torch
