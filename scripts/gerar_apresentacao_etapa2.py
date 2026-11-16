@@ -1,4 +1,4 @@
-"""Gera uma apresentação PowerPoint da Etapa 2 em português.
+"""Gera uma apresentação PowerPoint da Etapa 2 em português, com exemplos do código real.
 
 Uso:
     python scripts/gerar_apresentacao_etapa2.py
@@ -20,7 +20,6 @@ except ImportError as erro:
         "Dependência ausente. Instale com: python -m pip install -r requirements-apresentacao.txt"
     ) from erro
 
-# Paleta visual inspirada no tema do projeto.
 NAVY = RGBColor(27, 38, 59)
 BLUE = RGBColor(65, 105, 150)
 TEAL = RGBColor(42, 157, 143)
@@ -34,23 +33,24 @@ PALE_BLUE = RGBColor(230, 238, 247)
 PALE_TEAL = RGBColor(226, 243, 239)
 PALE_GOLD = RGBColor(250, 245, 224)
 PALE_CORAL = RGBColor(250, 233, 228)
-
+CODE_BG = RGBColor(20, 27, 39)
+CODE_FG = RGBColor(220, 231, 243)
+CODE_GREEN = RGBColor(135, 220, 170)
 W, H = 13.333, 7.5
 FONT = "Aptos"
+CODE_FONT = "Consolas"
 
 
-def add_box(slide, x, y, w, h, color, shape=MSO_SHAPE.ROUNDED_RECTANGLE, line_color=None):
+def add_box(slide, x, y, w, h, color, shape=MSO_SHAPE.ROUNDED_RECTANGLE):
     obj = slide.shapes.add_shape(shape, Inches(x), Inches(y), Inches(w), Inches(h))
     obj.fill.solid()
     obj.fill.fore_color.rgb = color
-    obj.line.fill.background() if line_color is None else None
-    if line_color is not None:
-        obj.line.color.rgb = line_color
+    obj.line.fill.background()
     return obj
 
 
 def add_text(slide, text, x, y, w, h, *, size=18, color=INK, bold=False,
-             align=PP_ALIGN.LEFT, valign=MSO_ANCHOR.TOP, margin=0.04):
+             align=PP_ALIGN.LEFT, valign=MSO_ANCHOR.TOP, margin=0.05, font=FONT):
     shape = slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
     tf = shape.text_frame
     tf.clear()
@@ -65,59 +65,48 @@ def add_text(slide, text, x, y, w, h, *, size=18, color=INK, bold=False,
     p.space_after = Pt(0)
     run = p.add_run()
     run.text = text
-    run.font.name = FONT
+    run.font.name = font
     run.font.size = Pt(size)
     run.font.bold = bold
     run.font.color.rgb = color
     return shape
 
 
-def add_bullets(slide, items, x, y, w, h, *, size=19, color=INK, gap=9):
-    shape = slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
-    tf = shape.text_frame
-    tf.clear()
-    tf.word_wrap = True
-    tf.margin_left = Inches(0.06)
-    tf.margin_right = Inches(0.06)
-    tf.margin_top = Inches(0.03)
-    for i, item in enumerate(items):
-        p = tf.paragraphs[0] if i == 0 else tf.add_paragraph()
-        p.text = "•  " + item
-        p.font.name = FONT
-        p.font.size = Pt(size)
-        p.font.color.rgb = color
-        p.space_after = Pt(gap)
-    return shape
+def add_code(slide, title, code, x, y, w, h, *, size=13):
+    """Adiciona um trecho legível em estilo editor, baseado nos módulos do projeto."""
+    add_box(slide, x, y, w, h, CODE_BG)
+    add_text(slide, title, x + 0.18, y + 0.08, w - 0.36, 0.25,
+             size=10, color=CODE_GREEN, bold=True, font=CODE_FONT)
+    add_text(slide, code, x + 0.18, y + 0.39, w - 0.36, h - 0.48,
+             size=size, color=CODE_FG, font=CODE_FONT, margin=0.02)
 
 
 def add_header(slide, title, section="ETAPA 2"):
-    add_text(slide, section.upper(), 0.62, 0.32, 3.2, 0.28, size=10, color=TEAL, bold=True)
-    add_text(slide, title, 0.62, 0.72, 12.0, 0.62, size=28, color=NAVY, bold=True)
-    add_box(slide, 0.64, 1.43, 0.75, 0.055, TEAL, MSO_SHAPE.RECTANGLE)
+    add_text(slide, section.upper(), 0.62, 0.28, 3.2, 0.25, size=10, color=TEAL, bold=True)
+    add_text(slide, title, 0.62, 0.65, 12.0, 0.62, size=27, color=NAVY, bold=True)
+    add_box(slide, 0.64, 1.38, 0.75, 0.055, TEAL, MSO_SHAPE.RECTANGLE)
 
 
 def add_footer(slide, number):
-    add_text(slide, "Projeto de análise de comentários sobre IDEs · Etapa 2", 0.62, 7.13, 10.4, 0.2,
+    add_text(slide, "Projeto MDNE · análise de comentários sobre IDEs", 0.62, 7.13, 10.4, 0.2,
              size=9, color=MUTED)
     add_text(slide, f"{number:02d}", 12.15, 7.1, 0.5, 0.24, size=10, color=MUTED, align=PP_ALIGN.RIGHT)
 
 
-def new_slide(prs, title=None, number=None, section="ETAPA 2"):
+def new_slide(prs, title, number):
     slide = prs.slides.add_slide(prs.slide_layouts[6])
     slide.background.fill.solid()
     slide.background.fill.fore_color.rgb = BG
-    if title:
-        add_header(slide, title, section)
-    if number is not None:
-        add_footer(slide, number)
+    add_header(slide, title)
+    add_footer(slide, number)
     return slide
 
 
-def add_card(slide, x, y, w, h, title, body, accent=TEAL, fill=WHITE, title_size=17, body_size=14):
+def add_card(slide, x, y, w, h, title, body, accent=TEAL, fill=WHITE, body_size=15):
     add_box(slide, x, y, w, h, fill)
     add_box(slide, x, y, 0.08, h, accent, MSO_SHAPE.RECTANGLE)
-    add_text(slide, title, x + 0.22, y + 0.18, w - 0.4, 0.42, size=title_size, color=NAVY, bold=True)
-    add_text(slide, body, x + 0.22, y + 0.68, w - 0.42, h - 0.82, size=body_size, color=INK)
+    add_text(slide, title, x + 0.2, y + 0.13, w - 0.38, 0.35, size=16, color=NAVY, bold=True)
+    add_text(slide, body, x + 0.2, y + 0.56, w - 0.4, h - 0.66, size=body_size, color=INK)
 
 
 def build_deck():
@@ -131,7 +120,8 @@ def build_deck():
 
     # 1. Capa
     slide = prs.slides.add_slide(prs.slide_layouts[6])
-    slide.background.fill.solid(); slide.background.fill.fore_color.rgb = NAVY
+    slide.background.fill.solid()
+    slide.background.fill.fore_color.rgb = NAVY
     add_box(slide, 9.0, -0.5, 5.0, 8.5, BLUE, MSO_SHAPE.OVAL)
     add_box(slide, 10.0, 1.0, 2.8, 2.8, TEAL, MSO_SHAPE.OVAL)
     add_box(slide, 9.45, 4.15, 1.15, 1.15, GOLD, MSO_SHAPE.OVAL)
@@ -146,119 +136,102 @@ def build_deck():
 
     # 2. Contexto
     slide = new_slide(prs, "De onde partimos?", 2)
-    add_card(slide, 0.75, 1.85, 5.65, 3.5, "Etapa 1 · análise já existente",
+    add_card(slide, 0.75, 1.8, 5.65, 3.55, "Etapa 1 · análise já existente",
              "• Coleta comentários públicos do YouTube\n• Limpa e identifica o idioma\n• Classifica sentimento\n• Analisa menções a IDEs e gera estatísticas/visualizações",
-             accent=BLUE, fill=WHITE, body_size=17)
-    add_card(slide, 6.85, 1.85, 5.65, 3.5, "A pergunta que ampliamos",
-             "Além de “o comentário é positivo ou negativo?”, queremos explorar:\n\n• Sobre o que as pessoas comentam?\n• Quais comentários expressam ideias parecidas, mesmo usando palavras diferentes?",
+             accent=BLUE, body_size=17)
+    add_card(slide, 6.85, 1.8, 5.65, 3.55, "A pergunta que ampliamos",
+             "Além de “o comentário é positivo ou negativo?”, exploramos:\n\n• Sobre o que as pessoas comentam?\n• Quais comentários expressam ideias parecidas mesmo usando palavras diferentes?",
              accent=TEAL, fill=PALE_TEAL, body_size=17)
     add_text(slide, "A Etapa 2 complementa o fluxo: não apaga nem substitui as saídas da Etapa 1.",
              1.0, 5.85, 11.2, 0.5, size=19, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
 
-    # 3. Mapa do pipeline
+    # 3. Fluxo e comando real
     slide = new_slide(prs, "Novo fluxo de processamento", 3)
-    steps = [
-        ("Comentários", "texto bruto", BLUE),
-        ("Preparação", "limpeza + idioma", TEAL),
-        ("spaCy", "sentenças, lemas,\nentidades, sintaxe", GOLD),
-        ("Modelos", "sentimento +\nTransformer opcional", CORAL),
-        ("Embeddings", "vetores para\nsimilaridade", BLUE),
-        ("Exploração", "CSV + painel\ninterativo", TEAL),
-    ]
+    steps = [("Comentários", "texto bruto", BLUE), ("Preparação", "limpeza + idioma", TEAL),
+             ("spaCy", "sentenças, lemas,\nentidades e sintaxe", GOLD),
+             ("Modelos", "sentimento +\nTransformer opcional", CORAL),
+             ("Embeddings", "vetores para\nsimilaridade", BLUE), ("Exploração", "CSV + painel", TEAL)]
     x0, width, gap = 0.55, 1.85, 0.34
     for i, (title, body, color) in enumerate(steps):
         x = x0 + i * (width + gap)
-        add_box(slide, x, 2.55, width, 2.05, WHITE)
-        add_box(slide, x, 2.55, width, 0.13, color, MSO_SHAPE.RECTANGLE)
-        add_text(slide, title, x + 0.12, 2.9, width - 0.24, 0.42, size=16, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-        add_text(slide, body, x + 0.12, 3.48, width - 0.24, 0.8, size=13, color=INK, align=PP_ALIGN.CENTER)
+        add_box(slide, x, 2.12, width, 1.62, WHITE)
+        add_box(slide, x, 2.12, width, 0.12, color, MSO_SHAPE.RECTANGLE)
+        add_text(slide, title, x + 0.1, 2.46, width - 0.2, 0.35, size=15, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
+        add_text(slide, body, x + 0.1, 2.93, width - 0.2, 0.62, size=12, color=INK, align=PP_ALIGN.CENTER)
         if i < len(steps) - 1:
-            add_text(slide, "→", x + width, 3.22, gap, 0.4, size=20, color=MUTED, bold=True, align=PP_ALIGN.CENTER)
-    add_text(slide, "Execução reproduzível:  python etapa2.py --embeddings --transformer",
-             0.9, 5.35, 11.5, 0.55, size=18, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-    add_text(slide, "Os recursos opcionais de embeddings e Transformers são carregados quando solicitados.",
-             1.0, 6.0, 11.3, 0.35, size=13, color=MUTED, align=PP_ALIGN.CENTER)
+            add_text(slide, "→", x + width, 2.7, gap, 0.35, size=18, color=MUTED, bold=True, align=PP_ALIGN.CENTER)
+    add_code(slide, "COMANDO CLI · etapa2.py", "python etapa2.py --embeddings --transformer",
+             1.0, 4.35, 11.3, 1.05, size=17)
+    add_text(slide, "O pipeline salva o CSV semântico e, quando solicitado, os vetores em um arquivo NPZ separado.",
+             1.0, 5.75, 11.3, 0.6, size=16, color=INK, align=PP_ALIGN.CENTER)
 
-    # 4. SpaCy
+    # 4. spaCy com trecho do módulo semantica.py
     slide = new_slide(prs, "Novidade 1 · pipeline semântico com spaCy", 4)
-    cards = [
-        (0.75, 1.9, "Sentenças", "Divide o comentário em frases para facilitar a leitura do contexto.", BLUE, PALE_BLUE),
-        (6.85, 1.9, "Termos e lemas", "Extrai palavras de conteúdo e formas-base, agrupando variações morfológicas.", TEAL, PALE_TEAL),
-        (0.75, 4.0, "Entidades", "Registra entidades identificadas pelo modelo de português; nomes de produtos podem exigir revisão.", GOLD, PALE_GOLD),
-        (6.85, 4.0, "Relações sintáticas", "Produz pistas aproximadas de sujeito, verbo e complemento — não fatos garantidos.", CORAL, PALE_CORAL),
-    ]
-    for x, y, title, body, accent, fill in cards:
-        add_card(slide, x, y, 5.7, 1.7, title, body, accent=accent, fill=fill, body_size=15)
-    add_text(slide, "Essas colunas ficam no CSV da Etapa 2 em formato JSON.",
-             1.0, 6.1, 11.3, 0.4, size=16, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
+    add_bullets = ["Divide o comentário em sentenças.", "Extrai termos de conteúdo e seus lemas.",
+                   "Registra entidades identificadas pelo modelo.", "Produz relações sujeito/verbo/complemento aproximadas."]
+    for i, item in enumerate(add_bullets):
+        add_text(slide, "•  " + item, 0.85, 1.78 + i * 0.68, 5.55, 0.5, size=16, color=INK)
+    add_code(slide, "src/preprocessamento/semantica.py", "docs = nlp.pipe(textos, batch_size=64)\n\nfor doc in docs:\n    sentencas = [s.text for s in doc.sents]\n    lemas = [t.lemma_.lower() for t in doc\n             if t.pos_ in POS_CONTEUDO and not t.is_stop]\n    entidades = [(e.text, e.label_) for e in doc.ents]",
+             6.55, 1.72, 6.0, 3.75, size=12)
+    add_text(slide, "Saídas no CSV: sentencas · termos_semanticos · entidades_semanticas · relacoes_sintaticas",
+             0.9, 5.95, 11.7, 0.6, size=14, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
+    add_text(slide, "As relações sintáticas são pistas do modelo, não fatos garantidos.",
+             0.9, 6.55, 11.7, 0.3, size=11, color=MUTED, align=PP_ALIGN.CENTER)
 
-    # 5. Embeddings
+    # 5. Embeddings com trecho real
     slide = new_slide(prs, "Novidade 2 · embeddings e similaridade", 5)
-    add_text(slide, "Texto", 0.9, 2.0, 1.5, 0.4, size=17, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-    add_box(slide, 0.75, 2.5, 2.6, 1.1, PALE_BLUE)
-    add_text(slide, "“A IDE fica lenta\ncom muitos plugins”", 0.9, 2.73, 2.3, 0.6, size=15, color=INK, align=PP_ALIGN.CENTER)
-    add_text(slide, "→", 3.45, 2.82, 0.55, 0.4, size=24, color=MUTED, bold=True, align=PP_ALIGN.CENTER)
-    add_box(slide, 4.1, 2.5, 3.5, 1.1, PALE_TEAL)
-    add_text(slide, "[0.12, −0.08, …, 0.31]\nvetor semântico", 4.25, 2.72, 3.2, 0.65, size=16, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-    add_text(slide, "→", 7.72, 2.82, 0.55, 0.4, size=24, color=MUTED, bold=True, align=PP_ALIGN.CENTER)
-    add_box(slide, 8.35, 2.5, 4.0, 1.1, PALE_GOLD)
-    add_text(slide, "buscar comentários\ncom significado próximo", 8.52, 2.72, 3.65, 0.65, size=16, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-    add_text(slide, "Execução registrada", 0.9, 4.35, 2.6, 0.35, size=17, color=NAVY, bold=True)
-    add_text(slide, "1.958 comentários × 384 dimensões", 0.9, 4.78, 6.0, 0.55, size=25, color=TEAL, bold=True)
-    add_text(slide, "Os vetores são guardados no arquivo NPZ separado do CSV. A similaridade cosseno ordena textos por proximidade semântica aproximada.",
-             0.9, 5.6, 11.5, 0.85, size=16, color=INK)
-    add_text(slide, "Ilustração conceitual: os números do vetor acima não são dados reais do comentário.",
-             0.9, 6.58, 11.5, 0.25, size=10, color=MUTED)
+    add_card(slide, 0.8, 1.75, 3.65, 1.55, "Texto", "“A IDE fica lenta com muitos plugins.”", accent=BLUE, fill=PALE_BLUE, body_size=15)
+    add_text(slide, "→", 4.48, 2.27, 0.45, 0.4, size=24, color=MUTED, bold=True, align=PP_ALIGN.CENTER)
+    add_card(slide, 5.0, 1.75, 3.65, 1.55, "Embedding", "Vetor de 384 dimensões\n(exemplo observado)", accent=TEAL, fill=PALE_TEAL, body_size=15)
+    add_text(slide, "→", 8.69, 2.27, 0.45, 0.4, size=24, color=MUTED, bold=True, align=PP_ALIGN.CENTER)
+    add_card(slide, 9.2, 1.75, 3.3, 1.55, "Busca", "Recupera textos com significado próximo.", accent=GOLD, fill=PALE_GOLD, body_size=14)
+    add_code(slide, "src/modelagem/embeddings.py · vetores normalizados", "vetores = modelo.encode(\n    textos,\n    convert_to_numpy=True,\n    normalize_embeddings=True,\n)\n\n# vetores normalizados: produto escalar = cosseno",
+             0.85, 3.72, 6.05, 2.25, size=12)
+    add_code(slide, "app_etapa2.py · ranking por similaridade", "consulta = modelo.encode(\n    [frase], normalize_embeddings=True\n)[0]\nscores = embeddings @ consulta\nmais_proximos = scores.argsort()[::-1][:10]",
+             7.18, 3.72, 5.3, 2.25, size=12)
+    add_text(slide, "Resultado executado: 1.958 comentários × 384 dimensões · arquivo *_embeddings.npz",
+             0.9, 6.35, 11.6, 0.35, size=15, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
 
-    # 6. Transformer
+    # 6. Transformers com chamada real
     slide = new_slide(prs, "Novidade 3 · comparar classificadores", 6)
-    add_card(slide, 0.8, 2.0, 5.55, 2.8, "Classificador principal",
-             "Saída da Etapa 1\n\nSentimento, probabilidades e score\n\nContinua preservado no resultado.", accent=BLUE, fill=PALE_BLUE, body_size=17)
-    add_card(slide, 6.95, 2.0, 5.55, 2.8, "Transformer adicional",
-             "Previsão independente\n\nColunas com sufixo `_transformer`\n\nPode concordar ou divergir do modelo principal.", accent=CORAL, fill=PALE_CORAL, body_size=17)
-    add_text(slide, "A comparação revela concordância e divergência — não determina sozinha qual modelo está correto.",
-             1.0, 5.45, 11.2, 0.8, size=19, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-    add_text(slide, "Para medir acurácia, é necessária uma amostra avaliada e rotulada manualmente.",
-             1.0, 6.28, 11.2, 0.35, size=14, color=MUTED, align=PP_ALIGN.CENTER)
+    add_card(slide, 0.85, 1.78, 5.55, 1.3, "Classificador principal", "Mantém sentimento, probabilidades e score da análise principal.", accent=BLUE, fill=PALE_BLUE, body_size=15)
+    add_card(slide, 6.9, 1.78, 5.55, 1.3, "Transformer adicional", "Acrescenta rótulo e confiança em colunas `_transformer`.", accent=CORAL, fill=PALE_CORAL, body_size=15)
+    add_code(slide, "src/modelagem/transformers.py · inferência em lote", "previsoes = pipe(\n    textos, truncation=True,\n    batch_size=self.batch_size\n)\n\nrotulo = normalizar_rotulo(pred['label'])\nconfianca = float(pred['score'])",
+             0.9, 3.48, 6.1, 2.55, size=13)
+    add_text(slide, "O painel cruza os rótulos dos dois modelos para expor concordâncias e divergências.",
+             7.35, 3.72, 4.9, 1.05, size=18, color=NAVY, bold=True)
+    add_text(slide, "Concordância não comprova acurácia. A avaliação exige uma amostra rotulada manualmente.",
+             7.35, 5.0, 4.8, 0.85, size=14, color=MUTED)
 
-    # 7. Painel
+    # 7. Visualização com código PCA real
     slide = new_slide(prs, "Nova visualização · app_etapa2.py", 7)
-    items = [
-        ("Mapa semântico", "Projeção PCA 2D; cada ponto representa um comentário e a cor indica sentimento.", TEAL),
-        ("Conteúdo", "Lemas frequentes, entidades reconhecidas e comentários para inspeção.", BLUE),
-        ("Comparação", "Matriz de concordância entre classificador principal e Transformer.", CORAL),
-        ("Busca semântica", "Consulta uma ideia e recupera comentários mais semelhantes pelo embedding.", GOLD),
-    ]
-    for i, (title, body, accent) in enumerate(items):
-        y = 1.9 + i * 1.12
-        add_box(slide, 0.9, y, 11.45, 0.88, WHITE)
-        add_box(slide, 0.9, y, 0.12, 0.88, accent, MSO_SHAPE.RECTANGLE)
-        add_text(slide, title, 1.2, y + 0.12, 2.55, 0.36, size=17, color=NAVY, bold=True)
-        add_text(slide, body, 3.75, y + 0.12, 8.2, 0.55, size=15, color=INK)
+    add_card(slide, 0.85, 1.75, 3.7, 1.45, "Mapa semântico", "Projeção PCA 2D; cor representa sentimento.", accent=TEAL, fill=PALE_TEAL, body_size=15)
+    add_card(slide, 4.82, 1.75, 3.7, 1.45, "Conteúdo", "Lemas, entidades e comentários para inspeção.", accent=BLUE, fill=PALE_BLUE, body_size=15)
+    add_card(slide, 8.78, 1.75, 3.7, 1.45, "Busca", "Digite uma frase e recupere comentários semelhantes.", accent=GOLD, fill=PALE_GOLD, body_size=15)
+    add_code(slide, "app_etapa2.py · redução de dimensão e gráfico interativo", "coords = projetar_pca(embeddings)\nmapa['PCA 1'] = coords[:, 0]\nmapa['PCA 2'] = coords[:, 1]\n\nfig = px.scatter(\n    mapa, x='PCA 1', y='PCA 2',\n    color='cor_mapa', hover_data=['texto']\n)\nst.plotly_chart(fig, use_container_width=True)",
+             0.9, 3.55, 11.6, 2.55, size=13)
     add_text(slide, "PCA é exploratória: os eixos não são tópicos nomeados e proximidade não prova equivalência.",
-             1.0, 6.55, 11.3, 0.3, size=12, color=MUTED, align=PP_ALIGN.CENTER)
+             0.9, 6.4, 11.6, 0.35, size=12, color=MUTED, align=PP_ALIGN.CENTER)
 
-    # 8. Demo
+    # 8. Demonstração
     slide = new_slide(prs, "Demonstração ao vivo", 8)
-    add_text(slide, "1", 0.95, 2.0, 0.5, 0.5, size=27, color=TEAL, bold=True)
-    add_text(slide, "Abra `app_etapa2.py` no Streamlit", 1.6, 2.03, 10.2, 0.45, size=20, color=NAVY, bold=True)
-    add_text(slide, "2", 0.95, 2.95, 0.5, 0.5, size=27, color=TEAL, bold=True)
-    add_text(slide, "Mostre o mapa e filtre por sentimento", 1.6, 2.98, 10.2, 0.45, size=20, color=NAVY, bold=True)
-    add_text(slide, "3", 0.95, 3.9, 0.5, 0.5, size=27, color=TEAL, bold=True)
-    add_text(slide, "Explore lemas, entidades e exemplos de comentários", 1.6, 3.93, 10.2, 0.45, size=20, color=NAVY, bold=True)
-    add_text(slide, "4", 0.95, 4.85, 0.5, 0.5, size=27, color=TEAL, bold=True)
-    add_text(slide, "Digite uma consulta na busca semântica e leia os resultados", 1.6, 4.88, 10.4, 0.6, size=20, color=NAVY, bold=True)
-    add_box(slide, 1.0, 6.0, 11.3, 0.65, NAVY)
-    add_text(slide, "streamlit run app_etapa2.py", 1.2, 6.12, 10.9, 0.35, size=18, color=WHITE, bold=True, align=PP_ALIGN.CENTER)
+    etapas = ["Abra o painel Streamlit da Etapa 2.", "Mostre o mapa e filtre por sentimento.",
+              "Explore os lemas, entidades e comentários.", "Digite uma consulta na busca semântica e leia os resultados."]
+    for i, item in enumerate(etapas):
+        y = 1.85 + i * 0.83
+        add_text(slide, str(i + 1), 0.95, y, 0.5, 0.45, size=25, color=TEAL, bold=True)
+        add_text(slide, item, 1.6, y + 0.04, 10.7, 0.5, size=18, color=NAVY, bold=True)
+    add_code(slide, "COMANDOS PARA RODAR LOCALMENTE", "python etapa2.py --embeddings --transformer\nstreamlit run app_etapa2.py",
+             1.0, 5.55, 11.3, 1.0, size=16)
 
     # 9. Fechamento
     slide = new_slide(prs, "Resultado, impacto e próximos passos", 9)
-    add_card(slide, 0.8, 1.9, 3.75, 2.7, "Resultado", "CSV semântico + arquivo NPZ de embeddings + painel interativo.", accent=BLUE, fill=PALE_BLUE, body_size=17)
-    add_card(slide, 4.8, 1.9, 3.75, 2.7, "Impacto", "Passamos de contagens e polaridade para explorar conteúdo e similaridade entre comentários.", accent=TEAL, fill=PALE_TEAL, body_size=17)
-    add_card(slide, 8.8, 1.9, 3.75, 2.7, "Próximo passo", "Validar previsões com rótulos humanos e, futuramente, implementar agrupamento/rotulagem de tópicos.", accent=GOLD, fill=PALE_GOLD, body_size=17)
-    add_text(slide, "A Etapa 2 amplia as perguntas possíveis; seus resultados continuam sujeitos à validação e às limitações dos modelos.",
-             1.0, 5.35, 11.2, 0.85, size=19, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-    add_text(slide, "Obrigado(a)!", 1.0, 6.25, 11.2, 0.45, size=24, color=TEAL, bold=True, align=PP_ALIGN.CENTER)
+    add_card(slide, 0.8, 1.85, 3.75, 2.55, "Resultado", "CSV semântico + arquivo NPZ de embeddings + painel interativo.", accent=BLUE, fill=PALE_BLUE, body_size=16)
+    add_card(slide, 4.8, 1.85, 3.75, 2.55, "Impacto", "Passamos de contagens e polaridade para explorar conteúdo e similaridade entre comentários.", accent=TEAL, fill=PALE_TEAL, body_size=16)
+    add_card(slide, 8.8, 1.85, 3.75, 2.55, "Próximo passo", "Validar previsões com rótulos humanos e implementar agrupamento/rotulagem de tópicos.", accent=GOLD, fill=PALE_GOLD, body_size=16)
+    add_text(slide, "A Etapa 2 amplia as perguntas possíveis; os resultados seguem sujeitos à validação e às limitações dos modelos.",
+             1.0, 5.05, 11.2, 0.85, size=18, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
+    add_text(slide, "Obrigado(a)!", 1.0, 6.1, 11.2, 0.45, size=24, color=TEAL, bold=True, align=PP_ALIGN.CENTER)
 
     return prs
 
@@ -271,7 +244,7 @@ def main():
     args.saida.parent.mkdir(parents=True, exist_ok=True)
     build_deck().save(args.saida)
     print(f"Apresentação criada: {args.saida.resolve()}")
-    print("Abra o arquivo no PowerPoint ou LibreOffice Impress. Para PDF, use Arquivo > Exportar/Salvar como PDF.")
+    print("Abra no PowerPoint/LibreOffice e exporte como PDF se necessário.")
 
 
 if __name__ == "__main__":
