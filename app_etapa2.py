@@ -129,7 +129,7 @@ with aba_mapa:
                                      "PCA 1": False, "PCA 2": False}, opacity=0.75,
                          title="Projeção PCA dos embeddings, colorida por sentimento")
         fig.update_traces(marker={"size": 8})
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         st.caption(f"Mostrando {len(mapa):,} pontos. A cor usa o sentimento Transformer quando disponível; o hover exibe também o sentimento principal.")
 
 
@@ -160,7 +160,7 @@ with aba_conteudo:
                 st.info("Nenhum termo disponível com os filtros atuais.")
             else:
                 fig = px.bar(top_termos.sort_values("Frequência"), x="Frequência", y="Lema", orientation="h")
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
     else:
         a.info("Coluna termos_semanticos não encontrada no CSV.")
     if "entidades_semanticas" in df:
@@ -177,12 +177,12 @@ with aba_conteudo:
             if entidades.empty:
                 st.info("Nenhuma entidade reconhecida com os filtros atuais.")
             else:
-                st.dataframe(entidades, hide_index=True, use_container_width=True)
+                st.dataframe(entidades, hide_index=True, width="stretch")
     else:
         b.info("Coluna entidades_semanticas não encontrada no CSV.")
     st.markdown("**Comentários para conferir a interpretação**")
     colunas = [c for c in ["sentimento", "sentimento_transformer", "texto", "nome_video"] if c in filtrado]
-    st.dataframe(filtrado[colunas].head(100), hide_index=True, use_container_width=True)
+    st.dataframe(filtrado[colunas].head(100), hide_index=True, width="stretch")
 
 with aba_comparacao:
     st.subheader("Sentimento principal × previsão Transformer")
@@ -197,7 +197,7 @@ with aba_comparacao:
             fig = px.imshow(tabela, text_auto=True, aspect="auto", color_continuous_scale="Blues",
                             labels={"x": "Transformer", "y": "Sentimento principal", "color": "Comentários"},
                             title="Matriz de concordância entre classificadores")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
             n = len(comparavel)
             acordo = (comparavel["sentimento"] == comparavel["sentimento_transformer"]).mean()
             st.metric("Concordância simples", f"{100 * acordo:.1f}%", f"{n:,} comentários comparáveis")
@@ -206,7 +206,7 @@ with aba_comparacao:
                 comparavel["sentimento"].value_counts().rename_axis("Classe").rename("Quantidade").reset_index().assign(Modelo="Principal"),
                 comparavel["sentimento_transformer"].value_counts().rename_axis("Classe").rename("Quantidade").reset_index().assign(Modelo="Transformer")
             ], ignore_index=True)
-            st.plotly_chart(px.bar(dist, x="Classe", y="Quantidade", color="Modelo", barmode="group"), use_container_width=True)
+            st.plotly_chart(px.bar(dist, x="Classe", y="Quantidade", color="Modelo", barmode="group"), width="stretch")
 
 with aba_busca:
     st.subheader("Encontrar comentários semanticamente parecidos")
@@ -229,7 +229,7 @@ with aba_busca:
             resultados = df_emb.iloc[ordem].copy()
             resultados.insert(0, "similaridade cosseno", similaridades[ordem])
             st.dataframe(resultados[[c for c in ["similaridade cosseno", "sentimento", "sentimento_transformer", "texto", "nome_video"] if c in resultados]],
-                         hide_index=True, use_container_width=True)
+                         hide_index=True, width="stretch")
         except Exception as erro:
             st.error(f"Não foi possível carregar o modelo de embeddings para a consulta: {erro}")
 
