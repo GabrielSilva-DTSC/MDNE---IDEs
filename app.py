@@ -6,6 +6,7 @@ Uso (na raiz do projeto, depois de rodar `python etapa1.py`):
 O painel só lê dados/processados/*.csv e recalcula as estatísticas conforme os filtros.
 """
 from pathlib import Path
+from html import escape
 
 import pandas as pd
 import plotly.graph_objects as go
@@ -15,12 +16,304 @@ from src.analise import estatisticas as est, ides as an_ides
 
 RAIZ = Path(__file__).resolve().parent
 PROC = RAIZ / "dados" / "processados"
-CORES = {"positivo": "#2a9d8f", "neutro": "#bdbdbd", "negativo": "#e76f51"}
-COR_BASE = "#264653"
+CORES = {"positivo": "#157750", "neutro": "#f15a24", "negativo": "#e9cbd1"}
+COR_BASE = "#7b1230"
+COR_TEXTO_GRAFICO = "#3e1020"
 ORDENS = {"Saldo (% positivo − % negativo)": "saldo", "% positivo": "pct_positivo",
           "% negativo": "pct_negativo", "Nº de comentários": "n_comentarios"}
 
-st.set_page_config(page_title="IDEs nos comentários do YouTube", page_icon="🧑‍💻", layout="wide")
+st.set_page_config(page_title="Qual a Melhor IDE?", page_icon="🧑‍💻", layout="wide")
+
+st.markdown("""
+<style>
+:root {
+    --wine-950: #23040d;
+    --wine-900: #310713;
+    --wine-800: #4a0b1d;
+    --wine-700: #79122d;
+    --wine-highlight: #4b0d1d;
+    --wine-sidebar-top: #390916;
+    --wine-sidebar-mid: #26050e;
+    --wine-sidebar-bottom: #1d030a;
+    --wine-border: #713244;
+    --orange: #f15a24;
+    --orange-deep: #bd3b19;
+    --red-deep: #b92b1d;
+    --paper: #fff7f5;
+    --paper-border: #ead8dc;
+    --ink: #3e1020;
+    --ink-muted: #765a62;
+    --text-primary: #f5e9e9;
+    --text-secondary: #d6c3c7;
+    --text-muted: #bfa8ae;
+    --orange-rgb: 241, 90, 36;
+}
+
+.stApp, [data-testid="stAppViewContainer"] {
+    background: radial-gradient(ellipse at 82% 0%, var(--wine-highlight) 0, var(--wine-950) 48rem);
+    color: var(--text-primary);
+}
+[data-testid="stMain"] { color: var(--text-primary); }
+[data-testid="stMain"] h1,
+[data-testid="stMain"] h2,
+[data-testid="stMain"] h3,
+[data-testid="stMain"] h4 { color: var(--text-primary); }
+[data-testid="stMain"] [data-testid="stMarkdownContainer"],
+[data-testid="stMain"] [data-testid="stWidgetLabel"] {
+    color: var(--text-primary);
+}
+[data-testid="stMain"] [data-testid="stCaptionContainer"] {
+    color: var(--text-muted);
+}
+[data-testid="stHeader"] { background: transparent; }
+[data-testid="stSidebar"] {
+    background: linear-gradient(165deg, var(--wine-sidebar-top) 0%, var(--wine-sidebar-mid) 68%,
+        var(--wine-sidebar-bottom) 100%);
+    border-right: 1px solid rgba(var(--orange-rgb), .28);
+}
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3 {
+    color: var(--text-primary) !important;
+}
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"],
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,
+[data-testid="stSidebar"] [data-testid="stWidgetLabel"],
+[data-testid="stSidebar"] label {
+    color: var(--text-primary);
+}
+[data-testid="stSidebar"] [data-testid="stCaptionContainer"] {
+    color: var(--text-secondary);
+}
+[data-testid="stSidebar"] [data-testid="stExpander"] summary,
+[data-testid="stSidebar"] [data-testid="stExpander"] button {
+    color: var(--text-primary);
+}
+.main .block-container { max-width: 1600px; padding-top: 2rem; padding-bottom: 3rem; }
+[data-testid="stMetric"] {
+    background: linear-gradient(145deg, rgba(117, 18, 45, .78), rgba(61, 8, 24, .88));
+    border: 1px solid rgba(var(--orange-rgb), .27);
+    border-radius: 15px;
+    padding: 1rem 1.2rem;
+    min-height: 112px;
+}
+[data-testid="stMetricLabel"] { color: var(--text-secondary) !important; }
+[data-testid="stMetricValue"] { color: var(--text-primary) !important; }
+[data-testid="stMetricDelta"] [data-testid="stMarkdownContainer"],
+[data-testid="stMetricDelta"] [data-testid="stMarkdownContainer"] * {
+    color: #FF5722 !important;
+    font-weight: 700 !important;
+}
+[data-testid="stMetricDelta"] [data-testid="stMarkdownContainer"]::selection,
+[data-testid="stMetricDelta"] [data-testid="stMarkdownContainer"] *::selection {
+    background: #FF5722;
+    color: #FFFFFF !important;
+}
+[data-testid="stTabs"] [role="tab"] {
+    color: var(--text-secondary);
+    border-radius: 10px 10px 0 0;
+}
+[data-testid="stTabs"] [role="tab"] [data-testid="stMarkdownContainer"] p {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+    margin: 0;
+}
+[data-testid="stTabs"] [role="tab"][aria-selected="true"] {
+    color: var(--text-primary);
+    border-bottom-color: var(--orange);
+    background-color: rgba(var(--orange-rgb), .1);
+}
+[data-testid="stTabs"] [role="tab"]:hover,
+[data-testid="stTabs"] [role="tab"]:focus-visible {
+    color: var(--text-primary);
+}
+[data-testid="stTabs"] [role="tab"]:focus-visible {
+    outline: 2px solid var(--orange);
+    outline-offset: 2px;
+}
+[data-baseweb="select"] > div,
+[data-baseweb="input"] > div {
+    background-color: var(--paper);
+    border-color: #b98594;
+    color: var(--ink);
+}
+[data-baseweb="select"] input,
+[data-baseweb="input"] input {
+    color: var(--ink) !important;
+    -webkit-text-fill-color: var(--ink);
+}
+[data-baseweb="select"] input::placeholder,
+[data-baseweb="input"] input::placeholder {
+    color: var(--ink-muted) !important;
+    -webkit-text-fill-color: var(--ink-muted);
+}
+[data-baseweb="tag"] {
+    background-color: #ead8dc;
+    color: var(--ink);
+}
+[data-baseweb="tag"] * { color: var(--ink) !important; }
+[data-testid="stSlider"] [data-testid="stThumbValue"] {
+    color: var(--text-primary);
+    background-color: var(--wine-700);
+}
+[data-baseweb="select"] > div:focus-within,
+[data-baseweb="input"] > div:focus-within,
+[data-baseweb="select"] input:focus-visible,
+[data-baseweb="input"] input:focus-visible {
+    outline: 2px solid var(--orange);
+    outline-offset: 1px;
+}
+[data-baseweb="popover"] {
+    background-color: var(--paper);
+    border: 1px solid var(--paper-border);
+}
+[role="listbox"] { background-color: var(--paper); }
+[role="option"] {
+    background-color: var(--paper);
+    color: var(--ink);
+}
+[role="option"]:hover,
+[role="option"][aria-selected="true"] {
+    background-color: #ead8dc;
+    color: var(--ink);
+}
+button:disabled {
+    background-color: #5a2635;
+    border-color: var(--wine-border);
+    color: var(--text-secondary);
+    opacity: 1;
+    cursor: not-allowed;
+}
+[data-testid="stVerticalBlockBorderWrapper"] {
+    background: var(--paper);
+    border-color: var(--paper-border);
+    border-radius: 15px;
+    color: var(--ink);
+}
+[data-testid="stVerticalBlockBorderWrapper"] [data-testid="stMarkdownContainer"],
+[data-testid="stVerticalBlockBorderWrapper"] [data-testid="stCaptionContainer"],
+[data-testid="stVerticalBlockBorderWrapper"] label,
+[data-testid="stVerticalBlockBorderWrapper"] h1,
+[data-testid="stVerticalBlockBorderWrapper"] h2,
+[data-testid="stVerticalBlockBorderWrapper"] h3 {
+    color: var(--ink);
+}
+[data-testid="stDataFrame"], [data-testid="stTable"] { color: var(--ink); }
+[data-testid="stAlert"] { border-radius: 12px; }
+button[kind="primary"], [data-testid="stDownloadButton"] button {
+    background: linear-gradient(100deg, var(--orange-deep), var(--red-deep));
+    border: 0;
+    color: var(--text-primary);
+    border-radius: 9px;
+}
+button:focus-visible,
+[data-testid="stDownloadButton"] button:focus-visible {
+    outline: 2px solid var(--orange);
+    outline-offset: 2px;
+}
+.brand {
+    padding: .8rem .25rem 1.1rem;
+    border-bottom: 1px solid rgba(var(--orange-rgb), .28);
+    margin-bottom: .5rem;
+}
+.brand-mark {
+    display: inline-flex;
+    width: 52px;
+    height: 48px;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid var(--text-primary);
+    border-right-color: var(--orange);
+    border-radius: 13px 13px 13px 4px;
+    color: var(--orange);
+    font: 800 17px ui-monospace, monospace;
+    margin-bottom: .8rem;
+}
+.brand-name { color: var(--text-primary); font: 700 1.45rem Georgia, serif; line-height: 1.1; }
+.brand-name em { color: var(--orange); font: italic 800 1.6rem Arial, sans-serif; }
+.brand-description { color: var(--text-secondary); font-size: .82rem; line-height: 1.5; margin-top: .7rem; }
+.section-label {
+    color: #ff9a72;
+    font-size: .7rem;
+    font-weight: 750;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    margin-bottom: .45rem;
+}
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: .6rem 0 1.5rem;
+}
+.hero-copy { max-width: 760px; }
+.hero h1 {
+    color: var(--text-primary);
+    font: 700 clamp(2.4rem, 5vw, 4.5rem)/.98 Georgia, serif;
+    letter-spacing: -.04em;
+    margin: .25rem 0 .9rem;
+}
+.hero h1 span { color: var(--orange); font: 800 .98em Arial, sans-serif; }
+.hero p { color: var(--text-secondary); font-size: 1.04rem; line-height: 1.55; margin: 0; max-width: 690px; }
+.hero-art {
+    flex: 0 0 245px;
+    min-height: 142px;
+    padding: 1rem;
+    border: 1px solid rgba(241, 90, 36, .4);
+    border-radius: 14px;
+    background: linear-gradient(145deg, rgba(116, 17, 44, .75), rgba(46, 5, 17, .85));
+    box-shadow: 0 18px 40px rgba(0, 0, 0, .18);
+    color: #f08a6b;
+    font: .78rem/1.8 ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+.hero-art strong { color: #fff4f0; font-weight: 500; }
+.hero-art .orange { color: var(--orange); }
+.panel-heading {
+    color: #FFFFFF !important;
+    font: 700 1.2rem Georgia, serif;
+    font-weight: 700 !important;
+    margin: 0 0 .2rem;
+}
+.panel-copy { color: var(--ink-muted); font-size: .88rem; line-height: 1.45; margin-bottom: .7rem; }
+.insight {
+    display: flex;
+    align-items: flex-start;
+    gap: .8rem;
+    padding: .9rem 0;
+    border-top: 1px solid #d9c3c9;
+}
+.insight:first-of-type { border-top: 0; }
+.insight-icon {
+    display: flex; flex: 0 0 40px; height: 40px; align-items: center; justify-content: center;
+    border-radius: 50%; background: var(--wine-700); color: var(--text-primary);
+    font-size: 1.15rem; font-weight: 700;
+}
+.insight:nth-of-type(3) .insight-icon { background: var(--orange); color: var(--ink); }
+.insight h4 { color: #FFFFFF !important; font-size: .94rem; line-height: 1.35; margin: 0 0 .25rem; }
+.insight p { color: #FFFFFF !important; font-size: .84rem; line-height: 1.5; margin: 0; }
+[data-testid="stVerticalBlockBorderWrapper"]:has(.insight) {
+    background: linear-gradient(145deg, var(--wine-900), var(--wine-950));
+    border-color: var(--wine-border);
+}
+[data-testid="stVerticalBlockBorderWrapper"]:has(.insight) .panel-copy {
+    color: var(--text-secondary);
+}
+.conclusion {
+    display: flex; justify-content: space-between; align-items: center; gap: 2rem;
+    padding: 1.1rem 1.35rem; border: 1px solid rgba(var(--orange-rgb), .32);
+    border-radius: 14px; background: linear-gradient(110deg, var(--wine-800), #300713);
+}
+.conclusion strong { color: var(--text-primary); font: 700 1.1rem Georgia, serif; }
+.conclusion p { color: var(--text-secondary); margin: .4rem 0 0; font-size: .9rem; }
+.conclusion-tag { color: #ff9a72; font: italic 700 1.2rem Georgia, serif; max-width: 220px; }
+@media (max-width: 850px) {
+    .hero-art { display: none; }
+    .conclusion { align-items: flex-start; flex-direction: column; gap: .8rem; }
+}
+</style>
+""", unsafe_allow_html=True)
 
 
 # ---------------------------------------------------------------- dados
@@ -43,9 +336,25 @@ def curto(texto: str, tam: int = 48) -> str:
     return texto if len(texto) <= tam else texto[: tam - 1] + "…"
 
 
-def figura(fig: go.Figure, altura: int = None) -> go.Figure:
-    fig.update_layout(margin=dict(l=10, r=10, t=50, b=10), height=altura,
-                      legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0))
+def figura(fig: go.Figure, altura: int = None, legenda_inferior: bool = False) -> go.Figure:
+    fig.update_layout(
+        template="plotly_white",
+        paper_bgcolor="#fff7f5",
+        plot_bgcolor="#fff7f5",
+        font=dict(family="Arial, sans-serif", color=COR_TEXTO_GRAFICO),
+        margin=dict(l=18, r=18, t=62, b=24),
+        height=altura,
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0,
+                    font=dict(color=COR_TEXTO_GRAFICO)),
+    )
+    if legenda_inferior:
+        fig.update_layout(
+            margin=dict(l=18, r=18, t=72, b=88),
+            legend=dict(orientation="h", yanchor="top", y=-0.18, x=0, xanchor="left",
+                        font=dict(color=COR_TEXTO_GRAFICO)),
+        )
+    fig.update_xaxes(gridcolor="#ead8dc", zerolinecolor="#d9c3c9")
+    fig.update_yaxes(gridcolor="#ead8dc", zerolinecolor="#d9c3c9")
     return fig
 
 
@@ -61,6 +370,13 @@ metodo = comentarios["metodo_sentimento"].iloc[0]
 
 # ---------------------------------------------------------------- filtros
 with st.sidebar:
+    st.markdown(
+        '<div class="brand"><div class="brand-mark">&lt;/&gt;</div>'
+        '<div class="brand-name">Qual a Melhor<br><em>IDE?</em></div>'
+        '<div class="brand-description">Análise de sentimentos com dados reais da comunidade de desenvolvedores.</div>'
+        '</div><div class="section-label">Explorar a pesquisa</div>',
+        unsafe_allow_html=True,
+    )
     st.header("Filtros")
     min_mencoes = st.slider("Mínimo de comentários por IDE", 1, 50, 10,
                             help="IDEs com menos comentários que isso ficam fora dos gráficos de sentimento: "
@@ -85,9 +401,6 @@ if so_isoladas:
 m = mencoes_all[mask].reset_index(drop=True)
 
 # ---------------------------------------------------------------- cabeçalho
-st.title("🧑‍💻 O que dizem os comentários sobre cada IDE")
-st.caption("Comentários públicos de vídeos do YouTube sobre IDEs. Cada menção é um comentário que cita a IDE; "
-           "o sentimento é o do trecho que fala dela.")
 if metodo != "pysentimiento":
     st.warning("O modelo pysentimiento não foi usado (léxico de reserva). Não apresente estes resultados como finais.")
 if m.empty:
@@ -97,23 +410,39 @@ if m.empty:
 r = resumo(m, min_mencoes)
 ok = r[r["amostra_suficiente"]]
 
+st.markdown(
+    '<section class="hero"><div class="hero-copy">'
+    '<div class="section-label">Pesquisa · comunidade · desenvolvimento</div>'
+    '<h1>Qual a Melhor<br><span>IDE?</span></h1>'
+    '<p>Descubra o que a comunidade realmente pensa sobre as principais IDEs, '
+    'a partir da análise de sentimentos em comentários públicos do YouTube.</p>'
+    '</div><div class="hero-art"><span class="orange">●</span> pesquisa.py<br>'
+    '&nbsp;&nbsp;<strong>sentimentos</strong> = analisar(comentarios)<br>'
+    '&nbsp;&nbsp;<span class="orange">comparar</span>(sentimentos, ides)<br>'
+    '&nbsp;&nbsp;resultado: <strong>opiniões reais</strong></div></section>',
+    unsafe_allow_html=True,
+)
+
+total_mencoes = len(m)
+contagem_sentimentos = m["sentimento"].value_counts()
 k1, k2, k3, k4 = st.columns(4)
-k1.metric("Comentários classificados", f"{len(comentarios):,}".replace(",", "."), border=True)
-n_citam = m["comentario_id"].nunique()
-k2.metric("Citam alguma IDE", f"{n_citam:,}".replace(",", "."),
-          f"{100 * n_citam / len(comentarios):.0f}% do total", delta_color="off", border=True)
-k3.metric("IDEs na análise", f"{r['ide'].nunique()}", f"{len(ok)} com {min_mencoes}+ comentários",
-          delta_color="off", border=True)
-saldo_geral = 100 * ((m["sentimento"] == "positivo").mean() - (m["sentimento"] == "negativo").mean())
-k4.metric("Saldo geral das menções", f"{saldo_geral:+.0f} p.p.",
-          help="% positivo − % negativo, juntando todas as menções filtradas.", border=True)
+k1.metric("Menções analisadas", f"{total_mencoes:,}".replace(",", "."),
+          f"{m['comentario_id'].nunique():,} comentários únicos".replace(",", "."), delta_color="off", border=True)
+for coluna, sentimento, rotulo in ((k2, "positivo", "Sentimento positivo"),
+                                    (k3, "neutro", "Sentimento neutro"),
+                                    (k4, "negativo", "Sentimento negativo")):
+    quantidade = int(contagem_sentimentos.get(sentimento, 0))
+    coluna.metric(rotulo, f"{100 * quantidade / total_mencoes:.1f}%",
+                  f"{quantidade:,} menções".replace(",", "."), delta_color="off", border=True)
 
 aba_geral, aba_sent, aba_porque, aba_video, aba_explorar, aba_sobre = st.tabs(
-    ["📊 Mais citadas", "🎭 Sentimento por IDE", "🔍 Por quê?", "🎬 IDE × vídeo", "💬 Comentários", "ℹ️ Sobre"])
+    [":material/bar_chart: Mais citadas", ":material/sentiment_satisfied: Sentimento por IDE",
+     ":material/search: Por quê?", ":material/movie: IDE × vídeo",
+     ":material/forum: Comentários", ":material/info: Sobre"])
 
 # ---------------------------------------------------------------- 1. mais citadas
 with aba_geral:
-    top = r.head(15)
+    top = r.head(10)
     c1, c2, c3 = st.columns(3)
     c1.metric("IDE mais citada", top.iloc[0]["ide"], f"{top.iloc[0]['n_comentarios']} comentários", delta_color="off",
               border=True)
@@ -122,17 +451,76 @@ with aba_geral:
         c2.metric("Melhor saldo", melhor["ide"], f"{melhor['saldo']:+.0f} p.p. (n={melhor['n_comentarios']})",
                   border=True)
         c3.metric("Pior saldo", pior["ide"], f"{pior['saldo']:+.0f} p.p. (n={pior['n_comentarios']})", border=True)
-    fig = go.Figure(go.Bar(
-        y=top["ide"], x=top["n_comentarios"], orientation="h", marker_color=COR_BASE,
-        text=[f"{n} ({p:.0f}%)" for n, p in zip(top["n_comentarios"], top["pct_das_mencoes"])],
-        textposition="outside", cliponaxis=False,
-        customdata=top[["n_videos", "curtidas_total"]],
-        hovertemplate="<b>%{y}</b><br>%{x} comentários<br>%{customdata[0]} vídeos<br>"
-                      "%{customdata[1]} curtidas nos comentários<extra></extra>"))
-    fig.update_yaxes(autorange="reversed")
-    fig.update_xaxes(title="comentários que citam a IDE", range=[0, top["n_comentarios"].max() * 1.2])
-    fig.update_layout(title="IDEs mais citadas (entre parênteses: % das menções)")
-    st.plotly_chart(figura(fig, 120 + 38 * len(top)), width="stretch")
+    painel_grafico, painel_insights = st.columns([1.7, 1], gap="medium")
+    with painel_grafico:
+        with st.container(border=True):
+            st.markdown('<div class="panel-heading">Comparativo de menções</div>'
+                        '<div class="panel-copy">Veja quais ferramentas aparecem com mais frequência na conversa.</div>',
+                        unsafe_allow_html=True)
+            fig = go.Figure(go.Bar(
+                y=top["ide"], x=top["n_comentarios"], orientation="h", marker_color=COR_BASE,
+                text=[f"{n} ({p:.0f}%)" for n, p in zip(top["n_comentarios"], top["pct_das_mencoes"])],
+                textposition="outside", cliponaxis=False,
+                customdata=top[["n_videos", "curtidas_total"]],
+                hovertemplate="<b>%{y}</b><br>%{x} comentários<br>%{customdata[0]} vídeos<br>"
+                              "%{customdata[1]} curtidas nos comentários<extra></extra>"))
+            fig.update_yaxes(autorange="reversed")
+            fig.update_xaxes(title="Comentários que citam a IDE",
+                             range=[0, top["n_comentarios"].max() * 1.2])
+            fig.update_layout(title="IDEs mais citadas")
+            st.plotly_chart(figura(fig, 100 + 35 * len(top)), width="stretch")
+
+    with painel_insights:
+        if len(ok):
+            lider_positivo = ok.loc[ok["pct_positivo"].idxmax()]
+            maior_amostra = top.iloc[0]
+            lider_negativo = ok.loc[ok["pct_negativo"].idxmax()]
+            itens_insight = [
+                ("↗", f"{escape(str(lider_positivo['ide']))}: maior proporção positiva",
+                 f"{lider_positivo['pct_positivo']:.1f}% de sentimentos positivos em "
+                 f"{int(lider_positivo['n_comentarios'])} menções."),
+                ("◎", f"{escape(str(maior_amostra['ide']))}: mais mencionada",
+                 f"{int(maior_amostra['n_comentarios'])} comentários em {int(maior_amostra['n_videos'])} vídeos."),
+                ("!", f"{escape(str(lider_negativo['ide']))}: mais avaliações negativas",
+                 f"{lider_negativo['pct_negativo']:.1f}% negativas; considere o tamanho da amostra ao comparar."),
+            ]
+        else:
+            itens_insight = [
+                ("!", "Amostra insuficiente",
+                 f"Nenhuma IDE atingiu o mínimo de {min_mencoes} menções para comparações de sentimento.")
+            ]
+        html_insights = "".join(
+            f'<article class="insight"><span class="insight-icon">{icone}</span>'
+            f'<div><h4>{titulo}</h4><p>{descricao}</p></div></article>'
+            for icone, titulo, descricao in itens_insight
+        )
+        with st.container(border=True):
+            st.markdown(
+                '<div class="panel-heading">Insights da amostra</div>'
+                '<div class="panel-copy">Sinais observados nos filtros atuais, sem extrapolar a amostra.</div>'
+                + html_insights,
+                unsafe_allow_html=True,
+            )
+
+    if len(ok):
+        destaque = ok.loc[ok["saldo"].idxmax()]
+        resumo_conclusao = (
+            f"{escape(str(destaque['ide']))} apresenta o maior saldo observado "
+            f"({destaque['saldo']:+.1f} pontos percentuais) entre as {len(ok)} IDEs "
+            f"com pelo menos {min_mencoes} menções. Isso é um sinal descritivo, não uma prova "
+            "de que as diferenças sejam estatisticamente significativas."
+        )
+    else:
+        resumo_conclusao = (
+            f"Nenhuma IDE alcançou o mínimo de {min_mencoes} menções. Reduza o limite nos filtros "
+            "para explorar os resultados, sempre considerando a incerteza de amostras pequenas."
+        )
+    st.markdown(
+        '<section class="conclusion"><div><strong>Conclusão da amostra</strong>'
+        f'<p>{resumo_conclusao}</p></div>'
+        '<div class="conclusion-tag">Dados que ajudam<br>a escolher melhor.</div></section>',
+        unsafe_allow_html=True,
+    )
 
 # ---------------------------------------------------------------- 2. sentimento
 with aba_sent:
@@ -147,11 +535,12 @@ with aba_sent:
             fig.add_trace(go.Bar(
                 y=rotulos, x=o[f"pct_{s}"], name=s, orientation="h", marker_color=CORES[s],
                 text=[f"{v:.0f}%" if v >= 6 else "" for v in o[f"pct_{s}"]], textposition="inside",
+                textfont_color="#fff7f5" if s == "positivo" else COR_TEXTO_GRAFICO,
                 hovertemplate="<b>%{y}</b><br>" + s + ": %{x:.1f}%<extra></extra>"))
         fig.update_layout(barmode="stack", title="Sentimento sobre cada IDE")
-        fig.update_yaxes(autorange="reversed")
-        fig.update_xaxes(title="% dos comentários que citam a IDE", range=[0, 100])
-        st.plotly_chart(figura(fig, 160 + 36 * len(o)), width="stretch")
+        fig.update_yaxes(autorange="reversed", automargin=True)
+        fig.update_xaxes(title="% dos comentários que citam a IDE", range=[0, 100], automargin=True)
+        st.plotly_chart(figura(fig, 160 + 36 * len(o), legenda_inferior=True), width="stretch")
 
         st.subheader("As diferenças entre IDEs são reais?")
         st.caption("Ponto = % de positivos. Barra escura = intervalo de confiança de 95% (Wilson). "
@@ -178,9 +567,9 @@ with aba_sent:
                              arrayminus=dv["pct_positivo"] - dv["ic_video_positivo_inf"]),
                 hovertemplate="%{x:.0f}% positivos<extra></extra>"))
         fig.update_yaxes(tickmode="array", tickvals=y, ticktext=[f"{i} (n={n})" for i, n in zip(d["ide"], d["n_comentarios"])],
-                         autorange="reversed")
+                         autorange="reversed", automargin=True)
         fig.update_xaxes(title="% de comentários positivos", range=[0, 100])
-        st.plotly_chart(figura(fig, 160 + 44 * len(d)), width="stretch")
+        st.plotly_chart(figura(fig, 160 + 44 * len(d), legenda_inferior=True), width="stretch")
 
         st.subheader("Tabela")
         tabela = pd.DataFrame({
