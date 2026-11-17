@@ -118,3 +118,9 @@ A coleta real de 2026-10-07 buscou o máximo disponível com `--limite 0 --orcam
 | `40QyA5f3Qo0` | 115 | 22 | 137 | 17 |
 
 São 193 registros e 27 requisições no total. Os JSONs, CSVs e o manifesto estão em `dados/brutos/youtube/20261007T061129_708025Z/`. Os dois resultados têm `status=concluido` e `encerramento=api_esgotada`. Consulte também `diario_de_bordo/ingestao_youtube.md` para as decisões do recorte e a validação.
+
+## Aplicação Streamlit
+
+Inicie a aplicação com `streamlit run app.py`. A navegação lateral mantém o painel da Etapa 1 e disponibiliza o painel da Etapa 2. Para abrir apenas o painel sem a navegação integrada, também é possível executar `streamlit run app_etapa2.py`.
+
+O pipeline semântico é executado com `python etapa2.py`; use `--embeddings` para habilitar o mapa e a busca semântica e `--transformer` para incluir o classificador adicional. As dependências opcionais desses recursos estão em `requirements-etapa2.txt`. Consulte [docs/ETAPA2.md](docs/ETAPA2.md) para instalação, execução e interpretação, e [docs/VISUALIZACAO_ETAPA2.md](docs/VISUALIZACAO_ETAPA2.md) para os recursos do painel.
