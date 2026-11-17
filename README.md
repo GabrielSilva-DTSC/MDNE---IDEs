@@ -121,6 +121,21 @@ São 193 registros e 27 requisições no total. Os JSONs, CSVs e o manifesto est
 
 ## Aplicação Streamlit
 
-Inicie a aplicação com `streamlit run app.py`. A navegação lateral mantém o painel da Etapa 1 e disponibiliza o painel da Etapa 2. Para abrir apenas o painel sem a navegação integrada, também é possível executar `streamlit run app_etapa2.py`.
+Inicie a aplicação unificada com:
+
+```bash
+streamlit run main.py
+```
+
+`main.py` é o ponto de entrada e registra duas páginas no menu lateral: a Etapa 1, apresentada pelo dashboard `app.py` e aberta por padrão, e a Etapa 2, apresentada por `app_etapa2.py`. A navegação é controlada por `st.navigation`/`st.Page`; os dashboards mantêm seus layouts, estilos e funcionalidades independentes. A rota pública da Etapa 2 permanece `/Etapa_2`.
+
+Os scripts `etapa1.py` e `etapa2.py` continuam sendo pipelines de processamento, não páginas da aplicação. Para executá-los individualmente:
+
+```bash
+python etapa1.py
+python etapa2.py
+```
+
+Na implantação do Streamlit Community Cloud, configure **Main file path** como `main.py`, mantendo o repositório e a branch desejados. A configuração no painel do Cloud precisa ser atualizada manualmente; uma alteração no repositório, sozinha, não muda esse campo. A dependência `sentence-transformers` está no `requirements.txt` porque a busca semântica do painel a utiliza; na primeira consulta, o modelo de embeddings é carregado pelo cache do Streamlit.
 
 O pipeline semântico é executado com `python etapa2.py`; use `--embeddings` para habilitar o mapa e a busca semântica e `--transformer` para incluir o classificador adicional. As dependências opcionais desses recursos estão em `requirements-etapa2.txt`. Consulte [docs/ETAPA2.md](docs/ETAPA2.md) para instalação, execução e interpretação, e [docs/VISUALIZACAO_ETAPA2.md](docs/VISUALIZACAO_ETAPA2.md) para os recursos do painel.

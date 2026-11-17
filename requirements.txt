@@ -8,4 +8,5 @@ matplotlib
 seaborn
 wordcloud
 plotly
-streamlit
+streamlit>=1.36.0
+sentence-transformers
