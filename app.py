@@ -245,10 +245,10 @@ button:focus-visible,
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 2rem;
+    gap: clamp(1rem, 2vw, 2rem);
     padding: .6rem 0 1.5rem;
 }
-.hero-copy { max-width: 760px; }
+.hero-copy { flex: 1 1 560px; max-width: 760px; min-width: 0; }
 .hero h1 {
     color: var(--text-primary);
     font: 700 clamp(2.4rem, 5vw, 4.5rem)/.98 Georgia, serif;
@@ -257,19 +257,57 @@ button:focus-visible,
 }
 .hero h1 span { color: var(--orange); font: 800 .98em Arial, sans-serif; }
 .hero p { color: var(--text-secondary); font-size: 1.04rem; line-height: 1.55; margin: 0; max-width: 690px; }
+.hero-visual {
+    display: grid;
+    grid-template-columns: minmax(0, 245px) minmax(0, 1fr);
+    align-items: center;
+    gap: 1rem;
+    flex: 0 1 532px;
+    min-width: 0;
+}
 .hero-art {
-    flex: 0 0 245px;
+    position: relative;
+    width: 100%;
     min-height: 142px;
-    padding: 1rem;
+    padding: .85rem 1rem;
     border: 1px solid rgba(241, 90, 36, .4);
     border-radius: 14px;
     background: linear-gradient(145deg, rgba(116, 17, 44, .75), rgba(46, 5, 17, .85));
     box-shadow: 0 18px 40px rgba(0, 0, 0, .18);
-    color: #f08a6b;
+    color: var(--text-secondary);
     font: .78rem/1.8 ui-monospace, SFMono-Regular, Menlo, monospace;
 }
-.hero-art strong { color: #fff4f0; font-weight: 500; }
+.hero-art-header {
+    display: flex;
+    align-items: center;
+    gap: .35rem;
+    padding-bottom: .45rem;
+    margin-bottom: .55rem;
+    border-bottom: 1px solid rgba(214, 195, 199, .16);
+    color: var(--text-secondary);
+    font-size: .68rem;
+}
+.hero-art-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--orange); }
+.hero-art-dot:nth-child(2) { background: #b94a5f; }
+.hero-art-dot:nth-child(3) { background: #765a62; }
+.hero-art-filename { margin-left: .3rem; }
+.hero-art-code { display: block; white-space: normal; }
+.hero-art .hero-art-code {
+    background: transparent !important;
+    color: var(--text-secondary) !important;
+    font: inherit;
+}
+.hero-art strong { color: var(--text-primary); font-weight: 600; }
 .hero-art .orange { color: var(--orange); }
+.hero-illustration {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 285px;
+    overflow: visible;
+    filter: drop-shadow(0 10px 24px rgba(0, 0, 0, .2));
+    pointer-events: none;
+}
 .panel-heading {
     color: #FFFFFF !important;
     font: 700 1.2rem Georgia, serif;
@@ -307,10 +345,20 @@ button:focus-visible,
 }
 .conclusion strong { color: var(--text-primary); font: 700 1.1rem Georgia, serif; }
 .conclusion p { color: var(--text-secondary); margin: .4rem 0 0; font-size: .9rem; }
-.conclusion-tag { color: #ff9a72; font: italic 700 1.2rem Georgia, serif; max-width: 220px; }
+.conclusion-tag { color: var(--text-primary); font: italic 700 1.2rem Georgia, serif; max-width: 220px; }
+.conclusion-tag span { color: var(--orange); }
+@media (max-width: 1250px) {
+    .hero { flex-wrap: wrap; }
+    .hero-copy { flex-basis: 100%; }
+    .hero-visual { width: min(100%, 560px); flex-basis: min(100%, 560px); margin-left: auto; }
+}
 @media (max-width: 850px) {
-    .hero-art { display: none; }
     .conclusion { align-items: flex-start; flex-direction: column; gap: .8rem; }
+}
+@media (max-width: 520px) {
+    .hero-visual { grid-template-columns: minmax(0, 1fr); max-width: 360px; margin: 0 auto; }
+    .hero-art { max-width: 245px; justify-self: center; }
+    .hero-illustration { max-width: 280px; justify-self: center; }
 }
 </style>
 """, unsafe_allow_html=True)
@@ -416,10 +464,41 @@ st.markdown(
     '<h1>Qual a Melhor<br><span>IDE?</span></h1>'
     '<p>Descubra o que a comunidade realmente pensa sobre as principais IDEs, '
     'a partir da análise de sentimentos em comentários públicos do YouTube.</p>'
-    '</div><div class="hero-art"><span class="orange">●</span> pesquisa.py<br>'
-    '&nbsp;&nbsp;<strong>sentimentos</strong> = analisar(comentarios)<br>'
-    '&nbsp;&nbsp;<span class="orange">comparar</span>(sentimentos, ides)<br>'
-    '&nbsp;&nbsp;resultado: <strong>opiniões reais</strong></div></section>',
+    '</div><div class="hero-visual">'
+    '<div class="hero-art"><div class="hero-art-header">'
+    '<span class="hero-art-dot"></span><span class="hero-art-dot"></span><span class="hero-art-dot"></span>'
+    '<span class="hero-art-filename">sentimento.py</span></div>'
+    '<code class="hero-art-code"><span class="orange">sentimentos</span> = analisar(comentarios)<br>'
+    '&nbsp;&nbsp;modelo = <strong>"comunidade"</strong><br>'
+    '&nbsp;&nbsp;<span class="orange">resultado</span> = comparar(ides)</code></div>'
+    '<svg class="hero-illustration" viewBox="0 0 320 230" aria-hidden="true" focusable="false">'
+    '<defs><linearGradient id="hero-card" x1="0" y1="0" x2="1" y2="1">'
+    '<stop offset="0" stop-color="#4a0b1d"/><stop offset="1" stop-color="#23040d"/></linearGradient>'
+    '<linearGradient id="hero-trend" x1="0" y1="0" x2="1" y2="0">'
+    '<stop offset="0" stop-color="#f15a24"/><stop offset="1" stop-color="#ff9a72"/></linearGradient></defs>'
+    '<g fill="none" stroke="#f15a24" stroke-width="1.2" opacity=".34">'
+    '<path d="M2 190C48 178 31 130 72 117s32 5 49-19 42-19 57-3"/>'
+    '<path d="M0 204c58-8 43-59 83-75s42 4 58-19 40-19 58-3"/>'
+    '<path d="M35 221c47-11 38-41 73-58s41 2 58-19 37-18 54-3 43 12 86-27"/></g>'
+    '<g fill="#ff9a72" opacity=".75"><circle cx="18" cy="185" r="2.5"/><circle cx="42" cy="196" r="2"/>'
+    '<circle cx="288" cy="116" r="2.5"/><circle cx="306" cy="103" r="2"/></g>'
+    '<rect x="70" y="35" width="226" height="154" rx="14" fill="url(#hero-card)" stroke="#713244"/>'
+    '<circle cx="88" cy="53" r="3.5" fill="#f15a24"/><circle cx="100" cy="53" r="3.5" fill="#b94a5f"/>'
+    '<circle cx="112" cy="53" r="3.5" fill="#765a62"/>'
+    '<text x="128" y="56" fill="#d6c3c7" font-size="8" font-family="Arial, sans-serif" letter-spacing="1">ANÁLISE DE SENTIMENTO</text>'
+    '<path d="M84 67h198" stroke="#713244"/>'
+    '<g stroke="#713244" stroke-width=".8" opacity=".75"><path d="M94 94h180M94 122h180M94 150h180"/>'
+    '<path d="M94 82v78M139 82v78M184 82v78M229 82v78M274 82v78"/></g>'
+    '<g><rect x="105" y="125" width="19" height="35" rx="3" fill="#79122d"/>'
+    '<rect x="145" y="108" width="19" height="52" rx="3" fill="#f15a24"/>'
+    '<rect x="185" y="91" width="19" height="69" rx="3" fill="#5c9e80"/>'
+    '<rect x="225" y="115" width="19" height="45" rx="3" fill="#e9cbd1"/></g>'
+    '<path d="M105 111c22-21 34 8 51-8s25-24 39-12 25 14 43-8" fill="none" stroke="url(#hero-trend)" stroke-width="2.5" stroke-linecap="round"/>'
+    '<circle cx="238" cy="83" r="3.5" fill="#ff9a72"/>'
+    '<text x="96" y="177" fill="#bfa8ae" font-size="7" font-family="Arial, sans-serif">POSITIVO</text>'
+    '<text x="155" y="177" fill="#bfa8ae" font-size="7" font-family="Arial, sans-serif">NEUTRO</text>'
+    '<text x="222" y="177" fill="#bfa8ae" font-size="7" font-family="Arial, sans-serif">NEGATIVO</text>'
+    '</svg></div></section>',
     unsafe_allow_html=True,
 )
 
@@ -518,7 +597,7 @@ with aba_geral:
     st.markdown(
         '<section class="conclusion"><div><strong>Conclusão da amostra</strong>'
         f'<p>{resumo_conclusao}</p></div>'
-        '<div class="conclusion-tag">Dados que ajudam<br>a escolher melhor.</div></section>',
+        '<div class="conclusion-tag">Dados que ajudam<br>a escolher <span>melhor.</span></div></section>',
         unsafe_allow_html=True,
     )
 
